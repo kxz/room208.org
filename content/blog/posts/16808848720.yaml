@@ -1,0 +1,96 @@
+blog_name: abandonmentprobability
+body: <p>@<a href="http://blog.redono.org/">queentakesking</a> wrote a post a while
+  back on <a href="http://blog.redono.org/post/11925825689/a-proposal-on-decentralizing-tumblr">what
+  would be needed to decentralize Tumblr</a>, essentially turning it from a service
+  with a single provider into a protocol with many implementations. I&rsquo;m not
+  sure how I didn&rsquo;t realize it when the proposal was first posted, but a lot
+  of the desired functionality already exists in some interoperable fashion. Reblogs,
+  in particular, could be implemented in part with trackbacks, which Movable Type
+  first introduced ten years ago and have since made their way to WordPress and a
+  lot of other self-hosted blogging software; this would handle the essential functionality
+  of pinging authors. Quoting the original text is harder, given that there&rsquo;s
+  no standard way of indicating a post&rsquo;s actual content in an HTML page, but
+  it isn&rsquo;t an intractable problem, and should at least be trivial for reblogs
+  between users of the same service. Similarly, following other users is largely a
+  solved problem given that RSS exists. Essentially, if you want a look at what a
+  decentralized Tumblr might entail, take a look at the blogosphere circa&hellip;
+  oh, 2006.</p>
+date: 2012-01-31 06:22:26 GMT
+format: markdown
+highlighted: []
+id: 16808848720
+note_count: 0
+post_url: http://blog.room208.org/post/16808848720/queentakesking-wrote-a-post-a-while-back-on-what
+reblog: {comment: "<p>@<a href=\"http://blog.redono.org/\">queentakesking</a> wrote\
+    \ a post a while back on <a href=\"http://blog.redono.org/post/11925825689/a-proposal-on-decentralizing-tumblr\"\
+    >what would be needed to decentralize Tumblr</a>, essentially turning it from\
+    \ a service with a single provider into a protocol with many implementations.\
+    \ I\u2019m not sure how I didn\u2019t realize it when the proposal was first posted,\
+    \ but a lot of the desired functionality already exists in some interoperable\
+    \ fashion. Reblogs, in particular, could be implemented in part with trackbacks,\
+    \ which Movable Type first introduced ten years ago and have since made their\
+    \ way to WordPress and a lot of other self-hosted blogging software; this would\
+    \ handle the essential functionality of pinging authors. Quoting the original\
+    \ text is harder, given that there\u2019s no standard way of indicating a post\u2019\
+    s actual content in an HTML page, but it isn\u2019t an intractable problem, and\
+    \ should at least be trivial for reblogs between users of the same service. Similarly,\
+    \ following other users is largely a solved problem given that RSS exists. Essentially,\
+    \ if you want a look at what a decentralized Tumblr might entail, take a look\
+    \ at the blogosphere circa\u2026 oh, 2006.</p>", tree_html: ''}
+reblog_key: YLX6lcJU
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxFfugrG
+slug: queentakesking-wrote-a-post-a-while-back-on-what
+state: published
+summary: '@[queentakesking](http://blog.redono.org/) wrote a post a while back on
+  [what would be needed to decentralize...'
+tags: [tumblr]
+timestamp: 1327990946
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>@<a href=\"http://blog.redono.org/\">queentakesking</a> wrote a post\
+    \ a while back on <a href=\"http://blog.redono.org/post/11925825689/a-proposal-on-decentralizing-tumblr\"\
+    >what would be needed to decentralize Tumblr</a>, essentially turning it from\
+    \ a service with a single provider into a protocol with many implementations.\
+    \ I\u2019m not sure how I didn\u2019t realize it when the proposal was first posted,\
+    \ but a lot of the desired functionality already exists in some interoperable\
+    \ fashion. Reblogs, in particular, could be implemented in part with trackbacks,\
+    \ which Movable Type first introduced ten years ago and have since made their\
+    \ way to WordPress and a lot of other self-hosted blogging software; this would\
+    \ handle the essential functionality of pinging authors. Quoting the original\
+    \ text is harder, given that there\u2019s no standard way of indicating a post\u2019\
+    s actual content in an HTML page, but it isn\u2019t an intractable problem, and\
+    \ should at least be trivial for reblogs between users of the same service. Similarly,\
+    \ following other users is largely a solved problem given that RSS exists. Essentially,\
+    \ if you want a look at what a decentralized Tumblr might entail, take a look\
+    \ at the blogosphere circa\u2026 oh, 2006.</p>"
+  content_raw: "<p>@<a href=\"http://blog.redono.org/\">queentakesking</a> wrote a\
+    \ post a while back on <a href=\"http://blog.redono.org/post/11925825689/a-proposal-on-decentralizing-tumblr\"\
+    >what would be needed to decentralize Tumblr</a>, essentially turning it from\
+    \ a service with a single provider into a protocol with many implementations.\
+    \ I\u2019m not sure how I didn\u2019t realize it when the proposal was first posted,\
+    \ but a lot of the desired functionality already exists in some interoperable\
+    \ fashion. Reblogs, in particular, could be implemented in part with trackbacks,\
+    \ which Movable Type first introduced ten years ago and have since made their\
+    \ way to WordPress and a lot of other self-hosted blogging software; this would\
+    \ handle the essential functionality of pinging authors. Quoting the original\
+    \ text is harder, given that there\u2019s no standard way of indicating a post\u2019\
+    s actual content in an HTML page, but it isn\u2019t an intractable problem, and\
+    \ should at least be trivial for reblogs between users of the same service. Similarly,\
+    \ following other users is largely a solved problem given that RSS exists. Essentially,\
+    \ if you want a look at what a decentralized Tumblr might entail, take a look\
+    \ at the blogosphere circa\u2026 oh, 2006.</p>"
+  is_current_item: true
+  post: {id: '16808848720'}
+type: text

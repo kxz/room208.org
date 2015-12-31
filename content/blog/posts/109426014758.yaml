@@ -1,0 +1,52 @@
+blog_name: abandonmentprobability
+date: 2015-01-28 22:15:06 GMT
+description: <p>This minor version adds HTML access keys for certain links and support
+  for the <code>apple-touch-icon</code> used for iOS bookmark and home screen icons.</p>
+excerpt: null
+format: markdown
+highlighted: []
+id: 109426014758
+link_author: null
+link_image: http://38.media.tumblr.com/tumblr_niwr56NMgb1qim2zw_og.png
+link_image_dimensions: {height: 400, width: 400}
+note_count: 0
+photos:
+- alt_sizes: []
+  caption: ''
+  original_size: {height: 400, url: 'http://38.media.tumblr.com/tumblr_niwr56NMgb1qim2zw_og.png',
+    width: 400}
+post_url: http://blog.room208.org/post/109426014758/dichotomy-41
+publisher: github.com
+reblog: {comment: <p>This minor version adds HTML access keys for certain links and
+    support for the <code>apple-touch-icon</code> used for iOS bookmark and home screen
+    icons.</p>, tree_html: ''}
+reblog_key: xjWSShWI
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1bwJ7ec
+slug: dichotomy-41
+state: published
+summary: Dichotomy 4.1
+tags: [dichotomy, theme, tumblr]
+timestamp: 1422483306
+title: Dichotomy 4.1
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: <p>This minor version adds HTML access keys for certain links and support
+    for the <code>apple-touch-icon</code> used for iOS bookmark and home screen icons.</p>
+  content_raw: <p>This minor version adds HTML access keys for certain links and support
+    for the <code>apple-touch-icon</code> used for iOS bookmark and home screen icons.</p>
+  is_current_item: true
+  is_root_item: true
+  post: {id: '109426014758'}
+type: link
+url: https://github.com/kxz/dichotomy/releases/tag/v4.1

@@ -1,0 +1,64 @@
+blog_name: abandonmentprobability
+caption: <p>Ah, <em>Manga Time Kirara</em> adaptations, you&rsquo;re always there
+  for me when I&rsquo;m running short on GIF material. This is from the first episode
+  of <em>Is the Order a Rabbit?</em> Loopability aside, the background art for this
+  show is absolutely incredible.</p>
+date: 2014-04-13 00:33:52 GMT
+format: markdown
+highlighted: []
+id: 82530271774
+image_permalink: http://blog.room208.org/image/82530271774
+note_count: 0
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://45.media.tumblr.com/b6c2bb2fea1a19abeb31599e5355c5e5/tumblr_n3y1kg7nsQ1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://45.media.tumblr.com/b6c2bb2fea1a19abeb31599e5355c5e5/tumblr_n3y1kg7nsQ1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://49.media.tumblr.com/b6c2bb2fea1a19abeb31599e5355c5e5/tumblr_n3y1kg7nsQ1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://45.media.tumblr.com/b6c2bb2fea1a19abeb31599e5355c5e5/tumblr_n3y1kg7nsQ1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://45.media.tumblr.com/b6c2bb2fea1a19abeb31599e5355c5e5/tumblr_n3y1kg7nsQ1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://45.media.tumblr.com/b6c2bb2fea1a19abeb31599e5355c5e5/tumblr_n3y1kg7nsQ1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/82530271774/ah-manga-time-kirara-adaptations-youre-always
+reblog: {comment: "<p>Ah, <em>Manga Time Kirara</em> adaptations, you\u2019re always\
+    \ there for me when I\u2019m running short on GIF material. This is from the first\
+    \ episode of <em>Is the Order a Rabbit?</em> Loopability aside, the background\
+    \ art for this show is absolutely incredible.</p>", tree_html: ''}
+reblog_key: OrgxOfsq
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1CtC08U
+slug: ah-manga-time-kirara-adaptations-youre-always
+state: published
+summary: Ah, _Manga Time Kirara_ adaptations, you're always there for me when I'm
+  running short on GIF material. This is from the first...
+tags: [istheorderarabbit, gif, anime]
+timestamp: 1397349232
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Ah, <em>Manga Time Kirara</em> adaptations, you\u2019re always there\
+    \ for me when I\u2019m running short on GIF material. This is from the first episode\
+    \ of <em>Is the Order a Rabbit?</em> Loopability aside, the background art for\
+    \ this show is absolutely incredible.</p>"
+  content_raw: "<p>Ah, <em>Manga Time Kirara</em> adaptations, you\u2019re always\
+    \ there for me when I\u2019m running short on GIF material. This is from the first\
+    \ episode of <em>Is the Order a Rabbit?</em> Loopability aside, the background\
+    \ art for this show is absolutely incredible.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '82530271774'}
+type: photo

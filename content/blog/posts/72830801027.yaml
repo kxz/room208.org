@@ -1,0 +1,62 @@
+blog_name: abandonmentprobability
+body: '<p>Dear Tumblr,</p>
+
+
+  <p>Yes, yes, we all know you were acquired by Yahoo not too long ago. You don&rsquo;t
+  have to shove it in our faces by adding a &ldquo;search the web&rdquo; option to
+  the dashboard. I thought that died in the nineties.</p>
+
+
+  <p>Come to think of it, Yahoo should be doing its best to avoid reminding us of
+  things we thought died in the nineties.</p>
+
+
+  <p>~if</p>'
+date: 2014-01-10 03:10:08 GMT
+format: markdown
+highlighted: []
+id: 72830801027
+note_count: 14
+post_url: http://blog.room208.org/post/72830801027/dear-tumblr-yes-yes-we-all-know-you-were
+reblog: {comment: "<p>Dear Tumblr,</p>\n\n<p>Yes, yes, we all know you were acquired\
+    \ by Yahoo not too long ago. You don\u2019t have to shove it in our faces by adding\
+    \ a \u201Csearch the web\u201D option to the dashboard. I thought that died in\
+    \ the nineties.</p>\n\n<p>Come to think of it, Yahoo should be doing its best\
+    \ to avoid reminding us of things we thought died in the nineties.</p>\n\n<p>~if</p>",
+  tree_html: ''}
+reblog_key: h0HfDN3U
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx13r3TI3
+slug: dear-tumblr-yes-yes-we-all-know-you-were
+state: published
+summary: "Dear Tumblr,\r\n\r\nYes, yes, we all know you were acquired by Yahoo not\
+  \ too long ago. You don't have to shove it in our faces by..."
+tags: [tumblr, yahoo, epistolaryexpedition]
+timestamp: 1389323408
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Dear Tumblr,</p>\n\n<p>Yes, yes, we all know you were acquired by Yahoo\
+    \ not too long ago. You don\u2019t have to shove it in our faces by adding a \u201C\
+    search the web\u201D option to the dashboard. I thought that died in the nineties.</p>\n\
+    \n<p>Come to think of it, Yahoo should be doing its best to avoid reminding us\
+    \ of things we thought died in the nineties.</p>\n\n<p>~if</p>"
+  content_raw: "<p>Dear Tumblr,</p>\n\n<p>Yes, yes, we all know you were acquired\
+    \ by Yahoo not too long ago. You don\u2019t have to shove it in our faces by adding\
+    \ a \u201Csearch the web\u201D option to the dashboard. I thought that died in\
+    \ the nineties.</p>\n\n<p>Come to think of it, Yahoo should be doing its best\
+    \ to avoid reminding us of things we thought died in the nineties.</p>\n\n<p>~if</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '72830801027'}
+type: text

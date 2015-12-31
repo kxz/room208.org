@@ -1,0 +1,68 @@
+blog_name: abandonmentprobability
+caption: <p>So it&rsquo;s got a lot of problems with its information hierarchy, but
+  I like the visual impact of <em>I/O</em>&rsquo;s pause menu. The continuously-ticking
+  game timer is a nice nod to the game&rsquo;s technology-centered plot, even more
+  so when you see it at 60 frames per second instead of the 10 I had to downsample
+  to for this GIF.</p>
+date: 2014-03-03 21:33:29 GMT
+format: markdown
+highlighted: []
+id: 78474996404
+image_permalink: http://blog.room208.org/image/78474996404
+note_count: 1
+photos:
+- alt_sizes:
+  - {height: 360, url: 'http://45.media.tumblr.com/af19cd274841159d473d4430f1353b1c/tumblr_n1vqjtjE3o1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 300, url: 'http://49.media.tumblr.com/af19cd274841159d473d4430f1353b1c/tumblr_n1vqjtjE3o1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 188, url: 'http://49.media.tumblr.com/af19cd274841159d473d4430f1353b1c/tumblr_n1vqjtjE3o1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 75, url: 'http://45.media.tumblr.com/af19cd274841159d473d4430f1353b1c/tumblr_n1vqjtjE3o1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://45.media.tumblr.com/af19cd274841159d473d4430f1353b1c/tumblr_n1vqjtjE3o1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 360, url: 'http://45.media.tumblr.com/af19cd274841159d473d4430f1353b1c/tumblr_n1vqjtjE3o1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/78474996404/so-its-got-a-lot-of-problems-with-its-information
+reblog: {comment: "<p>So it\u2019s got a lot of problems with its information hierarchy,\
+    \ but I like the visual impact of <em>I/O</em>\u2019s pause menu. The continuously-ticking\
+    \ game timer is a nice nod to the game\u2019s technology-centered plot, even more\
+    \ so when you see it at 60 frames per second instead of the 10 I had to downsample\
+    \ to for this GIF.</p>", tree_html: ''}
+reblog_key: kiepii0o
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx195UMgq
+slug: so-its-got-a-lot-of-problems-with-its-information
+state: published
+summary: So it's got a lot of problems with its information hierarchy, but I like
+  the visual impact of _I/O_'s pause menu. The...
+tags: [io, visualnovel, userinterfacedesign, gif]
+timestamp: 1393882409
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>So it\u2019s got a lot of problems with its information hierarchy,\
+    \ but I like the visual impact of <em>I/O</em>\u2019s pause menu. The continuously-ticking\
+    \ game timer is a nice nod to the game\u2019s technology-centered plot, even more\
+    \ so when you see it at 60 frames per second instead of the 10 I had to downsample\
+    \ to for this GIF.</p>"
+  content_raw: "<p>So it\u2019s got a lot of problems with its information hierarchy,\
+    \ but I like the visual impact of <em>I/O</em>\u2019s pause menu. The continuously-ticking\
+    \ game timer is a nice nod to the game\u2019s technology-centered plot, even more\
+    \ so when you see it at 60 frames per second instead of the 10 I had to downsample\
+    \ to for this GIF.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '78474996404'}
+type: photo

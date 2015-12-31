@@ -1,0 +1,58 @@
+blog_name: abandonmentprobability
+caption: '<p><em>Tamayura</em> is always ever so relaxing, isn&rsquo;t it?</p>
+
+
+  <p><em>More Aggressive</em>, episode 2.</p>'
+date: 2013-07-17 18:57:11 GMT
+format: markdown
+highlighted: []
+id: 55709768149
+image_permalink: http://blog.room208.org/image/55709768149
+note_count: 2
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://45.media.tumblr.com/66fa5ba655fc8cd856de8925c6ae5918/tumblr_mq3gnbk4Ne1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://49.media.tumblr.com/66fa5ba655fc8cd856de8925c6ae5918/tumblr_mq3gnbk4Ne1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://49.media.tumblr.com/66fa5ba655fc8cd856de8925c6ae5918/tumblr_mq3gnbk4Ne1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://49.media.tumblr.com/66fa5ba655fc8cd856de8925c6ae5918/tumblr_mq3gnbk4Ne1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://45.media.tumblr.com/66fa5ba655fc8cd856de8925c6ae5918/tumblr_mq3gnbk4Ne1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://45.media.tumblr.com/66fa5ba655fc8cd856de8925c6ae5918/tumblr_mq3gnbk4Ne1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/55709768149/tamayura-is-always-ever-so-relaxing-isnt-it
+reblog: {comment: "<p><em>Tamayura</em> is always ever so relaxing, isn\u2019t it?</p>\n\
+    \n<p><em>More Aggressive</em>, episode 2.</p>", tree_html: ''}
+reblog_key: eBFQ6IKm
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxpuZvdL
+slug: tamayura-is-always-ever-so-relaxing-isnt-it
+state: published
+summary: "_Tamayura_ is always ever so relaxing, isn't it?\r\n\r\n_More Aggressive_,\
+  \ episode 2."
+tags: [tamayura, gif, anime]
+timestamp: 1374087431
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p><em>Tamayura</em> is always ever so relaxing, isn\u2019t it?</p>\n\n\
+    <p><em>More Aggressive</em>, episode 2.</p>"
+  content_raw: "<p><em>Tamayura</em> is always ever so relaxing, isn\u2019t it?</p>\n\
+    \n<p><em>More Aggressive</em>, episode 2.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '55709768149'}
+type: photo

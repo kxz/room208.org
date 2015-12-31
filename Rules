@@ -1,0 +1,118 @@
+#!/usr/bin/env ruby
+
+preprocess do
+  @items.find_all('/blog/posts/*.yaml').each do |post|
+    post[:kind] = 'article'
+    post[:created_at] = Date.parse(post[:date])
+
+    if post[:audio_url]
+      post[:audio_url] = rewrite_media_url(post[:audio_url])
+      if !post[:audio_url].end_with?('o1.mp3')
+        post[:audio_url] += 'o1.mp3'
+      end
+    end
+    if post[:photos]
+      post[:photos].each do |photo|
+        photo[:original_size][:url] = rewrite_media_url(photo[:original_size][:url])
+      end
+    end
+    if post[:video_url] && post[:video_type] != 'youtube'
+      post[:video_url] = rewrite_media_url(post[:video_url])
+    end
+  end
+
+  articles_by_month.each do |date, posts|
+    metadata = {title: date.strftime('%B %Y'), posts: posts.map { |i| i.identifier }}
+    @items.create('', metadata, "/blog/archive/#{date.strftime('%Y/%m')}.html")
+  end
+
+  articles_by_tag.each do |tag, posts|
+    metadata = {title: "\##{tag}", posts: posts.map { |i| i.identifier }}
+    @items.create('', metadata, "/blog/tags/#{tag}.html")
+  end
+end
+
+compile '/assets/js/*' do
+  filter :uglify_js
+end
+
+compile '/blog/{archive,tags}/**/*' do
+  layout '/blog/archive.haml'
+end
+
+compile '/blog/atom.haml' do
+  filter :haml, format: :xhtml, attr_wrapper: '"', ugly: true
+end
+
+compile '/blog/index.yaml' do
+  layout '/blog/index.haml'
+end
+
+compile '/blog/posts/*' do
+  layout '/blog/post.haml'
+end
+
+compile '/**/*.scss' do
+  filter :sass, style: :compressed, syntax: :scss
+end
+
+compile '/**/*.haml' do
+  filter :haml, format: :html5, attr_wrapper: '"', ugly: true
+  if item.identifier.to_s.start_with? '/error/'
+    layout '/error.haml'
+  elsif item.identifier.to_s.start_with? '/yackfest/'
+    layout '/yackfest.haml'
+  else
+    layout '/default.haml'
+  end
+end
+
+compile '/**/*' do
+  nil
+end
+
+route '/assets/css/style.scss' do
+  '/assets/css/style.css'
+end
+
+route '/assets/js/*' do
+  item.identifier.without_ext + '.js'
+end
+
+route '/bower_components/jquery/dist/jquery.min.js' do
+  '/assets/js/jquery.min.js'
+end
+
+route '/bower_components/jquery-timeago/jquery.timeago.js' do
+  '/assets/js/jquery.timeago.js'
+end
+
+route '/bower_components/overpass/Webfonts/*' do
+  "/assets/fonts/overpass/#{File.basename(item.identifier.to_s)}"
+end
+
+route '/bower_components/waypoints/lib/jquery.waypoints.min.js' do
+  '/assets/js/jquery.waypoints.min.js'
+end
+
+route '/bower_components/waypoints/lib/shortcuts/inview.min.js' do
+  '/assets/js/inview.min.js'
+end
+
+route '/bower_components/**/*' do
+  nil
+end
+
+route '/blog/atom.haml' do
+  '/blog/atom.xml'
+end
+
+route '/**/*' do
+  if item.binary?
+    item.identifier.to_s
+  else
+    item.identifier.without_ext + '.html'
+  end
+end
+
+layout '/**/*', :haml, format: :html5, attr_wrapper: '"', ugly: true

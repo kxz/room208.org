@@ -1,0 +1,91 @@
+blog_name: abandonmentprobability
+date: 2014-05-28 19:20:00 GMT
+description: <p>I&rsquo;m getting ready to roll out a slew of changes as part of Dichotomy
+  4.0 (<em>four</em> point oh!), and they need to be run through their paces. New
+  features already implemented include support for background images and avatar display
+  using Tumblr&rsquo;s new <a href="https://www.tumblr.com/docs/en/custom_themes#global_appearance">global
+  appearance options</a>, more streamlined layout settings, and hypoallergenic fairy
+  dust. An improved responsive design that better adjusts to varying screen sizes
+  is also on the cards. If you&rsquo;d like to help out, visit @<a class="tumblelog"
+  href="http://tmblr.co/mm2Cvq0gJ47fGByOThZhYbQ">dichotomy-test</a> or slap the <a
+  href="https://github.com/kxz/dichotomy/raw/develop/dichotomy.html">raw HTML</a>
+  into your theme editor, and report bugs either <a href="https://github.com/kxz/dichotomy/issues">on
+  GitHub</a> or <a href="http://blog.room208.org/ask">by dropping them in my ask box</a>.
+  Thanks!</p>
+excerpt: null
+format: markdown
+highlighted: []
+id: 87123777458
+link_author: null
+link_image: http://31.media.tumblr.com/tumblr_n6atq6SIlI1qim2zw_og.png
+link_image_dimensions: {height: 400, width: 400}
+note_count: 0
+photos:
+- alt_sizes: []
+  caption: ''
+  original_size: {height: 400, url: 'http://31.media.tumblr.com/tumblr_n6atq6SIlI1qim2zw_og.png',
+    width: 400}
+post_url: http://blog.room208.org/post/87123777458/help-break-the-latest-version-of-dichotomy
+publisher: github.com
+reblog: {comment: "<p>I\u2019m getting ready to roll out a slew of changes as part\
+    \ of Dichotomy 4.0 (<em>four</em> point oh!), and they need to be run through\
+    \ their paces. New features already implemented include support for background\
+    \ images and avatar display using Tumblr\u2019s new <a href=\"https://www.tumblr.com/docs/en/custom_themes#global_appearance\"\
+    >global appearance options</a>, more streamlined layout settings, and hypoallergenic\
+    \ fairy dust. An improved responsive design that better adjusts to varying screen\
+    \ sizes is also on the cards. If you\u2019d like to help out, visit @<a class=\"\
+    tumblelog\" href=\"http://tmblr.co/mm2Cvq0gJ47fGByOThZhYbQ\">dichotomy-test</a>\
+    \ or slap the <a href=\"https://github.com/kxz/dichotomy/raw/develop/dichotomy.html\"\
+    >raw HTML</a> into your theme editor, and report bugs either <a href=\"https://github.com/kxz/dichotomy/issues\"\
+    >on GitHub</a> or <a href=\"http://blog.room208.org/ask\">by dropping them in\
+    \ my ask box</a>. Thanks!</p>", tree_html: ''}
+reblog_key: TiWYP4vE
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1H8_rUo
+slug: help-break-the-latest-version-of-dichotomy
+state: published
+summary: Help break the latest version of Dichotomy
+tags: [dichotomy, tumblr, theme, prereleaseplea]
+timestamp: 1401304800
+title: Help break the latest version of Dichotomy
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>I\u2019m getting ready to roll out a slew of changes as part of Dichotomy\
+    \ 4.0 (<em>four</em> point oh!), and they need to be run through their paces.\
+    \ New features already implemented include support for background images and avatar\
+    \ display using Tumblr\u2019s new <a href=\"https://www.tumblr.com/docs/en/custom_themes#global_appearance\"\
+    >global appearance options</a>, more streamlined layout settings, and hypoallergenic\
+    \ fairy dust. An improved responsive design that better adjusts to varying screen\
+    \ sizes is also on the cards. If you\u2019d like to help out, visit @<a href=\"\
+    http://tmblr.co/mm2Cvq0gJ47fGByOThZhYbQ\">dichotomy-test</a> or slap the <a href=\"\
+    https://github.com/kxz/dichotomy/raw/develop/dichotomy.html\">raw HTML</a> into\
+    \ your theme editor, and report bugs either <a href=\"https://github.com/kxz/dichotomy/issues\"\
+    >on GitHub</a> or <a href=\"http://blog.room208.org/ask\">by dropping them in\
+    \ my ask box</a>. Thanks!</p>"
+  content_raw: "<p>I\u2019m getting ready to roll out a slew of changes as part of\
+    \ Dichotomy 4.0 (<em>four</em> point oh!), and they need to be run through their\
+    \ paces. New features already implemented include support for background images\
+    \ and avatar display using Tumblr\u2019s new <a href=\"https://www.tumblr.com/docs/en/custom_themes#global_appearance\"\
+    >global appearance options</a>, more streamlined layout settings, and hypoallergenic\
+    \ fairy dust. An improved responsive design that better adjusts to varying screen\
+    \ sizes is also on the cards. If you\u2019d like to help out, visit @<a class=\"\
+    tumblelog\" href=\"http://tmblr.co/mm2Cvq0gJ47fGByOThZhYbQ\">dichotomy-test</a>\
+    \ or slap the <a href=\"https://github.com/kxz/dichotomy/raw/develop/dichotomy.html\"\
+    >raw HTML</a> into your theme editor, and report bugs either <a href=\"https://github.com/kxz/dichotomy/issues\"\
+    >on GitHub</a> or <a href=\"http://blog.room208.org/ask\">by dropping them in\
+    \ my ask box</a>. Thanks!</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '87123777458'}
+type: link
+url: https://github.com/kxz/dichotomy/tree/develop

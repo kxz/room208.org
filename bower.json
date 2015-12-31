@@ -1,0 +1,18 @@
+{
+  "name": "room208.org",
+  "authors": [
+    "Kevin Xiwei Zheng <blankplacement@gmail.com>"
+  ],
+  "description": "Room 208 website",
+  "main": "",
+  "moduleType": [],
+  "license": "CC-BY-4.0",
+  "homepage": "https://room208.org/",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-timeago": "~1.4.3",
+    "waypoints": "~4.0.0",
+    "overpass": "*"
+  }
+}

@@ -1,0 +1,71 @@
+blog_name: abandonmentprobability
+body: "<p>@<a href=\"http://spinor.tumblr.com/\">spinor</a>, <a href=\"http://spinor.tumblr.com/post/18839193970/the-surprisingly-elegant-javascript-type-model\"\
+  >on type behavior in JavaScript</a>:</p>\n\n<blockquote>\n  <p>Prototype-based OO\
+  \ is pretty interesting.\_That said, orthogonally, type coercion is still a bad\
+  \ idea.</p>\n</blockquote>\n\n<p>Type coercion is okay in some limited cases. Being\
+  \ able to write <code>\"You have \" + n + \" cows\"</code> for an integer <code>n</code>\
+  \ without having to explicitly convert it to a string first saves on obvious boilerplate.\
+  \ My primary issue with JavaScript&rsquo;s coercion behavior is that it violates\
+  \ the principle of least surprise from here to next Sunday. (See <a href=\"/post/16324633518\"\
+  >my earlier post on &ldquo;Wat&rdquo;</a>.)</p>"
+date: 2012-03-06 19:45:54 GMT
+format: markdown
+highlighted: []
+id: 18857199014
+note_count: 8
+post_url: http://blog.room208.org/post/18857199014/spinor-on-type-behavior-in-javascript
+reblog: {comment: "<p>@<a href=\"http://spinor.tumblr.com/\">spinor</a>, <a href=\"\
+    http://spinor.tumblr.com/post/18839193970/the-surprisingly-elegant-javascript-type-model\"\
+    >on type behavior in JavaScript</a>:</p>\n\n<blockquote>\n  <p>Prototype-based\
+    \ OO is pretty interesting.\_That said, orthogonally, type coercion is still a\
+    \ bad idea.</p>\n</blockquote>\n\n<p>Type coercion is okay in some limited cases.\
+    \ Being able to write <code>\"You have \" + n + \" cows\"</code> for an integer\
+    \ <code>n</code> without having to explicitly convert it to a string first saves\
+    \ on obvious boilerplate. My primary issue with JavaScript\u2019s coercion behavior\
+    \ is that it violates the principle of least surprise from here to next Sunday.\
+    \ (See <a href=\"/post/16324633518\">my earlier post on \u201CWat\u201D</a>.)</p>",
+  tree_html: ''}
+reblog_key: Iv4in3Aa
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxHZ_WMc
+slug: spinor-on-type-behavior-in-javascript
+source_title: abandonmentprobability
+source_url: http://abandonmentprobability.tumblr.com/post/18838783065
+state: published
+summary: '@[spinor](http://spinor.tumblr.com/), [on type behavior in...'
+tags: [programming, javascript]
+timestamp: 1331063154
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>@<a href=\"http://spinor.tumblr.com/\">spinor</a>, <a href=\"http://spinor.tumblr.com/post/18839193970/the-surprisingly-elegant-javascript-type-model\"\
+    >on type behavior in JavaScript</a>:</p>\n\n<blockquote>\n  <p>Prototype-based\
+    \ OO is pretty interesting.\_That said, orthogonally, type coercion is still a\
+    \ bad idea.</p>\n</blockquote>\n\n<p>Type coercion is okay in some limited cases.\
+    \ Being able to write <code>\"You have \" + n + \" cows\"</code> for an integer\
+    \ <code>n</code> without having to explicitly convert it to a string first saves\
+    \ on obvious boilerplate. My primary issue with JavaScript\u2019s coercion behavior\
+    \ is that it violates the principle of least surprise from here to next Sunday.\
+    \ (See <a href=\"/post/16324633518\">my earlier post on \u201CWat\u201D</a>.)</p>"
+  content_raw: "<p>@<a href=\"http://spinor.tumblr.com/\">spinor</a>, <a href=\"http://spinor.tumblr.com/post/18839193970/the-surprisingly-elegant-javascript-type-model\"\
+    >on type behavior in JavaScript</a>:</p>\n\n<blockquote>\n  <p>Prototype-based\
+    \ OO is pretty interesting.\_That said, orthogonally, type coercion is still a\
+    \ bad idea.</p>\n</blockquote>\n\n<p>Type coercion is okay in some limited cases.\
+    \ Being able to write <code>\"You have \" + n + \" cows\"</code> for an integer\
+    \ <code>n</code> without having to explicitly convert it to a string first saves\
+    \ on obvious boilerplate. My primary issue with JavaScript\u2019s coercion behavior\
+    \ is that it violates the principle of least surprise from here to next Sunday.\
+    \ (See <a href=\"/post/16324633518\">my earlier post on \u201CWat\u201D</a>.)</p>"
+  is_current_item: true
+  post: {id: '18857199014'}
+type: text

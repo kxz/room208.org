@@ -1,0 +1,43 @@
+answer: <p>That&rsquo;s my LinkedIn password! &hellip; oh, dammit, not <em>again</em>.</p>
+asking_name: Anonymous
+asking_url: null
+blog_name: abandonmentprobability
+date: 2012-06-07 23:06:00 GMT
+format: markdown
+highlighted: []
+id: 24639540178
+note_count: 0
+post_url: http://blog.room208.org/post/24639540178/have-you-seen-having-never-been-to-the-old-ship
+question: 'Have you seen "Having never been to the old ship committee''s room (or
+  "the holy of holies", my host insisted) I couldn''t help but ask myself, as so many
+  had done before: Could those who built this really be "human"?" in your ask box
+  before?'
+reblog: {comment: "<p>That\u2019s my LinkedIn password! \u2026 oh, dammit, not <em>again</em>.</p>",
+  tree_html: ''}
+reblog_key: Ed5JJTFi
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxMyeOlI
+slug: have-you-seen-having-never-been-to-the-old-ship
+state: published
+summary: Have you seen "Having never been to the old ship committee's room (or "the
+  holy of holies", my host insisted) I couldn't help...
+tags: [nonotreally]
+timestamp: 1339110360
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>That\u2019s my LinkedIn password! \u2026 oh, dammit, not <em>again</em>.</p>"
+  content_raw: "<p>That\u2019s my LinkedIn password! \u2026 oh, dammit, not <em>again</em>.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '24639540178'}
+type: answer

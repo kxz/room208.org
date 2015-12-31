@@ -1,0 +1,10 @@
+- render '/default.haml' do
+  %section#error
+    %h1= @item[:title]
+    %div= yield
+  %nav#error-nav
+    %h1 Have you tried…
+    %ul
+      %li <a href="/">#{@config[:title]}</a> (the home page)?
+      %li <a href="/blog/">Elaborate Burn</a> (the blog)?
+      %li <a href="/yackfest/">#yackfest</a> (the IRC channel)?

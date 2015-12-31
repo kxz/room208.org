@@ -1,0 +1,6 @@
+- render '/blog/base.haml' do
+  %section
+    %h1 Latest posts
+    - sorted_articles.first(5).each do |post|
+      = render '/blog/_post.haml', item: post
+  = render '/blog/_archive-nav.haml'

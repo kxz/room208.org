@@ -1,0 +1,90 @@
+blog_name: abandonmentprobability
+body: "<p>Oh, I forgot this one.</p>\n\n<pre><code>diff -r abeb5b203296 omnipresence/plugins/youtube.py\n\
+  --- a/omnipresence/plugins/youtube.py   Sun Feb 19 21:28:04 2012 -0500\n+++ b/omnipresence/plugins/youtube.py\
+  \   Sun Apr 01 19:07:54 2012 +0000\n@@ -1,4 +1,6 @@\n+import datetime\n import json\n\
+  +import random\n import urllib\n\n from zope.interface import implements\n@@ -41,6\
+  \ +43,12 @@\n             else:\n                 views = ''\n\n+            now\
+  \ = datetime.datetime.now()\n+            if now.month == 4 and now.day == 1 and\
+  \ 12 &lt;= now.hour and random.random() &lt; 0.5:\n+                result['link'][0]['href']\
+  \ = random.choice(['http://www.youtube.com/watch?v=oHg5SJYRHA0',\n+            \
+  \                                               'http://www.youtube.com/watch?v=QH2-TGUlwu4',\n\
+  +                                                           'http://www.youtube.com/watch?v=MKzqP4-0Z6M'])\n\
+  +\n             messages.append(u'%s\\x02%s\\x02%s: %s'\n                      \
+  \         % (number, result['title']['$t'], views,\n                           \
+  \       result['link'][0]['href'].split('&amp;', 1)[0]))\n</code></pre>\n\n<p>And\
+  \ if you&rsquo;re reading this on the Tumblr dashboard, God help you.</p>"
+date: 2012-04-02 00:23:05 GMT
+format: markdown
+highlighted: []
+id: 20320113112
+note_count: 2
+post_url: http://blog.room208.org/post/20320113112/oh-i-forgot-this-one-diff-r-abeb5b203296
+reblog: {comment: "<p>Oh, I forgot this one.</p>\n\n<pre><code>diff -r abeb5b203296\
+    \ omnipresence/plugins/youtube.py\n--- a/omnipresence/plugins/youtube.py   Sun\
+    \ Feb 19 21:28:04 2012 -0500\n+++ b/omnipresence/plugins/youtube.py   Sun Apr\
+    \ 01 19:07:54 2012 +0000\n@@ -1,4 +1,6 @@\n+import datetime\n import json\n+import\
+    \ random\n import urllib\n\n from zope.interface import implements\n@@ -41,6 +43,12\
+    \ @@\n             else:\n                 views = ''\n\n+            now = datetime.datetime.now()\n\
+    +            if now.month == 4 and now.day == 1 and 12 &lt;= now.hour and random.random()\
+    \ &lt; 0.5:\n+                result['link'][0]['href'] = random.choice(['http://www.youtube.com/watch?v=oHg5SJYRHA0',\n\
+    +                                                           'http://www.youtube.com/watch?v=QH2-TGUlwu4',\n\
+    +                                                           'http://www.youtube.com/watch?v=MKzqP4-0Z6M'])\n\
+    +\n             messages.append(u'%s\\x02%s\\x02%s: %s'\n                    \
+    \           % (number, result['title']['$t'], views,\n                       \
+    \           result['link'][0]['href'].split('&amp;', 1)[0]))\n</code></pre>\n\n\
+    <p>And if you\u2019re reading this on the Tumblr dashboard, God help you.</p>",
+  tree_html: ''}
+reblog_key: IhqudJd5
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxIxB57O
+slug: oh-i-forgot-this-one-diff-r-abeb5b203296
+state: published
+summary: "Oh, I forgot this one.\r\n\r\n    diff -r abeb5b203296 omnipresence/plugins/youtube.py\r\
+  \n    ---..."
+tags: [programming, aprilfools]
+timestamp: 1333326185
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Oh, I forgot this one.</p>\n\n<pre><code>diff -r abeb5b203296 omnipresence/plugins/youtube.py\n\
+    --- a/omnipresence/plugins/youtube.py   Sun Feb 19 21:28:04 2012 -0500\n+++ b/omnipresence/plugins/youtube.py\
+    \   Sun Apr 01 19:07:54 2012 +0000\n@@ -1,4 +1,6 @@\n+import datetime\n import\
+    \ json\n+import random\n import urllib\n\n from zope.interface import implements\n\
+    @@ -41,6 +43,12 @@\n             else:\n                 views = ''\n\n+     \
+    \       now = datetime.datetime.now()\n+            if now.month == 4 and now.day\
+    \ == 1 and 12 &lt;= now.hour and random.random() &lt; 0.5:\n+                result['link'][0]['href']\
+    \ = random.choice(['http://www.youtube.com/watch?v=oHg5SJYRHA0',\n+          \
+    \                                                 'http://www.youtube.com/watch?v=QH2-TGUlwu4',\n\
+    +                                                           'http://www.youtube.com/watch?v=MKzqP4-0Z6M'])\n\
+    +\n             messages.append(u'%s\\x02%s\\x02%s: %s'\n                    \
+    \           % (number, result['title']['$t'], views,\n                       \
+    \           result['link'][0]['href'].split('&amp;', 1)[0]))\n</code></pre>\n\n\
+    <p>And if you\u2019re reading this on the Tumblr dashboard, God help you.</p>"
+  content_raw: "<p>Oh, I forgot this one.</p>\n\n<pre><code>diff -r abeb5b203296 omnipresence/plugins/youtube.py\n\
+    --- a/omnipresence/plugins/youtube.py   Sun Feb 19 21:28:04 2012 -0500\n+++ b/omnipresence/plugins/youtube.py\
+    \   Sun Apr 01 19:07:54 2012 +0000\n@@ -1,4 +1,6 @@\n+import datetime\n import\
+    \ json\n+import random\n import urllib\n\n from zope.interface import implements\n\
+    @@ -41,6 +43,12 @@\n             else:\n                 views = ''\n\n+     \
+    \       now = datetime.datetime.now()\n+            if now.month == 4 and now.day\
+    \ == 1 and 12 &lt;= now.hour and random.random() &lt; 0.5:\n+                result['link'][0]['href']\
+    \ = random.choice(['http://www.youtube.com/watch?v=oHg5SJYRHA0',\n+          \
+    \                                                 'http://www.youtube.com/watch?v=QH2-TGUlwu4',\n\
+    +                                                           'http://www.youtube.com/watch?v=MKzqP4-0Z6M'])\n\
+    +\n             messages.append(u'%s\\x02%s\\x02%s: %s'\n                    \
+    \           % (number, result['title']['$t'], views,\n                       \
+    \           result['link'][0]['href'].split('&amp;', 1)[0]))\n</code></pre>\n\n\
+    <p>And if you\u2019re reading this on the Tumblr dashboard, God help you.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '20320113112'}
+type: text

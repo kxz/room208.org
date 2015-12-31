@@ -1,0 +1,62 @@
+blog_name: abandonmentprobability
+caption: '<p>It&rsquo;s just like one of those old-timey zoetrope films.</p>
+
+
+  <p><em>Silver Spoon</em> 2x10, <code>convert -sigmoidal-contrast 10,50% -colorspace
+  Gray</code>.</p>'
+date: 2014-03-21 14:40:23 GMT
+format: markdown
+highlighted: []
+id: 80262268328
+image_permalink: http://blog.room208.org/image/80262268328
+note_count: 0
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://45.media.tumblr.com/8dc7dfe58aba9a335afc96e0965351fe/tumblr_n2sjfbT03L1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://49.media.tumblr.com/8dc7dfe58aba9a335afc96e0965351fe/tumblr_n2sjfbT03L1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://49.media.tumblr.com/8dc7dfe58aba9a335afc96e0965351fe/tumblr_n2sjfbT03L1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://49.media.tumblr.com/8dc7dfe58aba9a335afc96e0965351fe/tumblr_n2sjfbT03L1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://49.media.tumblr.com/8dc7dfe58aba9a335afc96e0965351fe/tumblr_n2sjfbT03L1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://45.media.tumblr.com/8dc7dfe58aba9a335afc96e0965351fe/tumblr_n2sjfbT03L1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/80262268328/its-just-like-one-of-those-old-timey-zoetrope
+reblog: {comment: "<p>It\u2019s just like one of those old-timey zoetrope films.</p>\n\
+    \n<p><em>Silver Spoon</em> 2x10, <code>convert -sigmoidal-contrast 10,50% -colorspace\
+    \ Gray</code>.</p>", tree_html: ''}
+reblog_key: LZp2ebvR
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1Am0GMe
+slug: its-just-like-one-of-those-old-timey-zoetrope
+state: published
+summary: "It's just like one of those old-timey zoetrope films.                  \
+  \         \r\n                                              ..."
+tags: [silverspoon, anime, gif]
+timestamp: 1395412823
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>It\u2019s just like one of those old-timey zoetrope films.</p>\n\n\
+    <p><em>Silver Spoon</em> 2x10, <code>convert -sigmoidal-contrast 10,50% -colorspace\
+    \ Gray</code>.</p>"
+  content_raw: "<p>It\u2019s just like one of those old-timey zoetrope films.</p>\n\
+    \n<p><em>Silver Spoon</em> 2x10, <code>convert -sigmoidal-contrast 10,50% -colorspace\
+    \ Gray</code>.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '80262268328'}
+type: photo

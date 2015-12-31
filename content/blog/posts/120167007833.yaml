@@ -1,0 +1,107 @@
+answer: '<p>I suspect that since the post type conversion doesn&rsquo;t have a value
+  for the image field, Tumblr inserts a reference to a nonexistent image instead.
+  (This isn&rsquo;t your fault; it&rsquo;s just a quirk of how the data is stored
+  on the server.) Ordinarily, you&rsquo;d be able to delete it using the dashboard,
+  but the button to do so only appears when you hover over the image. Since the image
+  doesn&rsquo;t actually exist, it&rsquo;s displayed with a height of zero pixels.
+  Can&rsquo;t really hover over that.</p>
+
+
+  <p>What you can do, though, is simulate a click on the delete button. To do this,
+  open up the broken post&rsquo;s edit page, and paste the following in the developer
+  console:</p>
+
+
+  <pre><code>$(''.remove-button'').first().click();
+
+  </code></pre>
+
+
+  <p>If you haven&rsquo;t added any other images yet, the standard <em>Upload photos</em>
+  and <em>Add photo from web</em> options should appear inside the edit form, indicating
+  that Tumblr thinks there are no longer any images attached to the post. In either
+  case, save once you&rsquo;ve changed the images to your liking, and you should be
+  on your merry way.</p>'
+asking_name: sunbinamra
+asking_url: http://sunbinamra.tumblr.com/
+blog_name: abandonmentprobability
+date: 2015-05-29 05:48:09 GMT
+format: markdown
+highlighted: []
+id: 120167007833
+note_count: 1
+post_url: http://blog.room208.org/post/120167007833/hi-first-off-thank-you-so-much-for-the-post
+question: Hi! First off, thank you so much for the post about changing type of Tumblr
+  post - I've managed to turn a couple of posts from text to photo. However, I'm a
+  complete novice when it comes to codes, hacks, etc. and in both cases I end up with
+  a blank ghost image at the beginning that I can't seem to get rid of. Do you have
+  any idea what might be causing this? Thanks again!
+reblog: {comment: "<p>I suspect that since the post type conversion doesn\u2019t have\
+    \ a value for the image field, Tumblr inserts a reference to a nonexistent image\
+    \ instead. (This isn\u2019t your fault; it\u2019s just a quirk of how the data\
+    \ is stored on the server.) Ordinarily, you\u2019d be able to delete it using\
+    \ the dashboard, but the button to do so only appears when you hover over the\
+    \ image. Since the image doesn\u2019t actually exist, it\u2019s displayed with\
+    \ a height of zero pixels. Can\u2019t really hover over that.</p>\n\n<p>What you\
+    \ can do, though, is simulate a click on the delete button. To do this, open up\
+    \ the broken post\u2019s edit page, and paste the following in the developer console:</p>\n\
+    \n<pre><code>$('.remove-button').first().click();\n</code></pre>\n\n<p>If you\
+    \ haven\u2019t added any other images yet, the standard <em>Upload photos</em>\
+    \ and <em>Add photo from web</em> options should appear inside the edit form,\
+    \ indicating that Tumblr thinks there are no longer any images attached to the\
+    \ post. In either case, save once you\u2019ve changed the images to your liking,\
+    \ and you should be on your merry way.</p>", tree_html: ''}
+reblog_key: phqEOWSJ
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1lwWmPP
+slug: hi-first-off-thank-you-so-much-for-the-post
+state: published
+summary: Hi! First off, thank you so much for the post about changing type of Tumblr
+  post - I've managed to turn a couple of posts from...
+tags: [tumblr, webdev, followeroutreach]
+timestamp: 1432878489
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>I suspect that since the post type conversion doesn\u2019t have a value\
+    \ for the image field, Tumblr inserts a reference to a nonexistent image instead.\
+    \ (This isn\u2019t your fault; it\u2019s just a quirk of how the data is stored\
+    \ on the server.) Ordinarily, you\u2019d be able to delete it using the dashboard,\
+    \ but the button to do so only appears when you hover over the image. Since the\
+    \ image doesn\u2019t actually exist, it\u2019s displayed with a height of zero\
+    \ pixels. Can\u2019t really hover over that.</p>\n\n<p>What you can do, though,\
+    \ is simulate a click on the delete button. To do this, open up the broken post\u2019\
+    s edit page, and paste the following in the developer console:</p>\n\n<pre><code>$('.remove-button').first().click();\n\
+    </code></pre>\n\n<p>If you haven\u2019t added any other images yet, the standard\
+    \ <em>Upload photos</em> and <em>Add photo from web</em> options should appear\
+    \ inside the edit form, indicating that Tumblr thinks there are no longer any\
+    \ images attached to the post. In either case, save once you\u2019ve changed the\
+    \ images to your liking, and you should be on your merry way.</p>"
+  content_raw: "<p>I suspect that since the post type conversion doesn\u2019t have\
+    \ a value for the image field, Tumblr inserts a reference to a nonexistent image\
+    \ instead. (This isn\u2019t your fault; it\u2019s just a quirk of how the data\
+    \ is stored on the server.) Ordinarily, you\u2019d be able to delete it using\
+    \ the dashboard, but the button to do so only appears when you hover over the\
+    \ image. Since the image doesn\u2019t actually exist, it\u2019s displayed with\
+    \ a height of zero pixels. Can\u2019t really hover over that.</p>\n\n<p>What you\
+    \ can do, though, is simulate a click on the delete button. To do this, open up\
+    \ the broken post\u2019s edit page, and paste the following in the developer console:</p>\n\
+    \n<pre><code>$('.remove-button').first().click();\n</code></pre>\n\n<p>If you\
+    \ haven\u2019t added any other images yet, the standard <em>Upload photos</em>\
+    \ and <em>Add photo from web</em> options should appear inside the edit form,\
+    \ indicating that Tumblr thinks there are no longer any images attached to the\
+    \ post. In either case, save once you\u2019ve changed the images to your liking,\
+    \ and you should be on your merry way.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '120167007833'}
+type: answer

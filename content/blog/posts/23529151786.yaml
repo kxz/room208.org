@@ -1,0 +1,117 @@
+blog_name: abandonmentprobability
+body: '<p>So I had this idea for a visual novel mechanic, probably inspired by playing
+  too many <cite>Infinity</cite> series games, where the player takes the role of
+  a &ldquo;ghost&rdquo; who can&rsquo;t actually talk to any of the characters, but
+  can interact with their environment when no one&rsquo;s looking. At the beginning
+  and end of every scene, you would get a chance to either remove objects from the
+  &ldquo;stage,&rdquo; or place things that you&rsquo;ve taken in previous scenes.
+  One scene might be set in a kitchen, for instance, where you&rsquo;d get the opportunity
+  to take a knife from the counter and later conveniently leave it at the scene of
+  a particularly tense fight.</p>
+
+
+  <p>I have a feeling this has been done before, but I can&rsquo;t recall where.</p>
+
+
+  <p><strong>Edit:</strong> I suppose I should mention that the idea was to have the
+  stage-setting replace choices as the primary plot branching mechanism. Going back
+  to the knife example, let&rsquo;s say the climactic dust-up is between Alice, who
+  is relatively weak physically, and Mallory, who&rsquo;s fairly strong. Leaving the
+  knife for Alice in that scene would thus mean the difference between her getting
+  overpowered almost immediately and her having a shot at fending for herself. (In
+  fact, my biggest qualm with this concept is that it could quickly turn into a combinatorial
+  tar pit given enough manipulable objects and scenes.) A few people have showed me
+  adventure games with a &ldquo;ghost director&rdquo; mechanic at their core, but
+  they all seemed fairly linear plot-wise.</p>'
+date: 2012-05-22 04:44:00 GMT
+format: markdown
+highlighted: []
+id: 23529151786
+note_count: 4
+post_url: http://blog.room208.org/post/23529151786/so-i-had-this-idea-for-a-visual-novel-mechanic
+reblog: {comment: "<p>So I had this idea for a visual novel mechanic, probably inspired\
+    \ by playing too many <cite>Infinity</cite> series games, where the player takes\
+    \ the role of a \u201Cghost\u201D who can\u2019t actually talk to any of the characters,\
+    \ but can interact with their environment when no one\u2019s looking. At the beginning\
+    \ and end of every scene, you would get a chance to either remove objects from\
+    \ the \u201Cstage,\u201D or place things that you\u2019ve taken in previous scenes.\
+    \ One scene might be set in a kitchen, for instance, where you\u2019d get the\
+    \ opportunity to take a knife from the counter and later conveniently leave it\
+    \ at the scene of a particularly tense fight.</p>\n\n<p>I have a feeling this\
+    \ has been done before, but I can\u2019t recall where.</p>\n\n<p><strong>Edit:</strong>\
+    \ I suppose I should mention that the idea was to have the stage-setting replace\
+    \ choices as the primary plot branching mechanism. Going back to the knife example,\
+    \ let\u2019s say the climactic dust-up is between Alice, who is relatively weak\
+    \ physically, and Mallory, who\u2019s fairly strong. Leaving the knife for Alice\
+    \ in that scene would thus mean the difference between her getting overpowered\
+    \ almost immediately and her having a shot at fending for herself. (In fact, my\
+    \ biggest qualm with this concept is that it could quickly turn into a combinatorial\
+    \ tar pit given enough manipulable objects and scenes.) A few people have showed\
+    \ me adventure games with a \u201Cghost director\u201D mechanic at their core,\
+    \ but they all seemed fairly linear plot-wise.</p>", tree_html: ''}
+reblog_key: 5CsyHpfx
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxLwSbqg
+slug: so-i-had-this-idea-for-a-visual-novel-mechanic
+state: published
+summary: So I had this idea for a visual novel mechanic, probably inspired by playing
+  too many Infinity series games, where the player...
+tags: [visualnovel, mechanics]
+timestamp: 1337661840
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>So I had this idea for a visual novel mechanic, probably inspired by\
+    \ playing too many Infinity series games, where the player takes the role of a\
+    \ \u201Cghost\u201D who can\u2019t actually talk to any of the characters, but\
+    \ can interact with their environment when no one\u2019s looking. At the beginning\
+    \ and end of every scene, you would get a chance to either remove objects from\
+    \ the \u201Cstage,\u201D or place things that you\u2019ve taken in previous scenes.\
+    \ One scene might be set in a kitchen, for instance, where you\u2019d get the\
+    \ opportunity to take a knife from the counter and later conveniently leave it\
+    \ at the scene of a particularly tense fight.</p>\n\n<p>I have a feeling this\
+    \ has been done before, but I can\u2019t recall where.</p>\n\n<p><strong>Edit:</strong>\
+    \ I suppose I should mention that the idea was to have the stage-setting replace\
+    \ choices as the primary plot branching mechanism. Going back to the knife example,\
+    \ let\u2019s say the climactic dust-up is between Alice, who is relatively weak\
+    \ physically, and Mallory, who\u2019s fairly strong. Leaving the knife for Alice\
+    \ in that scene would thus mean the difference between her getting overpowered\
+    \ almost immediately and her having a shot at fending for herself. (In fact, my\
+    \ biggest qualm with this concept is that it could quickly turn into a combinatorial\
+    \ tar pit given enough manipulable objects and scenes.) A few people have showed\
+    \ me adventure games with a \u201Cghost director\u201D mechanic at their core,\
+    \ but they all seemed fairly linear plot-wise.</p>"
+  content_raw: "<p>So I had this idea for a visual novel mechanic, probably inspired\
+    \ by playing too many <cite>Infinity</cite> series games, where the player takes\
+    \ the role of a \u201Cghost\u201D who can\u2019t actually talk to any of the characters,\
+    \ but can interact with their environment when no one\u2019s looking. At the beginning\
+    \ and end of every scene, you would get a chance to either remove objects from\
+    \ the \u201Cstage,\u201D or place things that you\u2019ve taken in previous scenes.\
+    \ One scene might be set in a kitchen, for instance, where you\u2019d get the\
+    \ opportunity to take a knife from the counter and later conveniently leave it\
+    \ at the scene of a particularly tense fight.</p>\n\n<p>I have a feeling this\
+    \ has been done before, but I can\u2019t recall where.</p>\n\n<p><strong>Edit:</strong>\
+    \ I suppose I should mention that the idea was to have the stage-setting replace\
+    \ choices as the primary plot branching mechanism. Going back to the knife example,\
+    \ let\u2019s say the climactic dust-up is between Alice, who is relatively weak\
+    \ physically, and Mallory, who\u2019s fairly strong. Leaving the knife for Alice\
+    \ in that scene would thus mean the difference between her getting overpowered\
+    \ almost immediately and her having a shot at fending for herself. (In fact, my\
+    \ biggest qualm with this concept is that it could quickly turn into a combinatorial\
+    \ tar pit given enough manipulable objects and scenes.) A few people have showed\
+    \ me adventure games with a \u201Cghost director\u201D mechanic at their core,\
+    \ but they all seemed fairly linear plot-wise.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '23529151786'}
+type: text

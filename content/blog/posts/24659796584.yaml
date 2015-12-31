@@ -1,0 +1,57 @@
+answer: <p>Funny story. I got to pick my middle name. As you can imagine, that means
+  it wasn&rsquo;t on my birth certificate &ndash; however, some of my other government
+  identification does have it, because by the time I was old enough to fill out forms
+  I made a habit of putting my full name on everything. So, assuming you define &ldquo;real
+  name&rdquo; as my legal name, I don&rsquo;t have one real name. True story.</p>
+asking_name: Anonymous
+asking_url: null
+blog_name: abandonmentprobability
+date: 2012-06-08 04:08:49 GMT
+format: markdown
+highlighted: []
+id: 24659796584
+note_count: 1
+post_url: http://blog.room208.org/post/24659796584/whats-your-real-name
+question: What's your real name?
+reblog: {comment: "<p>Funny story. I got to pick my middle name. As you can imagine,\
+    \ that means it wasn\u2019t on my birth certificate \u2013 however, some of my\
+    \ other government identification does have it, because by the time I was old\
+    \ enough to fill out forms I made a habit of putting my full name on everything.\
+    \ So, assuming you define \u201Creal name\u201D as my legal name, I don\u2019\
+    t have one real name. True story.</p>", tree_html: ''}
+reblog_key: DIDVWpMX
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxMzrg9e
+slug: whats-your-real-name
+state: published
+summary: What's your real name?
+tags: []
+timestamp: 1339128529
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Funny story. I got to pick my middle name. As you can imagine, that\
+    \ means it wasn\u2019t on my birth certificate \u2013 however, some of my other\
+    \ government identification does have it, because by the time I was old enough\
+    \ to fill out forms I made a habit of putting my full name on everything. So,\
+    \ assuming you define \u201Creal name\u201D as my legal name, I don\u2019t have\
+    \ one real name. True story.</p>"
+  content_raw: "<p>Funny story. I got to pick my middle name. As you can imagine,\
+    \ that means it wasn\u2019t on my birth certificate \u2013 however, some of my\
+    \ other government identification does have it, because by the time I was old\
+    \ enough to fill out forms I made a habit of putting my full name on everything.\
+    \ So, assuming you define \u201Creal name\u201D as my legal name, I don\u2019\
+    t have one real name. True story.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '24659796584'}
+type: answer

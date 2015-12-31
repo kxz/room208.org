@@ -1,0 +1,67 @@
+blog_name: abandonmentprobability
+caption: "<pre>idmtx.ss:43: <strong>Parse error:</strong> Unclosed T_EMOTIONAL_OPENING.\n\
+  \n             <strong style=\"color: blue\">return</strong> m-&gt;displayPointer;\n\
+  \        }\n        <span style=\"color: green\">// fuck my code-mangled life</span>\n\
+  \    }\n~~~~<span style=\"color: red\">^</span>\n\nBuild failed with 2 errors and\
+  \ 137 warnings.\n</pre>"
+date: 2013-03-18 03:08:18 GMT
+format: markdown
+highlighted: []
+id: 45646228236
+image_permalink: http://blog.room208.org/image/45646228236
+note_count: 0
+photos:
+- alt_sizes:
+  - {height: 333, url: 'http://40.media.tumblr.com/c770d27e52fb81c570c50bef86005143/tumblr_mju61upmG21qim2zwo1_500.jpg',
+    width: 500}
+  - {height: 266, url: 'http://41.media.tumblr.com/c770d27e52fb81c570c50bef86005143/tumblr_mju61upmG21qim2zwo1_400.jpg',
+    width: 400}
+  - {height: 167, url: 'http://41.media.tumblr.com/c770d27e52fb81c570c50bef86005143/tumblr_mju61upmG21qim2zwo1_250.jpg',
+    width: 250}
+  - {height: 67, url: 'http://40.media.tumblr.com/c770d27e52fb81c570c50bef86005143/tumblr_mju61upmG21qim2zwo1_100.jpg',
+    width: 100}
+  - {height: 75, url: 'http://41.media.tumblr.com/c770d27e52fb81c570c50bef86005143/tumblr_mju61upmG21qim2zwo1_75sq.jpg',
+    width: 75}
+  caption: ''
+  original_size: {height: 333, url: 'http://40.media.tumblr.com/c770d27e52fb81c570c50bef86005143/tumblr_mju61upmG21qim2zwo1_500.jpg',
+    width: 500}
+post_url: http://blog.room208.org/post/45646228236/idmtxss43-parse-error-unclosed
+reblog: {comment: "<p><pre>idmtx.ss:43: <strong>Parse error:</strong> Unclosed T_EMOTIONAL_OPENING.\n\
+    \n             <strong style=\"color: blue\">return</strong> m->displayPointer;\n\
+    \        }\n        <span style=\"color: green\">// fuck my code-mangled life</span>\n\
+    \    }\n~~~~<span style=\"color: red\">^</span>\n\nBuild failed with 2 errors\
+    \ and 137 warnings.\n</pre></p>", tree_html: ''}
+reblog_key: 0S1HJsbA
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxgWkYiC
+slug: idmtxss43-parse-error-unclosed
+state: published
+summary: "idmtx.ss:43: Parse error: Unclosed T_EMOTIONAL_OPENING.\r\n\r\n        \
+  \     return m->displayPointer;\r\n        }\r\n        // fuck my..."
+tags: [photo, morningtoncrescent]
+timestamp: 1363576098
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p><pre>idmtx.ss:43: <strong>Parse error:</strong> Unclosed T_EMOTIONAL_OPENING.\n\
+    \n             <strong>return</strong> m-&gt;displayPointer;\n        }\n    \
+    \    // fuck my code-mangled life\n    }\n~~~~^\n\nBuild failed with 2 errors\
+    \ and 137 warnings.\n</pre></p>"
+  content_raw: "<p><pre>idmtx.ss:43: <strong>Parse error:</strong> Unclosed T_EMOTIONAL_OPENING.\n\
+    \n             <strong style=\"color: blue\">return</strong> m->displayPointer;\n\
+    \        }\n        <span style=\"color: green\">// fuck my code-mangled life</span>\n\
+    \    }\n~~~~<span style=\"color: red\">^</span>\n\nBuild failed with 2 errors\
+    \ and 137 warnings.\n</pre></p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '45646228236'}
+type: photo

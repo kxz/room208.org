@@ -1,0 +1,3 @@
+- @item[:photos].each do |photo|
+  %img{src: photo[:original_size][:url], alt: ''}
+= rewrite_img_srcs @item[:caption]

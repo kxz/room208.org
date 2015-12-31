@@ -1,0 +1,49 @@
+blog_name: abandonmentprobability
+body: "<p>Mean AniDB rating of all 303 television anime that both began and ended\
+  \ between January 1, 2010, and December 31, 2012: <strong>4.97 \xB1 1.83</strong>.</p>\n\
+  \n<p>Mean AniDB rating for the seven series out of the above whose titles contain\
+  \ the Japanese pronoun <em>boku</em>: <strong>5.63 \xB1 1.82</strong>.</p>"
+date: 2013-01-09 22:59:02 GMT
+format: markdown
+highlighted: []
+id: 40124947004
+note_count: 1
+post_url: http://blog.room208.org/post/40124947004/lies-damned-lies-and-statistics
+reblog: {comment: "<p>Mean AniDB rating of all 303 television anime that both began\
+    \ and ended between January 1, 2010, and December 31, 2012: <strong>4.97 \xB1\
+    \ 1.83</strong>.</p>\n\n<p>Mean AniDB rating for the seven series out of the above\
+    \ whose titles contain the Japanese pronoun <em>boku</em>: <strong>5.63 \xB1 1.82</strong>.</p>",
+  tree_html: ''}
+reblog_key: drEQ2W92
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxbNeXey
+slug: lies-damned-lies-and-statistics
+state: published
+summary: Lies, damned lies, and statistics
+tags: [anime, statistics, theroadtowashington]
+timestamp: 1357772342
+title: Lies, damned lies, and statistics
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Mean AniDB rating of all 303 television anime that both began and ended\
+    \ between January 1, 2010, and December 31, 2012: <strong>4.97 \xB1 1.83</strong>.</p>\n\
+    \n<p>Mean AniDB rating for the seven series out of the above whose titles contain\
+    \ the Japanese pronoun <em>boku</em>: <strong>5.63 \xB1 1.82</strong>.</p>"
+  content_raw: "<p>Mean AniDB rating of all 303 television anime that both began and\
+    \ ended between January 1, 2010, and December 31, 2012: <strong>4.97 \xB1 1.83</strong>.</p>\n\
+    \n<p>Mean AniDB rating for the seven series out of the above whose titles contain\
+    \ the Japanese pronoun <em>boku</em>: <strong>5.63 \xB1 1.82</strong>.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '40124947004'}
+type: text

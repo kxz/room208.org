@@ -1,0 +1,95 @@
+blog_name: abandonmentprobability
+caption: "<p>Araragi dodging sharp projectiles like he&rsquo;s in medieval France.</p>\n\
+  \n<pre><code>#!/bin/sh\nffmpeg -ss 0:10:24 -i \"[Commie]_Nisemonogatari_-_06_[7A02B0A3].mkv\"\
+  \ \\\n  -t 0:00:07 -s 480x270 -f image2 %03d.png\n# some manual culling of frames\
+  \ goes here\nconvert -delay 1x12 *[02468].png -coalesce \\\n  -layers OptimizeTransparency\
+  \ pencils.gif\n</code></pre>\n\n<p>FFmpeg&rsquo;s animated GIF encoder seems to\
+  \ use a predetermined palette instead of picking one based on the input frames.\
+  \ It&rsquo;s pretty tragic. On the other hand, trying to do resize operations with\
+  \ ImageMagick is slow as hell.</p>\n\n<p>Most anime is drawn on twos, meaning that\
+  \ the content only actually changes every two frames. Hence the <code>convert</code>\
+  \ invocation picks out just the even-numbered images and halves the framerate. Arguably,\
+  \ you could do this with FFmpeg&rsquo;s <code>-r</code> parameter, but who cares.</p>"
+date: 2012-02-15 21:39:00 GMT
+format: markdown
+highlighted: []
+id: 17673078863
+image_permalink: http://blog.room208.org/image/17673078863
+note_count: 2
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://49.media.tumblr.com/tumblr_lzgeug2j6F1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://49.media.tumblr.com/tumblr_lzgeug2j6F1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://45.media.tumblr.com/tumblr_lzgeug2j6F1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://45.media.tumblr.com/tumblr_lzgeug2j6F1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://49.media.tumblr.com/tumblr_lzgeug2j6F1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://49.media.tumblr.com/tumblr_lzgeug2j6F1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/17673078863/araragi-dodging-sharp-projectiles-like-hes-in
+reblog: {comment: "<p>Araragi dodging sharp projectiles like he\u2019s in medieval\
+    \ France.</p>\n\n<pre><code>#!/bin/sh\nffmpeg -ss 0:10:24 -i \"[Commie]_Nisemonogatari_-_06_[7A02B0A3].mkv\"\
+    \ \\\n  -t 0:00:07 -s 480x270 -f image2 %03d.png\n# some manual culling of frames\
+    \ goes here\nconvert -delay 1x12 *[02468].png -coalesce \\\n  -layers OptimizeTransparency\
+    \ pencils.gif\n</code></pre>\n\n<p>FFmpeg\u2019s animated GIF encoder seems to\
+    \ use a predetermined palette instead of picking one based on the input frames.\
+    \ It\u2019s pretty tragic. On the other hand, trying to do resize operations with\
+    \ ImageMagick is slow as hell.</p>\n\n<p>Most anime is drawn on twos, meaning\
+    \ that the content only actually changes every two frames. Hence the <code>convert</code>\
+    \ invocation picks out just the even-numbered images and halves the framerate.\
+    \ Arguably, you could do this with FFmpeg\u2019s <code>-r</code> parameter, but\
+    \ who cares.</p>", tree_html: ''}
+reblog_key: Xb5GzW91
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxGTPSXF
+slug: araragi-dodging-sharp-projectiles-like-hes-in
+state: published
+summary: "Araragi dodging sharp projectiles like he's in medieval France.\r\n\r\n\
+  \    #!/bin/sh\r\n    ffmpeg -ss 0:10:24 -i..."
+tags: [anime, nisemonogatari, gif]
+timestamp: 1329341940
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Araragi dodging sharp projectiles like he\u2019s in medieval France.</p>\n\
+    \n<pre><code>#!/bin/sh\nffmpeg -ss 0:10:24 -i \"[Commie]_Nisemonogatari_-_06_[7A02B0A3].mkv\"\
+    \ \\\n  -t 0:00:07 -s 480x270 -f image2 %03d.png\n# some manual culling of frames\
+    \ goes here\nconvert -delay 1x12 *[02468].png -coalesce \\\n  -layers OptimizeTransparency\
+    \ pencils.gif\n</code></pre>\n\n<p>FFmpeg\u2019s animated GIF encoder seems to\
+    \ use a predetermined palette instead of picking one based on the input frames.\
+    \ It\u2019s pretty tragic. On the other hand, trying to do resize operations with\
+    \ ImageMagick is slow as hell.</p>\n\n<p>Most anime is drawn on twos, meaning\
+    \ that the content only actually changes every two frames. Hence the <code>convert</code>\
+    \ invocation picks out just the even-numbered images and halves the framerate.\
+    \ Arguably, you could do this with FFmpeg\u2019s <code>-r</code> parameter, but\
+    \ who cares.</p>"
+  content_raw: "<p>Araragi dodging sharp projectiles like he\u2019s in medieval France.</p>\n\
+    \n<pre><code>#!/bin/sh\nffmpeg -ss 0:10:24 -i \"[Commie]_Nisemonogatari_-_06_[7A02B0A3].mkv\"\
+    \ \\\n  -t 0:00:07 -s 480x270 -f image2 %03d.png\n# some manual culling of frames\
+    \ goes here\nconvert -delay 1x12 *[02468].png -coalesce \\\n  -layers OptimizeTransparency\
+    \ pencils.gif\n</code></pre>\n\n<p>FFmpeg\u2019s animated GIF encoder seems to\
+    \ use a predetermined palette instead of picking one based on the input frames.\
+    \ It\u2019s pretty tragic. On the other hand, trying to do resize operations with\
+    \ ImageMagick is slow as hell.</p>\n\n<p>Most anime is drawn on twos, meaning\
+    \ that the content only actually changes every two frames. Hence the <code>convert</code>\
+    \ invocation picks out just the even-numbered images and halves the framerate.\
+    \ Arguably, you could do this with FFmpeg\u2019s <code>-r</code> parameter, but\
+    \ who cares.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '17673078863'}
+type: photo

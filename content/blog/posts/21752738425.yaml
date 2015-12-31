@@ -1,0 +1,54 @@
+blog_name: abandonmentprobability
+date: 2012-04-25 01:02:39 GMT
+description: '<p>Ralf Herrmann talks about what goes into creating type for signs,
+  how reading at a distance differs from typical print settings, and how he got arrested
+  in Norway in the pursuit of knowledge.</p>
+
+
+  <p>(I know I have at least one follower who&rsquo;ll enjoy this. Yes, you.)</p>'
+excerpt: null
+format: markdown
+highlighted: []
+id: 21752738425
+link_author: null
+note_count: 0
+post_url: http://blog.room208.org/post/21752738425/the-design-of-a-signage-typeface
+publisher: ilovetypography.com
+reblog: {comment: "<p>Ralf Herrmann talks about what goes into creating type for signs,\
+    \ how reading at a distance differs from typical print settings, and how he got\
+    \ arrested in Norway in the pursuit of knowledge.</p>\n\n<p>(I know I have at\
+    \ least one follower who\u2019ll enjoy this. Yes, you.)</p>", tree_html: ''}
+reblog_key: 5i9nFc3i
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxKGa79v
+slug: the-design-of-a-signage-typeface
+state: published
+summary: The design of a signage typeface
+tags: [typography]
+timestamp: 1335315759
+title: The design of a signage typeface
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Ralf Herrmann talks about what goes into creating type for signs, how\
+    \ reading at a distance differs from typical print settings, and how he got arrested\
+    \ in Norway in the pursuit of knowledge.</p>\n\n<p>(I know I have at least one\
+    \ follower who\u2019ll enjoy this. Yes, you.)</p>"
+  content_raw: "<p>Ralf Herrmann talks about what goes into creating type for signs,\
+    \ how reading at a distance differs from typical print settings, and how he got\
+    \ arrested in Norway in the pursuit of knowledge.</p>\n\n<p>(I know I have at\
+    \ least one follower who\u2019ll enjoy this. Yes, you.)</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '21752738425'}
+type: link
+url: http://ilovetypography.com/2012/04/19/the-design-of-a-signage-typeface/

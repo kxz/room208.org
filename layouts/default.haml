@@ -1,0 +1,16 @@
+!!!
+%html{lang: 'en'}
+  %head
+    %meta{charset: 'utf-8'}
+    %title= @item[:title] || @config[:title]
+    %link{rel: 'stylesheet', href: '/assets/css/style.css'}
+    %meta{name: 'viewport', content: 'initial-scale=1.0'}
+    %script{src: '/assets/js/analytics.js', async: true}
+  %body
+    %h1#site-heading
+      %a{href: ('/' unless @item.identifier.to_s == '/index.haml')}= @config[:title]
+    = yield
+    %footer#site-footer
+      © Kevin Xiwei Zheng.
+      Released under <a href="http://creativecommons.org/licenses/by/4.0/">CC–BY 4.0</a>.
+      <a href="https://github.com/kxz/room208.org/blob/master#{@item.identifier.to_s}">View on GitHub</a>.

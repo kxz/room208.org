@@ -1,0 +1,13 @@
+text_extensions: ['haml', 'html', 'js', 'scss']
+
+data_sources:
+  - type: filesystem
+
+deploy:
+  default:
+    kind: 'rsync'
+    dst: 'room208.org:/srv/room208'
+    options: ['-avz', '--rsh=ssh']
+
+title: 'Room 208'
+base_url: 'https://room208.org'

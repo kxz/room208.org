@@ -1,0 +1,54 @@
+answer: "<p>I\u2019m not sure what might be causing this, so here\u2019s one random\
+  \ guess &ndash; have you tried making a dummy change to the post before saving?\
+  \ If there are no changes, the dashboard code may detect that nothing\u2019s changed\
+  \ and not bother making a request.</p>"
+asking_name: Anonymous
+asking_url: null
+blog_name: abandonmentprobability
+date: 2015-04-05 04:23:14 GMT
+format: markdown
+highlighted: []
+id: 115542140028
+note_count: 0
+post_url: http://blog.room208.org/post/115542140028/im-having-issues-with-your-most-recent-tutorial
+question: I'm having issues with your most recent tutorial on changing post types
+  because there never seems to be a request made to svc/post/update, even though I
+  am recording requests and responses when saving the post and have tried many times.
+  Any ideas? It's a text post. Thanks for your time.
+reblog: {comment: "<p>I\u2019m not sure what might be causing this, so here\u2019\
+    s one random guess \u2013 have you tried making a dummy change to the post before\
+    \ saving? If there are no changes, the dashboard code may detect that nothing\u2019\
+    s changed and not bother making a request.</p>", tree_html: ''}
+reblog_key: o6A05Xtw
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1hcsIHy
+slug: im-having-issues-with-your-most-recent-tutorial
+state: published
+summary: I'm having issues with your most recent tutorial on changing post types because
+  there never seems to be a request made to...
+tags: [tumblr, webdev, followeroutreach]
+timestamp: 1428207794
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>I\u2019m not sure what might be causing this, so here\u2019s one random\
+    \ guess \u2013 have you tried making a dummy change to the post before saving?\
+    \ If there are no changes, the dashboard code may detect that nothing\u2019s changed\
+    \ and not bother making a request.</p>"
+  content_raw: "<p>I\u2019m not sure what might be causing this, so here\u2019s one\
+    \ random guess \u2013 have you tried making a dummy change to the post before\
+    \ saving? If there are no changes, the dashboard code may detect that nothing\u2019\
+    s changed and not bother making a request.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '115542140028'}
+type: answer

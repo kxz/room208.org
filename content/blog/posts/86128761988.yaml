@@ -1,0 +1,57 @@
+blog_name: abandonmentprobability
+body: "<p><a href=\"https://www.youtube.com/watch?v=GnBbhXBDmwU#t=41m27s\">The LibreSSL\
+  \ developers discuss OpenSSL&rsquo;s incredible flexibility in the face of impossible\
+  \ situations</a>:</p>\n\n<blockquote>\n  <p><strong>Ted Unangst:</strong> But the\
+  \ good news is, if the size of <code>socklen_t</code> changes while your program\
+  \ is running &ndash;</p>\n  \n  <p><strong>Bob Beck:</strong> OpenSSL will cope!</p>\n\
+  </blockquote>"
+date: 2014-05-18 18:19:48 GMT
+format: markdown
+highlighted: []
+id: 86128761988
+note_count: 0
+post_url: http://blog.room208.org/post/86128761988/the-libressl-developers-discuss-openssls
+reblog: {comment: "<p><p><a href=\"https://www.youtube.com/watch?v=GnBbhXBDmwU#t=41m27s\"\
+    >The LibreSSL developers discuss OpenSSL\u2019s incredible flexibility in the\
+    \ face of impossible situations</a>:</p>\n\n<blockquote>\n  <p><strong>Ted Unangst:</strong>\
+    \ But the good news is, if the size of <code>socklen_t</code> changes while your\
+    \ program is running \u2013</p>\n  \n  <p><strong>Bob Beck:</strong> OpenSSL will\
+    \ cope!</p>\n</blockquote></p>", tree_html: ''}
+reblog_key: CmVSKHNr
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1GDh9o4
+slug: the-libressl-developers-discuss-openssls
+state: published
+summary: '[The LibreSSL developers discuss OpenSSL''s incredible flexibility in the
+  face of impossible...'
+tags: [openssl, libressl, security, c, programming]
+timestamp: 1400437188
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p><p><a href=\"https://www.youtube.com/watch?v=GnBbhXBDmwU#t=41m27s\"\
+    >The LibreSSL developers discuss OpenSSL\u2019s incredible flexibility in the\
+    \ face of impossible situations</a>:</p>\n\n<blockquote>\n  <p><strong>Ted Unangst:</strong>\
+    \ But the good news is, if the size of <code>socklen_t</code> changes while your\
+    \ program is running \u2013</p>\n  \n  <p><strong>Bob Beck:</strong> OpenSSL will\
+    \ cope!</p>\n</blockquote></p>"
+  content_raw: "<p><p><a href=\"https://www.youtube.com/watch?v=GnBbhXBDmwU#t=41m27s\"\
+    >The LibreSSL developers discuss OpenSSL\u2019s incredible flexibility in the\
+    \ face of impossible situations</a>:</p>\n\n<blockquote>\n  <p><strong>Ted Unangst:</strong>\
+    \ But the good news is, if the size of <code>socklen_t</code> changes while your\
+    \ program is running \u2013</p>\n  \n  <p><strong>Bob Beck:</strong> OpenSSL will\
+    \ cope!</p>\n</blockquote></p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '86128761988'}
+type: text

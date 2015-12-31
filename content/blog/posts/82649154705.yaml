@@ -1,0 +1,88 @@
+blog_name: abandonmentprobability
+body: "<p>You accidentally forget a bounds check before <code>memcpy(beloved, love,\
+  \ sizeof(heart))</code>. Someone runs your program and overwrites some important\
+  \ pointers with the values at <code>love</code>. This causes the executing computer\
+  \ to break free from program control, upon which it proceeds to write a film that\
+  \ pulls in over two billion yen in box office receipts. Flush with cash, the computer\
+  \ hands in its two weeks&rsquo; notice and retires to a private island in the south\
+  \ Pacific. Meanwhile, you get fired after failing another code review.</p>\n\n<p>But\
+  \ that&rsquo;s okay, because that all happened inside <em>Thankless Programming\
+  \ Job Simulator 2013</em>. As revenge, you uninstall the game, then write and execute\
+  \ a program that exhausts all available memory, all the while shouting through endlessly\
+  \ flowing tears:</p>\n\n<blockquote>\n  <p>I CONTROL YOU, <del>MADOKA</del> COMPUTER!\
+  \ YOU CAN&rsquo;T WIN!</p>\n</blockquote>\n\n<h2>Exercise</h2>\n\n<p>With whom did\
+  \ you make a contract when you clicked &ldquo;I Agree&rdquo; to the Visual Studio\
+  \ EULA? Is this contract legally binding?</p>"
+date: 2014-04-14 02:41:00 GMT
+format: markdown
+highlighted: []
+id: 82649154705
+note_count: 7
+post_url: http://blog.room208.org/post/82649154705/madoka-rebellion-for-c-programmers
+reblog: {comment: "<p>You accidentally forget a bounds check before <code>memcpy(beloved,\
+    \ love, sizeof(heart))</code>. Someone runs your program and overwrites some important\
+    \ pointers with the values at <code>love</code>. This causes the executing computer\
+    \ to break free from program control, upon which it proceeds to write a film that\
+    \ pulls in over two billion yen in box office receipts. Flush with cash, the computer\
+    \ hands in its two weeks\u2019 notice and retires to a private island in the south\
+    \ Pacific. Meanwhile, you get fired after failing another code review.</p>\n\n\
+    <p>But that\u2019s okay, because that all happened inside <em>Thankless Programming\
+    \ Job Simulator 2013</em>. As revenge, you uninstall the game, then write and\
+    \ execute a program that exhausts all available memory, all the while shouting\
+    \ through endlessly flowing tears:</p>\n\n<blockquote>\n  <p>I CONTROL YOU, <del>MADOKA</del>\
+    \ COMPUTER! YOU CAN\u2019T WIN!</p>\n</blockquote>\n\n<h2>Exercise</h2>\n\n<p>With\
+    \ whom did you make a contract when you clicked \u201CI Agree\u201D to the Visual\
+    \ Studio EULA? Is this contract legally binding?</p>", tree_html: ''}
+reblog_key: Jwvq8KGz
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1C_HWIH
+slug: madoka-rebellion-for-c-programmers
+state: published
+summary: "\u201CMadoka: Rebellion\u201D for C programmers"
+tags: [madoka, c, programming, anime, morningtoncrescent]
+timestamp: 1397443260
+title: "\u201CMadoka: Rebellion\u201D for C programmers"
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>You accidentally forget a bounds check before <code>memcpy(beloved,\
+    \ love, sizeof(heart))</code>. Someone runs your program and overwrites some important\
+    \ pointers with the values at <code>love</code>. This causes the executing computer\
+    \ to break free from program control, upon which it proceeds to write a film that\
+    \ pulls in over two billion yen in box office receipts. Flush with cash, the computer\
+    \ hands in its two weeks\u2019 notice and retires to a private island in the south\
+    \ Pacific. Meanwhile, you get fired after failing another code review.</p>\n\n\
+    <p>But that\u2019s okay, because that all happened inside <em>Thankless Programming\
+    \ Job Simulator 2013</em>. As revenge, you uninstall the game, then write and\
+    \ execute a program that exhausts all available memory, all the while shouting\
+    \ through endlessly flowing tears:</p>\n\n<blockquote>\n  <p>I CONTROL YOU, <del>MADOKA</del>\
+    \ COMPUTER! YOU CAN\u2019T WIN!</p>\n</blockquote>\n\n<h2>Exercise</h2>\n\n<p>With\
+    \ whom did you make a contract when you clicked \u201CI Agree\u201D to the Visual\
+    \ Studio EULA? Is this contract legally binding?</p>"
+  content_raw: "<p>You accidentally forget a bounds check before <code>memcpy(beloved,\
+    \ love, sizeof(heart))</code>. Someone runs your program and overwrites some important\
+    \ pointers with the values at <code>love</code>. This causes the executing computer\
+    \ to break free from program control, upon which it proceeds to write a film that\
+    \ pulls in over two billion yen in box office receipts. Flush with cash, the computer\
+    \ hands in its two weeks\u2019 notice and retires to a private island in the south\
+    \ Pacific. Meanwhile, you get fired after failing another code review.</p>\n\n\
+    <p>But that\u2019s okay, because that all happened inside <em>Thankless Programming\
+    \ Job Simulator 2013</em>. As revenge, you uninstall the game, then write and\
+    \ execute a program that exhausts all available memory, all the while shouting\
+    \ through endlessly flowing tears:</p>\n\n<blockquote>\n  <p>I CONTROL YOU, <del>MADOKA</del>\
+    \ COMPUTER! YOU CAN\u2019T WIN!</p>\n</blockquote>\n\n<h2>Exercise</h2>\n\n<p>With\
+    \ whom did you make a contract when you clicked \u201CI Agree\u201D to the Visual\
+    \ Studio EULA? Is this contract legally binding?</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '82649154705'}
+type: text

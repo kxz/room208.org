@@ -1,0 +1,72 @@
+blog_name: abandonmentprobability
+caption: <p>While we&rsquo;re on the subject of noitaminA, the block&rsquo;s been
+  celebrating its tenth anniversary with a few specials. This one&rsquo;s a charming
+  short film called <em>Poulette&rsquo;s Chair</em> (<em>Poulette no Isu</em>), directed
+  by independent filmmaker Hiroyasu Ishida. Ishida previously released the one-man
+  project <em>Rain Town</em> in 2011, and he&rsquo;s also got <a href="http://www.pixiv.net/member.php?id=56398">a
+  Pixiv page</a> if you&rsquo;re into that kind of thing.</p>
+date: 2014-03-21 17:05:31 GMT
+format: markdown
+highlighted: []
+html5_capable: true
+id: 80271746952
+note_count: 10
+permalink_url: https://www.youtube.com/watch?v=l03lLXvUx7k
+player:
+- {embed_code: '<iframe width="250" height="141"  id="youtube_iframe" src="https://www.youtube.com/embed/l03lLXvUx7k?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allowfullscreen></iframe>', width: 250}
+- {embed_code: '<iframe width="400" height="225"  id="youtube_iframe" src="https://www.youtube.com/embed/l03lLXvUx7k?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allowfullscreen></iframe>', width: 400}
+- {embed_code: '<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/l03lLXvUx7k?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allowfullscreen></iframe>', width: 500}
+post_url: http://blog.room208.org/post/80271746952/while-were-on-the-subject-of-noitamina-the
+reblog: {comment: "<p>While we\u2019re on the subject of noitaminA, the block\u2019\
+    s been celebrating its tenth anniversary with a few specials. This one\u2019s\
+    \ a charming short film called <em>Poulette\u2019s Chair</em> (<em>Poulette no\
+    \ Isu</em>), directed by independent filmmaker Hiroyasu Ishida. Ishida previously\
+    \ released the one-man project <em>Rain Town</em> in 2011, and he\u2019s also\
+    \ got <a href=\"http://www.pixiv.net/member.php?id=56398\">a Pixiv page</a> if\
+    \ you\u2019re into that kind of thing.</p>", tree_html: ''}
+reblog_key: wvJpZ8BR
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1AmaQU8
+slug: while-were-on-the-subject-of-noitamina-the
+state: published
+summary: While we're on the subject of noitaminA, the block's been celebrating its
+  tenth anniversary with a few specials. This one's a...
+tags: [noitamina, anime, video]
+thumbnail_height: 360
+thumbnail_url: https://i.ytimg.com/vi/l03lLXvUx7k/hqdefault.jpg
+thumbnail_width: 480
+timestamp: 1395421531
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>While we\u2019re on the subject of noitaminA, the block\u2019s been\
+    \ celebrating its tenth anniversary with a few specials. This one\u2019s a charming\
+    \ short film called <em>Poulette\u2019s Chair</em> (<em>Poulette no Isu</em>),\
+    \ directed by independent filmmaker Hiroyasu Ishida. Ishida previously released\
+    \ the one-man project <em>Rain Town</em> in 2011, and he\u2019s also got <a href=\"\
+    http://www.pixiv.net/member.php?id=56398\">a Pixiv page</a> if you\u2019re into\
+    \ that kind of thing.</p>"
+  content_raw: "<p>While we\u2019re on the subject of noitaminA, the block\u2019s\
+    \ been celebrating its tenth anniversary with a few specials. This one\u2019s\
+    \ a charming short film called <em>Poulette\u2019s Chair</em> (<em>Poulette no\
+    \ Isu</em>), directed by independent filmmaker Hiroyasu Ishida. Ishida previously\
+    \ released the one-man project <em>Rain Town</em> in 2011, and he\u2019s also\
+    \ got <a href=\"http://www.pixiv.net/member.php?id=56398\">a Pixiv page</a> if\
+    \ you\u2019re into that kind of thing.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '80271746952'}
+type: video
+video_type: youtube

@@ -1,0 +1,82 @@
+blog_name: abandonmentprobability
+date: 2014-03-16 16:48:00 GMT
+description: '<p>This version of Dichotomy forces a fixed container width even for
+  pages with narrow content, adds support for Google Analytics&rsquo; Universal Tracking
+  snippet, and resolves a couple of other minor issues.</p>
+
+
+  <p>Who knows when this version will be available through the Tumblr Theme Garden.
+  I can apparently push changes through GitHub, but if I try to update the theme description
+  Tumblr complains about &ldquo;invalid theme HTML.&rdquo; I&rsquo;m guessing they
+  don&rsquo;t mean &ldquo;invalid&rdquo; the same way the W3C does, because Tumblr
+  mangles the markup so badly that <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fsafe.txmblr.com%2Ftheme%2Fpreview%2F38335">it&rsquo;s
+  literally impossible to have a blog with valid HTML</a>. Sigh.</p>'
+excerpt: null
+format: markdown
+highlighted: []
+id: 79772827394
+link_author: null
+link_image: http://38.media.tumblr.com/tumblr_n2jg01J7tf1qim2zw_og.png
+link_image_dimensions: {height: 400, width: 400}
+note_count: 0
+photos:
+- alt_sizes: []
+  caption: ''
+  original_size: {height: 400, url: 'http://38.media.tumblr.com/tumblr_n2jg01J7tf1qim2zw_og.png',
+    width: 400}
+post_url: http://blog.room208.org/post/79772827394/dichotomy-31
+publisher: github.com
+reblog: {comment: "<p>This version of Dichotomy forces a fixed container width even\
+    \ for pages with narrow content, adds support for Google Analytics\u2019 Universal\
+    \ Tracking snippet, and resolves a couple of other minor issues.</p>\n\n<p>Who\
+    \ knows when this version will be available through the Tumblr Theme Garden. I\
+    \ can apparently push changes through GitHub, but if I try to update the theme\
+    \ description Tumblr complains about \u201Cinvalid theme HTML.\u201D I\u2019m\
+    \ guessing they don\u2019t mean \u201Cinvalid\u201D the same way the W3C does,\
+    \ because Tumblr mangles the markup so badly that <a href=\"http://validator.w3.org/check?uri=http%3A%2F%2Fsafe.txmblr.com%2Ftheme%2Fpreview%2F38335\"\
+    >it\u2019s literally impossible to have a blog with valid HTML</a>. Sigh.</p>",
+  tree_html: ''}
+reblog_key: gZP72gJe
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1AIrBy2
+slug: dichotomy-31
+state: published
+summary: Dichotomy 3.1
+tags: [dichotomy, theme, tumblr]
+timestamp: 1394988480
+title: Dichotomy 3.1
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>This version of Dichotomy forces a fixed container width even for pages\
+    \ with narrow content, adds support for Google Analytics\u2019 Universal Tracking\
+    \ snippet, and resolves a couple of other minor issues.</p>\n\n<p>Who knows when\
+    \ this version will be available through the Tumblr Theme Garden. I can apparently\
+    \ push changes through GitHub, but if I try to update the theme description Tumblr\
+    \ complains about \u201Cinvalid theme HTML.\u201D I\u2019m guessing they don\u2019\
+    t mean \u201Cinvalid\u201D the same way the W3C does, because Tumblr mangles the\
+    \ markup so badly that <a href=\"http://validator.w3.org/check?uri=http%3A%2F%2Fsafe.txmblr.com%2Ftheme%2Fpreview%2F38335\"\
+    >it\u2019s literally impossible to have a blog with valid HTML</a>. Sigh.</p>"
+  content_raw: "<p>This version of Dichotomy forces a fixed container width even for\
+    \ pages with narrow content, adds support for Google Analytics\u2019 Universal\
+    \ Tracking snippet, and resolves a couple of other minor issues.</p>\n\n<p>Who\
+    \ knows when this version will be available through the Tumblr Theme Garden. I\
+    \ can apparently push changes through GitHub, but if I try to update the theme\
+    \ description Tumblr complains about \u201Cinvalid theme HTML.\u201D I\u2019m\
+    \ guessing they don\u2019t mean \u201Cinvalid\u201D the same way the W3C does,\
+    \ because Tumblr mangles the markup so badly that <a href=\"http://validator.w3.org/check?uri=http%3A%2F%2Fsafe.txmblr.com%2Ftheme%2Fpreview%2F38335\"\
+    >it\u2019s literally impossible to have a blog with valid HTML</a>. Sigh.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '79772827394'}
+type: link
+url: https://github.com/kxz/dichotomy/releases/tag/v3.1

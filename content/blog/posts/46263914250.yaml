@@ -1,0 +1,51 @@
+blog_name: abandonmentprobability
+caption: <p>Incidentally, symbolism.</p>
+date: 2013-03-25 18:01:42 GMT
+format: markdown
+highlighted: []
+id: 46263914250
+image_permalink: http://blog.room208.org/image/46263914250
+note_count: 1
+photos:
+- alt_sizes:
+  - {height: 82, url: 'http://41.media.tumblr.com/cfb8531f57b244b12d64cf71cedd6179/tumblr_mk8a2uDf2n1qim2zwo1_500.png',
+    width: 500}
+  - {height: 66, url: 'http://41.media.tumblr.com/cfb8531f57b244b12d64cf71cedd6179/tumblr_mk8a2uDf2n1qim2zwo1_400.png',
+    width: 400}
+  - {height: 41, url: 'http://41.media.tumblr.com/cfb8531f57b244b12d64cf71cedd6179/tumblr_mk8a2uDf2n1qim2zwo1_250.png',
+    width: 250}
+  - {height: 16, url: 'http://41.media.tumblr.com/cfb8531f57b244b12d64cf71cedd6179/tumblr_mk8a2uDf2n1qim2zwo1_100.png',
+    width: 100}
+  - {height: 75, url: 'http://41.media.tumblr.com/cfb8531f57b244b12d64cf71cedd6179/tumblr_mk8a2uDf2n1qim2zwo1_75sq.png',
+    width: 75}
+  caption: ''
+  original_size: {height: 82, url: 'http://41.media.tumblr.com/cfb8531f57b244b12d64cf71cedd6179/tumblr_mk8a2uDf2n1qim2zwo1_500.png',
+    width: 500}
+post_url: http://blog.room208.org/post/46263914250/incidentally-symbolism
+reblog: {comment: '<p>Incidentally, symbolism.</p>', tree_html: ''}
+reblog_key: b9spqcEO
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxh5YqyA
+slug: incidentally-symbolism
+state: published
+summary: Incidentally, symbolism.
+tags: [anime, madoka, autocorrection, morningtoncrescent]
+timestamp: 1364234502
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: <p>Incidentally, symbolism.</p>
+  content_raw: <p>Incidentally, symbolism.</p>
+  is_current_item: true
+  is_root_item: true
+  post: {id: '46263914250'}
+type: photo

@@ -1,0 +1,57 @@
+blog_name: abandonmentprobability
+caption: <p>Our poor protagonist&rsquo;s sole confidant performs the ritual dance
+  of its Roomba ancestors. <em>Humanity Has Declined</em> episode 11.</p>
+date: 2012-09-11 04:38:48 GMT
+format: markdown
+highlighted: []
+id: 31320510509
+image_permalink: http://blog.room208.org/image/31320510509
+note_count: 3
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://45.media.tumblr.com/tumblr_ma64woFoCC1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://45.media.tumblr.com/tumblr_ma64woFoCC1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://49.media.tumblr.com/tumblr_ma64woFoCC1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://49.media.tumblr.com/tumblr_ma64woFoCC1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://49.media.tumblr.com/tumblr_ma64woFoCC1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://45.media.tumblr.com/tumblr_ma64woFoCC1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/31320510509/our-poor-protagonists-sole-confidant-performs-the
+reblog: {comment: "<p>Our poor protagonist\u2019s sole confidant performs the ritual\
+    \ dance of its Roomba ancestors. <em>Humanity Has Declined</em> episode 11.</p>",
+  tree_html: ''}
+reblog_key: Kb67Cn5v
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxTAsH0j
+slug: our-poor-protagonists-sole-confidant-performs-the
+state: published
+summary: Our poor protagonist's sole confidant performs the ritual dance of its Roomba
+  ancestors. _Humanity Has Declined_ episode 11.
+tags: [anime, humanityhasdeclined, gif]
+timestamp: 1347338328
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Our poor protagonist\u2019s sole confidant performs the ritual dance\
+    \ of its Roomba ancestors. <em>Humanity Has Declined</em> episode 11.</p>"
+  content_raw: "<p>Our poor protagonist\u2019s sole confidant performs the ritual\
+    \ dance of its Roomba ancestors. <em>Humanity Has Declined</em> episode 11.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '31320510509'}
+type: photo

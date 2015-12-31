@@ -1,0 +1,132 @@
+blog_name: abandonmentprobability
+body: '<p>Tumblr has started making link posts point to an interstitial redirect on
+  <code>t.umblr.com</code>, instead of directly to the actual page. In the spirit
+  of <a href="http://webapps.stackexchange.com/questions/25175/why-does-google-search-use-redirects-instead-of-direct-links">Google&rsquo;s
+  incredibly annoying redirector</a>, the URLs are hideous:</p>
+
+
+  <pre>
+
+  http<!-- don''t autolink -->://t.umblr.com/redirect?t=ZDEwZGUwNGIxMmVlNTAxMTNiOTAzYWQ
+
+  yYjY1ZTdmMjM2MzAwN2NmYSxFSnRleTUxQw%3D%3D&amp;u=aHR0cDovL3d3dy5mL
+
+  W5vaXRhbWluYS5jb20%3D
+
+  </pre>
+
+
+  <p><code>t</code> appears to be a Base64-encoded token specific to the post, while
+  <code>u</code> is just the Base64-encoded URL. The redirector at least checks that
+  the token matches the URL so that it can&rsquo;t be used for phishing by setting
+  an arbitrary target, which raises the question of why the URL is there in the first
+  place, in a format that&rsquo;s opaque to human readers.</p>
+
+
+  <p>Not following Google&rsquo;s example, the redirect is performed as an HTML <code>&lt;meta&gt;</code>
+  refresh. This is stupid for a multitude of reasons, not the least of which is that
+  it <a href="https://www.google.com/search?q=site%3At.umblr.com">confuses clients
+  that aren&rsquo;t Web browsers</a>. Moreover, while Google waits until the link
+  is clicked on to replace the URL, so the status bar remains useful, Tumblr doesn&rsquo;t.
+  This means that there&rsquo;s no visible indication of where a link really points
+  if you&rsquo;re not on the dashboard.</p>
+
+
+  <p>What is the point of all this? Analytics, most likely, though of course given
+  Tumblr&rsquo;s remarkable lack of communication about its platform the real reason
+  is anyone&rsquo;s guess. What I do know is that it&rsquo;s dumb.</p>'
+date: 2015-09-15 01:31:08 GMT
+format: markdown
+highlighted: []
+id: 129113773343
+note_count: 7
+post_url: http://blog.room208.org/post/129113773343/tumblr-has-started-making-link-posts-point-to-an
+reblog: {comment: "<p>Tumblr has started making link posts point to an interstitial\
+    \ redirect on <code>t.umblr.com</code>, instead of directly to the actual page.\
+    \ In the spirit of <a href=\"http://webapps.stackexchange.com/questions/25175/why-does-google-search-use-redirects-instead-of-direct-links\"\
+    >Google\u2019s incredibly annoying redirector</a>, the URLs are hideous:</p>\n\
+    \n<pre>\nhttp<!-- don't autolink -->://t.umblr.com/redirect?t=ZDEwZGUwNGIxMmVlNTAxMTNiOTAzYWQ\n\
+    yYjY1ZTdmMjM2MzAwN2NmYSxFSnRleTUxQw%3D%3D&amp;u=aHR0cDovL3d3dy5mL\nW5vaXRhbWluYS5jb20%3D\n\
+    </pre>\n\n<p><code>t</code> appears to be a Base64-encoded token specific to the\
+    \ post, while <code>u</code> is just the Base64-encoded URL. The redirector at\
+    \ least checks that the token matches the URL so that it can\u2019t be used for\
+    \ phishing by setting an arbitrary target, which raises the question of why the\
+    \ URL is there in the first place, in a format that\u2019s opaque to human readers.</p>\n\
+    \n<p>Not following Google\u2019s example, the redirect is performed as an HTML\
+    \ <code>&lt;meta&gt;</code> refresh. This is stupid for a multitude of reasons,\
+    \ not the least of which is that it <a href=\"https://www.google.com/search?q=site%3At.umblr.com\"\
+    >confuses clients that aren\u2019t Web browsers</a>. Moreover, while Google waits\
+    \ until the link is clicked on to replace the URL, so the status bar remains useful,\
+    \ Tumblr doesn\u2019t. This means that there\u2019s no visible indication of where\
+    \ a link really points if you\u2019re not on the dashboard.</p>\n\n<p>What is\
+    \ the point of all this? Analytics, most likely, though of course given Tumblr\u2019\
+    s remarkable lack of communication about its platform the real reason is anyone\u2019\
+    s guess. What I do know is that it\u2019s dumb.</p>", tree_html: ''}
+reblog_key: rI29XRPl
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1uFnzKV
+slug: tumblr-has-started-making-link-posts-point-to-an
+state: published
+summary: Tumblr has started making link posts point to an interstitial redirect on
+  `t.umblr.com`, instead of directly to the actual page....
+tags: [tumblr, webdev, whinybugzilla]
+timestamp: 1442280668
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Tumblr has started making link posts point to an interstitial redirect\
+    \ on <code>t.umblr.com</code>, instead of directly to the actual page. In the\
+    \ spirit of <a href=\"http://webapps.stackexchange.com/questions/25175/why-does-google-search-use-redirects-instead-of-direct-links\"\
+    >Google\u2019s incredibly annoying redirector</a>, the URLs are hideous:</p>\n\
+    \n<pre>\nhttp://t.umblr.com/redirect?t=ZDEwZGUwNGIxMmVlNTAxMTNiOTAzYWQ\nyYjY1ZTdmMjM2MzAwN2NmYSxFSnRleTUxQw%3D%3D&amp;u=aHR0cDovL3d3dy5mL\n\
+    W5vaXRhbWluYS5jb20%3D\n</pre>\n\n<p><code>t</code> appears to be a Base64-encoded\
+    \ token specific to the post, while <code>u</code> is just the Base64-encoded\
+    \ URL. The redirector at least checks that the token matches the URL so that it\
+    \ can\u2019t be used for phishing by setting an arbitrary target, which raises\
+    \ the question of why the URL is there in the first place, in a format that\u2019\
+    s opaque to human readers.</p>\n\n<p>Not following Google\u2019s example, the\
+    \ redirect is performed as an HTML <code>&lt;meta&gt;</code> refresh. This is\
+    \ stupid for a multitude of reasons, not the least of which is that it <a href=\"\
+    https://www.google.com/search?q=site%3At.umblr.com\">confuses clients that aren\u2019\
+    t Web browsers</a>. Moreover, while Google waits until the link is clicked on\
+    \ to replace the URL, so the status bar remains useful, Tumblr doesn\u2019t. This\
+    \ means that there\u2019s no visible indication of where a link really points\
+    \ if you\u2019re not on the dashboard.</p>\n\n<p>What is the point of all this?\
+    \ Analytics, most likely, though of course given Tumblr\u2019s remarkable lack\
+    \ of communication about its platform the real reason is anyone\u2019s guess.\
+    \ What I do know is that it\u2019s dumb.</p>"
+  content_raw: "<p>Tumblr has started making link posts point to an interstitial redirect\
+    \ on <code>t.umblr.com</code>, instead of directly to the actual page. In the\
+    \ spirit of <a href=\"http://webapps.stackexchange.com/questions/25175/why-does-google-search-use-redirects-instead-of-direct-links\"\
+    >Google\u2019s incredibly annoying redirector</a>, the URLs are hideous:</p>\n\
+    \n<pre>\nhttp<!-- don't autolink -->://t.umblr.com/redirect?t=ZDEwZGUwNGIxMmVlNTAxMTNiOTAzYWQ\n\
+    yYjY1ZTdmMjM2MzAwN2NmYSxFSnRleTUxQw%3D%3D&amp;u=aHR0cDovL3d3dy5mL\nW5vaXRhbWluYS5jb20%3D\n\
+    </pre>\n\n<p><code>t</code> appears to be a Base64-encoded token specific to the\
+    \ post, while <code>u</code> is just the Base64-encoded URL. The redirector at\
+    \ least checks that the token matches the URL so that it can\u2019t be used for\
+    \ phishing by setting an arbitrary target, which raises the question of why the\
+    \ URL is there in the first place, in a format that\u2019s opaque to human readers.</p>\n\
+    \n<p>Not following Google\u2019s example, the redirect is performed as an HTML\
+    \ <code>&lt;meta&gt;</code> refresh. This is stupid for a multitude of reasons,\
+    \ not the least of which is that it <a href=\"https://www.google.com/search?q=site%3At.umblr.com\"\
+    >confuses clients that aren\u2019t Web browsers</a>. Moreover, while Google waits\
+    \ until the link is clicked on to replace the URL, so the status bar remains useful,\
+    \ Tumblr doesn\u2019t. This means that there\u2019s no visible indication of where\
+    \ a link really points if you\u2019re not on the dashboard.</p>\n\n<p>What is\
+    \ the point of all this? Analytics, most likely, though of course given Tumblr\u2019\
+    s remarkable lack of communication about its platform the real reason is anyone\u2019\
+    s guess. What I do know is that it\u2019s dumb.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '129113773343'}
+type: text

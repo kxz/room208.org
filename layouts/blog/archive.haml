@@ -1,0 +1,14 @@
+- render '/blog/base.haml' do
+  %section
+    %h1 Posts from #{@item[:title]}
+    - @item[:posts].each_with_index do |post_id, index|
+      - post = @items[post_id]
+      - if index < 5
+        = render '/blog/_post.haml', item: post
+      - else
+        %article.abbreviated
+          %a{href: post.path}= summarize(post)
+    %script{src: '/assets/js/jquery.min.js'}
+    %script{src: '/assets/js/jquery.waypoints.min.js'}
+    %script{src: '/assets/js/inview.min.js'}
+    %script{src: '/assets/js/archive.js'}

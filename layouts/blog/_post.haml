@@ -1,0 +1,15 @@
+%article
+  = render "/blog/_#{@item[:type] || 'text'}.haml"
+  %footer
+    %dl
+      %dt Posted
+      %dd
+        %a{href: @item.path, rel: 'bookmark', title: 'Permanent link to this post'}
+          %time{datetime: @item[:created_at].strftime('%FT%T%:z')}= @item[:created_at].strftime('%B %-d, %Y')
+
+      - if @item[:tags]
+        %dt Tagged
+        %dd
+          %ul
+            - @item[:tags].each do |tag|
+              %li= %{\#<a href="/blog/tags/#{tag}.html" rel="tag" title="All posts tagged \##{tag}">#{tag}</a>}

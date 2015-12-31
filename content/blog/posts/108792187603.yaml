@@ -1,0 +1,67 @@
+blog_name: abandonmentprobability
+body: '<p>I&rsquo;m a Tumblr theme developer. I have various bug reports and feature
+  requests that I&rsquo;d like to send in, not least regarding <a href="http://blog.room208.org/post/79772827394">my
+  continued inability to edit my theme&rsquo;s description</a>. Tumblr&rsquo;s official
+  venue for discussion of the theme API is <a href="http://groups.google.com/group/tumblr-themes">a
+  Google Group</a> that has been dead for months, and was rarely trafficked by Tumblr
+  devs even before it died. So, readers: Do I have any recourse for getting things
+  fixed, beyond <a href="https://github.com/tumblr/ios-extension-issues">complaining
+  a lot</a> and hoping someone notices?</p>'
+date: 2015-01-22 03:10:00 GMT
+format: markdown
+highlighted: []
+id: 108792187603
+note_count: 0
+post_url: http://blog.room208.org/post/108792187603/im-a-tumblr-theme-developer-i-have-various-bug
+reblog: {comment: "<p>I\u2019m a Tumblr theme developer. I have various bug reports\
+    \ and feature requests that I\u2019d like to send in, not least regarding <a href=\"\
+    http://blog.room208.org/post/79772827394\">my continued inability to edit my theme\u2019\
+    s description</a>. Tumblr\u2019s official venue for discussion of the theme API\
+    \ is <a href=\"http://groups.google.com/group/tumblr-themes\">a Google Group</a>\
+    \ that has been dead for months, and was rarely trafficked by Tumblr devs even\
+    \ before it died. So, readers: Do I have any recourse for getting things fixed,\
+    \ beyond <a href=\"https://github.com/tumblr/ios-extension-issues\">complaining\
+    \ a lot</a> and hoping someone notices?</p>", tree_html: ''}
+reblog_key: ESsDoTdG
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1bKXGhJ
+slug: im-a-tumblr-theme-developer-i-have-various-bug
+state: published
+summary: I'm a Tumblr theme developer. I have various bug reports and feature requests
+  that I'd like to send in, not least regarding [my...
+tags: [tumblr, theme, whinybugzilla]
+timestamp: 1421896200
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>I\u2019m a Tumblr theme developer. I have various bug reports and feature\
+    \ requests that I\u2019d like to send in, not least regarding <a href=\"http://blog.room208.org/post/79772827394\"\
+    >my continued inability to edit my theme\u2019s description</a>. Tumblr\u2019\
+    s official venue for discussion of the theme API is <a href=\"http://groups.google.com/group/tumblr-themes\"\
+    >a Google Group</a> that has been dead for months, and was rarely trafficked by\
+    \ Tumblr devs even before it died. So, readers: Do I have any recourse for getting\
+    \ things fixed, beyond <a href=\"https://github.com/tumblr/ios-extension-issues\"\
+    >complaining a lot</a> and hoping someone notices?</p>"
+  content_raw: "<p>I\u2019m a Tumblr theme developer. I have various bug reports and\
+    \ feature requests that I\u2019d like to send in, not least regarding <a href=\"\
+    http://blog.room208.org/post/79772827394\">my continued inability to edit my theme\u2019\
+    s description</a>. Tumblr\u2019s official venue for discussion of the theme API\
+    \ is <a href=\"http://groups.google.com/group/tumblr-themes\">a Google Group</a>\
+    \ that has been dead for months, and was rarely trafficked by Tumblr devs even\
+    \ before it died. So, readers: Do I have any recourse for getting things fixed,\
+    \ beyond <a href=\"https://github.com/tumblr/ios-extension-issues\">complaining\
+    \ a lot</a> and hoping someone notices?</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '108792187603'}
+type: text

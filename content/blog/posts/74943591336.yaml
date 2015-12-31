@@ -1,0 +1,64 @@
+blog_name: abandonmentprobability
+date: 2014-01-29 15:00:00 GMT
+description: <p>The recent <a href="http://blog.room208.org/post/74885758562">3.0
+  release of Dichotomy</a> is now available through the Tumblr Theme Garden, for your
+  one-click installation pleasure. Note that Tumblr has a nasty tendency to reset
+  user theme settings when upgrading themes, so existing Dichotomy users will want
+  to visit the <a href="http://www.tumblr.com/customize">Customize page</a> and make
+  a copy of their current preferences before taking the plunge. (Though, honestly,
+  black and white and gray ought to be enough for anyone.)</p>
+excerpt: null
+format: markdown
+highlighted: []
+id: 74943591336
+link_author: null
+note_count: 0
+post_url: http://blog.room208.org/post/74943591336/dichotomy-now-available-in-the-tumblr-theme-garden
+publisher: tumblr.com
+reblog: {comment: '<p>The recent <a href="http://blog.room208.org/post/74885758562">3.0
+    release of Dichotomy</a> is now available through the Tumblr Theme Garden, for
+    your one-click installation pleasure. Note that Tumblr has a nasty tendency to
+    reset user theme settings when upgrading themes, so existing Dichotomy users will
+    want to visit the <a href="http://www.tumblr.com/customize">Customize page</a>
+    and make a copy of their current preferences before taking the plunge. (Though,
+    honestly, black and white and gray ought to be enough for anyone.)</p>', tree_html: ''}
+reblog_key: cluT9zhb
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx15o-7Ee
+slug: dichotomy-now-available-in-the-tumblr-theme-garden
+state: published
+summary: Dichotomy now available in the Tumblr Theme Garden
+tags: [dichotomy, theme, tumblr]
+timestamp: 1391007600
+title: Dichotomy now available in the Tumblr Theme Garden
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: <p>The recent <a href="http://blog.room208.org/post/74885758562">3.0 release
+    of Dichotomy</a> is now available through the Tumblr Theme Garden, for your one-click
+    installation pleasure. Note that Tumblr has a nasty tendency to reset user theme
+    settings when upgrading themes, so existing Dichotomy users will want to visit
+    the <a href="http://www.tumblr.com/customize">Customize page</a> and make a copy
+    of their current preferences before taking the plunge. (Though, honestly, black
+    and white and gray ought to be enough for anyone.)</p>
+  content_raw: <p>The recent <a href="http://blog.room208.org/post/74885758562">3.0
+    release of Dichotomy</a> is now available through the Tumblr Theme Garden, for
+    your one-click installation pleasure. Note that Tumblr has a nasty tendency to
+    reset user theme settings when upgrading themes, so existing Dichotomy users will
+    want to visit the <a href="http://www.tumblr.com/customize">Customize page</a>
+    and make a copy of their current preferences before taking the plunge. (Though,
+    honestly, black and white and gray ought to be enough for anyone.)</p>
+  is_current_item: true
+  is_root_item: true
+  post: {id: '74943591336'}
+type: link
+url: http://www.tumblr.com/theme/38335

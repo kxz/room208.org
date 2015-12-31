@@ -1,0 +1,419 @@
+blog_name: abandonmentprobability
+body: '<p><img src="http://33.media.tumblr.com/9f92a6f7bb9368d2ad9ec843b6910609/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg"
+  alt=""/></p>
+
+
+  <p>When I went back to Landry the next day, the smell of charred electronics was
+  still lingering in the air.  I&rsquo;d nicked the air freshener that had been sitting
+  on the counter of my hotel bathroom in the hopes of masking the odor, but even with
+  the station&rsquo;s interior ventilation on full blast, nothing really helped.  Lacking
+  for better options, I found myself leaning over and sticking my nose into the fragrance
+  cartridge every so often as I pored through Landry&rsquo;s logs and computer code
+  on one of its sleek, glossy terminals.</p>
+
+
+  <p>The damage had been minimal this time, thankfully, limited to one network switch
+  that was simply swapped out for a spare.  Sabina was positively beaming at the small
+  scope of the trouble.  &ldquo;Maybe things are starting to look up,&rdquo; she said
+  as she passed by my workstation.  &ldquo;Nothing blew up this time, right?  Does
+  this count as threat mitigation?&rdquo;</p>
+
+
+  <p>&ldquo;It counts if you&rsquo;re willing to take the credit for it,&rdquo; I
+  said, not bothering to take my eyes away from the screen.</p>
+
+
+  <!-- more -->
+
+
+  <p>&ldquo;Oh, perfect.  I can submit this for my next performance review.&rdquo;</p>
+
+
+  <p>&ldquo;You guys have performance reviews?&rdquo;  I scrunched my face in distaste,
+  not at Sabina&rsquo;s response but at a particularly inscrutable line of diagnostic
+  output.</p>
+
+
+  <p>&ldquo;We do now that I have something to brag about,&rdquo; Sabina said, with
+  a chuckle.</p>
+
+
+  <p>&ldquo;And meanwhile I&rsquo;m the one sitting in front of the computer&hellip;&rdquo;</p>
+
+
+  <p>&ldquo;You&rsquo;re the one who volunteered for it.&rdquo;</p>
+
+
+  <p>&ldquo;I&rsquo;m beginning to regret doing that,&rdquo; I said sullenly.  &ldquo;Spending
+  all my time up at Sudalis doing nothing made me forget just how much of a pain debugging
+  is.  It&rsquo;s not worth it, I&rsquo;m telling you.&rdquo;</p>
+
+
+  <p>&ldquo;Not even for the bonus?&rdquo;</p>
+
+
+  <p>&ldquo;Not unless that bonus is&hellip;&rdquo;  I flicked my eye to the clock
+  in the corner of the monitor.  &ldquo;Four hours of my life back.&rdquo;</p>
+
+
+  <p>I finally removed my hands from the keyboard and put them behind my head, leaning
+  back in the chair in exasperation.  An upside-down image of Sabina&rsquo;s cheerful
+  face greeted me in return.</p>
+
+
+  <p>&ldquo;Taking a break?&rdquo; she asked.</p>
+
+
+  <p>&ldquo;No.  I&rsquo;ve figured out what&rsquo;s going on.&rdquo;</p>
+
+
+  <p>&ldquo;Really?&rdquo;</p>
+
+
+  <p>&ldquo;Yeah.  But, uh, before I tell you&hellip;&rdquo;  I spun the office chair
+  around so that I no longer had to crane my neck to look at Sabina.  &ldquo;I have
+  to ask, who wrote the station&rsquo;s legacy message handling component?&rdquo;</p>
+
+
+  <p>&ldquo;That&rsquo;d be me.  Why do you want to know?&rdquo;</p>
+
+
+  <p>I felt my breathing get a little shallower.  Diplomacy was not exactly my strong
+  point.  &ldquo;Um, uh, well, I just wanted to &ndash; uh &ndash;&rdquo;</p>
+
+
+  <p>Sabina laughed.  &ldquo;I&rsquo;m just kidding.  Some contractors ported over
+  the control software from the old station setup.  Let me guess, it sucks.&rdquo;</p>
+
+
+  <p>I sighed in relief.  &ldquo;Yeah.  It&rsquo;s terrible.  I&rsquo;m surprised
+  this entire station didn&rsquo;t burn down long before you got here.&rdquo;</p>
+
+
+  <p>&ldquo;So what&rsquo;s wrong?&rdquo;</p>
+
+
+  <p>&ldquo;I&rsquo;d prefer to explain what isn&rsquo;t, because that list&rsquo;s
+  a lot shorter.&rdquo;</p>
+
+
+  <p>&ldquo;I had a feeling.&rdquo;  Sabina shook her head as she dragged a nearby
+  chair up next to me.  Sitting down, she nudged me over so she could get a good look
+  at the screen.  &ldquo;Lay out the scene for me.&rdquo;</p>
+
+
+  <p>I mimed my head exploding, complete with the sound of a bomb burst.  &ldquo;That&rsquo;s
+  about the long and the short of it.  There&rsquo;s buffer overflows, missed bounds
+  checks, stale pointers,&rdquo; I said, ticking each of the items off on my fingers
+  as I went, &ldquo;and on top of that the source code comments are composed entirely
+  of out-of-context movie quotes.&rdquo;</p>
+
+
+  <p>&ldquo;That last one&rsquo;s worthy of the gallows.&rdquo;</p>
+
+
+  <p>&ldquo;I&rsquo;d say.  Anyway, what&rsquo;s really stupid is that none of this
+  would matter if it weren&rsquo;t for the fact that the clown does some really extreme
+  stuff with the comms signal.  The messages are padded with a bunch of random noise
+  that&rsquo;s <em>barely</em> within the specs.  As bad as this code is, it&rsquo;d
+  handle pretty much every normal message fine.  The ones from the clown, though&hellip;
+  the control computer&rsquo;s memory will turn to garbage faster than you can say&hellip;
+  uh&hellip;&rdquo;  I trailed off, losing my train of thought.  &ldquo;Help me out
+  here.  What&rsquo;s, like, a clown catchphrase?&rdquo;</p>
+
+
+  <p>&ldquo;Don&rsquo;t ask me.  I always thought clowns were really creepy.  Besides,
+  aren&rsquo;t you supposed to be the clown expert?&rdquo;</p>
+
+
+  <p>&ldquo;Please, don&rsquo;t remind me.&rdquo;  I slumped over in my chair, defeated.</p>
+
+
+  <p>Sabina stared at me in bemused silence for a moment.  Finally, with a voice of
+  mildly sarcastic concern, she said, &ldquo;I&rsquo;ll send the drone around with
+  some coffee, okay?&rdquo;</p>'
+body_abstract: '
+
+  <p><img src="http://33.media.tumblr.com/9f92a6f7bb9368d2ad9ec843b6910609/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg"
+  alt=""></p>
+
+
+  <p>When I went back to Landry the next day, the smell of charred electronics was
+  still lingering in the air.  I&rsquo;d nicked the air freshener that had been sitting
+  on the counter of my hotel bathroom in the hopes of masking the odor, but even with
+  the station&rsquo;s interior ventilation on full blast, nothing really helped.  Lacking
+  for better options, I found myself leaning over and sticking my nose into the fragrance
+  cartridge every so often as I pored through Landry&rsquo;s logs and computer code
+  on one of its sleek, glossy terminals.</p>
+
+
+  <p>The damage had been minimal this time, thankfully, limited to one network switch
+  that was simply swapped out for a spare.  Sabina was positively beaming at the small
+  scope of the trouble.  &ldquo;Maybe things are starting to look up,&rdquo; she said
+  as she passed by my workstation.  &ldquo;Nothing blew up this time, right?  Does
+  this count as threat mitigation?&rdquo;</p>
+
+
+  <p>&ldquo;It counts if you&rsquo;re willing to take the credit for it,&rdquo; I
+  said, not bothering to take my eyes away from the screen.</p>
+
+
+  '
+date: 2014-02-24 02:45:00 GMT
+format: markdown
+highlighted: []
+id: 77660242670
+note_count: 0
+post_url: http://blog.room208.org/post/77660242670/when-i-went-back-to-landry-the-next-day-the-smell
+reblog: {comment: "<p><img src=\"http://33.media.tumblr.com/9f92a6f7bb9368d2ad9ec843b6910609/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg\"\
+    \ alt=\"\"></p>\n\n<p>When I went back to Landry the next day, the smell of charred\
+    \ electronics was still lingering in the air.  I\u2019d nicked the air freshener\
+    \ that had been sitting on the counter of my hotel bathroom in the hopes of masking\
+    \ the odor, but even with the station\u2019s interior ventilation on full blast,\
+    \ nothing really helped.  Lacking for better options, I found myself leaning over\
+    \ and sticking my nose into the fragrance cartridge every so often as I pored\
+    \ through Landry\u2019s logs and computer code on one of its sleek, glossy terminals.</p>\n\
+    \n<p>The damage had been minimal this time, thankfully, limited to one network\
+    \ switch that was simply swapped out for a spare.  Sabina was positively beaming\
+    \ at the small scope of the trouble.  \u201CMaybe things are starting to look\
+    \ up,\u201D she said as she passed by my workstation.  \u201CNothing blew up this\
+    \ time, right?  Does this count as threat mitigation?\u201D</p>\n\n<p>\u201CIt\
+    \ counts if you\u2019re willing to take the credit for it,\u201D I said, not bothering\
+    \ to take my eyes away from the screen.</p>\n\n[[MORE]]\n\n<p>\u201COh, perfect.\
+    \  I can submit this for my next performance review.\u201D</p>\n\n<p>\u201CYou\
+    \ guys have performance reviews?\u201D  I scrunched my face in distaste, not at\
+    \ Sabina\u2019s response but at a particularly inscrutable line of diagnostic\
+    \ output.</p>\n\n<p>\u201CWe do now that I have something to brag about,\u201D\
+    \ Sabina said, with a chuckle.</p>\n\n<p>\u201CAnd meanwhile I\u2019m the one\
+    \ sitting in front of the computer\u2026\u201D</p>\n\n<p>\u201CYou\u2019re the\
+    \ one who volunteered for it.\u201D</p>\n\n<p>\u201CI\u2019m beginning to regret\
+    \ doing that,\u201D I said sullenly.  \u201CSpending all my time up at Sudalis\
+    \ doing nothing made me forget just how much of a pain debugging is.  It\u2019\
+    s not worth it, I\u2019m telling you.\u201D</p>\n\n<p>\u201CNot even for the bonus?\u201D\
+    </p>\n\n<p>\u201CNot unless that bonus is\u2026\u201D  I flicked my eye to the\
+    \ clock in the corner of the monitor.  \u201CFour hours of my life back.\u201D\
+    </p>\n\n<p>I finally removed my hands from the keyboard and put them behind my\
+    \ head, leaning back in the chair in exasperation.  An upside-down image of Sabina\u2019\
+    s cheerful face greeted me in return.</p>\n\n<p>\u201CTaking a break?\u201D she\
+    \ asked.</p>\n\n<p>\u201CNo.  I\u2019ve figured out what\u2019s going on.\u201D\
+    </p>\n\n<p>\u201CReally?\u201D</p>\n\n<p>\u201CYeah.  But, uh, before I tell you\u2026\
+    \u201D  I spun the office chair around so that I no longer had to crane my neck\
+    \ to look at Sabina.  \u201CI have to ask, who wrote the station\u2019s legacy\
+    \ message handling component?\u201D</p>\n\n<p>\u201CThat\u2019d be me.  Why do\
+    \ you want to know?\u201D</p>\n\n<p>I felt my breathing get a little shallower.\
+    \  Diplomacy was not exactly my strong point.  \u201CUm, uh, well, I just wanted\
+    \ to \u2013 uh \u2013\u201D</p>\n\n<p>Sabina laughed.  \u201CI\u2019m just kidding.\
+    \  Some contractors ported over the control software from the old station setup.\
+    \  Let me guess, it sucks.\u201D</p>\n\n<p>I sighed in relief.  \u201CYeah.  It\u2019\
+    s terrible.  I\u2019m surprised this entire station didn\u2019t burn down long\
+    \ before you got here.\u201D</p>\n\n<p>\u201CSo what\u2019s wrong?\u201D</p>\n\
+    \n<p>\u201CI\u2019d prefer to explain what isn\u2019t, because that list\u2019\
+    s a lot shorter.\u201D</p>\n\n<p>\u201CI had a feeling.\u201D  Sabina shook her\
+    \ head as she dragged a nearby chair up next to me.  Sitting down, she nudged\
+    \ me over so she could get a good look at the screen.  \u201CLay out the scene\
+    \ for me.\u201D</p>\n\n<p>I mimed my head exploding, complete with the sound of\
+    \ a bomb burst.  \u201CThat\u2019s about the long and the short of it.  There\u2019\
+    s buffer overflows, missed bounds checks, stale pointers,\u201D I said, ticking\
+    \ each of the items off on my fingers as I went, \u201Cand on top of that the\
+    \ source code comments are composed entirely of out-of-context movie quotes.\u201D\
+    </p>\n\n<p>\u201CThat last one\u2019s worthy of the gallows.\u201D</p>\n\n<p>\u201C\
+    I\u2019d say.  Anyway, what\u2019s really stupid is that none of this would matter\
+    \ if it weren\u2019t for the fact that the clown does some really extreme stuff\
+    \ with the comms signal.  The messages are padded with a bunch of random noise\
+    \ that\u2019s <em>barely</em> within the specs.  As bad as this code is, it\u2019\
+    d handle pretty much every normal message fine.  The ones from the clown, though\u2026\
+    \ the control computer\u2019s memory will turn to garbage faster than you can\
+    \ say\u2026 uh\u2026\u201D  I trailed off, losing my train of thought.  \u201C\
+    Help me out here.  What\u2019s, like, a clown catchphrase?\u201D</p>\n\n<p>\u201C\
+    Don\u2019t ask me.  I always thought clowns were really creepy.  Besides, aren\u2019\
+    t you supposed to be the clown expert?\u201D</p>\n\n<p>\u201CPlease, don\u2019\
+    t remind me.\u201D  I slumped over in my chair, defeated.</p>\n\n<p>Sabina stared\
+    \ at me in bemused silence for a moment.  Finally, with a voice of mildly sarcastic\
+    \ concern, she said, \u201CI\u2019ll send the drone around with some coffee, okay?\u201D\
+    </p>", tree_html: ''}
+reblog_key: t5hEwPJM
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx18KwKBk
+slug: when-i-went-back-to-landry-the-next-day-the-smell
+state: published
+summary: "![](https://31.media.tumblr.com/9f92a6f7bb9368d2ad9ec843b6910609/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg)\r\
+  \n\r\nWhen I went back to..."
+tags: [keyboardmashfiction, photo]
+timestamp: 1393209900
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p><img src=\"http://33.media.tumblr.com/9f92a6f7bb9368d2ad9ec843b6910609/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg\"\
+    \ class=\"toggle_inline_image inline_image constrained_image\"/></p>\n\n<p>When\
+    \ I went back to Landry the next day, the smell of charred electronics was still\
+    \ lingering in the air.  I\u2019d nicked the air freshener that had been sitting\
+    \ on the counter of my hotel bathroom in the hopes of masking the odor, but even\
+    \ with the station\u2019s interior ventilation on full blast, nothing really helped.\
+    \  Lacking for better options, I found myself leaning over and sticking my nose\
+    \ into the fragrance cartridge every so often as I pored through Landry\u2019\
+    s logs and computer code on one of its sleek, glossy terminals.</p>\n\n<p>The\
+    \ damage had been minimal this time, thankfully, limited to one network switch\
+    \ that was simply swapped out for a spare.  Sabina was positively beaming at the\
+    \ small scope of the trouble.  \u201CMaybe things are starting to look up,\u201D\
+    \ she said as she passed by my workstation.  \u201CNothing blew up this time,\
+    \ right?  Does this count as threat mitigation?\u201D</p>\n\n<p>\u201CIt counts\
+    \ if you\u2019re willing to take the credit for it,\u201D I said, not bothering\
+    \ to take my eyes away from the screen.</p>\n\n\n\n<p>\u201COh, perfect.  I can\
+    \ submit this for my next performance review.\u201D</p>\n\n<p>\u201CYou guys have\
+    \ performance reviews?\u201D  I scrunched my face in distaste, not at Sabina\u2019\
+    s response but at a particularly inscrutable line of diagnostic output.</p>\n\n\
+    <p>\u201CWe do now that I have something to brag about,\u201D Sabina said, with\
+    \ a chuckle.</p>\n\n<p>\u201CAnd meanwhile I\u2019m the one sitting in front of\
+    \ the computer\u2026\u201D</p>\n\n<p>\u201CYou\u2019re the one who volunteered\
+    \ for it.\u201D</p>\n\n<p>\u201CI\u2019m beginning to regret doing that,\u201D\
+    \ I said sullenly.  \u201CSpending all my time up at Sudalis doing nothing made\
+    \ me forget just how much of a pain debugging is.  It\u2019s not worth it, I\u2019\
+    m telling you.\u201D</p>\n\n<p>\u201CNot even for the bonus?\u201D</p>\n\n<p>\u201C\
+    Not unless that bonus is\u2026\u201D  I flicked my eye to the clock in the corner\
+    \ of the monitor.  \u201CFour hours of my life back.\u201D</p>\n\n<p>I finally\
+    \ removed my hands from the keyboard and put them behind my head, leaning back\
+    \ in the chair in exasperation.  An upside-down image of Sabina\u2019s cheerful\
+    \ face greeted me in return.</p>\n\n<p>\u201CTaking a break?\u201D she asked.</p>\n\
+    \n<p>\u201CNo.  I\u2019ve figured out what\u2019s going on.\u201D</p>\n\n<p>\u201C\
+    Really?\u201D</p>\n\n<p>\u201CYeah.  But, uh, before I tell you\u2026\u201D  I\
+    \ spun the office chair around so that I no longer had to crane my neck to look\
+    \ at Sabina.  \u201CI have to ask, who wrote the station\u2019s legacy message\
+    \ handling component?\u201D</p>\n\n<p>\u201CThat\u2019d be me.  Why do you want\
+    \ to know?\u201D</p>\n\n<p>I felt my breathing get a little shallower.  Diplomacy\
+    \ was not exactly my strong point.  \u201CUm, uh, well, I just wanted to \u2013\
+    \ uh \u2013\u201D</p>\n\n<p>Sabina laughed.  \u201CI\u2019m just kidding.  Some\
+    \ contractors ported over the control software from the old station setup.  Let\
+    \ me guess, it sucks.\u201D</p>\n\n<p>I sighed in relief.  \u201CYeah.  It\u2019\
+    s terrible.  I\u2019m surprised this entire station didn\u2019t burn down long\
+    \ before you got here.\u201D</p>\n\n<p>\u201CSo what\u2019s wrong?\u201D</p>\n\
+    \n<p>\u201CI\u2019d prefer to explain what isn\u2019t, because that list\u2019\
+    s a lot shorter.\u201D</p>\n\n<p>\u201CI had a feeling.\u201D  Sabina shook her\
+    \ head as she dragged a nearby chair up next to me.  Sitting down, she nudged\
+    \ me over so she could get a good look at the screen.  \u201CLay out the scene\
+    \ for me.\u201D</p>\n\n<p>I mimed my head exploding, complete with the sound of\
+    \ a bomb burst.  \u201CThat\u2019s about the long and the short of it.  There\u2019\
+    s buffer overflows, missed bounds checks, stale pointers,\u201D I said, ticking\
+    \ each of the items off on my fingers as I went, \u201Cand on top of that the\
+    \ source code comments are composed entirely of out-of-context movie quotes.\u201D\
+    </p>\n\n<p>\u201CThat last one\u2019s worthy of the gallows.\u201D</p>\n\n<p>\u201C\
+    I\u2019d say.  Anyway, what\u2019s really stupid is that none of this would matter\
+    \ if it weren\u2019t for the fact that the clown does some really extreme stuff\
+    \ with the comms signal.  The messages are padded with a bunch of random noise\
+    \ that\u2019s <em>barely</em> within the specs.  As bad as this code is, it\u2019\
+    d handle pretty much every normal message fine.  The ones from the clown, though\u2026\
+    \ the control computer\u2019s memory will turn to garbage faster than you can\
+    \ say\u2026 uh\u2026\u201D  I trailed off, losing my train of thought.  \u201C\
+    Help me out here.  What\u2019s, like, a clown catchphrase?\u201D</p>\n\n<p>\u201C\
+    Don\u2019t ask me.  I always thought clowns were really creepy.  Besides, aren\u2019\
+    t you supposed to be the clown expert?\u201D</p>\n\n<p>\u201CPlease, don\u2019\
+    t remind me.\u201D  I slumped over in my chair, defeated.</p>\n\n<p>Sabina stared\
+    \ at me in bemused silence for a moment.  Finally, with a voice of mildly sarcastic\
+    \ concern, she said, \u201CI\u2019ll send the drone around with some coffee, okay?\u201D\
+    </p>"
+  content_abstract: '<p>
+
+    <p><img src="http://33.media.tumblr.com/9f92a6f7bb9368d2ad9ec843b6910609/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg"
+    class="toggle_inline_image inline_image constrained_image"/></p>
+
+
+    <p>When I went back to Landry the next day, the smell of charred electronics was
+    still lingering in the air.  I&rsquo;d nicked the air freshener that had been
+    sitting on the counter of my hotel bathroom in the hopes of masking the odor,
+    but even with the station&rsquo;s interior ventilation on full blast, nothing
+    really helped.  Lacking for better options, I found myself leaning over and sticking
+    my nose into the fragrance cartridge every so often as I pored through Landry&rsquo;s
+    logs and computer code on one of its sleek, glossy terminals.</p>
+
+
+    <p>The damage had been minimal this time, thankfully, limited to one network switch
+    that was simply swapped out for a spare.  Sabina was positively beaming at the
+    small scope of the trouble.  &ldquo;Maybe things are starting to look up,&rdquo;
+    she said as she passed by my workstation.  &ldquo;Nothing blew up this time, right?  Does
+    this count as threat mitigation?&rdquo;</p>
+
+
+    <p>&ldquo;It counts if you&rsquo;re willing to take the credit for it,&rdquo;
+    I said, not bothering to take my eyes away from the screen.</p>
+
+
+    </p>'
+  content_raw: "<p><img src=\"http://33.media.tumblr.com/9f92a6f7bb9368d2ad9ec843b6910609/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg\"\
+    \ alt=\"\"></p>\n\n<p>When I went back to Landry the next day, the smell of charred\
+    \ electronics was still lingering in the air.  I\u2019d nicked the air freshener\
+    \ that had been sitting on the counter of my hotel bathroom in the hopes of masking\
+    \ the odor, but even with the station\u2019s interior ventilation on full blast,\
+    \ nothing really helped.  Lacking for better options, I found myself leaning over\
+    \ and sticking my nose into the fragrance cartridge every so often as I pored\
+    \ through Landry\u2019s logs and computer code on one of its sleek, glossy terminals.</p>\n\
+    \n<p>The damage had been minimal this time, thankfully, limited to one network\
+    \ switch that was simply swapped out for a spare.  Sabina was positively beaming\
+    \ at the small scope of the trouble.  \u201CMaybe things are starting to look\
+    \ up,\u201D she said as she passed by my workstation.  \u201CNothing blew up this\
+    \ time, right?  Does this count as threat mitigation?\u201D</p>\n\n<p>\u201CIt\
+    \ counts if you\u2019re willing to take the credit for it,\u201D I said, not bothering\
+    \ to take my eyes away from the screen.</p>\n\n[[MORE]]\n\n<p>\u201COh, perfect.\
+    \  I can submit this for my next performance review.\u201D</p>\n\n<p>\u201CYou\
+    \ guys have performance reviews?\u201D  I scrunched my face in distaste, not at\
+    \ Sabina\u2019s response but at a particularly inscrutable line of diagnostic\
+    \ output.</p>\n\n<p>\u201CWe do now that I have something to brag about,\u201D\
+    \ Sabina said, with a chuckle.</p>\n\n<p>\u201CAnd meanwhile I\u2019m the one\
+    \ sitting in front of the computer\u2026\u201D</p>\n\n<p>\u201CYou\u2019re the\
+    \ one who volunteered for it.\u201D</p>\n\n<p>\u201CI\u2019m beginning to regret\
+    \ doing that,\u201D I said sullenly.  \u201CSpending all my time up at Sudalis\
+    \ doing nothing made me forget just how much of a pain debugging is.  It\u2019\
+    s not worth it, I\u2019m telling you.\u201D</p>\n\n<p>\u201CNot even for the bonus?\u201D\
+    </p>\n\n<p>\u201CNot unless that bonus is\u2026\u201D  I flicked my eye to the\
+    \ clock in the corner of the monitor.  \u201CFour hours of my life back.\u201D\
+    </p>\n\n<p>I finally removed my hands from the keyboard and put them behind my\
+    \ head, leaning back in the chair in exasperation.  An upside-down image of Sabina\u2019\
+    s cheerful face greeted me in return.</p>\n\n<p>\u201CTaking a break?\u201D she\
+    \ asked.</p>\n\n<p>\u201CNo.  I\u2019ve figured out what\u2019s going on.\u201D\
+    </p>\n\n<p>\u201CReally?\u201D</p>\n\n<p>\u201CYeah.  But, uh, before I tell you\u2026\
+    \u201D  I spun the office chair around so that I no longer had to crane my neck\
+    \ to look at Sabina.  \u201CI have to ask, who wrote the station\u2019s legacy\
+    \ message handling component?\u201D</p>\n\n<p>\u201CThat\u2019d be me.  Why do\
+    \ you want to know?\u201D</p>\n\n<p>I felt my breathing get a little shallower.\
+    \  Diplomacy was not exactly my strong point.  \u201CUm, uh, well, I just wanted\
+    \ to \u2013 uh \u2013\u201D</p>\n\n<p>Sabina laughed.  \u201CI\u2019m just kidding.\
+    \  Some contractors ported over the control software from the old station setup.\
+    \  Let me guess, it sucks.\u201D</p>\n\n<p>I sighed in relief.  \u201CYeah.  It\u2019\
+    s terrible.  I\u2019m surprised this entire station didn\u2019t burn down long\
+    \ before you got here.\u201D</p>\n\n<p>\u201CSo what\u2019s wrong?\u201D</p>\n\
+    \n<p>\u201CI\u2019d prefer to explain what isn\u2019t, because that list\u2019\
+    s a lot shorter.\u201D</p>\n\n<p>\u201CI had a feeling.\u201D  Sabina shook her\
+    \ head as she dragged a nearby chair up next to me.  Sitting down, she nudged\
+    \ me over so she could get a good look at the screen.  \u201CLay out the scene\
+    \ for me.\u201D</p>\n\n<p>I mimed my head exploding, complete with the sound of\
+    \ a bomb burst.  \u201CThat\u2019s about the long and the short of it.  There\u2019\
+    s buffer overflows, missed bounds checks, stale pointers,\u201D I said, ticking\
+    \ each of the items off on my fingers as I went, \u201Cand on top of that the\
+    \ source code comments are composed entirely of out-of-context movie quotes.\u201D\
+    </p>\n\n<p>\u201CThat last one\u2019s worthy of the gallows.\u201D</p>\n\n<p>\u201C\
+    I\u2019d say.  Anyway, what\u2019s really stupid is that none of this would matter\
+    \ if it weren\u2019t for the fact that the clown does some really extreme stuff\
+    \ with the comms signal.  The messages are padded with a bunch of random noise\
+    \ that\u2019s <em>barely</em> within the specs.  As bad as this code is, it\u2019\
+    d handle pretty much every normal message fine.  The ones from the clown, though\u2026\
+    \ the control computer\u2019s memory will turn to garbage faster than you can\
+    \ say\u2026 uh\u2026\u201D  I trailed off, losing my train of thought.  \u201C\
+    Help me out here.  What\u2019s, like, a clown catchphrase?\u201D</p>\n\n<p>\u201C\
+    Don\u2019t ask me.  I always thought clowns were really creepy.  Besides, aren\u2019\
+    t you supposed to be the clown expert?\u201D</p>\n\n<p>\u201CPlease, don\u2019\
+    t remind me.\u201D  I slumped over in my chair, defeated.</p>\n\n<p>Sabina stared\
+    \ at me in bemused silence for a moment.  Finally, with a voice of mildly sarcastic\
+    \ concern, she said, \u201CI\u2019ll send the drone around with some coffee, okay?\u201D\
+    </p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '77660242670'}
+type: text

@@ -1,0 +1,50 @@
+blog_name: abandonmentprobability
+body: '<p>Dear Tumblr,</p>
+
+
+  <p>Is there any particular reason that making even the smallest of edits to my theme&rsquo;s
+  HTML completely wipes out my custom appearance options, or do you just hate freedom?</p>
+
+
+  <p>~if</p>'
+date: 2012-05-04 22:02:49 GMT
+format: markdown
+highlighted: []
+id: 22403822093
+note_count: 1
+post_url: http://blog.room208.org/post/22403822093/dear-tumblr-is-there-any-particular-reason-that
+reblog: {comment: "<p>Dear Tumblr,</p>\n\n<p>Is there any particular reason that making\
+    \ even the smallest of edits to my theme\u2019s HTML completely wipes out my custom\
+    \ appearance options, or do you just hate freedom?</p>\n\n<p>~if</p>", tree_html: ''}
+reblog_key: ePdIabzf
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxKtNp8D
+slug: dear-tumblr-is-there-any-particular-reason-that
+state: published
+summary: "Dear Tumblr,\r\n\r\nIs there any particular reason that making even the\
+  \ smallest of edits to my theme's HTML completely wipes out my..."
+tags: [epistolaryexpedition, tumblr, theroadtowashington]
+timestamp: 1336168969
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Dear Tumblr,</p>\n\n<p>Is there any particular reason that making even\
+    \ the smallest of edits to my theme\u2019s HTML completely wipes out my custom\
+    \ appearance options, or do you just hate freedom?</p>\n\n<p>~if</p>"
+  content_raw: "<p>Dear Tumblr,</p>\n\n<p>Is there any particular reason that making\
+    \ even the smallest of edits to my theme\u2019s HTML completely wipes out my custom\
+    \ appearance options, or do you just hate freedom?</p>\n\n<p>~if</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '22403822093'}
+type: text

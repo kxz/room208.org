@@ -1,0 +1,64 @@
+blog_name: abandonmentprobability
+body: '<p>I don&rsquo;t know how I forgot to mention this in <a href="http://blog.room208.org/post/44466178540">my
+  litany of complaints about the new photo uploader</a>, but here&rsquo;s another
+  glaring flaw: Clicking &ldquo;Preview this post&rdquo; will sometimes disable all
+  of the save buttons, meaning that you&rsquo;ll have to either start a new post or
+  hack away at the form in a DOM inspector to actually publish what you were previewing.</p>
+
+
+  <p>Oh, who am I kidding? Nobody actually bothers looking at their posts before they
+  publish them anyway. *cough*</p>'
+date: 2013-03-07 03:49:00 GMT
+format: markdown
+highlighted: []
+id: 44760691693
+note_count: 1
+post_url: http://blog.room208.org/post/44760691693/i-dont-know-how-i-forgot-to-mention-this-in-my
+reblog: {comment: "<p>I don\u2019t know how I forgot to mention this in <a href=\"\
+    http://blog.room208.org/post/44466178540\">my litany of complaints about the new\
+    \ photo uploader</a>, but here\u2019s another glaring flaw: Clicking \u201CPreview\
+    \ this post\u201D will sometimes disable all of the save buttons, meaning that\
+    \ you\u2019ll have to either start a new post or hack away at the form in a DOM\
+    \ inspector to actually publish what you were previewing.</p>\n\n<p>Oh, who am\
+    \ I kidding? Nobody actually bothers looking at their posts before they publish\
+    \ them anyway. *cough*</p>", tree_html: ''}
+reblog_key: gsLqsRIy
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxfhyVFj
+slug: i-dont-know-how-i-forgot-to-mention-this-in-my
+state: published
+summary: I don't know how I forgot to mention this in [my litany of complaints about
+  the new photo...
+tags: [tumblr, whinybugzilla, userinterfacedesign, webdev]
+timestamp: 1362628140
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>I don\u2019t know how I forgot to mention this in <a href=\"http://blog.room208.org/post/44466178540\"\
+    >my litany of complaints about the new photo uploader</a>, but here\u2019s another\
+    \ glaring flaw: Clicking \u201CPreview this post\u201D will sometimes disable\
+    \ all of the save buttons, meaning that you\u2019ll have to either start a new\
+    \ post or hack away at the form in a DOM inspector to actually publish what you\
+    \ were previewing.</p>\n\n<p>Oh, who am I kidding? Nobody actually bothers looking\
+    \ at their posts before they publish them anyway. *cough*</p>"
+  content_raw: "<p>I don\u2019t know how I forgot to mention this in <a href=\"http://blog.room208.org/post/44466178540\"\
+    >my litany of complaints about the new photo uploader</a>, but here\u2019s another\
+    \ glaring flaw: Clicking \u201CPreview this post\u201D will sometimes disable\
+    \ all of the save buttons, meaning that you\u2019ll have to either start a new\
+    \ post or hack away at the form in a DOM inspector to actually publish what you\
+    \ were previewing.</p>\n\n<p>Oh, who am I kidding? Nobody actually bothers looking\
+    \ at their posts before they publish them anyway. *cough*</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '44760691693'}
+type: text

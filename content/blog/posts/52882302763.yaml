@@ -1,0 +1,54 @@
+blog_name: abandonmentprobability
+caption: '<p>And so we have a <em>Patema Inverted</em> commercial, with a concrete
+  Japanese theatrical release date: Saturday, November 9. Strap in, folks.</p>'
+date: 2013-06-13 18:23:47 GMT
+format: markdown
+highlighted: []
+html5_capable: true
+id: 52882302763
+note_count: 2
+permalink_url: https://www.youtube.com/watch?v=vbBctWCoBf0
+player:
+- {embed_code: '<iframe width="250" height="141"  id="youtube_iframe" src="https://www.youtube.com/embed/vbBctWCoBf0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allowfullscreen></iframe>', width: 250}
+- {embed_code: '<iframe width="400" height="225"  id="youtube_iframe" src="https://www.youtube.com/embed/vbBctWCoBf0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allowfullscreen></iframe>', width: 400}
+- {embed_code: '<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/vbBctWCoBf0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allowfullscreen></iframe>', width: 500}
+post_url: http://blog.room208.org/post/52882302763/and-so-we-have-a-patema-inverted-commercial-with
+reblog: {comment: '<p>And so we have a <em>Patema Inverted</em> commercial, with a
+    concrete Japanese theatrical release date: Saturday, November 9. Strap in, folks.</p>',
+  tree_html: ''}
+reblog_key: jDVFl8Kx
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxnG1_Sh
+slug: and-so-we-have-a-patema-inverted-commercial-with
+state: published
+summary: 'And so we have a _Patema Inverted_ commercial, with a concrete Japanese
+  theatrical release date: Saturday, November 9. Strap in,...'
+tags: [patema, trailer, anime]
+thumbnail_height: 360
+thumbnail_url: https://i.ytimg.com/vi/vbBctWCoBf0/hqdefault.jpg
+thumbnail_width: 480
+timestamp: 1371147827
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: '<p>And so we have a <em>Patema Inverted</em> commercial, with a concrete
+    Japanese theatrical release date: Saturday, November 9. Strap in, folks.</p>'
+  content_raw: '<p>And so we have a <em>Patema Inverted</em> commercial, with a concrete
+    Japanese theatrical release date: Saturday, November 9. Strap in, folks.</p>'
+  is_current_item: true
+  is_root_item: true
+  post: {id: '52882302763'}
+type: video
+video_type: youtube

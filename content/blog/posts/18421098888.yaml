@@ -1,0 +1,64 @@
+blog_name: abandonmentprobability
+caption: <p>This is from <cite>Look Around You</cite> season 1, episode 5 (&ldquo;Sulphur&rdquo;).
+  Subtle shifts in the blue background really killed compression for this image, so
+  I ended up treating changes in color value of less than 7 percent as no change for
+  transparency purposes.</p>
+date: 2012-02-28 03:57:58 GMT
+format: markdown
+highlighted: []
+id: 18421098888
+image_permalink: http://blog.room208.org/image/18421098888
+note_count: 1
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://45.media.tumblr.com/tumblr_m034cmeS3i1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://49.media.tumblr.com/tumblr_m034cmeS3i1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://45.media.tumblr.com/tumblr_m034cmeS3i1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://49.media.tumblr.com/tumblr_m034cmeS3i1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://49.media.tumblr.com/tumblr_m034cmeS3i1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://45.media.tumblr.com/tumblr_m034cmeS3i1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/18421098888/this-is-from-look-around-you-season-1-episode-5
+reblog: {comment: "<p>This is from <cite>Look Around You</cite> season 1, episode\
+    \ 5 (\u201CSulphur\u201D). Subtle shifts in the blue background really killed\
+    \ compression for this image, so I ended up treating changes in color value of\
+    \ less than 7 percent as no change for transparency purposes.</p>", tree_html: ''}
+reblog_key: 6v5BE3Qk
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxH9_wc8
+slug: this-is-from-look-around-you-season-1-episode-5
+state: published
+summary: This is from Look Around You season 1, episode 5 ("Sulphur"). Subtle shifts
+  in the blue background really killed compression for...
+tags: [gif, lookaroundyou]
+timestamp: 1330401478
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>This is from Look Around You season 1, episode 5 (\u201CSulphur\u201D\
+    ). Subtle shifts in the blue background really killed compression for this image,\
+    \ so I ended up treating changes in color value of less than 7 percent as no change\
+    \ for transparency purposes.</p>"
+  content_raw: "<p>This is from <cite>Look Around You</cite> season 1, episode 5 (\u201C\
+    Sulphur\u201D). Subtle shifts in the blue background really killed compression\
+    \ for this image, so I ended up treating changes in color value of less than 7\
+    \ percent as no change for transparency purposes.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '18421098888'}
+type: photo

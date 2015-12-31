@@ -1,0 +1,35 @@
+blog_name: abandonmentprobability
+date: 2013-10-17 05:28:31 GMT
+format: markdown
+highlighted: []
+id: 64277166693
+note_count: 0
+post_url: http://blog.room208.org/post/64277166693/and-we-can-even-add-weird-things-like
+reblog: {comment: '<p><a href="http://vimeo.com/17420638#t=31m06s">David Heinemeier
+    Hansson</a>, creator of Ruby on Rails, on why <a href="https://github.com/rails/rails/blob/master/activesupport/lib/active_support/core_ext/array/access.rb#L50-L53">it
+    monkey-patches the Ruby <code>Array</code> class to provide a <code>forty_two</code>
+    method</a></p>', tree_html: ''}
+reblog_key: WKzbOYmw
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxxtDxfb
+slug: and-we-can-even-add-weird-things-like
+source: <a href="http://vimeo.com/17420638#t=31m06s">David Heinemeier Hansson</a>,
+  creator of Ruby on Rails, on why <a href="https://github.com/rails/rails/blob/master/activesupport/lib/active_support/core_ext/array/access.rb#L50-L53">it
+  monkey-patches the Ruby <code>Array</code> class to provide a <code>forty_two</code>
+  method</a>
+state: published
+summary: "And we can even add weird things like Array#forty_two. You cannot read the\
+  \ comment here, but it says, \u2018Equal to self[41]. Also..."
+tags: [ruby, rubyonrails, programming]
+text: And we can even add weird things like <code>Array#forty_two</code>. You cannot
+  read the comment here, but it says, &lsquo;Equal to <code>self[41]</code>. Also
+  known as accessing &ldquo;the reddit&rdquo;.&rsquo; This sort of came out of a thread
+  on reddit where somebody was complaining so loudly &ndash; why we would care to
+  add <code>second</code> and <code>third</code> and <code>fourth</code> to <code>Array</code>.
+  'This is redundant! There&rsquo;s already a mathematical approach to doing the same
+  thing!&rsquo; It doesn&rsquo;t make sense to them. It was <em>weird</em>. Like,
+  why would somebody care about this level of aesthetics? And just to spite them,
+  I added <code>forty_two</code>.
+timestamp: 1381987711
+type: quote

@@ -1,0 +1,68 @@
+blog_name: abandonmentprobability
+caption: <p>Is the word &ldquo;excessive&rdquo; not in the vocabulary of Tumblr&rsquo;s
+  UI designers?</p>
+date: 2013-06-25 01:18:02 GMT
+duration: 9
+format: markdown
+highlighted: []
+html5_capable: true
+id: 53803501000
+note_count: 2
+player:
+- {embed_code: "\n<video  id='embed-566e54831cf9f299540546' class='crt-video crt-skin-default'\
+    \ width='250' height='156' poster='http://media.tumblr.com/tumblr_moxcx96MIO1qim2zw_frame1.jpg'\
+    \ preload='none' data-crt-video data-crt-options='{\"autoheight\":null,\"duration\"\
+    :9,\"hdUrl\":false,\"filmstrip\":{\"url\":\"http:\\/\\/24.media.tumblr.com\\/previews\\\
+    /tumblr_moxcx96MIO1qim2zw_filmstrip.jpg\",\"width\":\"200\",\"height\":\"126\"\
+    }}' >\n    <source src=\"http://api.tumblr.com/video_file/53803501000/tumblr_moxcx96MIO1qim2zw\"\
+    \ type=\"video/mp4\">\n</video>\n", width: 250}
+- {embed_code: "\n<video  id='embed-566e54831d9cd378264326' class='crt-video crt-skin-default'\
+    \ width='400' height='250' poster='http://media.tumblr.com/tumblr_moxcx96MIO1qim2zw_frame1.jpg'\
+    \ preload='none' data-crt-video data-crt-options='{\"autoheight\":null,\"duration\"\
+    :9,\"hdUrl\":false,\"filmstrip\":{\"url\":\"http:\\/\\/24.media.tumblr.com\\/previews\\\
+    /tumblr_moxcx96MIO1qim2zw_filmstrip.jpg\",\"width\":\"200\",\"height\":\"126\"\
+    }}' >\n    <source src=\"http://api.tumblr.com/video_file/53803501000/tumblr_moxcx96MIO1qim2zw\"\
+    \ type=\"video/mp4\">\n</video>\n", width: 400}
+- {embed_code: "\n<video  id='embed-566e54831e41a607310312' class='crt-video crt-skin-default'\
+    \ width='500' height='313' poster='http://media.tumblr.com/tumblr_moxcx96MIO1qim2zw_frame1.jpg'\
+    \ preload='none' data-crt-video data-crt-options='{\"autoheight\":null,\"duration\"\
+    :9,\"hdUrl\":false,\"filmstrip\":{\"url\":\"http:\\/\\/24.media.tumblr.com\\/previews\\\
+    /tumblr_moxcx96MIO1qim2zw_filmstrip.jpg\",\"width\":\"200\",\"height\":\"126\"\
+    }}' >\n    <source src=\"http://api.tumblr.com/video_file/53803501000/tumblr_moxcx96MIO1qim2zw\"\
+    \ type=\"video/mp4\">\n</video>\n", width: 500}
+post_url: http://blog.room208.org/post/53803501000/is-the-word-excessive-not-in-the-vocabulary-of
+reblog: {comment: "<p>Is the word \u201Cexcessive\u201D not in the vocabulary of Tumblr\u2019\
+    s UI designers?</p>", tree_html: ''}
+reblog_key: 7kXQcTBM
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxo6y4N8
+slug: is-the-word-excessive-not-in-the-vocabulary-of
+state: published
+summary: Is the word "excessive" not in the vocabulary of Tumblr's UI designers?
+tags: [tumblr, theme, webdev, userinterfacedesign, video]
+thumbnail_height: 900
+thumbnail_url: http://media.tumblr.com/tumblr_moxcx96MIO1qim2zw_frame1.jpg
+thumbnail_width: 1440
+timestamp: 1372123082
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Is the word \u201Cexcessive\u201D not in the vocabulary of Tumblr\u2019\
+    s UI designers?</p>"
+  content_raw: "<p>Is the word \u201Cexcessive\u201D not in the vocabulary of Tumblr\u2019\
+    s UI designers?</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '53803501000'}
+type: video
+video_type: tumblr
+video_url: http://vt.tumblr.com/tumblr_moxcx96MIO1qim2zw.mp4

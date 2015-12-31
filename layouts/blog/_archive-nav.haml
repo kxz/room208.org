@@ -1,0 +1,16 @@
+%nav#archive-nav
+  %h1 Posts by month
+  - article_years.reverse_each do |year|
+    %section
+      %h1= year
+      %ul
+        - (1..12).each do |month|
+          %li
+            - date = Date::new(year, month)
+            - if articles_by_month[date]
+              - post_count = articles_by_month[date].length
+              - post_unit = post_count == 1 ? 'post' : 'posts'
+              %a{href: "/blog/archive/#{date.strftime('%Y/%m')}.html",
+                 title: "#{post_count} #{post_unit} in #{date.strftime('%B %Y')}"}= date.strftime('%b')
+            - else
+              = date.strftime('%b')

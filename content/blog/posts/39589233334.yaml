@@ -1,0 +1,53 @@
+blog_name: abandonmentprobability
+caption: <p>Tsukihi goes Gordon Freeman. <em>Nekomonogatari Black</em> episode 1.</p>
+date: 2013-01-03 20:43:31 GMT
+format: markdown
+highlighted: []
+id: 39589233334
+image_permalink: http://blog.room208.org/image/39589233334
+note_count: 3
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://49.media.tumblr.com/75c20390283f3e42e7bfcf757c4cbf0b/tumblr_mg2hkkzBD61qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://45.media.tumblr.com/75c20390283f3e42e7bfcf757c4cbf0b/tumblr_mg2hkkzBD61qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://49.media.tumblr.com/75c20390283f3e42e7bfcf757c4cbf0b/tumblr_mg2hkkzBD61qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://45.media.tumblr.com/75c20390283f3e42e7bfcf757c4cbf0b/tumblr_mg2hkkzBD61qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://45.media.tumblr.com/75c20390283f3e42e7bfcf757c4cbf0b/tumblr_mg2hkkzBD61qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://49.media.tumblr.com/75c20390283f3e42e7bfcf757c4cbf0b/tumblr_mg2hkkzBD61qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/39589233334/tsukihi-goes-gordon-freeman-nekomonogatari-black
+reblog: {comment: <p>Tsukihi goes Gordon Freeman. <em>Nekomonogatari Black</em> episode
+    1.</p>, tree_html: ''}
+reblog_key: ea2zaoqY
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxatiyAs
+slug: tsukihi-goes-gordon-freeman-nekomonogatari-black
+state: published
+summary: Tsukihi goes Gordon Freeman. _Nekomonogatari Black_ episode 1.
+tags: [anime, nekomonogatari, gif]
+timestamp: 1357245811
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: <p>Tsukihi goes Gordon Freeman. <em>Nekomonogatari Black</em> episode 1.</p>
+  content_raw: <p>Tsukihi goes Gordon Freeman. <em>Nekomonogatari Black</em> episode
+    1.</p>
+  is_current_item: true
+  is_root_item: true
+  post: {id: '39589233334'}
+type: photo

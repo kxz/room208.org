@@ -1,0 +1,55 @@
+blog_name: abandonmentprobability
+body: <p>By the way, <a href="http://www.tumblr.com/help">the Tumblr FAQ</a> is lying
+  when it says that &ldquo;Read More is only available for Text posts that are created
+  using the Rich Text Editor.&rdquo; You can actually do it in the raw HTML and Markdown
+  editing modes by simply inserting <code>&lt;!-- more --&gt;</code> where you want
+  the &ldquo;Read More&rdquo; break to be. Yeah, it&rsquo;s that easy.</p>
+date: 2012-01-30 18:40:00 GMT
+format: markdown
+highlighted: []
+id: 16768963878
+note_count: 1
+post_url: http://blog.room208.org/post/16768963878/lies-damned-lies-and-faq-answers
+reblog: {comment: "<p>By the way, <a href=\"http://www.tumblr.com/help\">the Tumblr\
+    \ FAQ</a> is lying when it says that \u201CRead More is only available for Text\
+    \ posts that are created using the Rich Text Editor.\u201D You can actually do\
+    \ it in the raw HTML and Markdown editing modes by simply inserting <code>&lt;!--\
+    \ more --&gt;</code> where you want the \u201CRead More\u201D break to be. Yeah,\
+    \ it\u2019s that easy.</p>", tree_html: ''}
+reblog_key: G0CEeab1
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxFdWXKc
+slug: lies-damned-lies-and-faq-answers
+state: published
+summary: Lies, damned lies, and FAQ answers
+tags: [tumblr]
+timestamp: 1327948800
+title: Lies, damned lies, and FAQ answers
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>By the way, <a href=\"http://www.tumblr.com/help\">the Tumblr FAQ</a>\
+    \ is lying when it says that \u201CRead More is only available for Text posts\
+    \ that are created using the Rich Text Editor.\u201D You can actually do it in\
+    \ the raw HTML and Markdown editing modes by simply inserting <code>&lt;!-- more\
+    \ --&gt;</code> where you want the \u201CRead More\u201D break to be. Yeah, it\u2019\
+    s that easy.</p>"
+  content_raw: "<p>By the way, <a href=\"http://www.tumblr.com/help\">the Tumblr FAQ</a>\
+    \ is lying when it says that \u201CRead More is only available for Text posts\
+    \ that are created using the Rich Text Editor.\u201D You can actually do it in\
+    \ the raw HTML and Markdown editing modes by simply inserting <code>&lt;!-- more\
+    \ --&gt;</code> where you want the \u201CRead More\u201D break to be. Yeah, it\u2019\
+    s that easy.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '16768963878'}
+type: text

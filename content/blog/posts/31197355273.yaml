@@ -1,0 +1,43 @@
+answer: <p><strong>STARDATE 10565.38, SOL SYSTEM:</strong> Well, this planet is screwed.
+  I guess we&rsquo;ll have to settle for colonizing Mars instead.</p>
+asking_name: Anonymous
+asking_url: null
+blog_name: abandonmentprobability
+date: 2012-09-09 14:18:44 GMT
+format: markdown
+highlighted: []
+id: 31197355273
+note_count: 0
+post_url: http://blog.room208.org/post/31197355273/neon-genesis-evangelion
+question: Neon Genesis Evangelion.
+reblog: {comment: "<p><strong>STARDATE 10565.38, SOL SYSTEM:</strong> Well, this planet\
+    \ is screwed. I guess we\u2019ll have to settle for colonizing Mars instead.</p>",
+  tree_html: ''}
+reblog_key: lkEa2dT7
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxT3WTq9
+slug: neon-genesis-evangelion
+state: published
+summary: Neon Genesis Evangelion.
+tags: [theroadtofaust, anime, neongenesisevangelion]
+timestamp: 1347200324
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p><strong>STARDATE 10565.38, SOL SYSTEM:</strong> Well, this planet is\
+    \ screwed. I guess we\u2019ll have to settle for colonizing Mars instead.</p>"
+  content_raw: "<p><strong>STARDATE 10565.38, SOL SYSTEM:</strong> Well, this planet\
+    \ is screwed. I guess we\u2019ll have to settle for colonizing Mars instead.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '31197355273'}
+type: answer

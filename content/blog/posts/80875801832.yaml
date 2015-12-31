@@ -1,0 +1,43 @@
+blog_name: abandonmentprobability
+body: <p><strong>THE CONVERSATION:</strong> A field of loudspeakers pointed in random
+  directions, all turned up to maximum volume, with not a microphone in sight.</p>
+date: 2014-03-27 13:38:40 GMT
+format: markdown
+highlighted: []
+id: 80875801832
+note_count: 1
+post_url: http://blog.room208.org/post/80875801832/the-conversation-a-field-of-loudspeakers-pointed
+reblog: {comment: '<p><strong>THE CONVERSATION:</strong> A field of loudspeakers pointed
+    in random directions, all turned up to maximum volume, with not a microphone in
+    sight.</p>', tree_html: ''}
+reblog_key: NShj5ZID
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1BKaipe
+slug: the-conversation-a-field-of-loudspeakers-pointed
+state: published
+summary: '**THE CONVERSATION:** A field of loudspeakers pointed in random directions,
+  all turned up to maximum volume, with not a...'
+tags: [thedyspepticsdictionary, theroadtowashington]
+timestamp: 1395927520
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: <p><strong>THE CONVERSATION:</strong> A field of loudspeakers pointed in
+    random directions, all turned up to maximum volume, with not a microphone in sight.</p>
+  content_raw: <p><strong>THE CONVERSATION:</strong> A field of loudspeakers pointed
+    in random directions, all turned up to maximum volume, with not a microphone in
+    sight.</p>
+  is_current_item: true
+  is_root_item: true
+  post: {id: '80875801832'}
+type: text

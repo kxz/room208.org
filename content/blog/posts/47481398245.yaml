@@ -1,0 +1,57 @@
+blog_name: abandonmentprobability
+date: 2013-04-08 21:08:28 GMT
+description: "<p>Steve Losh:</p>\n\n<blockquote>\n  <p>The novice thought for a few\
+  \ moments, then asked: &ldquo;Surely some of these could be made more consistent,\
+  \ so as to be easier to remember in the heat of coding?&rdquo;</p>\n  \n  <p>Master\
+  \ Git snapped his fingers. A hobgoblin entered the room and ate the novice alive.\
+  \ In the afterlife, the novice was enlightened.</p>\n</blockquote>"
+excerpt: null
+format: markdown
+highlighted: []
+id: 47481398245
+link_author: null
+note_count: 0
+post_url: http://blog.room208.org/post/47481398245/git-koans
+publisher: stevelosh.com
+reblog: {comment: "<p><p>Steve Losh:</p>\n\n<blockquote>\n  <p>The novice thought\
+    \ for a few moments, then asked: \u201CSurely some of these could be made more\
+    \ consistent, so as to be easier to remember in the heat of coding?\u201D</p>\n\
+    \  \n  <p>Master Git snapped his fingers. A hobgoblin entered the room and ate\
+    \ the novice alive. In the afterlife, the novice was enlightened.</p>\n</blockquote></p>",
+  tree_html: ''}
+reblog_key: NuGpaoQN
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxiE7AFb
+slug: git-koans
+state: published
+summary: Git Koans
+tags: [git, programming]
+timestamp: 1365455308
+title: Git Koans
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p><p>Steve Losh:</p>\n\n<blockquote>\n  <p>The novice thought for a few\
+    \ moments, then asked: \u201CSurely some of these could be made more consistent,\
+    \ so as to be easier to remember in the heat of coding?\u201D</p>\n  \n  <p>Master\
+    \ Git snapped his fingers. A hobgoblin entered the room and ate the novice alive.\
+    \ In the afterlife, the novice was enlightened.</p>\n</blockquote></p>"
+  content_raw: "<p><p>Steve Losh:</p>\n\n<blockquote>\n  <p>The novice thought for\
+    \ a few moments, then asked: \u201CSurely some of these could be made more consistent,\
+    \ so as to be easier to remember in the heat of coding?\u201D</p>\n  \n  <p>Master\
+    \ Git snapped his fingers. A hobgoblin entered the room and ate the novice alive.\
+    \ In the afterlife, the novice was enlightened.</p>\n</blockquote></p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '47481398245'}
+type: link
+url: http://stevelosh.com/blog/2013/04/git-koans/

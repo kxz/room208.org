@@ -1,0 +1,48 @@
+blog_name: abandonmentprobability
+date: 2013-04-24 20:40:47 GMT
+description: <p>Another update to Elaborate Burn&rsquo;s custom theme. This version
+  adds more chat-like styling for chat posts, as well as a workaround for Tumblr&rsquo;s
+  &ldquo;sticky iframe&rdquo; controls.</p>
+excerpt: null
+format: markdown
+highlighted: []
+id: 48796344581
+link_author: null
+note_count: 0
+post_url: http://blog.room208.org/post/48796344581/dichotomy-22
+publisher: bitbucket.org
+reblog: {comment: "<p>Another update to Elaborate Burn\u2019s custom theme. This version\
+    \ adds more chat-like styling for chat posts, as well as a workaround for Tumblr\u2019\
+    s \u201Csticky iframe\u201D controls.</p>", tree_html: ''}
+reblog_key: R4ycdLGP
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxjSVI45
+slug: dichotomy-22
+state: published
+summary: Dichotomy 2.2
+tags: [dichotomy, theme, tumblr]
+timestamp: 1366836047
+title: Dichotomy 2.2
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Another update to Elaborate Burn\u2019s custom theme. This version\
+    \ adds more chat-like styling for chat posts, as well as a workaround for Tumblr\u2019\
+    s \u201Csticky iframe\u201D controls.</p>"
+  content_raw: "<p>Another update to Elaborate Burn\u2019s custom theme. This version\
+    \ adds more chat-like styling for chat posts, as well as a workaround for Tumblr\u2019\
+    s \u201Csticky iframe\u201D controls.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '48796344581'}
+type: link
+url: https://bitbucket.org/kxz/dichotomy/compare/v2.2..v2.1

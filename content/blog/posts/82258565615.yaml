@@ -1,0 +1,50 @@
+blog_name: abandonmentprobability
+body: <p>There&rsquo;s a hideous irony in Tumblr warning their users to change their
+  passwords in the wake of Heartbleed, when up until recently they didn&rsquo;t even
+  support HTTPS for anything other than the login page. Transmitting session keys
+  in cleartext cookies after encrypted authentication? Sure!</p>
+date: 2014-04-10 03:23:22 GMT
+format: markdown
+highlighted: []
+id: 82258565615
+note_count: 4
+post_url: http://blog.room208.org/post/82258565615/theres-a-hideous-irony-in-tumblr-warning-their
+reblog: {comment: "<p>There\u2019s a hideous irony in Tumblr warning their users to\
+    \ change their passwords in the wake of Heartbleed, when up until recently they\
+    \ didn\u2019t even support HTTPS for anything other than the login page. Transmitting\
+    \ session keys in cleartext cookies after encrypted authentication? Sure!</p>",
+  tree_html: ''}
+reblog_key: 9LNrlg5Q
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1Cc-Xdl
+slug: theres-a-hideous-irony-in-tumblr-warning-their
+state: published
+summary: There's a hideous irony in Tumblr warning their users to change their passwords
+  in the wake of Heartbleed, when up until...
+tags: [tumblr, openssl, webdev, security]
+timestamp: 1397100202
+title: null
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>There\u2019s a hideous irony in Tumblr warning their users to change\
+    \ their passwords in the wake of Heartbleed, when up until recently they didn\u2019\
+    t even support HTTPS for anything other than the login page. Transmitting session\
+    \ keys in cleartext cookies after encrypted authentication? Sure!</p>"
+  content_raw: "<p>There\u2019s a hideous irony in Tumblr warning their users to change\
+    \ their passwords in the wake of Heartbleed, when up until recently they didn\u2019\
+    t even support HTTPS for anything other than the login page. Transmitting session\
+    \ keys in cleartext cookies after encrypted authentication? Sure!</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '82258565615'}
+type: text

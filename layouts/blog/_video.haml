@@ -1,0 +1,8 @@
+- if @item[:video_type] == 'youtube'
+  - if @item[:permalink_url]
+    %iframe{src: "https://www.youtube.com/embed/#{@item[:permalink_url].split('=')[-1]}",
+            width: 800, height: 450, allowfullscreen: true}
+- else
+  %video{src: @item[:video_url], controls: true}
+    %a{href: @item[:video_url]} Download video
+= rewrite_img_srcs @item[:caption]

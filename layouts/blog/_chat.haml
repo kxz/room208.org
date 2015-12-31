@@ -1,0 +1,7 @@
+- if @item[:title]
+  %h1= h(@item[:title])
+%ol.dialogue
+  - @item[:dialogue].each do |line|
+    %li
+      %b= line[:label]
+      = line[:phrase]

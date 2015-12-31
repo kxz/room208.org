@@ -1,0 +1,609 @@
+blog_name: abandonmentprobability
+body: "<p>Regular readers will know that I <a href=\"http://blog.room208.org/tagged/gif\"\
+  >post GIF animations on this blog</a> from time to time. Since I&rsquo;m trapped\
+  \ in the 1980s, I like to create them from the command line using everyone&rsquo;s\
+  \ favorite open source video and image manipulation tools, <a href=\"http://ffmpeg.org/\"\
+  >FFmpeg</a> and <a href=\"http://www.imagemagick.org/\">ImageMagick</a>. In this\
+  \ article, I&rsquo;ll detail how I do this, while trying my hardest to ignore the\
+  \ fact that tools like <a href=\"http://www.lcdf.org/gifsicle/\">gifsicle</a> exist.</p>\n\
+  \n<p><!-- more --></p>\n\n<hr><h2>Extracting frames</h2>\n\n<p>The first thing I\
+  \ usually do is create a directory to hold all the files that&rsquo;ll be generated\
+  \ in the process of making my new animation.</p>\n\n<pre><code>$ mkdir anim &amp;&amp;\
+  \ cd anim\n</code></pre>\n\n<p>Next, I use FFmpeg to pull the frames I want from\
+  \ the video. Let&rsquo;s say that the scene I want is in a file called <code>video.mkv</code>,\
+  \ starts at 14:55 in, and lasts for approximately 5 seconds. I&rsquo;ll use this\
+  \ command to extract each frame into its own PNG file:</p>\n\n<pre><code>$ ffmpeg\
+  \ -ss 14:55 -i video.mkv -t 5 -s 480x270 -f image2 %03d.png\n</code></pre>\n\n<p>Let&rsquo;s\
+  \ break down what each of these arguments means:</p>\n\n<ol><li><p><code>-ss 14:55</code>\
+  \ gives the timestamp where I want FFmpeg to start, as <a href=\"https://ffmpeg.org/ffmpeg-utils.html#time-duration-syntax\"\
+  >a duration string</a>. Specifying this option first tells FFmpeg to make a fast,\
+  \ approximate guess as to where the timestamp is, which means it may be a second\
+  \ or so off. If I were to put it <em>after</em> <code>-i</code>, FFmpeg would instead\
+  \ start decoding the video from the beginning, and wait for my frames to show up.\
+  \ That&rsquo;s more exact, but obviously a fair bit slower, and I&rsquo;m willing\
+  \ to bet you&rsquo;re as impatient as I am. It&rsquo;s generally faster to just\
+  \ tweak the approximated timestamp until FFmpeg starts in the right place.</p></li>\n\
+  <li><p><code>-i video.mkv</code> specifies the input file, obviously.</p></li>\n\
+  <li><p><code>-t 5</code> says how much I want FFmpeg to decode, using the same duration\
+  \ syntax as for <code>-ss</code>.</p></li>\n<li><p><code>-s 480x270</code> tells\
+  \ FFmpeg to resize the video output to 480 by 270 pixels. I do this primarily because\
+  \ I usually post to Tumblr, which has several size limits on posted GIFs. You can\
+  \ change or remove this if you want glorious high-definition GIFs (hat tip to <a\
+  \ href=\"https://github.com/raskug\">LORd</a>).</p></li>\n<li><p><code>-f image2</code>\
+  \ selects the output format, a series of still images.</p></li>\n<li><p><code>%03d.png</code>\
+  \ is a <code>printf</code> format string specifying the output filenames. What I&rsquo;m\
+  \ saying here is that I want my output files as a series of PNG images called <code>001.png</code>,\
+  \ <code>002.png</code>, <code>003.png</code>, and so on. The <code>image2</code>\
+  \ encoder also supports GIF, but its output is dithered to hell, so I don&rsquo;t\
+  \ use that option.</p></li>\n</ol><p>FFmpeg outputs a bunch of information about\
+  \ the video before it starts encoding frame images. Somewhere inside of there, there&rsquo;s\
+  \ a message that goes something like this:</p>\n\n<pre><code>Stream #0:0: Video:\
+  \ h264 (High), yuv420p, 1280x720 [SAR 1:1 DAR 16:9],\n23.81 fps, 23.81 tbr, 1k tbn,\
+  \ 47.95 tbc (default) (forced)\n</code></pre>\n\n<p>I note that the video is encoded\
+  \ at 23.81 frames per second, or 24 since I don&rsquo;t care for the fractional\
+  \ part. It&rsquo;ll be important later when we generate the GIF file.</p>\n\n<p>Okay,\
+  \ now I have a giant pile of sequentially numbered frames. It&rsquo;s time to put\
+  \ them back together again.</p>\n\n<h2>Selecting frames</h2>\n\n<p>At this point,\
+  \ I briefly leave the command line and open up my favorite image previewer to figure\
+  \ out where exactly the scene I want begins and ends, writing down the frame numbers\
+  \ for later reference.</p>\n\n<p>For anime images, which constitute the majority\
+  \ of GIFs I make, it&rsquo;s also important to note the animation&rsquo;s actual\
+  \ frame rate. Most anime is drawn on twos or threes, meaning that drawings are actually\
+  \ updated only every two or three frames. Here&rsquo;s an example from <em>Polar\
+  \ Bear Cafe</em>:</p>\n\n<div class=\"image\"><img src=\"http://33.media.tumblr.com/9c55e264da14e04264cd7062f116c881/tumblr_inline_mlrxbt43o51qz4rgp.png\"\
+  \ alt='A series of stills from \"Polar Bear Cafe\", showing individual drawings\
+  \ repeated for three frames.'/></div>\n\n<p>With this information in hand, I go\
+  \ to whip up a <code>seq</code> invocation. <code>seq</code> is a Unix tool that\
+  \ generates, helpfully, <em>seq</em>uences of numbers. Let&rsquo;s say my scene\
+  \ starts at frame 10, ends at frame 72, and is animated on threes. The following\
+  \ command will output the appropriate list of image filenames:</p>\n\n<pre><code>$\
+  \ seq -f %03g.png 10 3 72\n</code></pre>\n\n<p>The <code>-f</code> option specifies\
+  \ a format string, kind of like the one I passed to FFmpeg earlier. I&rsquo;ve used\
+  \ <code>%g</code> instead of <code>%d</code> here, though, due to syntax differences.\
+  \ The following arguments say to start counting at 10, give me every third number,\
+  \ and stop at 72. (If I wanted every single number between 10 and 72 inclusive,\
+  \ I could omit the <code>3</code> and just say <code>seq 10 72</code>.) With the\
+  \ format string, then, I now have my filenames: <code>010.png</code>, <code>013.png</code>,\
+  \ <code>016.png</code>, etc.</p>\n\n<h2>Creating the animation</h2>\n\n<p>Whew.\
+  \ We&rsquo;re almost there. Now it&rsquo;s time to get down to business and actually\
+  \ make the GIF file I want. I use backticks to substitute the <code>seq</code> command\
+  \ I write in the last step into a call to ImageMagick&rsquo;s <code>convert</code>\
+  \ utility.</p>\n\n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\n\
+  \          -coalesce -layers OptimizeTransparency animation.gif\n</code></pre>\n\
+  \n<p>As with the <code>ffmpeg</code> invocation earlier, argument order matters\
+  \ to <code>convert</code>, so be careful. Here&rsquo;s a step-by-step explanation\
+  \ of this command:</p>\n\n<ol><li><p><code>-delay 1x8</code> says that the animation\
+  \ should play a frame every 1/8 of a second. I computed this number by looking at\
+  \ the frame rate of the original video (24) and dividing by the number of frames\
+  \ each drawing plays for (3). Note that most browsers slow down animations that\
+  \ play faster than 20 frames per second, or 1/50 second per frame. Most videos play\
+  \ back at between 25 and 30 fps, so you may have to drop every other frame or so\
+  \ if you care about accuracy of playback speed.</p></li>\n<li><p>And here&rsquo;s\
+  \ the <code>seq</code> invocation again.</p></li>\n<li><p><code>-coalesce</code>\
+  \ apparently &ldquo;fully define[s] the look of each frame of an [sic] GIF animation\
+  \ sequence, to form a &lsquo;film strip&rsquo; animation,&rdquo; according to <a\
+  \ href=\"http://www.imagemagick.org/script/command-line-options.php#coalesce\">the\
+  \ documentation</a>. No, I don&rsquo;t know what that means, just that it&rsquo;s\
+  \ necessary for ImageMagick to do its thing.</p></li>\n<li><p><code>-layers OptimizeTransparency</code>\
+  \ tells ImageMagick to replace portions of each frame that are identical to the\
+  \ corresponding parts of the preceding frame with transparency, saving on file size.</p></li>\n\
+  <li><p>And <code>animation.gif</code> is the output filename, duh.</p></li>\n</ol><p>After\
+  \ this, I have a GIF that I can now post on all the interwebs.</p>\n\n<h2>ImageMagick\
+  \ tricks</h2>\n\n<p>Well, mostly. Remember how I mentioned Tumblr has a size limit?\
+  \ That applies both to image dimensions <em>and</em> file size. GIF animation is\
+  \ hardly the most efficient video compression scheme out there, so sometimes it&rsquo;s\
+  \ necessary to pull out some extra ImageMagick features in order to squeeze things\
+  \ down.</p>\n\n<p>First is the <code>-fuzz</code> option:</p>\n\n<pre><code>$ convert\
+  \ -fuzz 1% -delay 1x8 `seq -f %03g.png 10 3 72` \\\n          -coalesce -layers\
+  \ OptimizeTransparency animation.gif\n</code></pre>\n\n<p>This tells ImageMagick\
+  \ to treat pixels whose color values differ by less than 1% as the same color, giving\
+  \ the <code>OptimizeTransparency</code> action more pixels to chop away. This is\
+  \ especially good because videos tend to have shifting noise patterns in dark areas,\
+  \ which change every frame. A reasonable fuzz value puts the kibosh on this problem.\
+  \ Set it too high, though, beyond about 3%, and frames will start bleeding into\
+  \ each other. I guess it&rsquo;s cool if you&rsquo;re into psychedelia.</p>\n\n\
+  <p>Next is playing around with the dithering options. There are two ways to go about\
+  \ this. One is to turn dithering off entirely, using the <code>+dither</code> option.\
+  \ (Yes, I know that <code>+</code> looks like it would turn dithering <em>on</em>,\
+  \ but it&rsquo;s actually the opposite of the &ldquo;normal&rdquo; <code>-dither</code>\
+  \ option&hellip;) This works well for images that have few smooth gradients of color,\
+  \ and reduces shifting dither noise that inflates file size.</p>\n\n<pre><code>$\
+  \ convert +dither -delay 1x8 `seq -f %03g.png 10 3 72` \\\n          -coalesce -layers\
+  \ OptimizeTransparency animation.gif\n</code></pre>\n\n<p>The other possible dithering\
+  \ change is ordered dithering. This is rather visible, but may look better than\
+  \ turning off dithering when smooth color transitions would cause banding. In order\
+  \ to use ordered dithering, I first need to work out the number of color levels\
+  \ I can use while still fitting in the GIF format&rsquo;s 256 color limit.</p>\n\
+  \n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither\
+  \ o8x8,8 \\\n          -coalesce -layers OptimizeTransparency \\\n          -append\
+  \ -format %k info:\n</code></pre>\n\n<p>Note the two changes I&rsquo;ve made here:</p>\n\
+  \n<ol><li><p><code>-ordered-dither o8x8,8</code> means &ldquo;use an 8-by-8 pixel\
+  \ dithering pattern with 8 color levels.&rdquo; I&rsquo;ll change that last <code>,8</code>\
+  \ part depending on how many colors are in the final image.</p></li>\n<li><p>I&rsquo;ve\
+  \ replaced the output filename with the options <code>-append -format %k info:</code>,\
+  \ which essentially mean &ldquo;tell me how many colors total are in all the frames\
+  \ of this animation.&rdquo;</p></li>\n</ol><p>I tweak this command line, changing\
+  \ <code>o8x8,8</code> to <code>o8x8,7</code> or <code>o8x8,9</code> and so forth,\
+  \ until I find the highest number that gives me a result of 256 or fewer colors.\
+  \ I then go and put the output filename back, after a <code>+map</code> option to\
+  \ ensure that all frames use the color map generated by the dithering operation:</p>\n\
+  \n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither\
+  \ o8x8,8 \\\n          -coalesce -layers OptimizeTransparency \\\n          +map\
+  \ animation.gif\n</code></pre>\n\n<p>The ImageMagick manual has <a href=\"http://www.imagemagick.org/Usage/video/\"\
+  >more details on handling video</a>.</p>\n\n<h2>Conclusion</h2>\n\n<p>Don&rsquo;t\
+  \ do this.</p>\n\n<p><strong>Updated May 21, 2014</strong> to give more detailed\
+  \ information about duration specification and timestamp approximation, and fix\
+  \ some inconsistencies pointed out by @<a class=\"tumblelog\" href=\"http://tmblr.co/m6Y4R1s2xrJUcLwQTivwZ2Q\"\
+  >all-eternals-deck</a>.</p>"
+body_abstract: '
+
+  <p>Regular readers will know that I <a href="http://blog.room208.org/tagged/gif">post
+  GIF animations on this blog</a> from time to time. Since I&rsquo;m trapped in the
+  1980s, I like to create them from the command line using everyone&rsquo;s favorite
+  open source video and image manipulation tools, <a href="http://ffmpeg.org/">FFmpeg</a>
+  and <a href="http://www.imagemagick.org/">ImageMagick</a>. In this article, I&rsquo;ll
+  detail how I do this, while trying my hardest to ignore the fact that tools like
+  <a href="http://www.lcdf.org/gifsicle/">gifsicle</a> exist.</p>
+
+
+  '
+date: 2013-04-24 20:03:00 GMT
+format: markdown
+highlighted: []
+id: 48793543478
+note_count: 36
+post_url: http://blog.room208.org/post/48793543478/creating-animated-gifs-from-the-shell-using-ffmpeg
+reblog: {comment: "<p>Regular readers will know that I <a href=\"http://blog.room208.org/tagged/gif\"\
+    >post GIF animations on this blog</a> from time to time. Since I\u2019m trapped\
+    \ in the 1980s, I like to create them from the command line using everyone\u2019\
+    s favorite open source video and image manipulation tools, <a href=\"http://ffmpeg.org/\"\
+    >FFmpeg</a> and <a href=\"http://www.imagemagick.org/\">ImageMagick</a>. In this\
+    \ article, I\u2019ll detail how I do this, while trying my hardest to ignore the\
+    \ fact that tools like <a href=\"http://www.lcdf.org/gifsicle/\">gifsicle</a>\
+    \ exist.</p>\n\n<p>[[MORE]]</p>\n\n<hr><h2>Extracting frames</h2>\n\n<p>The first\
+    \ thing I usually do is create a directory to hold all the files that\u2019ll\
+    \ be generated in the process of making my new animation.</p>\n\n<pre><code>$\
+    \ mkdir anim &amp;&amp; cd anim\n</code></pre>\n\n<p>Next, I use FFmpeg to pull\
+    \ the frames I want from the video. Let\u2019s say that the scene I want is in\
+    \ a file called <code>video.mkv</code>, starts at 14:55 in, and lasts for approximately\
+    \ 5 seconds. I\u2019ll use this command to extract each frame into its own PNG\
+    \ file:</p>\n\n<pre><code>$ ffmpeg -ss 14:55 -i video.mkv -t 5 -s 480x270 -f image2\
+    \ %03d.png\n</code></pre>\n\n<p>Let\u2019s break down what each of these arguments\
+    \ means:</p>\n\n<ol><li><p><code>-ss 14:55</code> gives the timestamp where I\
+    \ want FFmpeg to start, as <a href=\"https://ffmpeg.org/ffmpeg-utils.html#time-duration-syntax\"\
+    >a duration string</a>. Specifying this option first tells FFmpeg to make a fast,\
+    \ approximate guess as to where the timestamp is, which means it may be a second\
+    \ or so off. If I were to put it <em>after</em> <code>-i</code>, FFmpeg would\
+    \ instead start decoding the video from the beginning, and wait for my frames\
+    \ to show up. That\u2019s more exact, but obviously a fair bit slower, and I\u2019\
+    m willing to bet you\u2019re as impatient as I am. It\u2019s generally faster\
+    \ to just tweak the approximated timestamp until FFmpeg starts in the right place.</p></li>\n\
+    <li><p><code>-i video.mkv</code> specifies the input file, obviously.</p></li>\n\
+    <li><p><code>-t 5</code> says how much I want FFmpeg to decode, using the same\
+    \ duration syntax as for <code>-ss</code>.</p></li>\n<li><p><code>-s 480x270</code>\
+    \ tells FFmpeg to resize the video output to 480 by 270 pixels. I do this primarily\
+    \ because I usually post to Tumblr, which has several size limits on posted GIFs.\
+    \ You can change or remove this if you want glorious high-definition GIFs (hat\
+    \ tip to <a href=\"https://github.com/raskug\">LORd</a>).</p></li>\n<li><p><code>-f\
+    \ image2</code> selects the output format, a series of still images.</p></li>\n\
+    <li><p><code>%03d.png</code> is a <code>printf</code> format string specifying\
+    \ the output filenames. What I\u2019m saying here is that I want my output files\
+    \ as a series of PNG images called <code>001.png</code>, <code>002.png</code>,\
+    \ <code>003.png</code>, and so on. The <code>image2</code> encoder also supports\
+    \ GIF, but its output is dithered to hell, so I don\u2019t use that option.</p></li>\n\
+    </ol><p>FFmpeg outputs a bunch of information about the video before it starts\
+    \ encoding frame images. Somewhere inside of there, there\u2019s a message that\
+    \ goes something like this:</p>\n\n<pre><code>Stream #0:0: Video: h264 (High),\
+    \ yuv420p, 1280x720 [SAR 1:1 DAR 16:9],\n23.81 fps, 23.81 tbr, 1k tbn, 47.95 tbc\
+    \ (default) (forced)\n</code></pre>\n\n<p>I note that the video is encoded at\
+    \ 23.81 frames per second, or 24 since I don\u2019t care for the fractional part.\
+    \ It\u2019ll be important later when we generate the GIF file.</p>\n\n<p>Okay,\
+    \ now I have a giant pile of sequentially numbered frames. It\u2019s time to put\
+    \ them back together again.</p>\n\n<h2>Selecting frames</h2>\n\n<p>At this point,\
+    \ I briefly leave the command line and open up my favorite image previewer to\
+    \ figure out where exactly the scene I want begins and ends, writing down the\
+    \ frame numbers for later reference.</p>\n\n<p>For anime images, which constitute\
+    \ the majority of GIFs I make, it\u2019s also important to note the animation\u2019\
+    s actual frame rate. Most anime is drawn on twos or threes, meaning that drawings\
+    \ are actually updated only every two or three frames. Here\u2019s an example\
+    \ from <em>Polar Bear Cafe</em>:</p>\n\n<div class=\"image\"><img src=\"http://33.media.tumblr.com/9c55e264da14e04264cd7062f116c881/tumblr_inline_mlrxbt43o51qz4rgp.png\"\
+    \ alt='A series of stills from \"Polar Bear Cafe\", showing individual drawings\
+    \ repeated for three frames.'></div>\n\n<p>With this information in hand, I go\
+    \ to whip up a <code>seq</code> invocation. <code>seq</code> is a Unix tool that\
+    \ generates, helpfully, <em>seq</em>uences of numbers. Let\u2019s say my scene\
+    \ starts at frame 10, ends at frame 72, and is animated on threes. The following\
+    \ command will output the appropriate list of image filenames:</p>\n\n<pre><code>$\
+    \ seq -f %03g.png 10 3 72\n</code></pre>\n\n<p>The <code>-f</code> option specifies\
+    \ a format string, kind of like the one I passed to FFmpeg earlier. I\u2019ve\
+    \ used <code>%g</code> instead of <code>%d</code> here, though, due to syntax\
+    \ differences. The following arguments say to start counting at 10, give me every\
+    \ third number, and stop at 72. (If I wanted every single number between 10 and\
+    \ 72 inclusive, I could omit the <code>3</code> and just say <code>seq 10 72</code>.)\
+    \ With the format string, then, I now have my filenames: <code>010.png</code>,\
+    \ <code>013.png</code>, <code>016.png</code>, etc.</p>\n\n<h2>Creating the animation</h2>\n\
+    \n<p>Whew. We\u2019re almost there. Now it\u2019s time to get down to business\
+    \ and actually make the GIF file I want. I use backticks to substitute the <code>seq</code>\
+    \ command I write in the last step into a call to ImageMagick\u2019s <code>convert</code>\
+    \ utility.</p>\n\n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\
+    \n          -coalesce -layers OptimizeTransparency animation.gif\n</code></pre>\n\
+    \n<p>As with the <code>ffmpeg</code> invocation earlier, argument order matters\
+    \ to <code>convert</code>, so be careful. Here\u2019s a step-by-step explanation\
+    \ of this command:</p>\n\n<ol><li><p><code>-delay 1x8</code> says that the animation\
+    \ should play a frame every 1/8 of a second. I computed this number by looking\
+    \ at the frame rate of the original video (24) and dividing by the number of frames\
+    \ each drawing plays for (3). Note that most browsers slow down animations that\
+    \ play faster than 20 frames per second, or 1/50 second per frame. Most videos\
+    \ play back at between 25 and 30 fps, so you may have to drop every other frame\
+    \ or so if you care about accuracy of playback speed.</p></li>\n<li><p>And here\u2019\
+    s the <code>seq</code> invocation again.</p></li>\n<li><p><code>-coalesce</code>\
+    \ apparently \u201Cfully define[s] the look of each frame of an [sic] GIF animation\
+    \ sequence, to form a \u2018film strip\u2019 animation,\u201D according to <a\
+    \ href=\"http://www.imagemagick.org/script/command-line-options.php#coalesce\"\
+    >the documentation</a>. No, I don\u2019t know what that means, just that it\u2019\
+    s necessary for ImageMagick to do its thing.</p></li>\n<li><p><code>-layers OptimizeTransparency</code>\
+    \ tells ImageMagick to replace portions of each frame that are identical to the\
+    \ corresponding parts of the preceding frame with transparency, saving on file\
+    \ size.</p></li>\n<li><p>And <code>animation.gif</code> is the output filename,\
+    \ duh.</p></li>\n</ol><p>After this, I have a GIF that I can now post on all the\
+    \ interwebs.</p>\n\n<h2>ImageMagick tricks</h2>\n\n<p>Well, mostly. Remember how\
+    \ I mentioned Tumblr has a size limit? That applies both to image dimensions <em>and</em>\
+    \ file size. GIF animation is hardly the most efficient video compression scheme\
+    \ out there, so sometimes it\u2019s necessary to pull out some extra ImageMagick\
+    \ features in order to squeeze things down.</p>\n\n<p>First is the <code>-fuzz</code>\
+    \ option:</p>\n\n<pre><code>$ convert -fuzz 1% -delay 1x8 `seq -f %03g.png 10\
+    \ 3 72` \\\n          -coalesce -layers OptimizeTransparency animation.gif\n</code></pre>\n\
+    \n<p>This tells ImageMagick to treat pixels whose color values differ by less\
+    \ than 1% as the same color, giving the <code>OptimizeTransparency</code> action\
+    \ more pixels to chop away. This is especially good because videos tend to have\
+    \ shifting noise patterns in dark areas, which change every frame. A reasonable\
+    \ fuzz value puts the kibosh on this problem. Set it too high, though, beyond\
+    \ about 3%, and frames will start bleeding into each other. I guess it\u2019s\
+    \ cool if you\u2019re into psychedelia.</p>\n\n<p>Next is playing around with\
+    \ the dithering options. There are two ways to go about this. One is to turn dithering\
+    \ off entirely, using the <code>+dither</code> option. (Yes, I know that <code>+</code>\
+    \ looks like it would turn dithering <em>on</em>, but it\u2019s actually the opposite\
+    \ of the \u201Cnormal\u201D <code>-dither</code> option\u2026) This works well\
+    \ for images that have few smooth gradients of color, and reduces shifting dither\
+    \ noise that inflates file size.</p>\n\n<pre><code>$ convert +dither -delay 1x8\
+    \ `seq -f %03g.png 10 3 72` \\\n          -coalesce -layers OptimizeTransparency\
+    \ animation.gif\n</code></pre>\n\n<p>The other possible dithering change is ordered\
+    \ dithering. This is rather visible, but may look better than turning off dithering\
+    \ when smooth color transitions would cause banding. In order to use ordered dithering,\
+    \ I first need to work out the number of color levels I can use while still fitting\
+    \ in the GIF format\u2019s 256 color limit.</p>\n\n<pre><code>$ convert -delay\
+    \ 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither o8x8,8 \\\n    \
+    \      -coalesce -layers OptimizeTransparency \\\n          -append -format %k\
+    \ info:\n</code></pre>\n\n<p>Note the two changes I\u2019ve made here:</p>\n\n\
+    <ol><li><p><code>-ordered-dither o8x8,8</code> means \u201Cuse an 8-by-8 pixel\
+    \ dithering pattern with 8 color levels.\u201D I\u2019ll change that last <code>,8</code>\
+    \ part depending on how many colors are in the final image.</p></li>\n<li><p>I\u2019\
+    ve replaced the output filename with the options <code>-append -format %k info:</code>,\
+    \ which essentially mean \u201Ctell me how many colors total are in all the frames\
+    \ of this animation.\u201D</p></li>\n</ol><p>I tweak this command line, changing\
+    \ <code>o8x8,8</code> to <code>o8x8,7</code> or <code>o8x8,9</code> and so forth,\
+    \ until I find the highest number that gives me a result of 256 or fewer colors.\
+    \ I then go and put the output filename back, after a <code>+map</code> option\
+    \ to ensure that all frames use the color map generated by the dithering operation:</p>\n\
+    \n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither\
+    \ o8x8,8 \\\n          -coalesce -layers OptimizeTransparency \\\n          +map\
+    \ animation.gif\n</code></pre>\n\n<p>The ImageMagick manual has <a href=\"http://www.imagemagick.org/Usage/video/\"\
+    >more details on handling video</a>.</p>\n\n<h2>Conclusion</h2>\n\n<p>Don\u2019\
+    t do this.</p>\n\n<p><strong>Updated May 21, 2014</strong> to give more detailed\
+    \ information about duration specification and timestamp approximation, and fix\
+    \ some inconsistencies pointed out by @<a class=\"tumblelog\" href=\"http://tmblr.co/m6Y4R1s2xrJUcLwQTivwZ2Q\"\
+    >all-eternals-deck</a>.</p>", tree_html: ''}
+reblog_key: w5U0oqxc
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxjSKcCs
+slug: creating-animated-gifs-from-the-shell-using-ffmpeg
+state: published
+summary: Creating animated GIFs from the shell using FFmpeg and ImageMagick
+tags: [gif, bash, ffmpeg, imagemagick]
+timestamp: 1366833780
+title: Creating animated GIFs from the shell using FFmpeg and ImageMagick
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Regular readers will know that I <a href=\"http://blog.room208.org/tagged/gif\"\
+    >post GIF animations on this blog</a> from time to time. Since I\u2019m trapped\
+    \ in the 1980s, I like to create them from the command line using everyone\u2019\
+    s favorite open source video and image manipulation tools, <a href=\"http://ffmpeg.org/\"\
+    >FFmpeg</a> and <a href=\"http://www.imagemagick.org/\">ImageMagick</a>. In this\
+    \ article, I\u2019ll detail how I do this, while trying my hardest to ignore the\
+    \ fact that tools like <a href=\"http://www.lcdf.org/gifsicle/\">gifsicle</a>\
+    \ exist.</p>\n\n\n\n<hr /><h2>Extracting frames</h2>\n\n<p>The first thing I usually\
+    \ do is create a directory to hold all the files that\u2019ll be generated in\
+    \ the process of making my new animation.</p>\n\n<pre><code>$ mkdir anim &amp;&amp;\
+    \ cd anim\n</code></pre>\n\n<p>Next, I use FFmpeg to pull the frames I want from\
+    \ the video. Let\u2019s say that the scene I want is in a file called <code>video.mkv</code>,\
+    \ starts at 14:55 in, and lasts for approximately 5 seconds. I\u2019ll use this\
+    \ command to extract each frame into its own PNG file:</p>\n\n<pre><code>$ ffmpeg\
+    \ -ss 14:55 -i video.mkv -t 5 -s 480x270 -f image2 %03d.png\n</code></pre>\n\n\
+    <p>Let\u2019s break down what each of these arguments means:</p>\n\n<ol><li><p><code>-ss\
+    \ 14:55</code> gives the timestamp where I want FFmpeg to start, as <a href=\"\
+    https://ffmpeg.org/ffmpeg-utils.html#time-duration-syntax\">a duration string</a>.\
+    \ Specifying this option first tells FFmpeg to make a fast, approximate guess\
+    \ as to where the timestamp is, which means it may be a second or so off. If I\
+    \ were to put it <em>after</em> <code>-i</code>, FFmpeg would instead start decoding\
+    \ the video from the beginning, and wait for my frames to show up. That\u2019\
+    s more exact, but obviously a fair bit slower, and I\u2019m willing to bet you\u2019\
+    re as impatient as I am. It\u2019s generally faster to just tweak the approximated\
+    \ timestamp until FFmpeg starts in the right place.</p></li>\n<li><p><code>-i\
+    \ video.mkv</code> specifies the input file, obviously.</p></li>\n<li><p><code>-t\
+    \ 5</code> says how much I want FFmpeg to decode, using the same duration syntax\
+    \ as for <code>-ss</code>.</p></li>\n<li><p><code>-s 480x270</code> tells FFmpeg\
+    \ to resize the video output to 480 by 270 pixels. I do this primarily because\
+    \ I usually post to Tumblr, which has several size limits on posted GIFs. You\
+    \ can change or remove this if you want glorious high-definition GIFs (hat tip\
+    \ to <a href=\"https://github.com/raskug\">LORd</a>).</p></li>\n<li><p><code>-f\
+    \ image2</code> selects the output format, a series of still images.</p></li>\n\
+    <li><p><code>%03d.png</code> is a <code>printf</code> format string specifying\
+    \ the output filenames. What I\u2019m saying here is that I want my output files\
+    \ as a series of PNG images called <code>001.png</code>, <code>002.png</code>,\
+    \ <code>003.png</code>, and so on. The <code>image2</code> encoder also supports\
+    \ GIF, but its output is dithered to hell, so I don\u2019t use that option.</p></li>\n\
+    </ol><p>FFmpeg outputs a bunch of information about the video before it starts\
+    \ encoding frame images. Somewhere inside of there, there\u2019s a message that\
+    \ goes something like this:</p>\n\n<pre><code>Stream #0:0: Video: h264 (High),\
+    \ yuv420p, 1280x720 [SAR 1:1 DAR 16:9],\n23.81 fps, 23.81 tbr, 1k tbn, 47.95 tbc\
+    \ (default) (forced)\n</code></pre>\n\n<p>I note that the video is encoded at\
+    \ 23.81 frames per second, or 24 since I don\u2019t care for the fractional part.\
+    \ It\u2019ll be important later when we generate the GIF file.</p>\n\n<p>Okay,\
+    \ now I have a giant pile of sequentially numbered frames. It\u2019s time to put\
+    \ them back together again.</p>\n\n<h2>Selecting frames</h2>\n\n<p>At this point,\
+    \ I briefly leave the command line and open up my favorite image previewer to\
+    \ figure out where exactly the scene I want begins and ends, writing down the\
+    \ frame numbers for later reference.</p>\n\n<p>For anime images, which constitute\
+    \ the majority of GIFs I make, it\u2019s also important to note the animation\u2019\
+    s actual frame rate. Most anime is drawn on twos or threes, meaning that drawings\
+    \ are actually updated only every two or three frames. Here\u2019s an example\
+    \ from <em>Polar Bear Cafe</em>:</p>\n\n<p><img src=\"http://33.media.tumblr.com/9c55e264da14e04264cd7062f116c881/tumblr_inline_mlrxbt43o51qz4rgp.png\"\
+    \ class=\"toggle_inline_image inline_image constrained_image\"/></p>\n\n<p>With\
+    \ this information in hand, I go to whip up a <code>seq</code> invocation. <code>seq</code>\
+    \ is a Unix tool that generates, helpfully, <em>seq</em>uences of numbers. Let\u2019\
+    s say my scene starts at frame 10, ends at frame 72, and is animated on threes.\
+    \ The following command will output the appropriate list of image filenames:</p>\n\
+    \n<pre><code>$ seq -f %03g.png 10 3 72\n</code></pre>\n\n<p>The <code>-f</code>\
+    \ option specifies a format string, kind of like the one I passed to FFmpeg earlier.\
+    \ I\u2019ve used <code>%g</code> instead of <code>%d</code> here, though, due\
+    \ to syntax differences. The following arguments say to start counting at 10,\
+    \ give me every third number, and stop at 72. (If I wanted every single number\
+    \ between 10 and 72 inclusive, I could omit the <code>3</code> and just say <code>seq\
+    \ 10 72</code>.) With the format string, then, I now have my filenames: <code>010.png</code>,\
+    \ <code>013.png</code>, <code>016.png</code>, etc.</p>\n\n<h2>Creating the animation</h2>\n\
+    \n<p>Whew. We\u2019re almost there. Now it\u2019s time to get down to business\
+    \ and actually make the GIF file I want. I use backticks to substitute the <code>seq</code>\
+    \ command I write in the last step into a call to ImageMagick\u2019s <code>convert</code>\
+    \ utility.</p>\n\n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\
+    \n          -coalesce -layers OptimizeTransparency animation.gif\n</code></pre>\n\
+    \n<p>As with the <code>ffmpeg</code> invocation earlier, argument order matters\
+    \ to <code>convert</code>, so be careful. Here\u2019s a step-by-step explanation\
+    \ of this command:</p>\n\n<ol><li><p><code>-delay 1x8</code> says that the animation\
+    \ should play a frame every 1/8 of a second. I computed this number by looking\
+    \ at the frame rate of the original video (24) and dividing by the number of frames\
+    \ each drawing plays for (3). Note that most browsers slow down animations that\
+    \ play faster than 20 frames per second, or 1/50 second per frame. Most videos\
+    \ play back at between 25 and 30 fps, so you may have to drop every other frame\
+    \ or so if you care about accuracy of playback speed.</p></li>\n<li><p>And here\u2019\
+    s the <code>seq</code> invocation again.</p></li>\n<li><p><code>-coalesce</code>\
+    \ apparently \u201Cfully define[s] the look of each frame of an [sic] GIF animation\
+    \ sequence, to form a \u2018film strip\u2019 animation,\u201D according to <a\
+    \ href=\"http://www.imagemagick.org/script/command-line-options.php#coalesce\"\
+    >the documentation</a>. No, I don\u2019t know what that means, just that it\u2019\
+    s necessary for ImageMagick to do its thing.</p></li>\n<li><p><code>-layers OptimizeTransparency</code>\
+    \ tells ImageMagick to replace portions of each frame that are identical to the\
+    \ corresponding parts of the preceding frame with transparency, saving on file\
+    \ size.</p></li>\n<li><p>And <code>animation.gif</code> is the output filename,\
+    \ duh.</p></li>\n</ol><p>After this, I have a GIF that I can now post on all the\
+    \ interwebs.</p>\n\n<h2>ImageMagick tricks</h2>\n\n<p>Well, mostly. Remember how\
+    \ I mentioned Tumblr has a size limit? That applies both to image dimensions <em>and</em>\
+    \ file size. GIF animation is hardly the most efficient video compression scheme\
+    \ out there, so sometimes it\u2019s necessary to pull out some extra ImageMagick\
+    \ features in order to squeeze things down.</p>\n\n<p>First is the <code>-fuzz</code>\
+    \ option:</p>\n\n<pre><code>$ convert -fuzz 1% -delay 1x8 `seq -f %03g.png 10\
+    \ 3 72` \\\n          -coalesce -layers OptimizeTransparency animation.gif\n</code></pre>\n\
+    \n<p>This tells ImageMagick to treat pixels whose color values differ by less\
+    \ than 1% as the same color, giving the <code>OptimizeTransparency</code> action\
+    \ more pixels to chop away. This is especially good because videos tend to have\
+    \ shifting noise patterns in dark areas, which change every frame. A reasonable\
+    \ fuzz value puts the kibosh on this problem. Set it too high, though, beyond\
+    \ about 3%, and frames will start bleeding into each other. I guess it\u2019s\
+    \ cool if you\u2019re into psychedelia.</p>\n\n<p>Next is playing around with\
+    \ the dithering options. There are two ways to go about this. One is to turn dithering\
+    \ off entirely, using the <code>+dither</code> option. (Yes, I know that <code>+</code>\
+    \ looks like it would turn dithering <em>on</em>, but it\u2019s actually the opposite\
+    \ of the \u201Cnormal\u201D <code>-dither</code> option\u2026) This works well\
+    \ for images that have few smooth gradients of color, and reduces shifting dither\
+    \ noise that inflates file size.</p>\n\n<pre><code>$ convert +dither -delay 1x8\
+    \ `seq -f %03g.png 10 3 72` \\\n          -coalesce -layers OptimizeTransparency\
+    \ animation.gif\n</code></pre>\n\n<p>The other possible dithering change is ordered\
+    \ dithering. This is rather visible, but may look better than turning off dithering\
+    \ when smooth color transitions would cause banding. In order to use ordered dithering,\
+    \ I first need to work out the number of color levels I can use while still fitting\
+    \ in the GIF format\u2019s 256 color limit.</p>\n\n<pre><code>$ convert -delay\
+    \ 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither o8x8,8 \\\n    \
+    \      -coalesce -layers OptimizeTransparency \\\n          -append -format %k\
+    \ info:\n</code></pre>\n\n<p>Note the two changes I\u2019ve made here:</p>\n\n\
+    <ol><li><p><code>-ordered-dither o8x8,8</code> means \u201Cuse an 8-by-8 pixel\
+    \ dithering pattern with 8 color levels.\u201D I\u2019ll change that last <code>,8</code>\
+    \ part depending on how many colors are in the final image.</p></li>\n<li><p>I\u2019\
+    ve replaced the output filename with the options <code>-append -format %k info:</code>,\
+    \ which essentially mean \u201Ctell me how many colors total are in all the frames\
+    \ of this animation.\u201D</p></li>\n</ol><p>I tweak this command line, changing\
+    \ <code>o8x8,8</code> to <code>o8x8,7</code> or <code>o8x8,9</code> and so forth,\
+    \ until I find the highest number that gives me a result of 256 or fewer colors.\
+    \ I then go and put the output filename back, after a <code>+map</code> option\
+    \ to ensure that all frames use the color map generated by the dithering operation:</p>\n\
+    \n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither\
+    \ o8x8,8 \\\n          -coalesce -layers OptimizeTransparency \\\n          +map\
+    \ animation.gif\n</code></pre>\n\n<p>The ImageMagick manual has <a href=\"http://www.imagemagick.org/Usage/video/\"\
+    >more details on handling video</a>.</p>\n\n<h2>Conclusion</h2>\n\n<p>Don\u2019\
+    t do this.</p>\n\n<p><strong>Updated May 21, 2014</strong> to give more detailed\
+    \ information about duration specification and timestamp approximation, and fix\
+    \ some inconsistencies pointed out by @<a href=\"http://tmblr.co/m6Y4R1s2xrJUcLwQTivwZ2Q\"\
+    >all-eternals-deck</a>.</p>"
+  content_abstract: '<p>
+
+    <p>Regular readers will know that I <a href="http://blog.room208.org/tagged/gif">post
+    GIF animations on this blog</a> from time to time. Since I&rsquo;m trapped in
+    the 1980s, I like to create them from the command line using everyone&rsquo;s
+    favorite open source video and image manipulation tools, <a href="http://ffmpeg.org/">FFmpeg</a>
+    and <a href="http://www.imagemagick.org/">ImageMagick</a>. In this article, I&rsquo;ll
+    detail how I do this, while trying my hardest to ignore the fact that tools like
+    <a href="http://www.lcdf.org/gifsicle/">gifsicle</a> exist.</p>
+
+
+
+    </p>'
+  content_raw: "<p>Regular readers will know that I <a href=\"http://blog.room208.org/tagged/gif\"\
+    >post GIF animations on this blog</a> from time to time. Since I\u2019m trapped\
+    \ in the 1980s, I like to create them from the command line using everyone\u2019\
+    s favorite open source video and image manipulation tools, <a href=\"http://ffmpeg.org/\"\
+    >FFmpeg</a> and <a href=\"http://www.imagemagick.org/\">ImageMagick</a>. In this\
+    \ article, I\u2019ll detail how I do this, while trying my hardest to ignore the\
+    \ fact that tools like <a href=\"http://www.lcdf.org/gifsicle/\">gifsicle</a>\
+    \ exist.</p>\n\n<p>[[MORE]]</p>\n\n<hr><h2>Extracting frames</h2>\n\n<p>The first\
+    \ thing I usually do is create a directory to hold all the files that\u2019ll\
+    \ be generated in the process of making my new animation.</p>\n\n<pre><code>$\
+    \ mkdir anim &amp;&amp; cd anim\n</code></pre>\n\n<p>Next, I use FFmpeg to pull\
+    \ the frames I want from the video. Let\u2019s say that the scene I want is in\
+    \ a file called <code>video.mkv</code>, starts at 14:55 in, and lasts for approximately\
+    \ 5 seconds. I\u2019ll use this command to extract each frame into its own PNG\
+    \ file:</p>\n\n<pre><code>$ ffmpeg -ss 14:55 -i video.mkv -t 5 -s 480x270 -f image2\
+    \ %03d.png\n</code></pre>\n\n<p>Let\u2019s break down what each of these arguments\
+    \ means:</p>\n\n<ol><li><p><code>-ss 14:55</code> gives the timestamp where I\
+    \ want FFmpeg to start, as <a href=\"https://ffmpeg.org/ffmpeg-utils.html#time-duration-syntax\"\
+    >a duration string</a>. Specifying this option first tells FFmpeg to make a fast,\
+    \ approximate guess as to where the timestamp is, which means it may be a second\
+    \ or so off. If I were to put it <em>after</em> <code>-i</code>, FFmpeg would\
+    \ instead start decoding the video from the beginning, and wait for my frames\
+    \ to show up. That\u2019s more exact, but obviously a fair bit slower, and I\u2019\
+    m willing to bet you\u2019re as impatient as I am. It\u2019s generally faster\
+    \ to just tweak the approximated timestamp until FFmpeg starts in the right place.</p></li>\n\
+    <li><p><code>-i video.mkv</code> specifies the input file, obviously.</p></li>\n\
+    <li><p><code>-t 5</code> says how much I want FFmpeg to decode, using the same\
+    \ duration syntax as for <code>-ss</code>.</p></li>\n<li><p><code>-s 480x270</code>\
+    \ tells FFmpeg to resize the video output to 480 by 270 pixels. I do this primarily\
+    \ because I usually post to Tumblr, which has several size limits on posted GIFs.\
+    \ You can change or remove this if you want glorious high-definition GIFs (hat\
+    \ tip to <a href=\"https://github.com/raskug\">LORd</a>).</p></li>\n<li><p><code>-f\
+    \ image2</code> selects the output format, a series of still images.</p></li>\n\
+    <li><p><code>%03d.png</code> is a <code>printf</code> format string specifying\
+    \ the output filenames. What I\u2019m saying here is that I want my output files\
+    \ as a series of PNG images called <code>001.png</code>, <code>002.png</code>,\
+    \ <code>003.png</code>, and so on. The <code>image2</code> encoder also supports\
+    \ GIF, but its output is dithered to hell, so I don\u2019t use that option.</p></li>\n\
+    </ol><p>FFmpeg outputs a bunch of information about the video before it starts\
+    \ encoding frame images. Somewhere inside of there, there\u2019s a message that\
+    \ goes something like this:</p>\n\n<pre><code>Stream #0:0: Video: h264 (High),\
+    \ yuv420p, 1280x720 [SAR 1:1 DAR 16:9],\n23.81 fps, 23.81 tbr, 1k tbn, 47.95 tbc\
+    \ (default) (forced)\n</code></pre>\n\n<p>I note that the video is encoded at\
+    \ 23.81 frames per second, or 24 since I don\u2019t care for the fractional part.\
+    \ It\u2019ll be important later when we generate the GIF file.</p>\n\n<p>Okay,\
+    \ now I have a giant pile of sequentially numbered frames. It\u2019s time to put\
+    \ them back together again.</p>\n\n<h2>Selecting frames</h2>\n\n<p>At this point,\
+    \ I briefly leave the command line and open up my favorite image previewer to\
+    \ figure out where exactly the scene I want begins and ends, writing down the\
+    \ frame numbers for later reference.</p>\n\n<p>For anime images, which constitute\
+    \ the majority of GIFs I make, it\u2019s also important to note the animation\u2019\
+    s actual frame rate. Most anime is drawn on twos or threes, meaning that drawings\
+    \ are actually updated only every two or three frames. Here\u2019s an example\
+    \ from <em>Polar Bear Cafe</em>:</p>\n\n<div class=\"image\"><img src=\"http://33.media.tumblr.com/9c55e264da14e04264cd7062f116c881/tumblr_inline_mlrxbt43o51qz4rgp.png\"\
+    \ alt='A series of stills from \"Polar Bear Cafe\", showing individual drawings\
+    \ repeated for three frames.'></div>\n\n<p>With this information in hand, I go\
+    \ to whip up a <code>seq</code> invocation. <code>seq</code> is a Unix tool that\
+    \ generates, helpfully, <em>seq</em>uences of numbers. Let\u2019s say my scene\
+    \ starts at frame 10, ends at frame 72, and is animated on threes. The following\
+    \ command will output the appropriate list of image filenames:</p>\n\n<pre><code>$\
+    \ seq -f %03g.png 10 3 72\n</code></pre>\n\n<p>The <code>-f</code> option specifies\
+    \ a format string, kind of like the one I passed to FFmpeg earlier. I\u2019ve\
+    \ used <code>%g</code> instead of <code>%d</code> here, though, due to syntax\
+    \ differences. The following arguments say to start counting at 10, give me every\
+    \ third number, and stop at 72. (If I wanted every single number between 10 and\
+    \ 72 inclusive, I could omit the <code>3</code> and just say <code>seq 10 72</code>.)\
+    \ With the format string, then, I now have my filenames: <code>010.png</code>,\
+    \ <code>013.png</code>, <code>016.png</code>, etc.</p>\n\n<h2>Creating the animation</h2>\n\
+    \n<p>Whew. We\u2019re almost there. Now it\u2019s time to get down to business\
+    \ and actually make the GIF file I want. I use backticks to substitute the <code>seq</code>\
+    \ command I write in the last step into a call to ImageMagick\u2019s <code>convert</code>\
+    \ utility.</p>\n\n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\
+    \n          -coalesce -layers OptimizeTransparency animation.gif\n</code></pre>\n\
+    \n<p>As with the <code>ffmpeg</code> invocation earlier, argument order matters\
+    \ to <code>convert</code>, so be careful. Here\u2019s a step-by-step explanation\
+    \ of this command:</p>\n\n<ol><li><p><code>-delay 1x8</code> says that the animation\
+    \ should play a frame every 1/8 of a second. I computed this number by looking\
+    \ at the frame rate of the original video (24) and dividing by the number of frames\
+    \ each drawing plays for (3). Note that most browsers slow down animations that\
+    \ play faster than 20 frames per second, or 1/50 second per frame. Most videos\
+    \ play back at between 25 and 30 fps, so you may have to drop every other frame\
+    \ or so if you care about accuracy of playback speed.</p></li>\n<li><p>And here\u2019\
+    s the <code>seq</code> invocation again.</p></li>\n<li><p><code>-coalesce</code>\
+    \ apparently \u201Cfully define[s] the look of each frame of an [sic] GIF animation\
+    \ sequence, to form a \u2018film strip\u2019 animation,\u201D according to <a\
+    \ href=\"http://www.imagemagick.org/script/command-line-options.php#coalesce\"\
+    >the documentation</a>. No, I don\u2019t know what that means, just that it\u2019\
+    s necessary for ImageMagick to do its thing.</p></li>\n<li><p><code>-layers OptimizeTransparency</code>\
+    \ tells ImageMagick to replace portions of each frame that are identical to the\
+    \ corresponding parts of the preceding frame with transparency, saving on file\
+    \ size.</p></li>\n<li><p>And <code>animation.gif</code> is the output filename,\
+    \ duh.</p></li>\n</ol><p>After this, I have a GIF that I can now post on all the\
+    \ interwebs.</p>\n\n<h2>ImageMagick tricks</h2>\n\n<p>Well, mostly. Remember how\
+    \ I mentioned Tumblr has a size limit? That applies both to image dimensions <em>and</em>\
+    \ file size. GIF animation is hardly the most efficient video compression scheme\
+    \ out there, so sometimes it\u2019s necessary to pull out some extra ImageMagick\
+    \ features in order to squeeze things down.</p>\n\n<p>First is the <code>-fuzz</code>\
+    \ option:</p>\n\n<pre><code>$ convert -fuzz 1% -delay 1x8 `seq -f %03g.png 10\
+    \ 3 72` \\\n          -coalesce -layers OptimizeTransparency animation.gif\n</code></pre>\n\
+    \n<p>This tells ImageMagick to treat pixels whose color values differ by less\
+    \ than 1% as the same color, giving the <code>OptimizeTransparency</code> action\
+    \ more pixels to chop away. This is especially good because videos tend to have\
+    \ shifting noise patterns in dark areas, which change every frame. A reasonable\
+    \ fuzz value puts the kibosh on this problem. Set it too high, though, beyond\
+    \ about 3%, and frames will start bleeding into each other. I guess it\u2019s\
+    \ cool if you\u2019re into psychedelia.</p>\n\n<p>Next is playing around with\
+    \ the dithering options. There are two ways to go about this. One is to turn dithering\
+    \ off entirely, using the <code>+dither</code> option. (Yes, I know that <code>+</code>\
+    \ looks like it would turn dithering <em>on</em>, but it\u2019s actually the opposite\
+    \ of the \u201Cnormal\u201D <code>-dither</code> option\u2026) This works well\
+    \ for images that have few smooth gradients of color, and reduces shifting dither\
+    \ noise that inflates file size.</p>\n\n<pre><code>$ convert +dither -delay 1x8\
+    \ `seq -f %03g.png 10 3 72` \\\n          -coalesce -layers OptimizeTransparency\
+    \ animation.gif\n</code></pre>\n\n<p>The other possible dithering change is ordered\
+    \ dithering. This is rather visible, but may look better than turning off dithering\
+    \ when smooth color transitions would cause banding. In order to use ordered dithering,\
+    \ I first need to work out the number of color levels I can use while still fitting\
+    \ in the GIF format\u2019s 256 color limit.</p>\n\n<pre><code>$ convert -delay\
+    \ 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither o8x8,8 \\\n    \
+    \      -coalesce -layers OptimizeTransparency \\\n          -append -format %k\
+    \ info:\n</code></pre>\n\n<p>Note the two changes I\u2019ve made here:</p>\n\n\
+    <ol><li><p><code>-ordered-dither o8x8,8</code> means \u201Cuse an 8-by-8 pixel\
+    \ dithering pattern with 8 color levels.\u201D I\u2019ll change that last <code>,8</code>\
+    \ part depending on how many colors are in the final image.</p></li>\n<li><p>I\u2019\
+    ve replaced the output filename with the options <code>-append -format %k info:</code>,\
+    \ which essentially mean \u201Ctell me how many colors total are in all the frames\
+    \ of this animation.\u201D</p></li>\n</ol><p>I tweak this command line, changing\
+    \ <code>o8x8,8</code> to <code>o8x8,7</code> or <code>o8x8,9</code> and so forth,\
+    \ until I find the highest number that gives me a result of 256 or fewer colors.\
+    \ I then go and put the output filename back, after a <code>+map</code> option\
+    \ to ensure that all frames use the color map generated by the dithering operation:</p>\n\
+    \n<pre><code>$ convert -delay 1x8 `seq -f %03g.png 10 3 72` \\\n          -ordered-dither\
+    \ o8x8,8 \\\n          -coalesce -layers OptimizeTransparency \\\n          +map\
+    \ animation.gif\n</code></pre>\n\n<p>The ImageMagick manual has <a href=\"http://www.imagemagick.org/Usage/video/\"\
+    >more details on handling video</a>.</p>\n\n<h2>Conclusion</h2>\n\n<p>Don\u2019\
+    t do this.</p>\n\n<p><strong>Updated May 21, 2014</strong> to give more detailed\
+    \ information about duration specification and timestamp approximation, and fix\
+    \ some inconsistencies pointed out by @<a class=\"tumblelog\" href=\"http://tmblr.co/m6Y4R1s2xrJUcLwQTivwZ2Q\"\
+    >all-eternals-deck</a>.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '48793543478'}
+type: text

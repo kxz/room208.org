@@ -1,0 +1,96 @@
+blog_name: abandonmentprobability
+caption: '<p><a href="http://blog.room208.org/post/40124947004">Lies, damned lies,
+  and statistics</a>, part II.</p>
+
+
+  <p>This graph covers only anime with a regular TV airing, as defined by AniDB, from
+  which I pulled all of this data. Series are indexed by the date of their premiere,
+  naively sorted into season buckets in blocks of three calendar months.</p>
+
+
+  <p><em>Oreimo</em> aired in autumn 2010. Indeed, autumn has a pattern of having
+  longer titles in most years. What does that, or anything else about this graph,
+  tell us? You tell me.</p>'
+date: 2014-01-08 23:46:00 GMT
+format: markdown
+highlighted: []
+id: 72707932188
+image_permalink: http://blog.room208.org/image/72707932188
+note_count: 5
+photos:
+- alt_sizes:
+  - {height: 375, url: 'http://41.media.tumblr.com/141ecfd7a548e0b5f6927a2059682cc7/tumblr_mz3wpdrrAe1qim2zwo1_500.png',
+    width: 500}
+  - {height: 300, url: 'http://40.media.tumblr.com/141ecfd7a548e0b5f6927a2059682cc7/tumblr_mz3wpdrrAe1qim2zwo1_400.png',
+    width: 400}
+  - {height: 188, url: 'http://36.media.tumblr.com/141ecfd7a548e0b5f6927a2059682cc7/tumblr_mz3wpdrrAe1qim2zwo1_250.png',
+    width: 250}
+  - {height: 75, url: 'http://40.media.tumblr.com/141ecfd7a548e0b5f6927a2059682cc7/tumblr_mz3wpdrrAe1qim2zwo1_100.png',
+    width: 100}
+  - {height: 75, url: 'http://40.media.tumblr.com/141ecfd7a548e0b5f6927a2059682cc7/tumblr_mz3wpdrrAe1qim2zwo1_75sq.png',
+    width: 75}
+  caption: ''
+  original_size: {height: 375, url: 'http://41.media.tumblr.com/141ecfd7a548e0b5f6927a2059682cc7/tumblr_mz3wpdrrAe1qim2zwo1_500.png',
+    width: 500}
+post_url: http://blog.room208.org/post/72707932188/lies-damned-lies-and-statistics-part-ii-this
+reblog: {comment: '<p><a href="http://blog.room208.org/post/40124947004">Lies, damned
+    lies, and statistics</a>, part II.</p>
+
+
+    <p>This graph covers only anime with a regular TV airing, as defined by AniDB,
+    from which I pulled all of this data. Series are indexed by the date of their
+    premiere, naively sorted into season buckets in blocks of three calendar months.</p>
+
+
+    <p><em>Oreimo</em> aired in autumn 2010. Indeed, autumn has a pattern of having
+    longer titles in most years. What does that, or anything else about this graph,
+    tell us? You tell me.</p>', tree_html: ''}
+reblog_key: KrcmWGsY
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx13jkm0S
+slug: lies-damned-lies-and-statistics-part-ii-this
+state: published
+summary: "[Lies, damned lies, and statistics](http://blog.room208.org/post/40124947004),\
+  \ part II.\r\n\r\nThis graph covers only anime with a..."
+tags: [anime, graph, statistics, theroadtowashington]
+timestamp: 1389224760
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: '<p><a href="http://blog.room208.org/post/40124947004">Lies, damned lies,
+    and statistics</a>, part II.</p>
+
+
+    <p>This graph covers only anime with a regular TV airing, as defined by AniDB,
+    from which I pulled all of this data. Series are indexed by the date of their
+    premiere, naively sorted into season buckets in blocks of three calendar months.</p>
+
+
+    <p><em>Oreimo</em> aired in autumn 2010. Indeed, autumn has a pattern of having
+    longer titles in most years. What does that, or anything else about this graph,
+    tell us? You tell me.</p>'
+  content_raw: '<p><a href="http://blog.room208.org/post/40124947004">Lies, damned
+    lies, and statistics</a>, part II.</p>
+
+
+    <p>This graph covers only anime with a regular TV airing, as defined by AniDB,
+    from which I pulled all of this data. Series are indexed by the date of their
+    premiere, naively sorted into season buckets in blocks of three calendar months.</p>
+
+
+    <p><em>Oreimo</em> aired in autumn 2010. Indeed, autumn has a pattern of having
+    longer titles in most years. What does that, or anything else about this graph,
+    tell us? You tell me.</p>'
+  is_current_item: true
+  is_root_item: true
+  post: {id: '72707932188'}
+type: photo

@@ -1,0 +1,124 @@
+blog_name: abandonmentprobability
+body: "<p>I spent much of yesterday getting <a href=\"http://trac.donmai.us/\">Danbooru</a>\
+  \ set up for <a href=\"https://room208.org/booru/\">the new Room 208 imageboard</a>,\
+  \ and one issue in particular wasted a lot of my time. I had nginx configured to\
+  \ serve requests to the Danbooru directory through Phusion Passenger, using the\
+  \ <code>passenger_base_uri</code> directive. No matter what combination of settings\
+  \ I tried, however, Passenger invariably refused to start up. This in turn meant\
+  \ that requests bounced into the application&rsquo;s <code>public/</code> directory,\
+  \ leaving me with a 403 when I tried to access the board&rsquo;s index page.</p>\n\
+  \n<p>Now, I&rsquo;d read somewhere that if a server has a <code>location /</code>\
+  \ block, the <code>passenger_enabled</code> directive has to go inside of it, instead\
+  \ of <code>server</code>:</p>\n\n<pre><code># Doesn't work\nserver {\n    # ...\n\
+  \    root /my/www/dir;\n    passenger_base_uri /booru;\n    location / {\n     \
+  \   passenger_enabled on;\n    }\n}\n</code></pre>\n\n<p>Problem was, of course,\
+  \ that this piece of advice didn&rsquo;t help, because I had no such block for that\
+  \ server. It turns out, though, that if a directory specified in <code>passenger_base_uri</code>\
+  \ has a corresponding <code>location</code> block, <code>passenger_enabled</code>\
+  \ must be specified <em>there</em>:</p>\n\n<pre><code>server {\n    # ...\n    root\
+  \ /my/www/dir;\n    passenger_base_uri /booru;\n    location /booru/ {  # note path\
+  \ change\n        passenger_enabled on;\n    }\n}\n</code></pre>\n\n<p>In short,\
+  \ if you have a <code>location</code> block corresponding to the root URL of a Passenger\
+  \ application, <code>passenger_enabled</code> belongs inside it. Hope this keeps\
+  \ at least one other person from self-harm.*</p>\n\n<hr><p>* No, I didn&rsquo;t\
+  \ really.</p>"
+date: 2012-03-23 02:53:00 GMT
+format: markdown
+highlighted: []
+id: 19766763437
+note_count: 3
+post_url: http://blog.room208.org/post/19766763437/phusion-passenger-and-nginx-location-blocks
+reblog: {comment: "<p>I spent much of yesterday getting <a href=\"http://trac.donmai.us/\"\
+    >Danbooru</a> set up for <a href=\"https://room208.org/booru/\">the new Room 208\
+    \ imageboard</a>, and one issue in particular wasted a lot of my time. I had nginx\
+    \ configured to serve requests to the Danbooru directory through Phusion Passenger,\
+    \ using the <code>passenger_base_uri</code> directive. No matter what combination\
+    \ of settings I tried, however, Passenger invariably refused to start up. This\
+    \ in turn meant that requests bounced into the application\u2019s <code>public/</code>\
+    \ directory, leaving me with a 403 when I tried to access the board\u2019s index\
+    \ page.</p>\n\n<p>Now, I\u2019d read somewhere that if a server has a <code>location\
+    \ /</code> block, the <code>passenger_enabled</code> directive has to go inside\
+    \ of it, instead of <code>server</code>:</p>\n\n<pre><code># Doesn't work\nserver\
+    \ {\n    # ...\n    root /my/www/dir;\n    passenger_base_uri /booru;\n    location\
+    \ / {\n        passenger_enabled on;\n    }\n}\n</code></pre>\n\n<p>Problem was,\
+    \ of course, that this piece of advice didn\u2019t help, because I had no such\
+    \ block for that server. It turns out, though, that if a directory specified in\
+    \ <code>passenger_base_uri</code> has a corresponding <code>location</code> block,\
+    \ <code>passenger_enabled</code> must be specified <em>there</em>:</p>\n\n<pre><code>server\
+    \ {\n    # ...\n    root /my/www/dir;\n    passenger_base_uri /booru;\n    location\
+    \ /booru/ {  # note path change\n        passenger_enabled on;\n    }\n}\n</code></pre>\n\
+    \n<p>In short, if you have a <code>location</code> block corresponding to the\
+    \ root URL of a Passenger application, <code>passenger_enabled</code> belongs\
+    \ inside it. Hope this keeps at least one other person from self-harm.*</p>\n\n\
+    <hr><p>* No, I didn\u2019t really.</p>", tree_html: ''}
+reblog_key: B6B6mq0n
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxIQCD_j
+slug: phusion-passenger-and-nginx-location-blocks
+state: published
+summary: Phusion Passenger and nginx location blocks
+tags: [nginx, phusionpassenger, rubyonrails, bangheadhere]
+timestamp: 1332471180
+title: Phusion Passenger and nginx location blocks
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>I spent much of yesterday getting <a href=\"http://trac.donmai.us/\"\
+    >Danbooru</a> set up for <a href=\"https://room208.org/booru/\">the new Room 208\
+    \ imageboard</a>, and one issue in particular wasted a lot of my time. I had nginx\
+    \ configured to serve requests to the Danbooru directory through Phusion Passenger,\
+    \ using the <code>passenger_base_uri</code> directive. No matter what combination\
+    \ of settings I tried, however, Passenger invariably refused to start up. This\
+    \ in turn meant that requests bounced into the application\u2019s <code>public/</code>\
+    \ directory, leaving me with a 403 when I tried to access the board\u2019s index\
+    \ page.</p>\n\n<p>Now, I\u2019d read somewhere that if a server has a <code>location\
+    \ /</code> block, the <code>passenger_enabled</code> directive has to go inside\
+    \ of it, instead of <code>server</code>:</p>\n\n<pre><code># Doesn't work\nserver\
+    \ {\n    # ...\n    root /my/www/dir;\n    passenger_base_uri /booru;\n    location\
+    \ / {\n        passenger_enabled on;\n    }\n}\n</code></pre>\n\n<p>Problem was,\
+    \ of course, that this piece of advice didn\u2019t help, because I had no such\
+    \ block for that server. It turns out, though, that if a directory specified in\
+    \ <code>passenger_base_uri</code> has a corresponding <code>location</code> block,\
+    \ <code>passenger_enabled</code> must be specified <em>there</em>:</p>\n\n<pre><code>server\
+    \ {\n    # ...\n    root /my/www/dir;\n    passenger_base_uri /booru;\n    location\
+    \ /booru/ {  # note path change\n        passenger_enabled on;\n    }\n}\n</code></pre>\n\
+    \n<p>In short, if you have a <code>location</code> block corresponding to the\
+    \ root URL of a Passenger application, <code>passenger_enabled</code> belongs\
+    \ inside it. Hope this keeps at least one other person from self-harm.*</p>\n\n\
+    <hr /><p>* No, I didn\u2019t really.</p>"
+  content_raw: "<p>I spent much of yesterday getting <a href=\"http://trac.donmai.us/\"\
+    >Danbooru</a> set up for <a href=\"https://room208.org/booru/\">the new Room 208\
+    \ imageboard</a>, and one issue in particular wasted a lot of my time. I had nginx\
+    \ configured to serve requests to the Danbooru directory through Phusion Passenger,\
+    \ using the <code>passenger_base_uri</code> directive. No matter what combination\
+    \ of settings I tried, however, Passenger invariably refused to start up. This\
+    \ in turn meant that requests bounced into the application\u2019s <code>public/</code>\
+    \ directory, leaving me with a 403 when I tried to access the board\u2019s index\
+    \ page.</p>\n\n<p>Now, I\u2019d read somewhere that if a server has a <code>location\
+    \ /</code> block, the <code>passenger_enabled</code> directive has to go inside\
+    \ of it, instead of <code>server</code>:</p>\n\n<pre><code># Doesn't work\nserver\
+    \ {\n    # ...\n    root /my/www/dir;\n    passenger_base_uri /booru;\n    location\
+    \ / {\n        passenger_enabled on;\n    }\n}\n</code></pre>\n\n<p>Problem was,\
+    \ of course, that this piece of advice didn\u2019t help, because I had no such\
+    \ block for that server. It turns out, though, that if a directory specified in\
+    \ <code>passenger_base_uri</code> has a corresponding <code>location</code> block,\
+    \ <code>passenger_enabled</code> must be specified <em>there</em>:</p>\n\n<pre><code>server\
+    \ {\n    # ...\n    root /my/www/dir;\n    passenger_base_uri /booru;\n    location\
+    \ /booru/ {  # note path change\n        passenger_enabled on;\n    }\n}\n</code></pre>\n\
+    \n<p>In short, if you have a <code>location</code> block corresponding to the\
+    \ root URL of a Passenger application, <code>passenger_enabled</code> belongs\
+    \ inside it. Hope this keeps at least one other person from self-harm.*</p>\n\n\
+    <hr><p>* No, I didn\u2019t really.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '19766763437'}
+type: text

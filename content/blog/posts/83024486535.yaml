@@ -1,0 +1,73 @@
+blog_name: abandonmentprobability
+date: 2014-04-17 20:36:55 GMT
+description: <p>A (Tumblr!) blog documenting the OpenBSD team&rsquo;s <a href="https://pay.reddit.com/r/netsec/comments/232mte/openbsd_has_started_a_massive_stripdown_and/">recently-initiated
+  remodeling of OpenSSL</a>. I hate to be too hard on the OpenSSL developers, since
+  they&rsquo;ve already gotten more than enough flak these past couple of weeks, but
+  some of the code that&rsquo;s being chucked out is just horrifying &ndash; for example,
+  <a href="http://opensslrampage.org/post/83007010531/well-even-if-time-isnt-random-your-rsa-private-key">private
+  key material may sometimes be used as a PRNG entropy source</a>. I know keys look
+  random, but come <em>on</em>.</p>
+excerpt: null
+format: markdown
+highlighted: []
+id: 83024486535
+link_author: null
+link_image: http://33.media.tumblr.com/tumblr_n46zxjHmVW1qim2zw_og.png
+link_image_dimensions: {height: 128, width: 128}
+note_count: 0
+photos:
+- alt_sizes: []
+  caption: ''
+  original_size: {height: 128, url: 'http://33.media.tumblr.com/tumblr_n46zxjHmVW1qim2zw_og.png',
+    width: 128}
+post_url: http://blog.room208.org/post/83024486535/openssl-valhalla-rampage
+publisher: opensslrampage.org
+reblog: {comment: "<p>A (Tumblr!) blog documenting the OpenBSD team\u2019s <a href=\"\
+    https://pay.reddit.com/r/netsec/comments/232mte/openbsd_has_started_a_massive_stripdown_and/\"\
+    >recently-initiated remodeling of OpenSSL</a>. I hate to be too hard on the OpenSSL\
+    \ developers, since they\u2019ve already gotten more than enough flak these past\
+    \ couple of weeks, but some of the code that\u2019s being chucked out is just\
+    \ horrifying \u2013 for example, <a href=\"http://opensslrampage.org/post/83007010531/well-even-if-time-isnt-random-your-rsa-private-key\"\
+    >private key material may sometimes be used as a PRNG entropy source</a>. I know\
+    \ keys look random, but come <em>on</em>.</p>", tree_html: ''}
+reblog_key: 85B94z0H
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx1DKfI27
+slug: openssl-valhalla-rampage
+state: published
+summary: OpenSSL Valhalla Rampage
+tags: [openssl, openbsd, programming, security]
+timestamp: 1397767015
+title: OpenSSL Valhalla Rampage
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>A (Tumblr!) blog documenting the OpenBSD team\u2019s <a href=\"https://pay.reddit.com/r/netsec/comments/232mte/openbsd_has_started_a_massive_stripdown_and/\"\
+    >recently-initiated remodeling of OpenSSL</a>. I hate to be too hard on the OpenSSL\
+    \ developers, since they\u2019ve already gotten more than enough flak these past\
+    \ couple of weeks, but some of the code that\u2019s being chucked out is just\
+    \ horrifying \u2013 for example, <a href=\"http://opensslrampage.org/post/83007010531/well-even-if-time-isnt-random-your-rsa-private-key\"\
+    >private key material may sometimes be used as a PRNG entropy source</a>. I know\
+    \ keys look random, but come <em>on</em>.</p>"
+  content_raw: "<p>A (Tumblr!) blog documenting the OpenBSD team\u2019s <a href=\"\
+    https://pay.reddit.com/r/netsec/comments/232mte/openbsd_has_started_a_massive_stripdown_and/\"\
+    >recently-initiated remodeling of OpenSSL</a>. I hate to be too hard on the OpenSSL\
+    \ developers, since they\u2019ve already gotten more than enough flak these past\
+    \ couple of weeks, but some of the code that\u2019s being chucked out is just\
+    \ horrifying \u2013 for example, <a href=\"http://opensslrampage.org/post/83007010531/well-even-if-time-isnt-random-your-rsa-private-key\"\
+    >private key material may sometimes be used as a PRNG entropy source</a>. I know\
+    \ keys look random, but come <em>on</em>.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '83024486535'}
+type: link
+url: http://opensslrampage.org/

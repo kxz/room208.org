@@ -1,0 +1,287 @@
+blog_name: abandonmentprobability
+body: '<p>Obviously, massive spoilers after the break. (And here&rsquo;s where I take
+  up space so the next paragraph doesn&rsquo;t show up on the Tumblr archive page.
+  Someone really ought to change that behavior, you know?)</p>
+
+
+  <!-- more -->
+
+
+  <hr><p>Note that once one of the AIs notifies you of the reactor troubles, there
+  is no way to switch to the other one.</p>
+
+
+  <ol><li><p><strong>*Hyun-ae leaves home, in the care of a new friend.</strong> Take
+  *Mute&rsquo;s questions to *Hyun-ae. Give them to her in order up to question 8,
+  then read the new documents she provides you with. When she asks you for your opinions,
+  answer in a supportive manner. Eventually, she&rsquo;ll ask you to decrypt block
+  7 and read the documents there.</p>
+
+
+  <p>Once you&rsquo;ve done so, *Hyun-ae will ping you, and tell you to show her &ldquo;the
+  obvious question&rdquo;: *Mute&rsquo;s ninth question. Do that, and read and show
+  her the diary entry that she unlocks. Again, tell her that you trust her when she
+  asks.</p>
+
+
+  <p>You&rsquo;ll get dropped back to the home menu. Speak to her one last time. Your
+  response to her first question about ridiculousness doesn&rsquo;t matter; answer
+  the next two questions by saying that while the two of you don&rsquo;t have a chance
+  together, you can take her with you anyway. When prompted to download *Hyun-ae&rsquo;s
+  core at the terminal, say &ldquo;yes&rdquo;.</p></li>
+
+  <li><p><strong>The former bride falls in love for the first time.</strong> Much
+  the same as the previous ending; just tell her in the last conversation that you
+  can be together with her. If you made a save at that question, good for you!</p>
+
+
+  <p>I feel like these first two endings are the easiest to get, and don&rsquo;t need
+  to be explained here, but for the sake of completeness&hellip;</p></li>
+
+  <li><p><strong>The investigator leaves alone.</strong> Once you get super-user access,
+  run <code>download</code> at any time, without taking an AI personality if offered.</p></li>
+
+  <li><p><strong>The security program is relieved of her duties.</strong> Note that
+  *Mute has to believe that you&rsquo;re male or lesbian in order to offer to come
+  along with you. I believe the latter has to do with your response to the situation
+  in block 2, about Oh So-jin&rsquo;s affair.</p>
+
+
+  <p>When *Mute gives you her questions, don&rsquo;t show them to *Hyun-ae; instead,
+  give them to her, until she asks you why you&rsquo;re not doing as you&rsquo;ve
+  been told. Say &ldquo;no&rdquo; to her first couple of conjectures, then tell her
+  (twice) that you want to hear the story from her. Keep unlocking new documents until
+  you get the block 8 logs. Show them to her in order, then speak to her when she
+  pings you. Tell her you&rsquo;ve seen everything, then that you&rsquo;ll take her
+  with you. Answer &ldquo;yes&rdquo; to the terminal download prompt.</p></li>
+
+  <li><p><strong>Harem ending.</strong> I thought this was some kind of joke, but
+  apparently it&rsquo;s not &ndash; it just requires you to use knowledge you can&rsquo;t
+  have in-character. Notice the document ID search above the block index? You can
+  use this to manually unlock documents that the AIs haven&rsquo;t given you access
+  to, which you can in turn use to mollify *Mute.</p>
+
+
+  <p>Ignore the questions she gives you for *Hyun-ae &ndash; looking at any one of
+  them will trigger the meltdown sequence, which will block off this ending. Instead,
+  open the Pale Bride&rsquo;s &ldquo;I&rsquo;ll kill them all!&rdquo; diary entry
+  by entering its ID (6-EUY22) into the search box, and show it to *Mute. She&rsquo;ll
+  react to it as she does in the other branches. Press on, and show her &ldquo;Forever
+  silenced&rdquo; (7-EUX25). Tell her the diary entry is real when she asks, then
+  sit back and watch the two AIs make up. You&rsquo;ll get the opportunity to download
+  both of them when the time comes, and be treated to an 8-bit version of the credits
+  music.</p></li>
+
+  </ol><p>If you want 100% log completion, don&rsquo;t show *Mute&rsquo;s message
+  for Smith Kyung-sam in block 6 to *Hyun-ae; she&rsquo;ll say she made a mistake
+  and remove your access, leaving you with a one-document hole in your logs.</p>
+
+
+  <hr><p><strong>Updated July 16, 2012</strong> to correct an ID number mistake. Mea
+  culpa.</p>'
+body_abstract: '
+
+  <p>Obviously, massive spoilers after the break. (And here&rsquo;s where I take up
+  space so the next paragraph doesn&rsquo;t show up on the Tumblr archive page. Someone
+  really ought to change that behavior, you know?)</p>
+
+
+  '
+date: 2012-04-03 05:44:00 GMT
+format: markdown
+highlighted: []
+id: 20396672085
+note_count: 44
+post_url: http://blog.room208.org/post/20396672085/a-quick-guide-to-analogue-a-hate-storys-endings
+reblog: {comment: "<p>Obviously, massive spoilers after the break. (And here\u2019\
+    s where I take up space so the next paragraph doesn\u2019t show up on the Tumblr\
+    \ archive page. Someone really ought to change that behavior, you know?)</p>\n\
+    \n[[MORE]]\n\n<hr><p>Note that once one of the AIs notifies you of the reactor\
+    \ troubles, there is no way to switch to the other one.</p>\n\n<ol><li><p><strong>*Hyun-ae\
+    \ leaves home, in the care of a new friend.</strong> Take *Mute\u2019s questions\
+    \ to *Hyun-ae. Give them to her in order up to question 8, then read the new documents\
+    \ she provides you with. When she asks you for your opinions, answer in a supportive\
+    \ manner. Eventually, she\u2019ll ask you to decrypt block 7 and read the documents\
+    \ there.</p>\n\n<p>Once you\u2019ve done so, *Hyun-ae will ping you, and tell\
+    \ you to show her \u201Cthe obvious question\u201D: *Mute\u2019s ninth question.\
+    \ Do that, and read and show her the diary entry that she unlocks. Again, tell\
+    \ her that you trust her when she asks.</p>\n\n<p>You\u2019ll get dropped back\
+    \ to the home menu. Speak to her one last time. Your response to her first question\
+    \ about ridiculousness doesn\u2019t matter; answer the next two questions by saying\
+    \ that while the two of you don\u2019t have a chance together, you can take her\
+    \ with you anyway. When prompted to download *Hyun-ae\u2019s core at the terminal,\
+    \ say \u201Cyes\u201D.</p></li>\n<li><p><strong>The former bride falls in love\
+    \ for the first time.</strong> Much the same as the previous ending; just tell\
+    \ her in the last conversation that you can be together with her. If you made\
+    \ a save at that question, good for you!</p>\n\n<p>I feel like these first two\
+    \ endings are the easiest to get, and don\u2019t need to be explained here, but\
+    \ for the sake of completeness\u2026</p></li>\n<li><p><strong>The investigator\
+    \ leaves alone.</strong> Once you get super-user access, run <code>download</code>\
+    \ at any time, without taking an AI personality if offered.</p></li>\n<li><p><strong>The\
+    \ security program is relieved of her duties.</strong> Note that *Mute has to\
+    \ believe that you\u2019re male or lesbian in order to offer to come along with\
+    \ you. I believe the latter has to do with your response to the situation in block\
+    \ 2, about Oh So-jin\u2019s affair.</p>\n\n<p>When *Mute gives you her questions,\
+    \ don\u2019t show them to *Hyun-ae; instead, give them to her, until she asks\
+    \ you why you\u2019re not doing as you\u2019ve been told. Say \u201Cno\u201D to\
+    \ her first couple of conjectures, then tell her (twice) that you want to hear\
+    \ the story from her. Keep unlocking new documents until you get the block 8 logs.\
+    \ Show them to her in order, then speak to her when she pings you. Tell her you\u2019\
+    ve seen everything, then that you\u2019ll take her with you. Answer \u201Cyes\u201D\
+    \ to the terminal download prompt.</p></li>\n<li><p><strong>Harem ending.</strong>\
+    \ I thought this was some kind of joke, but apparently it\u2019s not \u2013 it\
+    \ just requires you to use knowledge you can\u2019t have in-character. Notice\
+    \ the document ID search above the block index? You can use this to manually unlock\
+    \ documents that the AIs haven\u2019t given you access to, which you can in turn\
+    \ use to mollify *Mute.</p>\n\n<p>Ignore the questions she gives you for *Hyun-ae\
+    \ \u2013 looking at any one of them will trigger the meltdown sequence, which\
+    \ will block off this ending. Instead, open the Pale Bride\u2019s \u201CI\u2019\
+    ll kill them all!\u201D diary entry by entering its ID (6-EUY22) into the search\
+    \ box, and show it to *Mute. She\u2019ll react to it as she does in the other\
+    \ branches. Press on, and show her \u201CForever silenced\u201D (7-EUX25). Tell\
+    \ her the diary entry is real when she asks, then sit back and watch the two AIs\
+    \ make up. You\u2019ll get the opportunity to download both of them when the time\
+    \ comes, and be treated to an 8-bit version of the credits music.</p></li>\n</ol><p>If\
+    \ you want 100% log completion, don\u2019t show *Mute\u2019s message for Smith\
+    \ Kyung-sam in block 6 to *Hyun-ae; she\u2019ll say she made a mistake and remove\
+    \ your access, leaving you with a one-document hole in your logs.</p>\n\n<hr><p><strong>Updated\
+    \ July 16, 2012</strong> to correct an ID number mistake. Mea culpa.</p>", tree_html: ''}
+reblog_key: CeKFZ5Kx
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxI-l8HL
+slug: a-quick-guide-to-analogue-a-hate-storys-endings
+state: published
+summary: 'A quick guide to Analogue: A Hate Story''s endings'
+tags: [visualnovel, analogue, guide]
+timestamp: 1333431840
+title: 'A quick guide to Analogue: A Hate Story''s endings'
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>Obviously, massive spoilers after the break. (And here\u2019s where\
+    \ I take up space so the next paragraph doesn\u2019t show up on the Tumblr archive\
+    \ page. Someone really ought to change that behavior, you know?)</p>\n\n\n\n<hr\
+    \ /><p>Note that once one of the AIs notifies you of the reactor troubles, there\
+    \ is no way to switch to the other one.</p>\n\n<ol><li><p><strong>*Hyun-ae leaves\
+    \ home, in the care of a new friend.</strong> Take *Mute\u2019s questions to *Hyun-ae.\
+    \ Give them to her in order up to question 8, then read the new documents she\
+    \ provides you with. When she asks you for your opinions, answer in a supportive\
+    \ manner. Eventually, she\u2019ll ask you to decrypt block 7 and read the documents\
+    \ there.</p>\n\n<p>Once you\u2019ve done so, *Hyun-ae will ping you, and tell\
+    \ you to show her \u201Cthe obvious question\u201D: *Mute\u2019s ninth question.\
+    \ Do that, and read and show her the diary entry that she unlocks. Again, tell\
+    \ her that you trust her when she asks.</p>\n\n<p>You\u2019ll get dropped back\
+    \ to the home menu. Speak to her one last time. Your response to her first question\
+    \ about ridiculousness doesn\u2019t matter; answer the next two questions by saying\
+    \ that while the two of you don\u2019t have a chance together, you can take her\
+    \ with you anyway. When prompted to download *Hyun-ae\u2019s core at the terminal,\
+    \ say \u201Cyes\u201D.</p></li>\n<li><p><strong>The former bride falls in love\
+    \ for the first time.</strong> Much the same as the previous ending; just tell\
+    \ her in the last conversation that you can be together with her. If you made\
+    \ a save at that question, good for you!</p>\n\n<p>I feel like these first two\
+    \ endings are the easiest to get, and don\u2019t need to be explained here, but\
+    \ for the sake of completeness\u2026</p></li>\n<li><p><strong>The investigator\
+    \ leaves alone.</strong> Once you get super-user access, run <code>download</code>\
+    \ at any time, without taking an AI personality if offered.</p></li>\n<li><p><strong>The\
+    \ security program is relieved of her duties.</strong> Note that *Mute has to\
+    \ believe that you\u2019re male or lesbian in order to offer to come along with\
+    \ you. I believe the latter has to do with your response to the situation in block\
+    \ 2, about Oh So-jin\u2019s affair.</p>\n\n<p>When *Mute gives you her questions,\
+    \ don\u2019t show them to *Hyun-ae; instead, give them to her, until she asks\
+    \ you why you\u2019re not doing as you\u2019ve been told. Say \u201Cno\u201D to\
+    \ her first couple of conjectures, then tell her (twice) that you want to hear\
+    \ the story from her. Keep unlocking new documents until you get the block 8 logs.\
+    \ Show them to her in order, then speak to her when she pings you. Tell her you\u2019\
+    ve seen everything, then that you\u2019ll take her with you. Answer \u201Cyes\u201D\
+    \ to the terminal download prompt.</p></li>\n<li><p><strong>Harem ending.</strong>\
+    \ I thought this was some kind of joke, but apparently it\u2019s not \u2013 it\
+    \ just requires you to use knowledge you can\u2019t have in-character. Notice\
+    \ the document ID search above the block index? You can use this to manually unlock\
+    \ documents that the AIs haven\u2019t given you access to, which you can in turn\
+    \ use to mollify *Mute.</p>\n\n<p>Ignore the questions she gives you for *Hyun-ae\
+    \ \u2013 looking at any one of them will trigger the meltdown sequence, which\
+    \ will block off this ending. Instead, open the Pale Bride\u2019s \u201CI\u2019\
+    ll kill them all!\u201D diary entry by entering its ID (6-EUY22) into the search\
+    \ box, and show it to *Mute. She\u2019ll react to it as she does in the other\
+    \ branches. Press on, and show her \u201CForever silenced\u201D (7-EUX25). Tell\
+    \ her the diary entry is real when she asks, then sit back and watch the two AIs\
+    \ make up. You\u2019ll get the opportunity to download both of them when the time\
+    \ comes, and be treated to an 8-bit version of the credits music.</p></li>\n</ol><p>If\
+    \ you want 100% log completion, don\u2019t show *Mute\u2019s message for Smith\
+    \ Kyung-sam in block 6 to *Hyun-ae; she\u2019ll say she made a mistake and remove\
+    \ your access, leaving you with a one-document hole in your logs.</p>\n\n<hr /><p><strong>Updated\
+    \ July 16, 2012</strong> to correct an ID number mistake. Mea culpa.</p>"
+  content_abstract: '<p>
+
+    <p>Obviously, massive spoilers after the break. (And here&rsquo;s where I take
+    up space so the next paragraph doesn&rsquo;t show up on the Tumblr archive page.
+    Someone really ought to change that behavior, you know?)</p>
+
+
+    </p>'
+  content_raw: "<p>Obviously, massive spoilers after the break. (And here\u2019s where\
+    \ I take up space so the next paragraph doesn\u2019t show up on the Tumblr archive\
+    \ page. Someone really ought to change that behavior, you know?)</p>\n\n[[MORE]]\n\
+    \n<hr><p>Note that once one of the AIs notifies you of the reactor troubles, there\
+    \ is no way to switch to the other one.</p>\n\n<ol><li><p><strong>*Hyun-ae leaves\
+    \ home, in the care of a new friend.</strong> Take *Mute\u2019s questions to *Hyun-ae.\
+    \ Give them to her in order up to question 8, then read the new documents she\
+    \ provides you with. When she asks you for your opinions, answer in a supportive\
+    \ manner. Eventually, she\u2019ll ask you to decrypt block 7 and read the documents\
+    \ there.</p>\n\n<p>Once you\u2019ve done so, *Hyun-ae will ping you, and tell\
+    \ you to show her \u201Cthe obvious question\u201D: *Mute\u2019s ninth question.\
+    \ Do that, and read and show her the diary entry that she unlocks. Again, tell\
+    \ her that you trust her when she asks.</p>\n\n<p>You\u2019ll get dropped back\
+    \ to the home menu. Speak to her one last time. Your response to her first question\
+    \ about ridiculousness doesn\u2019t matter; answer the next two questions by saying\
+    \ that while the two of you don\u2019t have a chance together, you can take her\
+    \ with you anyway. When prompted to download *Hyun-ae\u2019s core at the terminal,\
+    \ say \u201Cyes\u201D.</p></li>\n<li><p><strong>The former bride falls in love\
+    \ for the first time.</strong> Much the same as the previous ending; just tell\
+    \ her in the last conversation that you can be together with her. If you made\
+    \ a save at that question, good for you!</p>\n\n<p>I feel like these first two\
+    \ endings are the easiest to get, and don\u2019t need to be explained here, but\
+    \ for the sake of completeness\u2026</p></li>\n<li><p><strong>The investigator\
+    \ leaves alone.</strong> Once you get super-user access, run <code>download</code>\
+    \ at any time, without taking an AI personality if offered.</p></li>\n<li><p><strong>The\
+    \ security program is relieved of her duties.</strong> Note that *Mute has to\
+    \ believe that you\u2019re male or lesbian in order to offer to come along with\
+    \ you. I believe the latter has to do with your response to the situation in block\
+    \ 2, about Oh So-jin\u2019s affair.</p>\n\n<p>When *Mute gives you her questions,\
+    \ don\u2019t show them to *Hyun-ae; instead, give them to her, until she asks\
+    \ you why you\u2019re not doing as you\u2019ve been told. Say \u201Cno\u201D to\
+    \ her first couple of conjectures, then tell her (twice) that you want to hear\
+    \ the story from her. Keep unlocking new documents until you get the block 8 logs.\
+    \ Show them to her in order, then speak to her when she pings you. Tell her you\u2019\
+    ve seen everything, then that you\u2019ll take her with you. Answer \u201Cyes\u201D\
+    \ to the terminal download prompt.</p></li>\n<li><p><strong>Harem ending.</strong>\
+    \ I thought this was some kind of joke, but apparently it\u2019s not \u2013 it\
+    \ just requires you to use knowledge you can\u2019t have in-character. Notice\
+    \ the document ID search above the block index? You can use this to manually unlock\
+    \ documents that the AIs haven\u2019t given you access to, which you can in turn\
+    \ use to mollify *Mute.</p>\n\n<p>Ignore the questions she gives you for *Hyun-ae\
+    \ \u2013 looking at any one of them will trigger the meltdown sequence, which\
+    \ will block off this ending. Instead, open the Pale Bride\u2019s \u201CI\u2019\
+    ll kill them all!\u201D diary entry by entering its ID (6-EUY22) into the search\
+    \ box, and show it to *Mute. She\u2019ll react to it as she does in the other\
+    \ branches. Press on, and show her \u201CForever silenced\u201D (7-EUX25). Tell\
+    \ her the diary entry is real when she asks, then sit back and watch the two AIs\
+    \ make up. You\u2019ll get the opportunity to download both of them when the time\
+    \ comes, and be treated to an 8-bit version of the credits music.</p></li>\n</ol><p>If\
+    \ you want 100% log completion, don\u2019t show *Mute\u2019s message for Smith\
+    \ Kyung-sam in block 6 to *Hyun-ae; she\u2019ll say she made a mistake and remove\
+    \ your access, leaving you with a one-document hole in your logs.</p>\n\n<hr><p><strong>Updated\
+    \ July 16, 2012</strong> to correct an ID number mistake. Mea culpa.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '20396672085'}
+type: text

@@ -1,0 +1,60 @@
+blog_name: abandonmentprobability
+date: 2012-05-01 14:28:00 GMT
+description: <p>A small HTTP server that lets you easily craft diabolical responses,
+  like one that sends 50 random bytes, pauses for six seconds, sends another 50, pauses
+  again, sends a final 2 KB, then terminates the connection. Those of you who have
+  noticed my recent struggles with <a href="https://bitbucket.org/kxz/omnipresence">Omnipresence</a>&rsquo;s
+  URL sniffing functionality will understand why something like this is a testing
+  godsend.</p>
+excerpt: null
+format: markdown
+highlighted: []
+id: 22192896606
+link_author: null
+note_count: 5
+post_url: http://blog.room208.org/post/22192896606/introducing-pathod-a-pathological-http-server
+publisher: corte.si
+reblog: {comment: "<p>A small HTTP server that lets you easily craft diabolical responses,\
+    \ like one that sends 50 random bytes, pauses for six seconds, sends another 50,\
+    \ pauses again, sends a final 2 KB, then terminates the connection. Those of you\
+    \ who have noticed my recent struggles with <a href=\"https://bitbucket.org/kxz/omnipresence\"\
+    >Omnipresence</a>\u2019s URL sniffing functionality will understand why something\
+    \ like this is a testing godsend.</p>", tree_html: ''}
+reblog_key: vSfrvfUY
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxKgpBfU
+slug: introducing-pathod-a-pathological-http-server
+state: published
+summary: 'Introducing pathod: a pathological HTTP server'
+tags: [webdev, software]
+timestamp: 1335882480
+title: 'Introducing pathod: a pathological HTTP server'
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>A small HTTP server that lets you easily craft diabolical responses,\
+    \ like one that sends 50 random bytes, pauses for six seconds, sends another 50,\
+    \ pauses again, sends a final 2 KB, then terminates the connection. Those of you\
+    \ who have noticed my recent struggles with <a href=\"https://bitbucket.org/kxz/omnipresence\"\
+    >Omnipresence</a>\u2019s URL sniffing functionality will understand why something\
+    \ like this is a testing godsend.</p>"
+  content_raw: "<p>A small HTTP server that lets you easily craft diabolical responses,\
+    \ like one that sends 50 random bytes, pauses for six seconds, sends another 50,\
+    \ pauses again, sends a final 2 KB, then terminates the connection. Those of you\
+    \ who have noticed my recent struggles with <a href=\"https://bitbucket.org/kxz/omnipresence\"\
+    >Omnipresence</a>\u2019s URL sniffing functionality will understand why something\
+    \ like this is a testing godsend.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '22192896606'}
+type: link
+url: http://corte.si/posts/code/pathod/announce0_1.html

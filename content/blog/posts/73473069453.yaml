@@ -1,0 +1,64 @@
+blog_name: abandonmentprobability
+body: '<p>Places where I won&rsquo;t mind if you misspell <em>calendar</em>:</p>
+
+
+  <ul><li>Handwritten notes</li>
+
+  <li>Text messages</li>
+
+  <li>Blog posts</li>
+
+  <li>Hastily written e-mails</li>
+
+  </ul><p>Places where I&rsquo;ll damn well mind if you misspell <em>calendar</em>:</p>
+
+
+  <ul><li>Function names in a date/time API</li>
+
+  </ul>'
+date: 2014-01-16 02:51:00 GMT
+format: markdown
+highlighted: []
+id: 73473069453
+note_count: 0
+post_url: http://blog.room208.org/post/73473069453/but-what-if-im-making-paper
+reblog: {comment: "<p><p>Places where I won\u2019t mind if you misspell <em>calendar</em>:</p>\n\
+    \n<ul><li>Handwritten notes</li>\n<li>Text messages</li>\n<li>Blog posts</li>\n\
+    <li>Hastily written e-mails</li>\n</ul><p>Places where I\u2019ll damn well mind\
+    \ if you misspell <em>calendar</em>:</p>\n\n<ul><li>Function names in a date/time\
+    \ API</li>\n</ul></p>", tree_html: ''}
+reblog_key: XsVhdbeO
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcx14RLX6D
+slug: but-what-if-im-making-paper
+state: published
+summary: '"But what if I''m making paper?"'
+tags: [programming]
+timestamp: 1389840660
+title: '"But what if I''m making paper?"'
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p><p>Places where I won\u2019t mind if you misspell <em>calendar</em>:</p>\n\
+    \n<ul><li>Handwritten notes</li>\n<li>Text messages</li>\n<li>Blog posts</li>\n\
+    <li>Hastily written e-mails</li>\n</ul><p>Places where I\u2019ll damn well mind\
+    \ if you misspell <em>calendar</em>:</p>\n\n<ul><li>Function names in a date/time\
+    \ API</li>\n</ul></p>"
+  content_raw: "<p><p>Places where I won\u2019t mind if you misspell <em>calendar</em>:</p>\n\
+    \n<ul><li>Handwritten notes</li>\n<li>Text messages</li>\n<li>Blog posts</li>\n\
+    <li>Hastily written e-mails</li>\n</ul><p>Places where I\u2019ll damn well mind\
+    \ if you misspell <em>calendar</em>:</p>\n\n<ul><li>Function names in a date/time\
+    \ API</li>\n</ul></p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '73473069453'}
+type: text

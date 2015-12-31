@@ -1,0 +1,43 @@
+audio_source_url: https://www.tumblr.com/audio_file/abandonmentprobability/48905779567/tumblr_mlueyyo2fC1qim2zw
+audio_type: tumblr
+audio_url: https://www.tumblr.com/audio_file/abandonmentprobability/48905779567/tumblr_mlueyyo2fC1qim2zw
+blog_name: abandonmentprobability
+caption: <p>This is why you don&rsquo;t let me near GarageBand.</p>
+date: 2013-04-26 03:28:00 GMT
+embed: <iframe class="tumblr_audio_player tumblr_audio_player_48905779567" src="http://blog.room208.org/post/48905779567/audio_player_iframe/abandonmentprobability/tumblr_mlueyyo2fC1qim2zw?audio_file=https%3A%2F%2Fwww.tumblr.com%2Faudio_file%2Fabandonmentprobability%2F48905779567%2Ftumblr_mlueyyo2fC1qim2zw"
+  frameborder="0" allowtransparency="true" scrolling="no" width="540" height="85"></iframe>
+format: markdown
+highlighted: []
+id: 48905779567
+note_count: 2
+player: <embed type="application/x-shockwave-flash" src="http://assets.tumblr.com/swf/audio_player.swf?audio_file=https%3A%2F%2Fwww.tumblr.com%2Faudio_file%2Fabandonmentprobability%2F48905779567%2Ftumblr_mlueyyo2fC1qim2zw&color=FFFFFF"
+  height="27" width="207" quality="best" wmode="opaque"></embed>
+plays: 21
+post_url: http://blog.room208.org/post/48905779567/this-is-why-you-dont-let-me-near-garageband
+reblog: {comment: "<p>This is why you don\u2019t let me near GarageBand.</p>", tree_html: ''}
+reblog_key: SYxvFBz8
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxjZ0lbl
+slug: this-is-why-you-dont-let-me-near-garageband
+state: published
+summary: This is why you don't let me near GarageBand.
+tags: [audio, garageband, music]
+timestamp: 1366946880
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: "<p>This is why you don\u2019t let me near GarageBand.</p>"
+  content_raw: "<p>This is why you don\u2019t let me near GarageBand.</p>"
+  is_current_item: true
+  is_root_item: true
+  post: {id: '48905779567'}
+type: audio

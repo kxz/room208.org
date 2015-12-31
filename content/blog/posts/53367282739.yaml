@@ -1,0 +1,63 @@
+blog_name: abandonmentprobability
+caption: '<p><em>Yuyushiki</em> episode 11.</p>
+
+
+  <p>Nobody likes you, background gradient!</p>'
+date: 2013-06-19 16:52:24 GMT
+format: markdown
+highlighted: []
+id: 53367282739
+image_permalink: http://blog.room208.org/image/53367282739
+note_count: 4
+photos:
+- alt_sizes:
+  - {height: 270, url: 'http://45.media.tumblr.com/f031fe116df84570555adb0e4d00712e/tumblr_mong7c5cZl1qim2zwo1_500.gif',
+    width: 480}
+  - {height: 225, url: 'http://45.media.tumblr.com/f031fe116df84570555adb0e4d00712e/tumblr_mong7c5cZl1qim2zwo1_400.gif',
+    width: 400}
+  - {height: 141, url: 'http://45.media.tumblr.com/f031fe116df84570555adb0e4d00712e/tumblr_mong7c5cZl1qim2zwo1_250.gif',
+    width: 250}
+  - {height: 56, url: 'http://45.media.tumblr.com/f031fe116df84570555adb0e4d00712e/tumblr_mong7c5cZl1qim2zwo1_100.gif',
+    width: 100}
+  - {height: 75, url: 'http://45.media.tumblr.com/f031fe116df84570555adb0e4d00712e/tumblr_mong7c5cZl1qim2zwo1_75sq.gif',
+    width: 75}
+  caption: ''
+  original_size: {height: 270, url: 'http://45.media.tumblr.com/f031fe116df84570555adb0e4d00712e/tumblr_mong7c5cZl1qim2zwo1_500.gif',
+    width: 480}
+post_url: http://blog.room208.org/post/53367282739/yuyushiki-episode-11-nobody-likes-you
+reblog: {comment: '<p><em>Yuyushiki</em> episode 11.</p>
+
+
+    <p>Nobody likes you, background gradient!</p>', tree_html: ''}
+reblog_key: zaPdOSBA
+recommended_color: null
+recommended_source: null
+short_url: http://tmblr.co/ZnGqcxniy1mp
+slug: yuyushiki-episode-11-nobody-likes-you
+state: published
+summary: "_Yuyushiki_ episode 11.\r\n\r\nNobody likes you, background gradient!"
+tags: [yuyushiki, gif, anime]
+timestamp: 1371660744
+trail:
+- blog:
+    active: true
+    name: abandonmentprobability
+    theme: {avatar_shape: square, background_color: '#000000', body_font: Helvetica
+        Neue, header_bounds: 0, header_image: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_focused: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_image_scaled: 'https://secure.assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2',
+      header_stretch: true, link_color: '#808080', show_avatar: true, show_description: true,
+      show_header_image: false, show_title: true, title_color: '#FFFFFF', title_font: Helvetica
+        Neue, title_font_weight: bold}
+  content: '<p><em>Yuyushiki</em> episode 11.</p>
+
+
+    <p>Nobody likes you, background gradient!</p>'
+  content_raw: '<p><em>Yuyushiki</em> episode 11.</p>
+
+
+    <p>Nobody likes you, background gradient!</p>'
+  is_current_item: true
+  is_root_item: true
+  post: {id: '53367282739'}
+type: photo
