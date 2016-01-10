@@ -1,4 +1,4 @@
-- render '/blog/base.haml' do
+- render '/blog/base.haml', source_path: "layouts#{@layout.identifier.to_s}" do
   %section
     %h1 Posts from #{@item[:title]}
     - @item[:posts].each_with_index do |post_id, index|

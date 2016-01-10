@@ -1,4 +1,4 @@
-- render '/blog/base.haml' do
+- render '/blog/base.haml', source_path: "layouts#{@layout.identifier.to_s}" do
   %section
     %h1 Latest posts
     - sorted_articles.first(5).each do |post|

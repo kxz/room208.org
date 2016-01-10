@@ -1,4 +1,4 @@
-- render '/default.haml', title: summarize(@item) do
+- render '/default.haml', source_path: @source_path, title: summarize(@item) do
   %h2#subsite-heading
     %a{href: ('/blog/' unless @item.identifier.to_s == '/blog/index.yaml')}
       = @items['/blog/index.yaml'][:title]
