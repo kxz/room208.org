@@ -1,4 +1,4 @@
-- render '/default.haml', title: summarize(@item) do
+- render '/default.haml' do
   %h2#subsite-heading
     %a{href: ('/yackfest/' unless @item.identifier.to_s == '/yackfest/index.haml')}
       = @items['/yackfest/index.haml'][:title]
