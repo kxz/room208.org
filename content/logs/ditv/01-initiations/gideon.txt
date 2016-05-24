@@ -1,0 +1,81 @@
+[19-May-2012 21:13:27]  <Motoko> Page... 28. You'll need to come up with something you want Gideon to have accomplished during initiation.
+[19-May-2012 21:16:27]  <Iverum> I hope Gideon preached about the Faith and impressed his teachers.
+[19-May-2012 21:18:46]  <Motoko> This would be in a Faith school, then?
+[19-May-2012 21:19:13]  <Iverum> Well, it would be during his training at the Dogs' Temple or whatever.
+[19-May-2012 21:19:35]  <Motoko> Oh, right. Sorry, brain's not quite there.
+[19-May-2012 21:20:17]  <Iverum> That's okay. If you need to take a nap too I'll understand.
+[19-May-2012 21:20:36]  * Motoko glares at Iverum
+[19-May-2012 21:21:44]  <Motoko> Anyway, opposition, opposition... the rulebook suggests rivals in the temple, but I think you'd be more up against your own nerves in this case.
+[19-May-2012 21:22:06]  <Motoko> We could play this as demonic influence trying to lead you astray?
+[19-May-2012 21:22:44]  <Iverum> I dunno. I think nerves would be more likely at the time, but demonic influence could be better if I fail.
+[19-May-2012 21:23:04]  <Motoko> Demons are everywhere, remember.
+[19-May-2012 21:23:10]  <Iverum> True.
+[19-May-2012 21:23:13]  <Iverum> Demons would be fine.
+[19-May-2012 21:23:32]  <Motoko> Okay, so what's the setting like?
+[19-May-2012 21:26:01]  <Iverum> The Dogs-in-training are demonstrating their knowledge of the Faith by giving sermons on aspects in their own life. We're in one of the bigger rooms in the Temple with a few of the older Dogs. There is a pulpit near the front where the current speaker must stand while they deliver their sermon.
+[19-May-2012 21:27:03]  <Motoko> So you're there in front of the room, with the other trainees and the old hands watching you.
+[19-May-2012 21:31:24]  <Iverum> Gideon launches into a passionate speech about the guidance of the Faith following his mother's death. He talks about the overarching plan that the King of Life has for everyone and the fact that no one can go against his Will.
+[19-May-2012 21:32:13]  * Motoko flips forward to conflict resolution rules
+[19-May-2012 21:32:46]  <Motoko> Okay, so you'll roll Acuity + Heart.
+[19-May-2012 21:33:10]  <Iverum> +roll 4d6 + 6d6
+[19-May-2012 21:33:22]  <Iverum> !roll 4d6 + 6d6
+[19-May-2012 21:33:22]  <GameServ> 1, 3, 3, 3 == 10
+[19-May-2012 21:33:33]  <Iverum> !roll 6d6
+[19-May-2012 21:33:33]  <GameServ> 5, 2, 6, 6, 5, 2 == 26
+[19-May-2012 21:33:59]  <Motoko> And if you want to being in any relevant Traits, you can do so now.
+[19-May-2012 21:34:30]  <Iverum> Okay, I'll roll for the my speech trait.
+[19-May-2012 21:34:34]  <Iverum> +roll d8
+[19-May-2012 21:34:37]  <Iverum> !roll d8
+[19-May-2012 21:34:37]  <GameServ> 8 == 8
+[19-May-2012 21:34:59]  <Motoko> So you have... 1 2 2 3 3 3 5 5 6 6
+[19-May-2012 21:35:13]  <Motoko> 8
+[19-May-2012 21:35:21]  <Motoko> Can't forget the 8.
+[19-May-2012 21:35:27]  <Iverum> Yep. That's a nice 8.
+[19-May-2012 21:35:44]  <Motoko> !roll 4d6
+[19-May-2012 21:35:44]  <GameServ> 3, 5, 3, 1 == 12
+[19-May-2012 21:35:46]  <Motoko> !roll 4d10
+[19-May-2012 21:35:46]  <GameServ> 2, 3, 4, 9 == 18
+[19-May-2012 21:36:00]  <Motoko> I have 1 2 3 3 3 4 5 9.
+[19-May-2012 21:36:41]  <Motoko> Who's opening the conflict?
+[19-May-2012 21:37:02]  <Motoko> I could have the audience react negatively, or you could say something deliberately provocative, or...
+[19-May-2012 21:37:24]  <Motoko> My best roll is 14 over your 12, so if you can't decide, I'll go ahead and open.
+[19-May-2012 21:37:38]  <Iverum> Hm, well, it's all under demonic influence. Why don't you go ahead and start.
+[19-May-2012 21:38:00]  <Motoko> Way to put me on the spot. :p
+[19-May-2012 21:43:16]  <Motoko> Gideon notices that Thomas, one of the more troublesome trainees, has his hand raised in the back. He pauses to let Thomas ask his question.
+[19-May-2012 21:47:12]  <Motoko> "So you claim that everything is under the plan of the King of Life. Even murder? Could a murderer not claim he was just doing the King's will?" Raise 3 5; leave 1 2 3 3 4 9.
+[19-May-2012 21:47:38]  <Motoko> (That's right -- it's amateur philosopher hour here in the temple!)
+[19-May-2012 21:51:34]  <Motoko> Iverum: *ping*
+[19-May-2012 21:53:13]  <Iverum> Gideon tries to smile at Thomas as he answers his question, "The murderer could surely claim that, Brother Thomas. The King's plan is only a guide though. The murderer was guided to a point where he could choose to act in sin or be free of it." See: 3 5; leave 1 2 2 3 3 5 6 6 8.
+[19-May-2012 21:54:56]  <Iverum> He decides to press his luck a bit and continues in response to Thomas. "You don't think the King of Life would refuse a man free will?" Raise: 6 2; leave 1 2 3 3 3 5 5 6 8.
+[19-May-2012 21:56:21]  <Iverum> That last leave should actually be: 1 2 3 3 5 6 8
+[19-May-2012 21:59:07]  <Motoko> Yes, that checks out.
+[19-May-2012 22:05:07]  <Motoko> "Well, no... certainly not," Thomas says, appearing to retreat on the question. "There is no reponsibility without freedom. Carry on, then." See 2 3 3; leave 1 4 9; 3d4 fallout.
+[19-May-2012 22:09:38]  <Motoko> Gideon continues to preach. When he's finished, one of the teachers asks him pointedly, "Your story is touching, but what about it equips you to be a Dog, such a high servant of the Faith? How do you go from merely seeing the King's will to being its executor?" Raise 4 9; leave 1.
+[19-May-2012 22:15:18]  <Iverum> "I lost my mother when I was only 13," Gideon says, "Anyone else would have been angry with the King of Life. They would have raged against Him and His Kingdom. I've seen it and I can't imagine someone such as yourself hasn't seen it. Instead I accepted the challenge He placed upon me. I took the path He gave me and walked it with my head held high. You can't walk the path that the King lays down before you and not be 
+[19-May-2012 22:15:18]  <Iverum> prepared to carry out his will." See: 8 5; leave 1 2 3 3 6.
+[19-May-2012 22:18:38]  <Motoko> All right, I may as well be out of dice, so this one's your victory.
+[19-May-2012 22:18:50]  <Iverum> Cool. Do I need to raise again?
+[19-May-2012 22:19:16]  <Motoko> May as well not bother, since I have no option but to give.
+[19-May-2012 22:19:34]  <Iverum> That's good. I was having trouble coming up with somewhere to go. :P
+[19-May-2012 22:19:38]  <Motoko> Those in attendance politely applaud, and one of the old hands pats you on the back. "You did a good job," he says.
+[19-May-2012 22:19:56]  <Motoko> GIDEON obtained a new d6 trait!
+[19-May-2012 22:20:42]  <Barcode> "diceroller: your characer has fashioned himself a d6. May come in useful for gambling."
+[19-May-2012 22:21:04]  <Iverum> What kind of trait should I take here? I'm thinking something like "I believe that everything happens for a reason" or "I am the executor of the King of Life's will."
+[19-May-2012 22:21:30]  <Iverum> The first one is kind of tempering to Gideon's character, but the latter is more "vengeful" and such.
+[19-May-2012 22:22:15]  <Motoko> It depends on how you want to play his character.
+[19-May-2012 22:22:49]  <Iverum> I want to go with the vengeful arm of God's will to run counter to Nitya's character.
+[19-May-2012 22:23:35]  <Motoko> I imagine a small guy hanging on Gideon's arm as he raises a knife to someone's throat.
+[19-May-2012 22:23:51]  <Motoko> "You haven't even tried talking yet! Come on, give diplomacy a chance..."
+[19-May-2012 22:24:46]  <Iverum> It's kind of ridiculous how many dice I can have.
+[19-May-2012 22:26:09]  <Motoko> Yeah. That was against a default character, though. You might hit NPCs with a few d10 traits and such.
+[19-May-2012 22:26:17]  <Iverum> Yeah.
+[19-May-2012 22:26:42]  <Iverum> So, is that all we're doing today?
+[19-May-2012 22:26:54]  <Iverum> I like this system, by the way. It's fun.
+[19-May-2012 22:30:04]  <Motoko> Yeah, we have to initiate Nitya before we can do any real campaigning.
+[19-May-2012 22:30:29]  <Motoko> And it's a very flexible system. I could see this working in a lot of other scenarios.
+[19-May-2012 22:31:51]  <Iverum> Okay, I'll try to sit in for Nitya's initiation.
+[19-May-2012 22:32:07]  <Motoko> All right. It'll be... whenever he decides it should be. >_>
+[19-May-2012 22:32:39]  <Iverum> :P
+[19-May-2012 22:32:55]  <Iverum> Will we be running this on Saturdays then?
+[19-May-2012 22:33:25]  <Motoko> That sounds good to me.
+[19-May-2012 22:35:14]  <Iverum> Cool.

@@ -1,0 +1,459 @@
+[28-Jun-2013 01:18:52]  <IllFlower> It's near sunset, night falling on what's already been a long day.
+[28-Jun-2013 01:20:34]  <IllFlower> Snezana makes her way to Yui's place, with Aoi's guidance. Aoi, unfortunately, is abruptly summoned elsewhere, as he tends to be, and leaves Snezana at Yui's front door by herself.
+[28-Jun-2013 01:20:59]  <Snezana> ((Damn you nitya))
+[28-Jun-2013 01:21:06]  <IllFlower> We'll pick up here. **
+[28-Jun-2013 01:21:52]  <Snezana> (Can I do a spot check to see if anything of note is around her house?)
+[28-Jun-2013 01:22:18]  <IllFlower> You could, but there'd be nothing of note for Snezana to spot.
+[28-Jun-2013 01:24:05]  <Snezana> ((what would I roll for a sharp, 2m6 + my sharp skill?))
+[28-Jun-2013 01:25:11]  <IllFlower> 2d6, but again there's nothing much to see.
+[28-Jun-2013 01:25:45]  <Snezana> +roll 2d6
+[28-Jun-2013 01:25:45]  <rollermine> Snezana: (4+1)=5
+[28-Jun-2013 01:25:51]  <Snezana> wouldn't see much of anything anyways
+[28-Jun-2013 01:26:03]  <Yui> ((back))
+[28-Jun-2013 01:26:08]  * Snezana looks around to see if anything is watching the house, seeing nothing, she cautiously approaches the door and knocks
+[28-Jun-2013 01:26:47]  <Sumire> "Yui, are you going to get that or should I?"
+[28-Jun-2013 01:27:25]  <Yui> I'll go get it!
+[28-Jun-2013 01:28:14]  * Yui opens the door slowly
+[28-Jun-2013 01:28:44]  <Snezana> "Sup?"
+[28-Jun-2013 01:28:58]  <Yui> "Not much, would you like to come in?"
+[28-Jun-2013 01:29:06]  * Snezana walks in
+[28-Jun-2013 01:29:26]  <Snezana> "Anyone else here?"
+[28-Jun-2013 01:29:33]  * Sumire walks up to the front door
+[28-Jun-2013 01:29:57]  <Sumire> "Hey.  I'm here.  Makoto might be around here somewhere but I think she fled because we ran out of sweets.
+[28-Jun-2013 01:31:08]  <Snezana> "Well I need something of a diminished presence, so its probably for the best."
+[28-Jun-2013 01:31:25]  <Sumire> 14one sec, I need to remember what Sumire knows
+[28-Jun-2013 01:31:29]  <Snezana> "Do you got a bathroom I can use?"
+[28-Jun-2013 01:32:11]  * Sumire points in a few directions, some of which may actually correspond to a bathroom.  "Over there."
+[28-Jun-2013 01:32:24]  <Yui> ((perfect))
+[28-Jun-2013 01:33:19]  * Snezana stares blankly for a moment, then just begins rummaging a house, she prys open the door, finding it to be a bedroom, but it has a mirror so it will do
+[28-Jun-2013 01:33:52]  * Snezana takes off her jacket, placing a revolver, knife, and stop-watch on the bed, and begins examining the extent of her burns on her back
+[28-Jun-2013 01:34:02]  <Snezana> ((kleptomania powers go))
+[28-Jun-2013 01:34:15]  * Sumire whispers to Yui, "Yui, do you think this is about the other initiate Snezana talked about?"
+[28-Jun-2013 01:35:16]  * Snezana notices that Aoi was actually able to heal most of it, but her back is covered in dark-blue bruises that appear to ebb and flow, "Thankfully I can numb the pain for now"
+[28-Jun-2013 01:35:28]  * Snezana walks out of the bedroom to where the other initiates are
+[28-Jun-2013 01:35:45]  <Yui> "Possibly, Sumire, but it might also be about checking in with me about the boy earlier"
+[28-Jun-2013 01:36:01]  <Snezana> "Speak of the devil...'
+[28-Jun-2013 01:36:13]  <Snezana> "Can you tell me more about this stranger?"
+[28-Jun-2013 01:39:38]  <Sumire> 14Yui?
+[28-Jun-2013 01:40:14]  <Yui> "Not really all that much to tell. His name is Hiroaki, his familiar sounds more like a girl than pyunpyun did and is named Asacchi, he lives down the street, by the elementary school but goes for walks that take him up here. A bit taller than me. Seemed nice enough..."
+[28-Jun-2013 01:41:03]  <Yui> "He said most of the initiates he'd worked with moved or transferred about 9 months ago"
+[28-Jun-2013 01:41:37]  * Snezana scoffs quietly, then covers her mouth
+[28-Jun-2013 01:42:16]  * Snezana reaches into her pants pocket, taking out a notebook, quietly sifting through the pages, "I don't remember anything about nine months."
+[28-Jun-2013 01:42:41]  <Sumire> "He could be a red herring.  Besides, there wouldn't be many Japanese people in your war, would there?"
+[28-Jun-2013 01:42:46]  <Snezana> "... but I'm pretty suspicious of this guy showing up right after pyun-pyun abandoned you."
+[28-Jun-2013 01:42:52]  <Sumire> 14there are actual Japanese people in actual Syria, though :p
+[28-Jun-2013 01:43:02]  <Yui> "I guess that answers whether it lines up with what happened with you."
+[28-Jun-2013 01:43:41]  <Yui> ((which initiates have interacted with Shun?))
+[28-Jun-2013 01:43:46]  <Snezana> "I mean, I don't remember anything, not that there isn't a connection. memory problems, you see. Anyways, Scorcher, the initiate I warned you about, could use proxies."
+[28-Jun-2013 01:43:54]  <Sumire> 14Snezana, myself, Aoi, Yuna
+[28-Jun-2013 01:44:39]  <Yui> "So you want me to be careful, just in case Hiroaki is one of Scorcher's proxies?"
+[28-Jun-2013 01:44:43]  *** Barcode <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has joined #madokamadness
+[28-Jun-2013 01:44:43]  *** ChanServ sets mode: +o Barcode
+[28-Jun-2013 01:44:49]  *** Barcode <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has quit IRC (Read error: Connection reset by peer)
+[28-Jun-2013 01:45:24]  <Snezana> "I'd just be on guard for any new faces for awhile, even if he isn't connected to Scorcher, an initiate without a familiar is a target."
+[28-Jun-2013 01:45:42]  <Sumire> "A target?  Why would anyone want to target us?"
+[28-Jun-2013 01:46:23]  <Snezana> "There are ways of getting... how should I put this..."
+[28-Jun-2013 01:46:29]  <IllFlower> Yui: Why do you ask about Shun, by the way?
+[28-Jun-2013 01:46:58]  <Snezana> "An initiate takes care of a witch, and has a chance of increasing his or her ability, an initiate preys on an initiate and potentially can tap into that. Or so the rumors went."
+[28-Jun-2013 01:47:58]  <buttercupistiny> ((because I got info crossed in my head, that's why))
+[28-Jun-2013 01:48:38]  <Yui> ((William'd mentioned Shun at one point in our meguca talks and I got mixed up. Now I am unmixed up.))
+[28-Jun-2013 01:49:03]  <Yui> "That's mildly disturbing, Snezana."
+[28-Jun-2013 01:49:23]  *** Alicia <~Mibbit@c-98-199-217-5.hsd1.tx.comcast.net> has joined #madokamadness
+[28-Jun-2013 01:49:29]  * Snezana stops looking through the notebook, and begins reading from it, "Fought a witch that seems to originate from a destroyed tank. The crew was burned alive and this event manifested itself. Several vestice were killed, met someone who approached me to form a group. I declined, and then he vanished. Possible threat. Got to get out of town."
+[28-Jun-2013 01:49:31]  <Sumire> 14hey Alicia, we're RPing
+[28-Jun-2013 01:49:55]  <Snezana> ((Possibly homosexual, must make note to investigate this further))
+[28-Jun-2013 01:50:20]  <Sumire> "Are you saying...that these initiates were using witches as weapons?"
+[28-Jun-2013 01:51:11]  <Snezana> "... yes, it started happening all of a sudden. The White Dove, err a group of people dedicated to peace and love and all that joyful shit, got overwhelemd."
+[28-Jun-2013 01:51:47]  <Snezana> "Scorcher, however, didn't use his witch as a weapon. Rather, he used it as a tracking device. I think thats much worse than having an attack dog, no?"
+[28-Jun-2013 01:53:29]  *** jseblan is now known as jseblarinaOfTime
+[28-Jun-2013 01:53:34]  <Sumire> "A...tracking device?"
+[28-Jun-2013 01:54:26]  <Sumire> 14Metal Gear?  but really not 100% sure what you mean by that >_<
+[28-Jun-2013 01:54:44]  <Snezana> ((Metal gear can fire nukes?))
+[28-Jun-2013 01:54:51]  <Snezana> ((But he used it to track people))
+[28-Jun-2013 01:55:37]  <Sumire> "So do we have to watch out for strange witches?"
+[28-Jun-2013 01:56:28]  <Snezana> "... What I'm concerned about is the 'all of it starting to happen at once', someone figured it out and then spread the information. Maybe he had a network, I don't know."
+[28-Jun-2013 01:56:52]  * Snezana sighs
+[28-Jun-2013 01:57:10]  <Snezana> "Well its time to explain the full story. Before people started using witches..."
+[28-Jun-2013 01:57:22]  * Snezana puts her fingers around the scar on her neck
+[28-Jun-2013 01:57:45]  <Snezana> "You had people who used their powers on normal people. They didn't try to hunt witches, they avoided other initiates."
+[28-Jun-2013 01:58:42]  <Snezana> "I... was one of these people. To them, I just showed up one day and began... killing people left and right. No one could catch me, normal humans just say people who appeared to have suddenly died and initiates couldn't track me using magic."
+[28-Jun-2013 01:59:35]  <Snezana> "... I became an initiate because I was lying in a ditch begging not to die, suddenly I just awoke and was told by a familiar what happened. 
+[28-Jun-2013 01:59:55]  <Snezana> In the beginning, I had memories, then memories of memories, and finally nothing. and they TOOK THAT FROM ME TOO
+[28-Jun-2013 02:00:12]  * Snezana puts  her hands around her temples, as if trying to fight a deep headache
+[28-Jun-2013 02:00:54]  <Snezana> "a-anyways, I thought that I had a chance to bring justice to the world. I thought that... it was the other side that did it to me. So I killed people from that said."
+[28-Jun-2013 02:01:44]  <Snezana> "An eye for an eye, a life for a life, but I lived a wanderer, after some close calls with other initiates I began practicing using my powers to hide my presence, and it worked."
+[28-Jun-2013 02:02:27]  <Yui> "Wow, impressive that you figured out how to do that"
+[28-Jun-2013 02:02:33]  * Sumire just stands in shock
+[28-Jun-2013 02:02:36]  <Snezana> "So long story short, Scorcher couldn't see me, and that scared him big time, and when I began killing people that worked with him, he got desperate. He tried... I thought he was going to do something like kill everyone in the country..."
+[28-Jun-2013 02:02:59]  <Snezana> "instead he pleaded with me, told me that I was perfect, but he was from their side. He wasn't one of my people."
+[28-Jun-2013 02:03:56]  <Snezana> "So I saw no reason to let him live, I surrounded him a vacuum and watched him... suffocate. When he died, Receiver faded away. As far as I was concerned I was down, but there was a man from the white dove, I don't know his name... he was with a familiar."
+[28-Jun-2013 02:04:54]  <Snezana> "He looked at me coldly, I just gave a smile and said justice was done, and he simply asked the familiar to tell me the truth. I was killed by my own people. People who got attacked and wanted blood, but they got lost in the middle of the night... followed a river down the wrong side... and massacared the wrong bunch of people."
+[28-Jun-2013 02:05:46]  <Snezana> "I... was angry, for a moment I was going to kill both of them but both simply stared, they knew what would happen next. I just collapsed, no tears, no wails, I just collapsed
+[28-Jun-2013 02:05:58]  <Snezana> Everything I worked for, all the effort I put in, all the people I killed was for nothing
+[28-Jun-2013 02:06:18]  <Snezana> there was no fucking point to any of it, not the constant training, not the constant...
+[28-Jun-2013 02:06:26]  * Snezana gets up, her right hand shaking
+[28-Jun-2013 02:06:50]  <Yui> "would you like a glass of water?"
+[28-Jun-2013 02:06:52]  <Snezana> "I put my body through a lot, too much, so I could do what I did. And in the end, they just walked away and let me lay there."
+[28-Jun-2013 02:07:00]  * Snezana looks at Yui
+[28-Jun-2013 02:07:11]  <Snezana> "Y-yeah, but--
+[28-Jun-2013 02:07:38]  <Snezana> "Even now, with everything I want all those people to burn in hell, and I'm glad that they are dead... They deserved it..."
+[28-Jun-2013 02:08:24]  * Snezana goes to the bedroom, "I fell apart then, and I put myself together. I, alone, did everything."
+[28-Jun-2013 02:09:20]  * Snezana takes her jacket and puts it back on, and places her items back in her pockets, then walks back in a daze
+[28-Jun-2013 02:09:56]  <Sumire> "Are...are you okay, Snezana?
+[28-Jun-2013 02:10:02]  <Snezana> "I... came here and started working for some russian sushi place, I felt I abandoned everything but I started seeing witches... I heard commotions, only could bei nitiates
+[28-Jun-2013 02:10:28]  <Snezana> "And then I met pyun-pyun, he, she, it, was really air-headed, so I thought but instantly
+[28-Jun-2013 02:11:28]  <Snezana> it asked about scorcher, and it asked me... if i was done being a killer. I said nothing about scorcher and just said it was over, I wanted nothing to do with it.
+[28-Jun-2013 02:11:45]  <Snezana> Except... there is no way pyun-pyun could know right? No way it could know about all that
+[28-Jun-2013 02:12:17]  <Snezana> It'd have to talk to a familiar, maybe, or maybe it talked to a person, but either way -it knew- and then it tells me today that there is a lot it doesn't know and it clicked
+[28-Jun-2013 02:12:37]  <Snezana> a familiar only -has- to track its initiates, if it lets go of an initiate, it doesn't have to know what happens to them
+[28-Jun-2013 02:12:38]  <Sumire> "Pyunpyun doesn't even know my real wish.  I wouldn't trust anything he says."
+[28-Jun-2013 02:12:50]  <Snezana> ... so pyun-pyun may think something is going to happen"
+[28-Jun-2013 02:13:11]  *** Alicia <~Mibbit@c-98-199-217-5.hsd1.tx.comcast.net> has left #madokamadness
+[28-Jun-2013 02:13:16]  <Snezana> "I know it didn't even beg for its life and when I grabbed... it, all the damage to my body just came back."
+[28-Jun-2013 02:13:26]  * Snezana sits back
+[28-Jun-2013 02:13:44]  <Snezana> "Maybe I'm just crazy, this whole game I'm playing now, trying to find scorcher, figure out whats going on, is just crazy."
+[28-Jun-2013 02:14:17]  * Snezana gets up, sighing deeply, "But I'm worried, someone here already used a witch, right?"
+[28-Jun-2013 02:14:31]  <Snezana> "Once one person does it, other people get the idea and it spreads..."
+[28-Jun-2013 02:14:38]  <Sumire> "Um...I think so.  I didn't hear too much about it, but I think Kei was her name?"
+[28-Jun-2013 02:19:59]  <Sumire> "Yuna's the one who actually talked to her, in some weird mixed-up-witch-ghost form, but I haven't seen her since the witch that stole her flashlight."
+[28-Jun-2013 02:20:52]  <Sumire> 14Snezana?  IllFlower?  Yui?
+[28-Jun-2013 02:21:26]  <Snezana> ((brb))
+[28-Jun-2013 02:21:46]  <IllFlower> I'm watching. I haven't got anywhere to step in yet.
+[28-Jun-2013 02:25:04]  <Snezana> "A witch stole a flashlight?"
+[28-Jun-2013 02:25:19]  <Snezana> "I thought my life was tough, but that would just destroy me."
+[28-Jun-2013 02:27:57]  <Snezana> "Well we could start looking for Yuna. Figure out more."
+[28-Jun-2013 02:28:01]  <Sumire> "It was her weapon as a magical girl.  She abandoned it and a witch stole it.  It was really my fault, I was arguing with...someone else...", Sumire cringing at the very thought of Kaede, "...and she couldn't take it any more."
+[28-Jun-2013 02:29:13]  <Yui> "We all worked together and got it back from the witch. The police thought it was just a suicide cult"
+[28-Jun-2013 02:29:15]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[28-Jun-2013 02:29:25]  <Sumire> "As for looking for her, I think Yui keeps in regular contact with her.  Do you want to know more about Kei?"
+[28-Jun-2013 02:31:33]  <Snezana> "Yeah, It would... be good."
+[28-Jun-2013 02:32:52]  <Yui> "Contact hasn't been regular since the witch, Sumire."
+[28-Jun-2013 02:33:07]  <Yui> "I'm giving her her space."
+[28-Jun-2013 02:34:56]  <Sumire> "How badly do you need to know about what Kei did, Snezana?
+[28-Jun-2013 02:36:11]  <Snezana> "Just a suicide cult, eh?"
+[28-Jun-2013 02:36:38]  <Snezana> "So you're saying Kei and Yuna talked one on one?"
+[28-Jun-2013 02:38:39]  <Sumire> "I...maybe?  Pyunpyun had her take a train to Osaka for it.  I'm not entirely sure why."
+[28-Jun-2013 02:40:07]  <Snezana> "Alright, I'm a bit lost. What was Kei?"
+[28-Jun-2013 02:41:04]  <Sumire> "She was the magical girl who used witches...threw people who did bad things into them...we fought her and she became a witch..."
+[28-Jun-2013 02:41:57]  <Snezana> "On... purpose? What happened to the witches that she commanded?"
+[28-Jun-2013 02:42:37]  <Sumire> "I don't actually know.  I'm really the worst person to talk to about this, since I never actually saw any of this."
+[28-Jun-2013 02:42:52]  <Sumire> 14no really.  I am the only one in arc I who never actually fought any of the witches Kai used.
+[28-Jun-2013 02:44:34]  <Snezana> "Yui, you've been awfully quiet about this."\
+[28-Jun-2013 02:44:44]  <Sumire> 14she's been busy getting yelled at by her mom
+[28-Jun-2013 02:45:23]  <Snezana> ((that sucks))
+[28-Jun-2013 02:45:51]  *** Rig <~Iverum@99-102-0-211.lightspeed.iplsin.sbcglobal.net> has joined #madokamadness
+[28-Jun-2013 02:45:51]  *** ChanServ sets mode: +o Rig
+[28-Jun-2013 02:50:06]  <Yui> ((yuna's interactions with Kei were sessions I missed entirely, unfortunately. My interactions with Kei-controlled witchies I have no recollection of at this point))
+[28-Jun-2013 02:50:26]  <IllFlower> Namie's needle-riddled body ring any bells?
+[28-Jun-2013 02:50:48]  <Yui> ((I thought that might have been one of them but wasn't sure))
+[28-Jun-2013 02:51:34]  <Yui> "Sorry, Snezana. I've been trying to process what you've told us, get it straight in my head."
+[28-Jun-2013 02:51:58]  <Snezana> "Right, do you have Yuna's address? Its really important that I talk to her about things."
+[28-Jun-2013 02:53:24]  <Yui> ((even if yui has it, yuna is fiora's character and as you can see, fiora isn't here))
+[28-Jun-2013 02:53:57]  <Yui> "I have her address, yes. But good luck getting her to talk to you."
+[28-Jun-2013 02:53:59]  <Sumire> 14I assumed what would happen is, oh, she's not home
+[28-Jun-2013 02:54:14]  <Yui> ((ooooooooh good plan))
+[28-Jun-2013 02:54:30]  <Snezana> ((The plot thickens))
+[28-Jun-2013 02:54:42]  <Yui> "I can try coming with you. I don't scare her."
+[28-Jun-2013 02:54:56]  <Snezana> "Well, Yuna is still an initiate under pyun-pyun right? It might be best if you two checked up on her while I'll follow
+[28-Jun-2013 02:55:10]  <Snezana> Depending on how she is, we can decide where to take things from there, right?
+[28-Jun-2013 02:55:10]  <Yui> "fair enough."
+[28-Jun-2013 02:55:16]  <Yui> "right."
+[28-Jun-2013 02:55:24]  <Sumire> "Alright.  Makes sense."
+[28-Jun-2013 02:55:35]  <Yui> "Let me go tell my mom I'm going out again"
+[28-Jun-2013 02:55:40]  <Sumire> 14I'd like to roleplay an event on the way between Yui's and Yuna's, if you don't mind
+[28-Jun-2013 02:55:41]  <Yui> "I don't want her to worry."
+[28-Jun-2013 02:55:55]  <Sumire> 14I assume IllFlower knows what it is
+[28-Jun-2013 02:56:30]  <IllFlower> Actually, can you give me a second? I've got something to handle first.
+[28-Jun-2013 02:56:35]  <Sumire> 14sure
+[28-Jun-2013 02:56:38]  <IllFlower> We can break at leaving Yui's place, if that's okay.
+[28-Jun-2013 02:56:40]  <Snezana> ((Illflower is busy rewritting his event table))
+[28-Jun-2013 02:56:47]  <Snezana> sure
+[28-Jun-2013 02:56:52]  <Snezana> well I can keep going
+[28-Jun-2013 02:56:53]  <Yui> sounds fine to me
+[28-Jun-2013 03:03:22]  <IllFlower> Okay, back. Go on.
+[28-Jun-2013 03:03:52]  <IllFlower> Sumire: Yes, I know what it is.
+[28-Jun-2013 03:04:08]  <IllFlower> +roll d6
+[28-Jun-2013 03:04:09]  <rollermine> IllFlower: 4=4
+[28-Jun-2013 03:07:56]  <IllFlower> Sumire, Snezana, Yui?
+[28-Jun-2013 03:08:13]  <Yui> everybody d6?
+[28-Jun-2013 03:08:15]  <Sumire> 14Yeah.  Not sure where to RP from
+[28-Jun-2013 03:08:35]  <IllFlower> Yui: Oh, no, that was for my own purposes.
+[28-Jun-2013 03:08:42]  <Yui> okay
+[28-Jun-2013 03:08:56]  <IllFlower> You guys can just pick up from leaving Yui's place or whatever.
+[28-Jun-2013 03:09:22]  * Snezana stands outside of Yui's door, looking around with her standard nervous tension
+[28-Jun-2013 03:09:34]  <Sumire> "Yui, you lead the way and we follow, I suppose."
+[28-Jun-2013 03:10:14]  <Yui> "Okay. It's this way. Just follow my hands and not my words and we'll be fine!"
+[28-Jun-2013 03:10:30]  <Snezana> "For the greater glory of our cause."
+[28-Jun-2013 03:10:35]  <Sumire> 14hahaha.  "It's on the left!" *points right*
+[28-Jun-2013 03:10:39]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has joined #madokamadness
+[28-Jun-2013 03:12:57]  <IllFlower> The three girls set out for Yuna's place, lightly bantering or at least trying to. Maybe it's to keep their minds off of how serious the prior conversation was.
+[28-Jun-2013 03:13:16]  <Snezana> "Man, this town is quick on repairs. I knocked out a power-line as a distraction and it seems like everythings fixed now"
+[28-Jun-2013 03:13:25]  *** SpruceZeus|away <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has quit IRC (Ping timeout: 194 seconds)
+[28-Jun-2013 03:13:33]  *** SpruceZeus is now known as SpruceZeus|away
+[28-Jun-2013 03:14:02]  <Yui> ((You knocked out a power line and got upset with me for talking to a boy?!))
+[28-Jun-2013 03:14:11]  <Yui> "You knocked out a powerline?"
+[28-Jun-2013 03:14:12]  <IllFlower> Their path takes them past the nearby elementary school and through some surrounding residential neighborhoods...
+[28-Jun-2013 03:14:24]  <Yui> ((dun dun duuuuuuun))
+[28-Jun-2013 03:14:51]  <Snezana> "me and Aoi needed to get past some cops, so I blew a power-line, while the police were distracted I stole a revolver."
+[28-Jun-2013 03:15:03]  <Snezana> "I also punched a star-witch to death, it was all pretty cool."
+[28-Jun-2013 03:15:24]  <Sumire> "A magical girl with a revolver seems a bit odd.  What sort of magical girl uses guns?" 14lol hameru
+[28-Jun-2013 03:15:44]  <Snezana> "Well guns aren't going to do a lot against an initiate I'd imagine, but I figure it can't hurt"
+[28-Jun-2013 03:15:52]  <Snezana> "hurt me, I mean, its going to hurt someone, sooner or later."
+[28-Jun-2013 03:16:22]  <Snezana> ((and then snezana becomes kiritsugu))
+[28-Jun-2013 03:16:45]  <Yui> "it's not a terrible idea"
+[28-Jun-2013 03:17:46]  <IllFlower> Sumire: Give me the cue whenever you're ready.
+[28-Jun-2013 03:18:25]  <Sumire> 14I'm ready whenever you are
+[28-Jun-2013 03:18:38]  <Snezana> ((This sounds so ominous)) 
+[28-Jun-2013 03:18:51]  <Snezana> "So, how far away are we from Yuna?"
+[28-Jun-2013 03:19:24]  *** Xeniera <~Solstace@75-164-249-194.ptld.qwest.net> has joined #madokamadness
+[28-Jun-2013 03:19:24]  *** ChanServ sets mode: +o Xeniera
+[28-Jun-2013 03:22:23]  <Sumire> "I'm not sure.  Yui?"
+[28-Jun-2013 03:23:24]  <Yui> (dinner just got called))
+[28-Jun-2013 03:25:05]  *** Barcodrawing <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has joined #madokamadness
+[28-Jun-2013 03:25:05]  *** ChanServ sets mode: +o Barcodrawing
+[28-Jun-2013 03:25:21]  <Barcodrawing> ((this is just a daily reminder that magical girls with revolvers Just In Case are officially endorsed by myself)
+[28-Jun-2013 03:25:22]  <Barcodrawing> )
+[28-Jun-2013 03:25:22]  *** Barcodrawing <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has left #madokamadness
+[28-Jun-2013 03:25:33]  <IllFlower> Yui: How soon do you think you'll be able to get back?
+[28-Jun-2013 03:26:08]  *** SpruceZeus|away is now known as SpruceZeus
+[28-Jun-2013 03:27:46]  <IllFlower> Okay, we'll break for a little bit again, until she returns.
+[28-Jun-2013 03:28:06]  <Snezana> brb gonna shower
+[28-Jun-2013 03:38:46]  <SpruceZeus> IllFlower: wow, y'all are still going?
+[28-Jun-2013 03:39:02]  <Sumire> 14SpruceZeus: Yeah.  there have been breaks.
+[28-Jun-2013 03:39:12]  <Sumire> 14it hasn't even been three hours, though
+[28-Jun-2013 03:45:19]  <Snezana> back
+[28-Jun-2013 03:45:48]  <Sumire> 14still waiting for Yui
+[28-Jun-2013 03:47:19]  *** AttObl <~AttObl@108-91-87-34.lightspeed.cicril.sbcglobal.net> has joined #madokamadness
+[28-Jun-2013 03:47:36]  *** Alicia <~Mibbit@c-98-199-217-5.hsd1.tx.comcast.net> has joined #madokamadness
+[28-Jun-2013 03:47:45]  *** Lin_Chong1 <~Lin_Chong@182.55.188.37> has joined #madokamadness
+[28-Jun-2013 03:49:26]  *** Lin_Chong1 <~Lin_Chong@182.55.188.37> has quit IRC (Client Quit)
+[28-Jun-2013 03:50:02]  *** Lin_Chong <Mibbit@183.90.41.153> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[28-Jun-2013 03:50:32]  <Sumire> 14sorry, IllFlower >_<
+[28-Jun-2013 03:50:47]  <IllFlower> It's cool.
+[28-Jun-2013 03:52:01]  *** Lin_Chong <Mibbit@183.90.41.131> has joined #madokamadness
+[28-Jun-2013 04:04:10]  *** Nitya <~Glossina@75-164-162-110.ptld.qwest.net> has joined #madokamadness
+[28-Jun-2013 04:05:55]  *** Fiora <~Fiora@ec2-50-17-93-47.compute-1.amazonaws.com> has joined #madokamadness
+[28-Jun-2013 04:05:56]  *** ChanServ sets mode: +o Fiora
+[28-Jun-2013 04:07:18]  <Alicia> Hey, people with Steam here.
+[28-Jun-2013 04:07:27]  <Alicia> Does anyone else have Space Pirates and Zombies?
+[28-Jun-2013 04:08:54]  <Alicia> Like, does it come when you gift someone something?
+[28-Jun-2013 04:09:16]  <Alicia> I can't remember how I got it, though it says Complimentary (mostly I want to check my memory).
+[28-Jun-2013 04:10:08]  <AttObl> As a copy that can be gifted, or the game itself?
+[28-Jun-2013 04:10:10]  <Fiora> maybe it came free with a game you bought?
+[28-Jun-2013 04:10:20]  <AttObl> Or a bundle.
+[28-Jun-2013 04:10:51]  <Alicia> The game itself, AttObl.
+[28-Jun-2013 04:11:10]  <AttObl> I have the game itself.
+[28-Jun-2013 04:11:42]  <Alicia> I haven't bought anything yet Fiora. All my games are gifts, save for TF2, but I only just got it.
+[28-Jun-2013 04:12:30]  <AttObl> It's a high chance of complimentary.
+[28-Jun-2013 04:13:08]  <Sumire> 14okay, she should be here in about 3-5 minutes, hopefully.
+[28-Jun-2013 04:13:18]  <Alicia> All righty. Well, how's the game AttObl?
+[28-Jun-2013 04:13:46]  <AttObl> It's pretty good, if you like Star Control 2.
+[28-Jun-2013 04:14:15]  <AttObl> Didn't keep me up, though...
+[28-Jun-2013 04:14:38]  <Alicia> @w star control 2
+[28-Jun-2013 04:14:38]  <Omnipresence> 14Alicia: Wikipedia: https://en.wikipedia.org/wiki/Star_Control_II — Star Control II is a critically acclaimedscience fiction video game, the second game in the Star Control trilogy. It was developed by Toys for Bob (Fred Ford and Paul Reiche III) and (+51 more characters)
+[28-Jun-2013 04:15:42]  <Alicia> Ah, hm.
+[28-Jun-2013 04:16:25]  <Yui> I'm back
+[28-Jun-2013 04:16:31]  *** Barcode_ <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has joined #madokamadness
+[28-Jun-2013 04:16:31]  *** ChanServ sets mode: +o Barcode_
+[28-Jun-2013 04:16:49]  *** Barcode_ <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has left #madokamadness
+[28-Jun-2013 04:17:10]  <Alicia> Oh derp. Okay, so I might've accidentally downloaded it without noticing, too. I need to read the Steam news more. -_-;
+[28-Jun-2013 04:17:16]  * Alicia is a doof
+[28-Jun-2013 04:17:46]  <Sumire> 14 Snezana, still here?
+[28-Jun-2013 04:17:54]  <IllFlower> Okay, I think we can resume once everyone's assembled.
+[28-Jun-2013 04:18:01]  <Snezana> I'm back
+[28-Jun-2013 04:18:33]  <Sumire> 14alrighty
+[28-Jun-2013 04:19:29]  <Sumire> 14where were we
+[28-Jun-2013 04:19:58]  <IllFlower> Your characters were walking to Yuna's place.
+[28-Jun-2013 04:20:50]  *** Fiora <~Fiora@ec2-50-17-93-47.compute-1.amazonaws.com> has left #madokamadness
+[28-Jun-2013 04:21:47]  <Sumire> 20:18:16 < Snezana> "So, how far away are we from Yuna?"
+[28-Jun-2013 04:21:48]  <Sumire> 20:21:47 <@Sumire> "I'm not sure.  Yui?"
+[28-Jun-2013 04:22:10]  <Yui> ((Illflower seemed to be directing us there, but okay))
+[28-Jun-2013 04:22:22]  <Sumire> 14oh, whoops
+[28-Jun-2013 04:22:37]  <IllFlower> Oh, no, I had nothing more to say.
+[28-Jun-2013 04:22:54]  <Yui> "mmm, not too far, I don't think. Should be right around here somewhere."
+[28-Jun-2013 04:24:04]  <Yui> "Ah! There it is. Had to reorient myself. Things look different when people are around"
+[28-Jun-2013 04:24:18]  <Sumire> At this point, Sumire bends forward, doubling back onto the ground.
+[28-Jun-2013 04:24:48]  <IllFlower> Oh, cue.
+[28-Jun-2013 04:24:58]  * Snezana stops  
+[28-Jun-2013 04:25:05]  <Snezana> "Yui, we have a big problem."
+[28-Jun-2013 04:25:34]  <Sumire> 14IllFlower, do you want me to continue RPing the effects or should you?
+[28-Jun-2013 04:25:37]  * Yui snaps back to look at Sumire
+[28-Jun-2013 04:25:45]  <Yui> "well. That's not good."
+[28-Jun-2013 04:25:51]  <IllFlower> Sumire's transformation costume begins flashing on and off of her body, accompanied by a loud rushing noise.
+[28-Jun-2013 04:26:32]  <IllFlower> Curls of what look like yellow smoke begin to emanate from her skin.
+[28-Jun-2013 04:28:03]  <IllFlower> Without warning, there is a loud boom from the sky above, like a huge maw falling open, then a deafening cascade of crashing sounds.
+[28-Jun-2013 04:28:25]  * Snezana goes to Sumire's body, attempting to stop whatever is happening to her using her void powers
+[28-Jun-2013 04:28:49]  <IllFlower> A large sheet of glass falls directly in front of the initiates, blasting itself into tiny fragments on impact with the ground.
+[28-Jun-2013 04:29:49]  <Yui> ((well, shit))
+[28-Jun-2013 04:30:13]  <IllFlower> Then another behind them, and to the left. In front again. To the right. Left. Glass shards fly about, leaving gashes in the bark of nearby trees.
+[28-Jun-2013 04:31:04]  <IllFlower> It's all Snezana can do to use her powers to keep the glass from cutting someone's face open. The occasional stray pieces leave shallow nicks in the girls' skin.
+[28-Jun-2013 04:31:27]  <Snezana> ((the anime cheek slice))
+[28-Jun-2013 04:31:52]  * Snezana looks to see how the normals are doing
+[28-Jun-2013 04:32:07]  <IllFlower> After a few moments spent huddled together in sheer terror, the girls finally find the courage to stand up again.
+[28-Jun-2013 04:32:32]  <IllFlower> The street around them is covered in broken glass, with a noticeable circle around where they were crouched.
+[28-Jun-2013 04:33:14]  <IllFlower> Fortunately, it looks like there were no other people around. **
+[28-Jun-2013 04:33:51]  * Snezana goes over to Sumire
+[28-Jun-2013 04:33:53]  <Sumire> Surveying the damage, Sumire puts her hand on her head in the universal signal of a headache.  "Ow....what just happened..."
+[28-Jun-2013 04:33:54]  <Snezana> "are you okay?"
+[28-Jun-2013 04:34:59]  <Sumire> "I...I think so?  What happened?"
+[28-Jun-2013 04:35:42]  <Snezana> "I have no idea."
+[28-Jun-2013 04:35:54]  * Snezana looks around at the broken glass
+[28-Jun-2013 04:36:10]  <Snezana> "Well its certainly not of this world"
+[28-Jun-2013 04:36:30]  <Sumire> "Gosh, it looks like...it looks like...like my attacks!"  Her face goes pale with the realization.
+[28-Jun-2013 04:36:35]  <Snezana> "I'll go check on Yui, you rest for a little bit, okay?"
+[28-Jun-2013 04:36:53]  <Yui> "I'm okay, just a little shaken."
+[28-Jun-2013 04:37:29]  * Snezana goes up to Yui, whispering to her, "I think Sumire got targeted by Scorcher. I-its very similar"
+[28-Jun-2013 04:37:48]  <IllFlower> Yui, out of the corner of her eye, notices a figure running towards them from some distance down the street.
+[28-Jun-2013 04:38:21]  <Yui> "are you sure? I mean, where'd all this glass come from? There's nobody a--"
+[28-Jun-2013 04:38:45]  <Yui> "Snezana. There's somebody coming."
+[28-Jun-2013 04:39:12]  * Yui gets to her feet
+[28-Jun-2013 04:39:27]  * Snezana transforms into her magical form
+[28-Jun-2013 04:39:54]  * Snezana slams her right foot against the pavement, causing a sizable chunk of it to begin to implode
+[28-Jun-2013 04:39:58]  <IllFlower> The figure stops short upon encountering the edge of the field of glass, about a block or two away.
+[28-Jun-2013 04:40:20]  <IllFlower> "Hey, are you all right? I heard a boom--" Hiroaki's voice.
+[28-Jun-2013 04:40:22]  <IllFlower> **
+[28-Jun-2013 04:41:45]  * Snezana stands up, staring quietly at the interloper
+[28-Jun-2013 04:41:51]  <Snezana> "Sumire, can you stand?"
+[28-Jun-2013 04:41:59]  * Sumire stands
+[28-Jun-2013 04:42:06]  <Yui> Yui starts walking towards Hiroaki, with as worried as Snezana was earlier, it's probably for the best that Sumire keeps her cover.
+[28-Jun-2013 04:42:09]  <Sumire> "Yeah.  Just a bit of a headache."
+[28-Jun-2013 04:42:21]  <IllFlower> I dunno if walking is such a great idea. Again, glass on the ground.
+[28-Jun-2013 04:42:33]  <Yui> ((oh right))
+[28-Jun-2013 04:42:58]  <Snezana> ((Is this magically sharp glass))
+[28-Jun-2013 04:43:18]  <Yui> ((that was my next question becasue shoes are a thing that yui is wearing))
+[28-Jun-2013 04:43:24]  <Sumire> 14pretty sure normally sharp glass is bad enough
+[28-Jun-2013 04:43:47]  <Yui> "Yeah, we're okay. Nothing out of the ordinary here at all."
+[28-Jun-2013 04:43:57]  <Snezana> "Just an ordinary stroll through..."
+[28-Jun-2013 04:44:03]  * Snezana gestures to all the glass
+[28-Jun-2013 04:44:06]  <IllFlower> It's *lots* of glass. I wouldn't recommend walking through it.
+[28-Jun-2013 04:44:07]  <Snezana> "the glass forest, I guess"
+[28-Jun-2013 04:45:25]  <IllFlower> Hiroaki looks at Snezana. An expression of surprise appears on his face for a brief moment before he realizes Yui is standing next to her.
+[28-Jun-2013 04:45:35]  *** jseblarinaOfTime <~chatzilla@CPEbcc81007908e-CMbcc81007908b.cpe.net.cable.rogers.com> has quit IRC (Quit: ChatZilla 0.9.90 [Firefox 21.0/20130511120803])
+[28-Jun-2013 04:46:08]  <IllFlower> "Aoyama!" he calls out. "What happened?" **
+[28-Jun-2013 04:46:20]  * Snezana whispers to Yui, "How close are we to Yuna's house?"
+[28-Jun-2013 04:46:52]  <IllFlower> It'd be safe to say you're about halfway between Yui's and Yuna's places.
+[28-Jun-2013 04:47:41]  * Snezana suddenly knows that she's halfway between Yui's and Yuna's places
+[28-Jun-2013 04:47:59]  <Yui> "Nearly there. And by nearly I mean about as far as we've come we need to go that far"
+[28-Jun-2013 04:48:02]  <Nitya> 14thanks, cybergoogle maps
+[28-Jun-2013 04:48:22]  <Yui> ((sorry, mom is still randomly asking me things at the top of her lungs))
+[28-Jun-2013 04:48:29]  <Snezana> "Kuso..."
+[28-Jun-2013 04:48:50]  * Snezana stands up, facing Hiroaki
+[28-Jun-2013 04:48:59]  *** Rig <~Iverum@99-102-0-211.lightspeed.iplsin.sbcglobal.net> has quit IRC (Quit: Rig)
+[28-Jun-2013 04:49:07]  <Snezana> "What is going on here?"
+[28-Jun-2013 04:49:41]  <Snezana> "I mean... we were just walking and we got attacked... by a witch I think. It has to be nearby."
+[28-Jun-2013 04:50:24]  <IllFlower> "I don't know," Hiroaki shouts back. "I just heard an explosion!" **
+[28-Jun-2013 04:50:56]  <Sumire> "An explosion?"
+[28-Jun-2013 04:51:21]  <Sumire> 14Parrot Exposition?
+[28-Jun-2013 04:51:29]  <Snezana> ((Plot-device?))\
+[28-Jun-2013 04:51:42]  <IllFlower> Well, all that glass falling was very loud.
+[28-Jun-2013 04:52:13]  <Yui> "It was just a couple sheets of glass, Hiroaki, no explosions."
+[28-Jun-2013 04:52:22]  <Snezana> "Shit, probably the entire city heard it. Hopefully that means other initiates are coming as well."
+[28-Jun-2013 04:52:37]  <IllFlower> "This looks like more than a couple..." **
+[28-Jun-2013 04:52:48]  * Snezana softly removes her left channeling glove
+[28-Jun-2013 04:53:04]  <Sumire> 14channel first, ask questions later: the Snezana way
+[28-Jun-2013 04:53:05]  <IllFlower> Snezana: Might not be the case. Hiroaki happens to live close by.
+[28-Jun-2013 04:53:26]  <Snezana> ((this voice in my head keeps telling me plot))
+[28-Jun-2013 04:53:43]  <Snezana> "Wait..."
+[28-Jun-2013 04:53:56]  * Snezana realizes that he happens to live nearby, this could be a set-up
+[28-Jun-2013 04:54:09]  <IllFlower> Oh, no, that wouldn't be something Snezana knows, haha.
+[28-Jun-2013 04:54:09]  <Yui> "Yeah, well, you know, can't a girl rely on some understatement now and then?"
+[28-Jun-2013 04:54:14]  <Yui> Yeah it would
+[28-Jun-2013 04:54:15]  <Sumire> 14Isn't Snezana a feminine name?
+[28-Jun-2013 04:54:24]  <Sumire> 14oh wait wrong antecedent, lol
+[28-Jun-2013 04:54:25]  <Snezana> ((Yeah, it means snow woman))
+[28-Jun-2013 04:54:45]  <Yui> (Yui debriefed Snezana on boy and familiar earlier in the session)
+[28-Jun-2013 04:54:58]  <Snezana> (I'd imagine that includes, "hey he lives nearby"))
+[28-Jun-2013 04:55:35]  <Sumire> 14I think it explicitly mentioned the elementary school, even
+[28-Jun-2013 04:55:39]  <IllFlower> Oh, okay. Well, he hasn't even introduced himself yet, might want to wait for that. :p
+[28-Jun-2013 04:56:10]  <IllFlower> Or at least prompt him for confirmation, I guess.
+[28-Jun-2013 04:56:48]  <Snezana> "We're going to need a way to clear all this glass."
+[28-Jun-2013 04:56:57]  <Yui> "That is you Hiroaki, right? Or am I directly adressing someone by the wrong name?"
+[28-Jun-2013 04:57:27]  <Snezana> "I could create a vacumn to bunch up the shards somewhere, I'd imagine they aren't that heavy
+[28-Jun-2013 04:57:32]  <IllFlower> "Yeah, that's me. And yeah, we do..." **
+[28-Jun-2013 04:57:39]  <Sumire> Sumire whispers to Snezana, still not sure about the situation: "I suppose I could probably do something..."
+[28-Jun-2013 04:58:19]  * Snezana "Any way you can clear the glass by us and leave it separating us from him? I still don't trust him"
+[28-Jun-2013 04:58:24]  <Snezana> ((whispered of course))
+[28-Jun-2013 04:59:46]  <Sumire> "Maybe.  Don't know who this guy is, though, so I don't want to reveal myself as a magical girl..."
+[28-Jun-2013 04:59:53]  <Sumire> 14also whispered, of course
+[28-Jun-2013 05:00:24]  <Snezana> "Okay, I'll just go with my plan"
+[28-Jun-2013 05:00:56]  * Snezana raises her left hand, which has begun contorting in an inhuman way, canting in her native tongue.
+[28-Jun-2013 05:01:05]  <Snezana> ((Imma about to vaccumn the glass if thats okay illflower))
+[28-Jun-2013 05:01:21]  <IllFlower> Go ahead.
+[28-Jun-2013 05:02:58]  * Snezana the air begins to be sucked into the vicinity of snezana's hand, she points towards the space in between the girls and hiroaki, the glass softly begins to be drawn into a vortex, smashing together until they form an almost crystal like shape
+[28-Jun-2013 05:04:22]  <Snezana> ((you can add an overcharge to me if you want))
+[28-Jun-2013 05:06:15]  * Snezana pants heavily, her skin looking paler than usual, snezana struggles to put the glove back on, "That was harder than I thought. Then again, I was deflecting shards earlier."
+[28-Jun-2013 05:06:54]  <Yui> "Thanks, Snezana" Yui whispers
+[28-Jun-2013 05:07:09]  <Yui> "for cleaning and for protecting me."
+[28-Jun-2013 05:07:30]  <Sumire> "So what do we do now?" Sumire whispers to Yui and Snezana
+[28-Jun-2013 05:08:10]  <Snezana> "Well, he can't cross for now, I'm spent, and we still don't know what happened. I don't trust the guy at all, but I may be wrong about him."
+[28-Jun-2013 05:10:12]  <Sumire> 14I must imagine Hiroaki's looking at us all side-eyed for all the whispering we're doing
+[28-Jun-2013 05:10:26]  *** Zia <~Zia@c-71-231-16-179.hsd1.wa.comcast.net> has quit IRC (Read error: Connection reset by peer)
+[28-Jun-2013 05:10:34]  <Snezana> ((Yeah I'm not exactly not supicious)0
+[28-Jun-2013 05:10:39]  *** Zia <~Zia@c-71-231-16-179.hsd1.wa.comcast.net> has joined #madokamadness
+[28-Jun-2013 05:11:20]  * Sumire nervously shuffles a bit
+[28-Jun-2013 05:12:47]  * Snezana stands back up, not sure what to do, her instinct is to run like hell
+[28-Jun-2013 05:13:51]  <Sumire> 14 IllFlower, does Hiroaki have anything to say?
+[28-Jun-2013 05:14:01]  <IllFlower> Just a second.
+[28-Jun-2013 05:15:16]  <Snezana> (man we are total wimps)
+[28-Jun-2013 05:15:38]  <Sumire> 14Sumire's still in "oh shit I did this didn't I?" mode
+[28-Jun-2013 05:17:01]  <Snezana> (Snezana is probably freaking the fuck out internally right now)
+[28-Jun-2013 05:18:02]  <Sumire> 14basically, Yui's probably the most stable of us all.  insert joke about IllFlower accidentally writing in a love interest here
+[28-Jun-2013 05:18:05]  <Yui> (yui is still in y'all are dweebs he's just a boy mode)
+[28-Jun-2013 05:18:12]  <IllFlower> Hiroaki approaches the girls, now that the path is clear. He faces Snezana again. The look on his face is still one of mild horror, but it's muted somewhat.
+[28-Jun-2013 05:18:42]  <IllFlower> "That was... impressive..." He fumbles. "Are you all okay?" **
+[28-Jun-2013 05:18:54]  <Snezana> "I'm fine." 
+[28-Jun-2013 05:19:49]  <IllFlower> Hiroaki turns to Yui. "Hi again," he says sheepishly.
+[28-Jun-2013 05:20:35]  <Yui> "Hi. Wasn't expecting to see you this soon. Let alone in this state. I'm okay."
+[28-Jun-2013 05:20:35]  <IllFlower> He turns to address all three of the girls. "So do you think a witch did this?" **
+[28-Jun-2013 05:21:17]  *** Alicia is now known as AliciaTF2
+[28-Jun-2013 05:21:19]  * Sumire whispers to Yui.  "Do you think we can trust him?"
+[28-Jun-2013 05:23:00]  <Yui> "Snezana doesn't think so, but I haven't seen anything particularly ominous. But like she said, beware the friendly stranger. I trust him, but I'm on guard for Snezana's sake"
+[28-Jun-2013 05:23:26]  <IllFlower> Hiroaki looks on at the whispering girls in bemusement. **
+[28-Jun-2013 05:25:28]  * Snezana sighs, "I'll leave it up to you two, we should check up on Yuna and then make sure Sumire is okay."
+[28-Jun-2013 05:26:24]  <Yui> "Sorry for the whispering Hiroaki, I have protective friends."
+[28-Jun-2013 05:27:02]  <Yui> "protective and inefficiently non-confrontational"
+[28-Jun-2013 05:28:48]  * Snezana growls at the perceived slight 
+[28-Jun-2013 05:29:12]  <Sumire> "I have no idea what happened, Hiroaki."
+[28-Jun-2013 05:29:23]  <IllFlower> "I've been told girls have their own private talk, anyway. I just never thought they'd be so forward about it." **
+[28-Jun-2013 05:30:18]  <Nitya> 14haha "i've been told" what a dork
+[28-Jun-2013 05:30:19]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has quit IRC (Quit: ChatZilla 0.9.90 [Firefox 21.0/20130511120803])
+[28-Jun-2013 05:31:35]  <IllFlower> Nitya: He's so innocent.
+[28-Jun-2013 05:31:42]  <Snezana> So he makes himself appear
+[28-Jun-2013 05:34:15]  <Sumire> "Nice meeting you, though, I guess.  We should probably get going."  Sumire motions to Yui to start heading towards Yuna again.
+[28-Jun-2013 05:35:28]  <IllFlower> "Already? There was all that glass and I haven't even introduced myself and..." **
+[28-Jun-2013 05:36:13]  <Sumire> 14I was waffling between that and introducing myself, hahaha
+[28-Jun-2013 05:36:32]  <Snezana> "Why don't we meet-up tomorrow? There is a sushi place not far from here that I work at."
+[28-Jun-2013 05:36:44]  <Yui> Oooh, that sounds yummy!
+[28-Jun-2013 05:37:16]  * Snezana Snezana gives coordinates, name, and a cyber-implant that conviently tracks the location when the plot demands it
+[28-Jun-2013 05:37:22]  <Snezana> ((last part was not given))
+[28-Jun-2013 05:38:08]  <Sumire> "Oooh, sushi sounds good.  I'll try to remember, and hope I don't get lost in the commercial district again."
+[28-Jun-2013 05:38:18]  <Sumire> "...so many freaking identical financial buildings..."
+[28-Jun-2013 05:39:03]  <IllFlower> "Huh?" The conversation has clearly escaped Hiroaki. "But that doesn't answer -- well, anything --" **
+[28-Jun-2013 05:41:27]  <Yui> "We don't have answers to questions about the glass. We were going for a walk. I'm Aoyama, and while I offered my name to you willingly, my friends are less inclined to do so until they get a better feel for you. Which is why lunch."
+[28-Jun-2013 05:42:15]  <Yui> "at least as far as I can tell."
+[28-Jun-2013 05:43:03]  *** AliciaTF2 is now known as Alicia
+[28-Jun-2013 05:43:41]  * Snezana walks towards Hiroaki, placing her left hand on his shoulder, "You know where pyun-pyun, one of the familiars hangs out? The abandoned building? I'll meet with you there to explain some things."
+[28-Jun-2013 05:43:42]  <Yui> ((in which everybody makes life difficult for illflower))
+[28-Jun-2013 05:45:36]  <IllFlower> "It's -- it's fine." Hiroaki looks first at Yui, then Sumire, then Snezana. His gaze lingers for a bit, then he says, "I'm going to go investigate. I'll see you later!"
+[28-Jun-2013 05:45:57]  * Snezana puts both hands in her pockets
+[28-Jun-2013 05:46:11]  *** Anonus <~Adium@75-166-175-168.hlrn.qwest.net> has joined #madokamadness
+[28-Jun-2013 05:46:12]  <IllFlower> He sprints off in a seeimgly arbitrary direction, and is very quickly out of sight. **
+[28-Jun-2013 05:46:17]  <Anonus> Hi
+[28-Jun-2013 05:46:24]  <Sumire> 14there's an RP going on
+[28-Jun-2013 05:46:39]  <Snezana> "Lets check up on Yuna, I feel pretty exhausted after all this."
+[28-Jun-2013 05:46:49]  <Yui> "So, to Yuna's?"
+[28-Jun-2013 05:47:05]  <Sumire> "I think that's a good idea."
+[28-Jun-2013 05:47:26]  * Snezana fidgets for a bit, then rests her hands behind her head
+[28-Jun-2013 05:47:34]  <Snezana> "You feeling better now Sumire?"
+[28-Jun-2013 05:47:49]  <IllFlower> Okay, I'll have to cut you guys off after this conversation. We'll pick up at Yuna's place next session.
+[28-Jun-2013 05:48:22]  <Yui> ((sorry for all the delays on my end))
+[28-Jun-2013 05:48:26]  <Sumire> "Somewhat.  I'd feel a lot better if I could just lay down on something nice and fluffy though."
+[28-Jun-2013 05:49:34]  <Snezana> "Yeah, I could use alcohol."
+[28-Jun-2013 05:50:02]  <Yui> "are you even legally able to have it?"
+[28-Jun-2013 05:50:15]  <Sumire> 14I think it's 20 in Japan?
+[28-Jun-2013 05:50:26]  <Snezana> "Don't worry, its watered down in vodka."
+[28-Jun-2013 05:50:50]  <Yui> "okay. Well. Let's try to get Sumire somewhere soft."
+[28-Jun-2013 05:52:26]  <Snezana> "... man I would much rather have had Aoi show up"
+[28-Jun-2013 05:53:20]  <Snezana> "a-anyways, Its probably going to be a lot for Yuna to catch up on."
+[28-Jun-2013 05:58:11]  <IllFlower> Yes, that it will be. On that note, I'm going to close this session. Some of us need sleep. ;) We'll pick up again next Monday, hopefully.
+[28-Jun-2013 05:58:18]  <IllFlower> Thanks for playing again, everyone.

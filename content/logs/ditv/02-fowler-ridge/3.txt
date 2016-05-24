@@ -1,0 +1,530 @@
+[24-Jun-2012 20:05:18]  <Motoko`kaseijin> Last time, Gideon managed to exorcise the demonic influence from Sister Constance, who is now recovering from her possession.
+[24-Jun-2012 20:06:01]  <Motoko`kaseijin> The two of you have gone to confront Brother Joseph about his potential part in the yet-unsolved murder of Brother Jules, the agricultural equipment maintainer.
+[24-Jun-2012 20:06:06]  <Rashi> [but now, both constance and her demon have fallen deeply in love with brother gideon!  WILL LOVE WIN IN THE END??]
+[24-Jun-2012 20:06:21]  <Motoko`kaseijin> 14Shush, Rashi. No spilers.
+[24-Jun-2012 20:06:26]  <Motoko`kaseijin> 14* spoilers
+[24-Jun-2012 20:06:42]  <Rashi> [fucking tyrant]
+[24-Jun-2012 20:06:44]  <Gideon> (Spilers sounds cool. Like robotic hacking spiders or something.)
+[24-Jun-2012 20:09:01]  <Motoko`kaseijin> Joseph notices the Dogs approaching, with Brother Eliezer and a handful of curious onlookers behind them, and motions to his brother Thomas.
+[24-Jun-2012 20:09:21]  <Motoko`kaseijin> Thomas ducks inside the house, leaving Joseph out in front.
+[24-Jun-2012 20:09:38]  <Motoko`kaseijin> "Quite the crowd you've got going here," he remarks, as Gideon and Rashi arrive at his doorstep. **
+[24-Jun-2012 20:10:50]  <Rashi> Sorry for the interruption.  Maybe we should talk inside? [Yo homie, we heard you done popped a cap in Jules' ass, what is that shit, man?]
+[24-Jun-2012 20:12:41]  <Motoko`kaseijin> Brother Joseph looks at Rashi, his eyes narrowed. "I ordinarily wouldn't mind, Brother, but I feel these kinds of disagreements are best settled in the public square. Wouldn't you agree?" **
+[24-Jun-2012 20:13:06]  <Gideon> "I believe your sister has already tried the public approach, Brother Joseph."
+[24-Jun-2012 20:14:07]  <Motoko`kaseijin> "My sister? What's she done?" It's impossible to tell from his tone whether Joseph is genuinely surprised. **
+[24-Jun-2012 20:16:42]  <Gideon> "She came into town carrying a gun and a demon." Gideon says. "I really think we should continue this conversation inside, Brother."
+[24-Jun-2012 20:17:47]  <Gideon> (brb)
+[24-Jun-2012 20:17:49]  * Rashi gestures at the crowd.
+[24-Jun-2012 20:19:09]  <Motoko`kaseijin> "A demon?" Joesph says. "You don't really believe... well, I suppose I'm not really in a position to question your judgment.
+[24-Jun-2012 20:19:50]  <Motoko`kaseijin> "Still, if she did anything like you're suggesting, I don't know anything of it. Constance isn't a child. She has her own freedom."
+[24-Jun-2012 20:21:13]  <Motoko`kaseijin> Rashi sees something move in one of the house's upstairs windows, but it's too fleeting to get a good glimpse of who or what it is. **
+[24-Jun-2012 20:21:43]  <Gideon> (back)
+[24-Jun-2012 20:22:28]  * Rashi looks at the window for a moment, to no avail.
+[24-Jun-2012 20:24:07]  <Gideon> Gideon is tired of Joseph's game. "Brother Joseph, we have reason to suspect you're responsible for Brother Jules murder. We would prefer to settle this in a civilized manner privately. However, if you insist of making a spectacle I'd be happy to oblige you."
+[24-Jun-2012 20:26:03]  <Motoko`kaseijin> Joseph looks away and heaves a sigh. "I have no blood on my hands, Brother. My word to the King. I've certainly suffered my share of undue suspicion, but this... this is something else."
+[24-Jun-2012 20:27:42]  <Motoko`kaseijin> He turns to the assembled crowd and shouts. "Would I kill a man? For what reason? You know me better than these outsiders!"
+[24-Jun-2012 20:28:42]  <Motoko`kaseijin> Nobody dares challenge him, whether this be a display of restraint or fear on the part of the townspeople.
+[24-Jun-2012 20:29:57]  <Motoko`kaseijin> Eliezer's face is a mix of worry and frustration.
+[24-Jun-2012 20:30:22]  <Motoko`kaseijin> Rashi again notices something moving in the upper windows. This time, it seems to have a distinct metallic glint. **
+[24-Jun-2012 20:31:20]  <Rashi> "We're not putting you on trial, we just want to talk.  Though if you want to do it that way we c... huh."
+[24-Jun-2012 20:31:59]  <Gideon> Gideon glances over at Rashi when he stops talking, "Something wrong?"
+[24-Jun-2012 20:33:25]  <Rashi> "Thought I saw... something..." Rashi says, straining his eyes.  He'd really, really like for it not to be a gun.
+[24-Jun-2012 20:34:24]  <Gideon> Motoko`kaseijin: Could we run this as a conflict where Gideon and Rashi are trying to convince Joseph to let them in?
+[24-Jun-2012 20:34:31]  <Motoko`kaseijin> I was just about to suggest that.
+[24-Jun-2012 20:35:15]  <Motoko`kaseijin> Okay, let's set the stakes at persuading Joseph to let the Dogs inside.
+[24-Jun-2012 20:35:15]  <Gideon> You okay with that Rashi?
+[24-Jun-2012 20:35:20]  <Rashi> Sure.
+[24-Jun-2012 20:36:17]  <Motoko`kaseijin> There are rules for cooperation on page 72, if you feel so inclined. Basically, you can lend a die to your partner's raise or see, so long as you only raise with one die the next turn.
+[24-Jun-2012 20:36:43]  <Motoko`kaseijin> Dice contributed to sees don't count for fallout against the player being helped.
+[24-Jun-2012 20:36:58]  <Gideon> Useful.
+[24-Jun-2012 20:37:26]  <Motoko`kaseijin> This is a non-physical venue at the moment, so roll Acuity and Heart. New NPC character sheets are at the bottom of the character sheet, by the way.
+[24-Jun-2012 20:37:40]  <Gideon> !roll 10d6
+[24-Jun-2012 20:37:41]  <GameServ> 6, 3, 3, 1, 5, 1, 4, 2, 6, 6 == 37
+[24-Jun-2012 20:37:45]  <Motoko`kaseijin> !roll 9d6
+[24-Jun-2012 20:37:46]  <GameServ> 2, 3, 1, 6, 1, 2, 6, 3, 2 == 26
+[24-Jun-2012 20:38:13]  <Motoko`kaseijin> 1 1 2 2 2 3 3 6 6 for Joseph.
+[24-Jun-2012 20:38:24]  <Rashi> I roll too, or?
+[24-Jun-2012 20:38:40]  <Gideon> 1 1 2 3 3 4 5 6 6 6 for Gideon. I'm not taking any traits at the moment.
+[24-Jun-2012 20:38:45]  <Gideon> Yeah, you roll too.
+[24-Jun-2012 20:38:52]  <Motoko`kaseijin> Are you participating in the conflict? :p
+[24-Jun-2012 20:39:20]  <Rashi> !roll 9d6
+[24-Jun-2012 20:39:20]  <GameServ> 6, 3, 1, 2, 5, 1, 1, 3, 3 == 25
+[24-Jun-2012 20:39:51]  <Gideon> Who is raising first?
+[24-Jun-2012 20:40:34]  <Rashi> How about me.
+[24-Jun-2012 20:40:34]  <Motoko`kaseijin> One of you two, I'd say, since you're the "aggressors" in this case.
+[24-Jun-2012 20:40:41]  <Gideon> You go ahead, Rashi.
+[24-Jun-2012 20:42:39]  <Rashi> Raise 5+3/keep 6332111.  "Brother, I really think you should let us in now.  We don't want to make this any more of a scene than it already is, do we?"
+[24-Jun-2012 20:42:48]  <Rashi> Oh, and can I add in my "I can convince people to listen to me 3d8" or what
+[24-Jun-2012 20:43:10]  <Gideon> I think so.
+[24-Jun-2012 20:43:17]  <Motoko`kaseijin> Yeah, you can roll that now.
+[24-Jun-2012 20:43:23]  <Rashi> !roll 3d8
+[24-Jun-2012 20:43:24]  <GameServ> 7, 3, 8 == 18
+[24-Jun-2012 20:43:47]  <Rashi> so I have 8763332111 (mostly for my own reference)
+[24-Jun-2012 20:45:52]  <Motoko`kaseijin> "I don't mind being seen," Joseph half-yells, ensuring everyone assembled can hear him. "I have nothing to hide." See 2 6, keep 1 1 2 2 3 3 6.
+[24-Jun-2012 20:46:02]  <Motoko`kaseijin> **
+[24-Jun-2012 20:46:17]  <Motoko`kaseijin> 14Who should raise next?
+[24-Jun-2012 20:46:21]  <Gideon> I will.
+[24-Jun-2012 20:48:02]  <Motoko`kaseijin> Okay, whenever you're ready.
+[24-Jun-2012 20:48:47]  <Gideon> "The King advises us to keep private matters private, Brother. It really would be best for everyone if we went inside." Gideon takes a few steps towards Joseph. Raise 6 4, leave 1 1 2 3 3 5 6 6.
+[24-Jun-2012 20:51:00]  <Motoko`kaseijin> Hm. I'm going to roll for Joseph's Vocal trait and see if that helps at all...
+[24-Jun-2012 20:51:03]  <Motoko`kaseijin> !roll 2d8
+[24-Jun-2012 20:51:03]  <GameServ> 4, 7 == 11
+[24-Jun-2012 20:52:40]  <Motoko`kaseijin> "This isn't just a private matter," Joseph says in a suspicious tone. "Your charges would surely affect the entire town, wouldn't they?" See 3 7, keep 1 1 2 2 3 4 6. **
+[24-Jun-2012 20:52:55]  <Gideon> Your raise now.
+[24-Jun-2012 20:53:11]  <Motoko`kaseijin> Indeed.
+[24-Jun-2012 20:54:04]  <Gideon> Oh, did you roll for Joseph's relationship with the Dogs?
+[24-Jun-2012 20:54:21]  <Motoko`kaseijin> Oh, no. Thanks for reminding me.
+[24-Jun-2012 20:54:23]  <Motoko`kaseijin> !roll d8
+[24-Jun-2012 20:54:23]  <GameServ> 7 == 7
+[24-Jun-2012 20:56:21]  <Motoko`kaseijin> "Do you not agree, my friends, that such grave matters should be conducted in the open? What assurances do you have that these men" -- Joseph indicates Gideon and Rashi -- "will not resort to methods unbecoming of the position the King has given them, if you cannot see them?" Raise 6 7, keep 1 1 2 2 3 4.
+[24-Jun-2012 20:56:41]  <Motoko`kaseijin> (He's yelling to the onlookers, in case that wasn't clear.) **
+[24-Jun-2012 20:56:44]  <Rashi> I'll see.
+[24-Jun-2012 20:56:51]  <Motoko`kaseijin> Both of you have to see, actually.
+[24-Jun-2012 20:56:56]  <Rashi> oh.
+[24-Jun-2012 20:57:22]  <Motoko`kaseijin> Since I'm "attacking" both of you with Joseph's comments.
+[24-Jun-2012 20:57:29]  <Rashi> right, right.
+[24-Jun-2012 20:57:51]  <Motoko`kaseijin> You can coordinate some action, though.
+[24-Jun-2012 20:58:22]  <Rashi> You want a die, Gideon?
+[24-Jun-2012 20:58:22]  <Gideon> Rashi: I think we should give. We get to keep our highest die and can use it in the follow up conflict.
+[24-Jun-2012 20:58:26]  <Rashi> Oh.
+[24-Jun-2012 20:58:42]  <Gideon> Did you want to fight it out?
+[24-Jun-2012 20:58:45]  <Rashi> Hm, okay.
+[24-Jun-2012 20:59:10]  <Rashi> No, you're right.  We don't really need to be inside anyway, it just means he yells bullshit occasionally
+[24-Jun-2012 20:59:16]  <Gideon> Gideon looks around at the surrounding people and sees that Joseph could easily win them over if things did go poorly inside. "Fine, Brother. We can handle this in public if you like." Give. Leave 6.
+[24-Jun-2012 20:59:28]  <Rashi> give, leave 8?
+[24-Jun-2012 20:59:39]  <Gideon> Yeah.
+[24-Jun-2012 20:59:49]  <Gideon> So, we need new stakes, Motoko.
+[24-Jun-2012 20:59:50]  <Rashi> bangin'
+[24-Jun-2012 21:00:26]  <Rashi> Maybe we could ask for Thomas to come out before he blows our heads off
+[24-Jun-2012 21:00:33]  <Motoko`kaseijin> Ha, I didn't see that one coming.
+[24-Jun-2012 21:01:04]  <Rashi> 'm all roughed up from the machinery, mon
+[24-Jun-2012 21:01:54]  <Motoko`kaseijin> "Thank you, brothers," he calls out, a bit more loudly than necessary. "I'm glad we can try to resolve this like gentlemen."
+[24-Jun-2012 21:02:54]  <Motoko`kaseijin> Rashi sees the glint again. Some footsteps are audible coming down the stairs inside shortly afterward, though it's still not possible to actually look into the house.
+[24-Jun-2012 21:03:07]  <Motoko`kaseijin> **
+[24-Jun-2012 21:03:59]  <Gideon> (Need to look at the logs quickly.
+[24-Jun-2012 21:04:01]  <Gideon> )
+[24-Jun-2012 21:04:45]  <Rashi> "Ah... so as long as we're all out here... what's your brother doing inside?"  Rashi cocks his head.
+[24-Jun-2012 21:05:09]  <Rashi> [bluuuuunt]
+[24-Jun-2012 21:05:46]  <Motoko`kaseijin> Note that if you want to initiate a follow-up conflict, you should set the stage soon. Remember that the venue, participants, and starting conflict level (physical etc.) all have to be different.
+[24-Jun-2012 21:06:24]  <Motoko`kaseijin> "I thought it'd be best for him to stay inside," Joseph says. "He's still young, and I don't want any harm to come to him." **
+[24-Jun-2012 21:06:55]  <Motoko`kaseijin> (You two can decide the stage for the new conflict, since you're the ones who decided to give.)
+[24-Jun-2012 21:08:54]  <Gideon> (I doubt we should jump right on up to physical just yet, so we may have to pass on keeping those dice, but at least we're not getting shot at yet.)
+[24-Jun-2012 21:09:29]  <Motoko`kaseijin> Always important, not being shot at.
+[24-Jun-2012 21:10:24]  <Motoko`kaseijin> I was expecting the two of you to just keep escalating upward. I nearly had Joseph just take a swing at Gideon. This finesse is a pleasant surprise.
+[24-Jun-2012 21:10:28]  <Rashi> [continue pressing about tommyboy?]
+[24-Jun-2012 21:10:49]  <Gideon> (I say we leave Tommy out of it for the moment and press Joseph.)
+[24-Jun-2012 21:10:50]  <Rashi> [fuck your shit, lady, I'm subtle as balls when I wanna be.]
+[24-Jun-2012 21:11:00]  <Rashi> [press him about what, though?  investigation?]
+[24-Jun-2012 21:11:09]  <Gideon> Gideon tries to keep the conversation between Rashi, Joseph, and himself by keeping his voice low. "Brother, you say you have no blood on your hands, but Brother Leslie believes you to be responsible for the murder of Brother Jules. Why is this?"
+[24-Jun-2012 21:11:19]  <Gideon> (Like that, I guess.)
+[24-Jun-2012 21:11:20]  <Rashi> [oh, good.]
+[24-Jun-2012 21:14:12]  <Motoko`kaseijin> Joseph speaks, if not quietly, then at least not loudly. "Well, it's no secret that I haven't got the best reputation in this town. I'm loud, I'm quick to anger. Sure, that'll get the Steward on my case, 'cause I stick out like a sore thumb. But my anger's only ever words. Brother Leslie, it's his job to see the worst. Keep us all in line.
+[24-Jun-2012 21:15:02]  <Motoko`kaseijin> "And it's true. I never did care for Brother Jules. The Territory folks and the gear-spinners, Brother Eliezer included, they're not my type. Still doesn't mean I'd shoot 'em."
+[24-Jun-2012 21:15:06]  <Motoko`kaseijin> **
+[24-Jun-2012 21:17:36]  * Rashi is slightly miffed at "gear-spinners", but at the same time can't help that he likes the sound of the term. [irrelevant]
+[24-Jun-2012 21:17:42]  <Rashi> *but think that
+[24-Jun-2012 21:19:02]  <Gideon> Gideon is caught by the man's sudden swing from shouting to reasoning. "Nevertheless, your sister came into town under the grip of a demon with murderous intention." Gideon takes yet a few more steps towards Joseph, trying to get a look into the house. "Perhaps there is something going on that you're blind to, Brother?"
+[24-Jun-2012 21:22:28]  <Motoko`kaseijin> Gideon can see Thomas inside, holding what appears to be a rifle, though it's not clearly visible. He's standing nearly stock-still.
+[24-Jun-2012 21:23:51]  <Motoko`kaseijin> "Like I said," Joseph says, "I don't know anything about that. Are you suggesting something I've done has let demons into this congregation?" **
+[24-Jun-2012 21:27:37]  <Gideon> Gideon notes that Thomas is holding a rifle, but makes no movement to indicate his awareness. "It is possible, Brother Joseph. You clearly feel wronged by Brother Eliezer. Pride comes before the fall, remember." 
+[24-Jun-2012 21:29:14]  <Motoko`kaseijin> "What do you know about me and Brother Eliezer, son?" Odd choice of address, perhaps, for someone who appears to be his age, but there are many odd things about this already. **
+[24-Jun-2012 21:30:14]  * Rashi notes the rifle as well, and takes some deep breaths.
+[24-Jun-2012 21:30:56]  <Gideon> "I know you called for his removal from his position," Gideon says.
+[24-Jun-2012 21:31:49]  <Motoko`kaseijin> "Is there something wrong with that?" Joseph asks. "I don't believe he can do his job." **
+[24-Jun-2012 21:33:53]  <Rashi> "You put him and the Territory people in the same group just a minute ago.  Doesn't it make sense for the liason to have something in common with them?  Who else could do it?"
+[24-Jun-2012 21:36:09]  *** AliceTensei <Mibbit@79-75-95-109.dynamic.dsl.as9105.com> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[24-Jun-2012 21:36:28]  <Motoko`kaseijin> "That's exactly *why* he can't do his job. Who's his true master? We of the town, or some self-important men in a glowing city tower two hundred miles away? I came here to get *away* from that 'modern' world!"
+[24-Jun-2012 21:36:32]  <Motoko`kaseijin> **
+[24-Jun-2012 21:37:24]  <Gideon> "That isn't for you to decide, Brother. The Steward is responsible for the well-being of the town. You are responsible for your family." Gideon says.
+[24-Jun-2012 21:37:43]  <Gideon> "Your family that is falling into disarray. Your sister was possessed, Brother."
+[24-Jun-2012 21:38:48]  <Motoko`kaseijin> "Trust them. Is that what you're saying? Just trust them?" **
+[24-Jun-2012 21:39:40]  <Rashi> "Trust the Steward."
+[24-Jun-2012 21:41:23]  *** Lin_Chong <Mibbit@180.174.252.16> has joined #madokamadness
+[24-Jun-2012 21:43:08]  <Motoko`kaseijin> A gloomy look casts across Joseph's face, though his words still protest. "Lot of trust you're wanting me to invest here."
+[24-Jun-2012 21:43:11]  <Motoko`kaseijin> **
+[24-Jun-2012 21:44:44]  <Gideon> "The King reedemeth the soul of his servants: and none that trust in him shall be desolate." 
+[24-Jun-2012 21:45:19]  <Rashi> [clearly I should grab my copy of the enneads for ye olde engrishe religious quotations]
+[24-Jun-2012 21:45:47]  <Gideon> (I just pulled a quote from Psalms.)
+[24-Jun-2012 21:45:53]  <Rashi> [I know]
+[24-Jun-2012 21:46:11]  <Gideon> (Old English on Mars is fun.)
+[24-Jun-2012 21:47:34]  <Motoko`kaseijin> Joseph just shakes his head. He's clearly not fully convinced, but something else has just dawned on him. "Then I'm guessing you're going to tell me it's my job to see to Constance's well-being." **
+[24-Jun-2012 21:47:52]  <Rashi> [Calde geþrungen wæron mine fet, forste gebunden caldum clommum, þær þa ceare seofedun hat ymb heortan]
+[24-Jun-2012 21:49:19]  <Gideon> (This guy and his not reading the Scripture.)
+[24-Jun-2012 21:50:28]  <Motoko`kaseijin> What, you expected him to be well-read?
+[24-Jun-2012 21:52:38]  <Rashi> "Of course, she is your sister.  It's the family's, and the community's, job to care for their own."
+[24-Jun-2012 21:53:25]  *** cts <Mibbit@60-241-128-154.static.tpgi.com.au> has joined #madokamadness
+[24-Jun-2012 21:54:53]  <cts> say, how many eps into shugo chara are you
+[24-Jun-2012 21:55:08]  <Rashi> [zero.  we're in the middle of an RP right now, though.]
+[24-Jun-2012 21:55:44]  <Motoko`kaseijin> Joseph stumbles, lost for words. "Then I'll do that. This fight isn't worth her soul." He begins to walk down his front steps.
+[24-Jun-2012 21:57:17]  <Motoko`kaseijin> Gideon, however, notices that Thomas has raised his rifle, and has aimed it not at either of the Dogs, but squarely at Joseph's back. The demons aren't going to let their sorceror renounce the cause so easily.
+[24-Jun-2012 21:57:54]  <Motoko`kaseijin> I'm going to initiate a shooty-gun conflict. Thomas starts with the initial raise.
+[24-Jun-2012 21:58:34]  <Rashi> ["Can't we do this with the non-shooty guns?!" Rashi sobs]
+[24-Jun-2012 21:58:41]  <Gideon> !roll 9d6
+[24-Jun-2012 21:58:41]  <GameServ> 4, 2, 4, 2, 6, 2, 2, 5, 5 == 32
+[24-Jun-2012 21:58:43]  <Motoko`kaseijin> Hahaha.
+[24-Jun-2012 21:59:05]  <Rashi> so... body?  or what.
+[24-Jun-2012 21:59:15]  <Gideon> Acuity and Will.
+[24-Jun-2012 21:59:20]  <Motoko`kaseijin> Acuity plus Will for a shooting conflict, plus any relationships or belongings you want to include.
+[24-Jun-2012 21:59:29]  <Rashi> [durr.]
+[24-Jun-2012 21:59:31]  <Gideon> !roll 2d4
+[24-Jun-2012 21:59:32]  <GameServ> 4, 1 == 5
+[24-Jun-2012 21:59:49]  <Gideon> !roll 1d4
+[24-Jun-2012 21:59:50]  <GameServ> 4 == 4
+[24-Jun-2012 22:00:05]  <Rashi> [apropos of nothing, thomas's footsteps are supposed to be soundless.  hmmmm]
+[24-Jun-2012 22:00:18]  <Gideon> 1 2 2 2 2 4 4 4 4 5 5 6 for Gideon from Ac+Wi and his gun and his trait about being a bad shot.
+[24-Jun-2012 22:00:21]  <Rashi> !roll 7d6
+[24-Jun-2012 22:00:21]  <GameServ> 4, 3, 4, 4, 1, 5, 6 == 27
+[24-Jun-2012 22:00:32]  <Motoko`kaseijin> Yeah, I forgot about that manifestation. >_<
+[24-Jun-2012 22:00:35]  <Motoko`kaseijin> Oh, well.
+[24-Jun-2012 22:00:48]  <Rashi> So wait, I take the gunshy trait...?
+[24-Jun-2012 22:00:51]  <Rashi> !roll d4
+[24-Jun-2012 22:00:51]  <GameServ> 4 == 4
+[24-Jun-2012 22:00:53]  <Rashi> !roll d6
+[24-Jun-2012 22:00:53]  <GameServ> 2 == 2
+[24-Jun-2012 22:02:12]  <Motoko`kaseijin> I'm not going to play Joseph, since I think that'll make the conflict too complicated. Thomas (or the demons possessing him) don't want Joseph to openly resign his crusade against Eliezer.
+[24-Jun-2012 22:02:47]  <Motoko`kaseijin> !roll 9d6
+[24-Jun-2012 22:02:47]  <GameServ> 2, 1, 3, 5, 1, 3, 2, 6, 3 == 26
+[24-Jun-2012 22:02:49]  <Motoko`kaseijin> !roll d8
+[24-Jun-2012 22:02:49]  <GameServ> 3 == 3
+[24-Jun-2012 22:03:02]  <Motoko`kaseijin> !roll 2d4
+[24-Jun-2012 22:03:02]  <GameServ> 2, 2 == 4
+[24-Jun-2012 22:03:31]  <Motoko`kaseijin> Ac + Wl + demonic relationship (at stake) + Joseph relationship (also at stake) + poor shot.
+[24-Jun-2012 22:04:12]  <Motoko`kaseijin> 1 1 2 2 2 2 3 3 3 3 5 6 here. I'll make the opening raise for Thomas' gunfire 3 6.
+[24-Jun-2012 22:04:29]  <Motoko`kaseijin> So that leaves 1 1 2 2 2 2 2 3 3 3 5.
+[24-Jun-2012 22:04:41]  <Gideon> Since I'm closest I suppose I should be the one to See that?
+[24-Jun-2012 22:04:59]  <Motoko`kaseijin> You two can work that out. ^_^
+[24-Jun-2012 22:05:21]  <Rashi> I was thinking I should yell to the crowd or something... unless it's blindingly obvious that Thomas is shooting Joseph, I'm not 100% on this
+[24-Jun-2012 22:05:56]  <Gideon> I think I'm gonna move to tackle Joseph out of the way. You clearing the crowd away might be a good move.
+[24-Jun-2012 22:06:00]  <Motoko`kaseijin> Well, we're operating on a reflex timescale right now. Yelling can come afterward, if the crowd doesn't scatter first. ;)
+[24-Jun-2012 22:07:22]  <Gideon> Gideon lunges at Joseph and tackles him to the ground as he sees Thomas line up for the shot. The crack of gunpowder detonating comes just a moment before he feels hot metal open a gash across his temple. See 4 4 1, leave 2 2 2 2 4 4 5 5 6.
+[24-Jun-2012 22:07:40]  <Motoko`kaseijin> You take 3d10 fallout, then?
+[24-Jun-2012 22:07:43]  <Gideon> yeah.
+[24-Jun-2012 22:08:01]  <Motoko`kaseijin> All right. One of you two can raise next.
+[24-Jun-2012 22:08:11]  <Gideon> Rashi is in a better position.
+[24-Jun-2012 22:08:25]  <Rashi> Do I do the gun-shy trait or not...?
+[24-Jun-2012 22:08:37]  <Motoko`kaseijin> You can. I think you should, really.
+[24-Jun-2012 22:08:40]  <Gideon> If you're using a gun, I'd say so.
+[24-Jun-2012 22:08:51]  <Rashi> So... I add that to the dice?  I don't get that.
+[24-Jun-2012 22:08:56]  <Gideon> Yeah.
+[24-Jun-2012 22:09:02]  <Rashi> !roll d6
+[24-Jun-2012 22:09:02]  <GameServ> 6 == 6
+[24-Jun-2012 22:09:05]  <Rashi> whatever you say, chief
+[24-Jun-2012 22:09:24]  <Gideon> Traits are just things that have effects on your character. Even negative effects add to your dice pool.
+[24-Jun-2012 22:09:29]  <Rashi> 6654444321, then.
+[24-Jun-2012 22:09:36]  <Motoko`kaseijin> The assembled crowd scatters at the sound of gunfire. Clearly, they've had enough shooting for one day already. Eliezer ducks into a nearby building, and is out of immediate danger at the moment.
+[24-Jun-2012 22:10:43]  <Motoko`kaseijin> (And don't worry; everyone involved in this conflict is bad with guns...)
+[24-Jun-2012 22:10:52]  <Gideon> Hahaha.
+[24-Jun-2012 22:11:12]  <Motoko`kaseijin> (Demons. They're not exactly logical beings.)
+[24-Jun-2012 22:11:18]  <Rashi> Rashi's pissed that this is happening right when he thought they could end things nonviolently.  Raise 5+4/keep 66444321, returns fire with his quickly cocked handgun.
+[24-Jun-2012 22:13:51]  <Motoko`kaseijin> One shot hits Thomas in the leg. His body buckles a bit to rebalance itself, but he doesn't seem to react to the pain even subconsciously otherwise. See 1 2 3 3, leave 1 2 2 2 3 5.
+[24-Jun-2012 22:14:07]  <Rashi> nice demonic description there O_o
+[24-Jun-2012 22:14:08]  <Motoko`kaseijin> Gideon, your turn to raise.
+[24-Jun-2012 22:15:57]  <Motoko`kaseijin> (Oh, Thomas takes 4d10 fallout, obviously.)
+[24-Jun-2012 22:17:14]  <Gideon> Gideon blinks the blood out of his eyes as he fumbles for the rifle on his back. He manages to shoulder it and fire a couple of shots in Thomas's direction while prone. Raise 4 5, leave 1 2 2 2 2 4 4 4  5 6. (Is Joseph in this fight?)
+[24-Jun-2012 22:18:05]  <Rashi> [no]
+[24-Jun-2012 22:18:08]  <Motoko`kaseijin> I'm not playing him. It'd make the conflict gratuitously unfair and I don't think he'd be much inclined to get in a gunfight with his own brother.
+[24-Jun-2012 22:19:14]  <Gideon> (Works for me.(
+[24-Jun-2012 22:19:15]  <Gideon> *)
+[24-Jun-2012 22:19:16]  <Motoko`kaseijin> Same deal as with the NPC who was restraining Constance last time (though I realize now that I could have played him as p. 129 indicates).
+[24-Jun-2012 22:19:46]  <Motoko`kaseijin> Oh, also, you kind of tackled Joseph, so I imagine he's a bit out of it...
+[24-Jun-2012 22:22:11]  <Motoko`kaseijin> Oh, right, a see. Um, Thomas takes another shot in the stomach. His grip on the rifle slips, and an audible grunt escapes his mouth. See 2 2 2 3, another 4d10 fallout. (The demons clearly don't care if he gets killed...) Thomas fumbles with the rifle, not exactly in the best shape to shoot, but manages to get off another shot or two in Joseph's direction. Raise 1 5, leave nothing.
+[24-Jun-2012 22:22:57]  <Rashi> [talking is a free action, right?]
+[24-Jun-2012 22:23:21]  <Motoko`kaseijin> Depends on what you're talking about.
+[24-Jun-2012 22:24:22]  <Rashi> I just want to yell for Gideon to tackle Thomas, since Rashi's shy and shit.  or he recites the entirety of "On Liberty" at the demon, your choice.
+[24-Jun-2012 22:25:24]  <Motoko`kaseijin> Oh, that should be fine, I'd say, so long as Gideon's the one who sees my raise.
+[24-Jun-2012 22:26:29]  <Rashi> hm...
+[24-Jun-2012 22:26:51]  <Rashi> Nevermind, I'll do it.
+[24-Jun-2012 22:27:19]  <Motoko`kaseijin> Oh, actually, I should only have 6d10 fallout, due to Thomas' preservation power, but details. Go ahead.
+[24-Jun-2012 22:29:47]  <Rashi> Rashi sees that Thomas isn't in much shape to fire again, but also that they could fire enough bullets to level the house before the demon lets him go.  He runs at Thomas, stutteringly chanting a litany he barely remembers and grabbing the Book from his coat; raise 6+4 keep 6444321.
+[24-Jun-2012 22:30:46]  <Gideon> (I still need to See the last raise before you raise. I thought you were just gonna do some shouting.)
+[24-Jun-2012 22:31:08]  <Rashi> [oh.  shit.]
+[24-Jun-2012 22:31:16]  <Motoko`kaseijin> It doesn't really matter, anyway. I'm out of dice and Rashi could Reverse the Blow by seeing 6.
+[24-Jun-2012 22:31:26]  <Gideon> Gideon scrambles to his feet as Thomas staggers and tackles him, pushing the rifle up and causing the shots to go wide. See 6, leave 1 2 2 2 2 4 4 4 5.
+[24-Jun-2012 22:31:42]  <Gideon> (Which is what I was gonna do.)
+[24-Jun-2012 22:31:57]  <Rashi> [thomas tackles him...?  I'm lost]
+[24-Jun-2012 22:32:12]  <Gideon> (Um, yeah, poor writing.
+[24-Jun-2012 22:32:14]  <Gideon> )
+[24-Jun-2012 22:32:20]  <Motoko`kaseijin> "as Thomas staggers, and tackles him," Rashi.
+[24-Jun-2012 22:32:30]  <Gideon> ^
+[24-Jun-2012 22:32:40]  <Gideon> Refer to my copyeditor.
+[24-Jun-2012 22:32:45]  <Rashi> ah.  okay, my action never happened then I guess?
+[24-Jun-2012 22:33:00]  <Motoko`kaseijin> No, it can stay.
+[24-Jun-2012 22:33:18]  <Motoko`kaseijin> Temporal burps aside, I can't see your raise, so Thomas folds.
+[24-Jun-2012 22:33:19]  <Rashi> double team!
+[24-Jun-2012 22:33:27]  *** Lin_Chong <Mibbit@180.174.252.16> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[24-Jun-2012 22:33:31]  <Gideon> Demon slayer high five!
+[24-Jun-2012 22:34:01]  <Motoko`kaseijin> Folds, almost literally. Thomas collapses as if the air has been let out of his body. Time to resolve fallout. Gideon, you have 3d10.
+[24-Jun-2012 22:34:08]  <Motoko`kaseijin> !roll 6d10
+[24-Jun-2012 22:34:09]  <GameServ> 9, 2, 3, 7, 9, 1 == 31
+[24-Jun-2012 22:34:15]  <Gideon> (We should get a house cat that follows us around and recite Team Rocket's motto whenever we enter a conflict.)
+[24-Jun-2012 22:34:23]  <Gideon> !roll 3d10
+[24-Jun-2012 22:34:23]  <GameServ> 7, 9, 4 == 20
+[24-Jun-2012 22:34:31]  <Gideon> 16.
+[24-Jun-2012 22:34:43]  <Gideon> Badly injured?
+[24-Jun-2012 22:34:56]  <Motoko`kaseijin> Oh, no. This isn't going to be pretty.
+[24-Jun-2012 22:35:17]  <Gideon> What do I need to roll?
+[24-Jun-2012 22:35:44]  <Motoko`kaseijin> We'll have to start a new conflict. Rashi, I suppose you can be his medical attendant?
+[24-Jun-2012 22:35:49]  <Motoko`kaseijin> (page 65)
+[24-Jun-2012 22:36:23]  <Motoko`kaseijin> In any case, it's Gideon's Body plus the attendant healer's Acuity, plus any relevant traits, relationships, or belongings.
+[24-Jun-2012 22:36:48]  <Rashi> oh geez @_@
+[24-Jun-2012 22:36:50]  <Gideon> !roll 7d6
+[24-Jun-2012 22:36:51]  <GameServ> 1, 2, 5, 5, 3, 5, 4 == 25
+[24-Jun-2012 22:37:02]  <Gideon> That's Rashi's Acuity plus Gideon's body.
+[24-Jun-2012 22:37:09]  <Motoko`kaseijin> I roll your fallout dice (3d10) plus demonic influence (4d10).
+[24-Jun-2012 22:37:14]  <Motoko`kaseijin> !roll 7d10
+[24-Jun-2012 22:37:14]  <GameServ> 9, 2, 10, 6, 9, 2, 6 == 44
+[24-Jun-2012 22:37:34]  <Rashi> !roll 5d6
+[24-Jun-2012 22:37:34]  <Gideon> Well, fuck.
+[24-Jun-2012 22:37:34]  <GameServ> 1, 2, 1, 2, 4 == 10
+[24-Jun-2012 22:37:38]  <Rashi> Uh.
+[24-Jun-2012 22:37:52]  <Rashi> You don't like, need your whole head, right?
+[24-Jun-2012 22:38:20]  <Gideon> Who raises and sees in this conflict?
+[24-Jun-2012 22:38:47]  <Motoko`kaseijin> Hold on a second...
+[24-Jun-2012 22:40:11]  <Motoko`kaseijin> Oh, actually, it's 5d10 for demonic influence. Let's see if a new roll works any better for you...
+[24-Jun-2012 22:40:15]  <Motoko`kaseijin> !roll 8d10
+[24-Jun-2012 22:40:15]  <GameServ> 8, 4, 5, 4, 10, 4, 6, 3 == 44
+[24-Jun-2012 22:40:33]  <Rashi> Wow!  It worked out exactly the same!
+[24-Jun-2012 22:41:21]  <Motoko`kaseijin> Anything else you want to call in here? Might be of some help.
+[24-Jun-2012 22:42:02]  <Rashi> It's not out of the question that Rashi's notebook would have some medical info?
+[24-Jun-2012 22:42:15]  *** Barcode_ <webchat@d24-141-197-75.home.cgocable.net> has joined #madokamadness
+[24-Jun-2012 22:42:19]  <Gideon> I guess I could call on my devotion to the Faith to stay alive.
+[24-Jun-2012 22:43:06]  <Motoko`kaseijin> So that's... another 3d6 + 2d6 = 5d6. Worth a try, no?
+[24-Jun-2012 22:43:21]  <Rashi> why not.
+[24-Jun-2012 22:43:23]  <Rashi> !roll 5d6
+[24-Jun-2012 22:43:23]  <GameServ> 1, 3, 1, 5, 1 == 11
+[24-Jun-2012 22:43:27]  <Motoko`kaseijin> Gideon, you already have 1 2 3 4 5 5 5 just as a reminder.
+[24-Jun-2012 22:43:29]  <Rashi> for fuck's
+[24-Jun-2012 22:43:42]  <Motoko`kaseijin> And I think he's the one to roll. :p
+[24-Jun-2012 22:44:00]  <Gideon> All 5d6?
+[24-Jun-2012 22:44:02]  <Rashi> -_- go, gideon.  demonstrate 11111.
+[24-Jun-2012 22:44:14]  <Gideon> !roll 5d6
+[24-Jun-2012 22:44:15]  <GameServ> 1, 4, 1, 3, 1 == 10
+[24-Jun-2012 22:44:21]  <Gideon> AHAHAHA.
+[24-Jun-2012 22:45:36]  <Motoko`kaseijin> ... agh, I misread the book. Rashi's the healer, yes?
+[24-Jun-2012 22:45:54]  <Rashi> Yes
+[24-Jun-2012 22:46:12]  <Motoko`kaseijin> Then he's supposed to roll. You have 12d6.
+[24-Jun-2012 22:46:22]  <Rashi> !roll 12d6
+[24-Jun-2012 22:46:23]  <GameServ> 6, 3, 1, 3, 3, 1, 5, 5, 4, 1, 2, 2 == 36
+[24-Jun-2012 22:47:01]  <Motoko`kaseijin> 1 1 1 2 2 3 3 3 4 5 5 6. You raise first.
+[24-Jun-2012 22:47:14]  *** Barcode_ <webchat@d24-141-197-75.home.cgocable.net> has quit IRC (Ping timeout: 183 seconds)
+[24-Jun-2012 22:47:36]  <Motoko`kaseijin> (I am in fact trying to keep Gideon from just straight-out dying in the first town...)
+[24-Jun-2012 22:47:44]  <Rashi> [we know]
+[24-Jun-2012 22:47:49]  *** Barcode <webchat@d24-141-197-75.home.cgocable.net> has joined #madokamadness
+[24-Jun-2012 22:47:54]  <Gideon> (Of course, I'd be shot in the first town.)
+[24-Jun-2012 22:48:13]  <Gideon> (Note: I did not expect this to be so bad. I'm sorry.)
+[24-Jun-2012 22:49:45]  <Rashi> Raise 6+5, keep 5433322111.  Rashi tries to staunch the bleeding, and yells for help.
+[24-Jun-2012 22:52:58]  <Motoko`kaseijin> See 5 6. Raise 3 10, leave 4 4 4 8. Gideon's still losing a lot of blood. (You take any fallout from this conflict, Rashi, by the way, though since this is only a physical conflict it's just d6)
+[24-Jun-2012 22:53:09]  <Gideon> (Death gives, Rashi wins. Flawless victory.)
+[24-Jun-2012 22:53:12]  <Rashi> [yeah, I know]
+[24-Jun-2012 22:55:38]  <Motoko`kaseijin> That's basically what it did with the machine, Gideon. >_>
+[24-Jun-2012 22:57:05]  <Rashi> I don't really see any way to win this..
+[24-Jun-2012 22:57:46]  <Gideon> You've got a d8 left to assign. You can assign it to a relationship with Gideon.
+[24-Jun-2012 22:58:21]  <Motoko`kaseijin> "My comrade, I cannot let you perish here!"
+[24-Jun-2012 22:58:23]  <Gideon> Actually, you've got a lot of relationship dice left.
+[24-Jun-2012 22:58:43]  <Gideon> I could probably toss in some of mine too, if Motoko allows it.
+[24-Jun-2012 22:58:44]  <Motoko`kaseijin> It's only 3d6 or d8, though. You can't use both sizes.
+[24-Jun-2012 22:59:02]  <Rashi> Wanna go for the d8?
+[24-Jun-2012 22:59:03]  <Motoko`kaseijin> If you want to make a relationship with Rashi using yours, then by all means.
+[24-Jun-2012 22:59:18]  <Motoko`kaseijin> Toss one of your 3d6 or d8 in as well, Gideon.
+[24-Jun-2012 22:59:19]  <Gideon> Would he get to use it in the challenge?
+[24-Jun-2012 22:59:39]  <Motoko`kaseijin> It's a relevant relationship. I don't see why not.
+[24-Jun-2012 23:00:00]  <Gideon> The d8 could be more helpful for avoiding fallout, but it could roll a 1 and be useless.
+[24-Jun-2012 23:00:05]  <Rashi> !roll d8
+[24-Jun-2012 23:00:06]  <GameServ> 5 == 5
+[24-Jun-2012 23:00:10]  <Rashi> That works.
+[24-Jun-2012 23:00:23]  <Gideon> And roll 2d6 for mine.
+[24-Jun-2012 23:00:28]  <Rashi> !roll 2d6
+[24-Jun-2012 23:00:29]  <GameServ> 6, 3 == 9
+[24-Jun-2012 23:00:40]  <Rashi> So 6554333322111, okay...
+[24-Jun-2012 23:02:23]  <Barcode> [[ «[18:58] <Motoko`kaseijin> "My comrade, I cannot let you perish here!" » suddenly, PTSD flashbacks to Red Orchestra 2. "Help me, tovarisch!"]]
+[24-Jun-2012 23:02:24]  <Omnipresence> 14Barcode: Wikipedia: No results found for «[18:58] <Motoko`kaseijin> "My comrade, I cannot let you perish here!" » suddenly, PTSD flashbacks to Red Orchestra 2. "Help me, tovarisch!".
+[24-Jun-2012 23:02:42]  <Barcode> ((guess I can't use those any more))
+[24-Jun-2012 23:02:50]  <Motoko`kaseijin> 14Good job, Barcode.
+[24-Jun-2012 23:03:39]  <Barcode> (( :( ))
+[24-Jun-2012 23:04:30]  <Rashi> See 5+5+3, Rashi, tearing up, rips a piece of cloth from Thomas's shirt to use as a makeshift bandage.  Ties it up tight; raise 6+3, keep 433322111, take 3d6 fallout.
+[24-Jun-2012 23:07:11]  <Rashi> hope that's not too cheesy
+[24-Jun-2012 23:07:25]  <Motoko`kaseijin> See 4 8. Raise 4 4. Out of dice. Gideon's bleeding stops, but he's still clearly in bad shape.
+[24-Jun-2012 23:09:06]  <Motoko`kaseijin> (If you end up getting 12 fallout, Rashi, I'll just call it 11 again as earlier.)
+[24-Jun-2012 23:09:27]  <Gideon> (Everyone dies in the first town. No mysteries are solved.)
+[24-Jun-2012 23:09:44]  <Barcode> (( asteroids fall, everyone dies ))
+[24-Jun-2012 23:09:52]  <Motoko`kaseijin> (About the only way you could end up getting injured from this is infection, and that'd be... anticlimactic.)
+[24-Jun-2012 23:10:05]  <Rashi> but my immersion!
+[24-Jun-2012 23:10:29]  <Barcode> (( well hey, this is space-mormons, not necessarily space-oregon trail. ))
+[24-Jun-2012 23:10:35]  <Rashi> heh
+[24-Jun-2012 23:11:29]  <Rashi> See 4+2+2, raise 3+3, Rashi prays.  6d6 fallout now -_-
+[24-Jun-2012 23:12:11]  <Motoko`kaseijin> All right. No dice to call on, so I'm forced to give. Roll fallout. We're carting Gideon off to the local healer's...
+[24-Jun-2012 23:12:37]  <Rashi> I'm expecting about 35
+[24-Jun-2012 23:12:38]  <Rashi> !roll 6d6
+[24-Jun-2012 23:12:38]  <GameServ> 6, 1, 5, 2, 3, 6 == 23
+[24-Jun-2012 23:12:43]  <Rashi> yup
+[24-Jun-2012 23:12:51]  <Gideon> So, calling it 11?
+[24-Jun-2012 23:12:54]  <Motoko`kaseijin> 11.
+[24-Jun-2012 23:13:04]  <Rashi> Rashi gets infected by the zombie disease from Biomega, Mars dies
+[24-Jun-2012 23:13:27]  <Gideon> So, long-term fallout and experience fallout for you.
+[24-Jun-2012 23:13:28]  <Motoko`kaseijin> Rashi, you take one long-term effect, plus experience for that 1.
+[24-Jun-2012 23:13:41]  <Gideon> I suppose we're calling it quits for now?
+[24-Jun-2012 23:13:42]  <Motoko`kaseijin> Gideon, you survive, and take two long-term effects.
+[24-Jun-2012 23:13:54]  <Motoko`kaseijin> !roll 6d10
+[24-Jun-2012 23:13:55]  <GameServ> 5, 7, 1, 8, 2, 8 == 31
+[24-Jun-2012 23:14:31]  <Gideon> I'm going to take a d4 relationship with Joseph.
+[24-Jun-2012 23:14:35]  <Motoko`kaseijin> !roll 4d6
+[24-Jun-2012 23:14:35]  <GameServ> 2, 2, 3, 2 == 9
+[24-Jun-2012 23:15:02]  <Gideon> And add another d4 to my gun trait.
+[24-Jun-2012 23:15:48]  <Motoko`kaseijin> Thomas is severely injured, and since Rashi had to attend to Gideon, nobody was available to provide immediate medical attention. He is now, as you would expect, dead.
+[24-Jun-2012 23:15:57]  <Motoko`kaseijin> * Thomas was
+[24-Jun-2012 23:16:20]  <Motoko`kaseijin> Sounds reasonable, Gideon.
+[24-Jun-2012 23:16:32]  <Rashi> Change gun-shy to d4 (to indicate that now he's more afraid, I guess...?) add 1 to heart?
+[24-Jun-2012 23:17:27]  <Motoko`kaseijin> That works as well.
+[24-Jun-2012 23:17:38]  <Gideon> Woo! Gunfights are bad.
+[24-Jun-2012 23:17:39]  <Gideon> Confirmed.
+[24-Jun-2012 23:18:35]  <Motoko`kaseijin> Okay, we need to clean up the scene. Thomas is dead in a pool of his own blood and Joseph's too shaken to comprehend this fact.
+[24-Jun-2012 23:18:57]  <Gideon> Am I capable of doing anything?
+[24-Jun-2012 23:19:29]  <Motoko`kaseijin> I'd say it's rather unlikely that you're still conscious, but we can jump to when you wake up.
+[24-Jun-2012 23:19:44]  <Gideon> Okay, so when and where?
+[24-Jun-2012 23:20:59]  <Motoko`kaseijin> He's at the healer's, most likely. When is up to you two. I'd like to think that it's the middle of the night and a tearful Rashi's holding a candlelight vigil by your bedside, but that's just me...
+[24-Jun-2012 23:21:39]  <Rashi> shippppper
+[24-Jun-2012 23:23:09]  <Gideon> Gideon wakes up to a pounding headache and a growling stomach. Opening his eyes he sees that he's back at the healer they went to on their first day in the town and Rashi is asleep in a nearby cot with his workbook on his chest.
+[24-Jun-2012 23:24:26]  *** Barcode <webchat@d24-141-197-75.home.cgocable.net> has quit IRC (Ping timeout: 183 seconds)
+[24-Jun-2012 23:26:17]  * Rashi sleeps
+[24-Jun-2012 23:27:30]  <Motoko`kaseijin> There's a small bell at the side of the bed. Gideon rings it to get someone's attention.
+[24-Jun-2012 23:27:43]  <Motoko`kaseijin> (Just for our little sleepyhead Rashi over there...)
+[24-Jun-2012 23:27:57]  <Gideon> (Damn my habit of writing slowly.)
+[24-Jun-2012 23:28:31]  * Rashi snores loudly, blissfully unaware of narrative focus
+[24-Jun-2012 23:29:02]  * Gideon tries to swing his legs out of the cot he's on and stand. He manages to stand for a brief and shaky second before sitting back down. He figures he lost a lot more blood than he originally thought.
+[24-Jun-2012 23:30:52]  <Motoko`kaseijin> The healer comes running into the room, and notices Gideon trying to stand. He gently, but firmly, takes Gideon by the shoulders and sets him back on the bed. "You shouldn't be trying to stand now. A bullet grazed your head. You're lucky you're still alive."
+[24-Jun-2012 23:31:38]  <Gideon> (Gideon tries to work out how to get Brother Joseph into the scene.)
+[24-Jun-2012 23:32:41]  <Motoko`kaseijin> (He falls in through the roof, obviously.)
+[24-Jun-2012 23:32:55]  <Gideon> (Actually, I have an idea if you don't mind me taking the reins.)
+[24-Jun-2012 23:33:26]  <Motoko`kaseijin> (Go ahead.)
+[24-Jun-2012 23:34:06]  <Motoko`kaseijin> The healer, meanwhile, shuffles over to Rashi and shakes him awake. "Your partner's regained consciousness."
+[24-Jun-2012 23:35:31]  * Gideon mumbles acknowledgement to the healer and asks for some food. The healer is more than happy to oblige. She wakes Rashi on her way out, but Gideon's attention has already fallen on a pair of familiar figures on the opposite side of the room. Silhouetted by candlelight Brother Joseph leans over the bed of his sister, crying quietly.
+[24-Jun-2012 23:36:32]  <Motoko`kaseijin> (The healer is clearly very androgynous in appearance...)
+[24-Jun-2012 23:37:01]  <Gideon> Oh, missed your pronoun there.
+[24-Jun-2012 23:37:14]  * Rashi sits up groggily.  He closes the workbook from a page on cranial bloodflow. [/me grunts, and tries to roll away.  This results in falling off the cot.]
+[24-Jun-2012 23:40:51]  <Motoko`kaseijin> Are you writing, Gideon?
+[24-Jun-2012 23:43:04]  <Gideon> No. Go ahead.
+[24-Jun-2012 23:47:09]  <Motoko`kaseijin> Gideon calls over softly to the other side of the room. "Brother." Joseph looks up to face him, cheeks wet with tears.
+[24-Jun-2012 23:48:47]  <Motoko`kaseijin> "You saved my life, didn't you?" Joseph says to Gideon, his voice halfway between gratitude and disgust.
+[24-Jun-2012 23:49:38]  <Motoko`kaseijin> **
+[24-Jun-2012 23:51:44]  <Gideon> Gideon nods, "I did." After a moment he adds, "I'm sorry about your brother."
+[24-Jun-2012 23:54:09]  <Motoko`kaseijin> "I brought it on myself." Joseph continues in the same tone of voice. "I gave him that gun thinking if worst came to worst, he could get a surprise shot off. Well, he did, just not on the person I expected. That bullet was for me, wasn't it?" **
+[24-Jun-2012 23:54:12]  *** Lin_Chong <Mibbit@180.174.252.16> has joined #madokamadness
+[24-Jun-2012 23:55:51]  <Motoko`kaseijin> (Rashi can be the comic background relief in this scene. :p)
+[24-Jun-2012 23:55:52]  <Gideon> "It wasn't his choice. He was possessed," Gideon says, trying to offer consolation. He wasn't good at this. "I wish it could have been ended without violence."
+[24-Jun-2012 23:56:35]  *** Lin_Chong <Mibbit@180.174.252.16> has quit IRC (Client Quit)
+[24-Jun-2012 23:56:49]  <Gideon> Gideon isn't exactly sure if he was possessed. It certainly looked like it. Either way, he hopes it will ease Joseph's pain.
+[24-Jun-2012 23:58:34]  <Motoko`kaseijin> "Yeah, but you get to thinking. Who was possessed? Both of *my* siblings. It's not a coincidence."
+[24-Jun-2012 23:59:27]  <Motoko`kaseijin> He looks down. "I just don't know how I'll break the news to Constance." **
+[25-Jun-2012 00:02:33]  <Gideon> Gideon looks at the sleeping girl. She has an array of cuts across her face just starting to heal. He'd saved her, more or less, but he couldn't have saved Thomas. "Pray with me, Brother. We can ask the King for guidance together."
+[25-Jun-2012 00:02:57]  <Gideon> (I should mention that every time we use the King in dialogue I imagine they mean Elvis.)
+[25-Jun-2012 00:03:23]  <Rashi> [I was thinking the King of all Cosmos, myself]
+[25-Jun-2012 00:04:31]  <Motoko`kaseijin> Joseph bows his head, and allows Gideon to lead him in prayer.
+[25-Jun-2012 00:04:41]  <Motoko`kaseijin> **
+[25-Jun-2012 00:08:20]  <Gideon> "King of Kings, guides us in your mercy, for left to ourselves we cannot do your will. We ask for your wisdom in mourning for those lost and cherishing those who remain. We give ourselves to your guidance. Amen." (Bluh bluh, modifying existing prayers poorly.)
+[25-Jun-2012 00:08:48]  <Gideon> (I've never actually been involved in a real life prayer, so I have no idea how it works other than what I've seen in movies.)
+[25-Jun-2012 00:09:47]  <Motoko`kaseijin> (Oh, I thought you were just going to gloss over the actual words... this works too.)
+[25-Jun-2012 00:10:24]  <Gideon> (Probably should have, but that was kind of fun to do.)
+[25-Jun-2012 00:10:33]  <Motoko`kaseijin> Joseph stays silent for a while after Gideon finishes his prayer.
+[25-Jun-2012 00:11:01]  <Motoko`kaseijin> "Thank you," he finally says, looking in Gideon's general direction, then leaves.
+[25-Jun-2012 00:11:09]  <Motoko`kaseijin> **
+[25-Jun-2012 00:12:09]  <Gideon> Gideon looks after him for a moment and hopes that he gave the man what he needed.
+[25-Jun-2012 00:12:51]  <Motoko`kaseijin> I'm ready to wrap up. I think we fixed all of the town's immediate problems, at least.
+[25-Jun-2012 00:12:56]  * Rashi walks over.  "Are you feeling alright now?"
+[25-Jun-2012 00:13:33]  * Gideon nods, "I'm okay. Just hungry."
+[25-Jun-2012 00:13:51]  <Gideon> Yeah, wrapping up would be good. That was fun.
+[25-Jun-2012 00:14:10]  <Gideon> Minus the whole Gideon getting shot and almost dying in the first town.
+[25-Jun-2012 00:14:18]  <Rashi> [er]
+[25-Jun-2012 00:14:49]  <Gideon> (Sorry for eating that last scene Rashi.)
+[25-Jun-2012 00:15:00]  <Rashi> ['s cool]
+[25-Jun-2012 00:16:04]  <Motoko`kaseijin> Well, on the flip side, Gideon, you may have gained a romantic interest.
+[25-Jun-2012 00:16:27]  <Rashi> ¬_¬
+[25-Jun-2012 00:16:44]  <Gideon> Joseph?
+[25-Jun-2012 00:17:11]  <Motoko`kaseijin> Anyway, if we're exiting town, we've got some reflection fallout to work on. Page 121.
+[25-Jun-2012 00:17:43]  <Rashi> catherine, obviously.  chicks dig being exorcised
+[25-Jun-2012 00:17:52]  <Gideon> Constance.
+[25-Jun-2012 00:18:07]  <Rashi> c-names are c-names.
+[25-Jun-2012 00:18:34]  <Motoko`kaseijin> Hey, it was your idea in the first place, Rashi.
+[25-Jun-2012 00:19:12]  <Motoko`kaseijin> Oh, uh, actually, we never did find out who killed Brother Jules. Hm.
+[25-Jun-2012 00:19:17]  <Rashi> t(-_-)t
+[25-Jun-2012 00:19:29]  <Gideon> We never did. I assumed it was Thomas acting on his brother's will.
+[25-Jun-2012 00:19:36]  <Rashi> Probably Eliezer
+[25-Jun-2012 00:20:24]  <Motoko`kaseijin> Are we satisfied with leaving this question unanswered (for now)?
+[25-Jun-2012 00:21:06]  <Rashi> sure, we can probably just asssume that demons were sawed and it's all good
+[25-Jun-2012 00:21:13]  <Rashi> then later we can reflect on our recklessness
+[25-Jun-2012 00:21:18]  <Gideon> I think Gideon will assume that Thomas was the murderer and that Joseph has been turned from his evil. So, yes, that's fine for now.
+[25-Jun-2012 00:21:21]  <Rashi> of course by then we'll be level seventy cyborgs.
+[25-Jun-2012 00:21:59]  <Gideon> Of course, when we come back to find Joseph has become some level 21 warlock and has kidnapped the Steward and built a tower of sin....
+[25-Jun-2012 00:22:21]  <Rashi> that can be the endboss.  hopefully we'll have found the ancient sword of legend by that point
+[25-Jun-2012 00:22:55]  <Gideon> We'll use the Golden Tablets and the Ancient Revolver of Smith to solve the problem.
+[25-Jun-2012 00:23:14]  <Motoko`kaseijin> Poor Constance will be chained to a pillar in the center of the tower, which feeds off of her innocence. For fanservice purposes.
+[25-Jun-2012 00:23:42]  <Gideon> So, what do we need to do to wrap up the session, Motoko?
+[25-Jun-2012 00:23:59]  <Motoko`kaseijin> Just the reflection stuff on page 121.
+[25-Jun-2012 00:24:21]  <Motoko`kaseijin> I was going to take next Sunday off as an inter-town break and resume on the 8th.
+[25-Jun-2012 00:24:31]  <Rashi> new belonging: welding mask given in thanks, for use in repairs
+[25-Jun-2012 00:24:33]  <Gideon> «Is the town better than when they arrived?»
+[25-Jun-2012 00:24:51]  <Gideon> Hahaha. It certainly is less populated, but nobody will starve.
+[25-Jun-2012 00:24:54]  <Rashi> Well they're not going to die.
+[25-Jun-2012 00:24:57]  <Rashi> so that's good
+[25-Jun-2012 00:25:21]  <Motoko`kaseijin> They're not *going* to die. A few of them just finished up that process a little early...
+[25-Jun-2012 00:25:33]  <Gideon> I'm gonna bump my relationship with Joseph up to d6.
+[25-Jun-2012 00:25:52]  <Motoko`kaseijin> Incidentally, if you have any feedback about how this first town ran, I'm open to it.
+[25-Jun-2012 00:26:11]  <Rashi> But uh... is something like a mask or other machining gear out of the question, actually
+[25-Jun-2012 00:26:14]  <Motoko`kaseijin> I'll try to avoid the shooty-gun conflicts next time. >_>;;
+[25-Jun-2012 00:26:26]  <Motoko`kaseijin> No, Rashi, that sounds reasonable to me.
+[25-Jun-2012 00:26:34]  <Rashi> aight
+[25-Jun-2012 00:26:34]  <Gideon> Seemed a bit rushed towards the end. The shooty bit was okay. I probably shouldn't have taken the fallout that I really didn't need to.
+[25-Jun-2012 00:27:27]  <Motoko`kaseijin> Oh, I expected that I was going to finish with the town this session, so that's probably why it was rushed.
+[25-Jun-2012 00:28:20]  <Motoko`kaseijin> Then again I threw in Brother Jules' murder on a lark during the first session, when I realized I didn't want to introduce another living character.
+[25-Jun-2012 00:28:22]  <Gideon> I'm also gonna add 1 to Gideon's body. He's been beat up, but he'll come back ready to actually handle a fight.
+[25-Jun-2012 00:28:41]  <Gideon> I did like that we actually threw you by giving on that first conflict.
+[25-Jun-2012 00:28:47]  <Gideon> It's nice to surprise the GM.
+[25-Jun-2012 00:29:12]  <Rashi> Obviously we should give off more often
+[25-Jun-2012 00:29:15]  <Gideon> Actually, instead of the body +1 I'm gonna take a trait.
+[25-Jun-2012 00:29:15]  <Rashi> *give up
+[25-Jun-2012 00:29:48]  <Gideon> "I have tangled with demons and won. 1d6
+[25-Jun-2012 00:29:50]  <Gideon> *"
+[25-Jun-2012 00:29:58]  <Motoko`kaseijin> Either one works, Gideon.
+[25-Jun-2012 00:30:17]  <Gideon> Yeah, my character sheet is up to date now.
+[25-Jun-2012 00:30:27]  <Gideon> You've still got another reflection fallout, Rashi.
+[25-Jun-2012 00:30:41]  <Gideon> It's the last four bullets on page 122.
+[25-Jun-2012 00:31:02]  <Rashi> wait, I get two?
+[25-Jun-2012 00:31:03]  <Motoko`kaseijin> He didn't even add the mask thing! Shame on him.
+[25-Jun-2012 00:31:22]  <Rashi> my computer's being super slow.
+[25-Jun-2012 00:31:24]  <Gideon> You get one from experience fallout and then one from getting through a town.
+[25-Jun-2012 00:31:34]  <Rashi> Oh.
+[25-Jun-2012 00:31:46]  <Rashi> Wait, the experience fallout was +1 heart.
+[25-Jun-2012 00:31:52]  <Gideon> Oh. Okay.
+[25-Jun-2012 00:31:54]  <Motoko`kaseijin> Yeah, he's already done that.
+[25-Jun-2012 00:32:04]  <Gideon> Oh, not that.
+[25-Jun-2012 00:32:09]  <Motoko`kaseijin> There is an "in addition, choose one of these" section, though, Rashi.
+[25-Jun-2012 00:32:13]  <Gideon> Yeah. That.
+[25-Jun-2012 00:32:41]  <Rashi> The... what?
+[25-Jun-2012 00:32:46]  <Gideon> So, next session we arrive in the next town on our route.
+[25-Jun-2012 00:32:48]  <Gideon> *?
+[25-Jun-2012 00:32:48]  <Rashi> I don't want to open up the pdf again
+[25-Jun-2012 00:33:02]  <Motoko`kaseijin> (1) Add any two dice to your unassigned Relationship
+[25-Jun-2012 00:33:02]  <Motoko`kaseijin> dice.
+[25-Jun-2012 00:33:19]  <Motoko`kaseijin> (2) Add 2d4 plus any one die to your unassigned Relationship dice.
+[25-Jun-2012 00:33:35]  <Motoko`kaseijin> (3) Rewrite your coat’s description to reflect damage, wear, repairs or replacement. Change your coat’s dice if it’s called for.
+[25-Jun-2012 00:33:43]  <Motoko`kaseijin> (4) Choose again from the reflection / experience Fallout list.
+[25-Jun-2012 00:33:49]  <Motoko`kaseijin> One of those four, Rashi.
+[25-Jun-2012 00:34:20]  <Motoko`kaseijin> There's also the option of going back to the Dogs' Temple, Gideon.
+[25-Jun-2012 00:34:30]  <Rashi> I'll just add some relatin' for later.
+[25-Jun-2012 00:34:31]  <Motoko`kaseijin> Though I really have no idea how that would work.
+[25-Jun-2012 00:34:36]  <Gideon> I think it's a bit early for that too.
+[25-Jun-2012 00:34:42]  <Gideon> We've only killed one person so far.
+[25-Jun-2012 00:34:52]  <Motoko`kaseijin> Hahaha.
+[25-Jun-2012 00:35:02]  <Motoko`kaseijin> Only.
+[25-Jun-2012 00:35:48]  <Gideon> Anything else we need?
+[25-Jun-2012 00:36:13]  <Motoko`kaseijin> We'll head to the temple once Rashi executes someone in cold blood. Fifty years from now.
+[25-Jun-2012 00:36:38]  <Motoko`kaseijin> No, I think we're good, unless you want to do more meta muttering.
+[25-Jun-2012 00:37:20]  <Gideon> Um, nah. I'm looking forward to the next town. I hope it isn't quite so demon ravaged and is more dealing with people dealing with sin.
+[25-Jun-2012 00:38:27]  <Motoko`kaseijin> I'll keep that in mind.
+[25-Jun-2012 00:38:29]  <Rashi> so, unrelatedly, I'm imagining setting my UA game on DitV!Earth now...
+[25-Jun-2012 00:38:48]  <Motoko`kaseijin> (note to self: make next town full of steamy sex intrigue)
+[25-Jun-2012 00:38:51]  <Gideon> That'd be amusing.
+[25-Jun-2012 00:39:03]  *** Gideon is now known as Iverum
+[25-Jun-2012 00:39:09]  *** Motoko`kaseijin is now known as Motoko
+[25-Jun-2012 00:39:25]  *** Rashi is now known as Cultist
+[25-Jun-2012 00:39:28]  <Iverum> It has been thrilling Motoko. I'm always happy to almost kill my character to save the life of a demon-summoning swill.
+[25-Jun-2012 00:40:07]  <Motoko> Any time, sir.

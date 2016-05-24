@@ -1,4 +1,5 @@
 @import url(../fonts/overpass/recommended.css);
+@import url(//fonts.googleapis.com/css?family=Ubuntu+Mono:400,400italic,700,700italic&subset=latin,greek,cyrillic);
 
 * {
   margin: 0;
@@ -242,6 +243,62 @@ article {
     + dd::before {
       content: "\2022";
     }
+  }
+}
+
+
+// Log archive
+
+.log {
+  ul {
+    margin: 0;
+    padding: 0;
+    font: 83.33%/1.2 'Ubuntu Mono', monospace;
+  }
+
+  li {
+    display: table;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    &:target {
+      background: #ecc;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+
+      &.timestamp {
+        color: #888;
+      }
+    }
+  }
+
+  .timestamp, .actor, .content, .misc {
+    display: table-cell;
+  }
+
+  .timestamp, .actor {
+    white-space: nowrap;
+  }
+
+  .actor {
+    text-align: right;
+
+    &::before, &::after {
+      content: "\A0";
+    }
+  }
+
+  .content {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .misc {
+    color: #888;
   }
 }
 

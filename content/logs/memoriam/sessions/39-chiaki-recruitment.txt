@@ -1,0 +1,337 @@
+[24-Jan-2015 19:39:38]  <IllFlower> Session in twenty minutes.
+[24-Jan-2015 19:44:43]  <IllFlower> Those of you who are already here, now would be a good time to think of some reflection fallout since we never handled that last branch.
+[24-Jan-2015 19:47:16]  <ponicalica> hmm
+[24-Jan-2015 19:47:56]  <ponicalica> what'd ayako even do last branch
+[24-Jan-2015 19:48:08]  <IllFlower> Not go witch?
+[24-Jan-2015 19:48:15]  <BGTB2005> got dragged away from a fight by Kazuki
+[24-Jan-2015 19:48:38]  <Alicia> Shit I've forgotten what Hikari did it's been so long
+[24-Jan-2015 19:48:58]  <ponicalica> BGTB2005: yeah that's p much all I remember now
+[24-Jan-2015 19:49:06]  *** SF_Sorrow <SF_Sorrow@college8-34-73.resnet.ucsc.edu> has quit IRC (Ping timeout: 194 seconds)
+[24-Jan-2015 19:49:07]  <IllFlower> Alicia: Ineffectually attempt to talk down Miho? ;)
+[24-Jan-2015 19:49:09]  <BGTB2005> I remember her having a sort of argument with Miho
+[24-Jan-2015 19:49:13]  <Alicia> IllFlower: Oh yeah ;-;
+[24-Jan-2015 19:49:46]  <BGTB2005> Rin didn't really do much...
+[24-Jan-2015 19:50:51]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has joined #madokamadness
+[24-Jan-2015 19:50:51]  *** ChanServ sets mode: +o Rig
+[24-Jan-2015 19:51:04]  <IllFlower> Yo.
+[24-Jan-2015 19:51:11]  <Rig> Are we still doing emdogs today?
+[24-Jan-2015 19:51:13]  <IllFlower> We're doing reflection fallout from last branch.
+[24-Jan-2015 19:51:27]  <Rig> Not a full session?
+[24-Jan-2015 19:51:52]  <ponicalica> no, this is pre-session
+[24-Jan-2015 19:52:41]  <Rig> Oh, I thought you had something you had to do this weekend, ponicalica?
+[24-Jan-2015 19:52:59]  <ponicalica> Xeniera's not coming until at least 4
+[24-Jan-2015 19:53:15]  <IllFlower> By which he means 7.
+[24-Jan-2015 19:53:48]  <IllFlower> So once we get this out of the way, we'll kick off the session proper.
+[24-Jan-2015 19:54:26]  <Rig> Okay, but I only have two hours today. Then I have to run to the store and get stuff to make dinner for guests.
+[24-Jan-2015 19:54:38]  *** IllFlower changes topic to https://room208.org/wiki/events | RIGHT NOW: Orlando III: The Despairining
+[24-Jan-2015 19:54:49]  <IllFlower> Let us make haste, then!
+[24-Jan-2015 19:55:30]  <BGTB2005> i don't know what to do ._.
+[24-Jan-2015 19:55:32]  <Rig> Okay!
+[24-Jan-2015 19:56:08]  <ponicalica> "Doesn't run" back down to 1d4 for one of 'em, maybe, since while she didn't run, she got dragged away
+[24-Jan-2015 19:56:08]  <Nitya> have you tried despairing?
+[24-Jan-2015 19:56:10]  <IllFlower> Pick randomly if you must! Make up post hoc explanations!
+[24-Jan-2015 19:57:18]  <IllFlower> ponicalica: Works for me. Second item?
+[24-Jan-2015 19:57:47]  <IllFlower> Relationships, anyone, anyone?
+[24-Jan-2015 19:58:13]  <ponicalica> yeah let's throw in more relationship space for the second one.
+[24-Jan-2015 19:58:24]  <IllFlower> BGTB2005: Rin didn't kill Kazuki, so surely that's worth moving his dice away from 1d4!
+[24-Jan-2015 19:58:42]  <Alicia> I think I might want to add a relationship with Ayako or Kazuki.
+[24-Jan-2015 19:58:45]  <BGTB2005> but she still doesn't like him
+[24-Jan-2015 19:58:49]  <Rig> Hm, I need to do this for Kazuki still, don't I....
+[24-Jan-2015 19:58:55]  <ponicalica> Rig: looks ilke it
+[24-Jan-2015 19:58:56]  <ponicalica> like
+[24-Jan-2015 19:59:03]  <Alicia> Oh wait got one with Ayako. So perhaps Kazuki?
+[24-Jan-2015 19:59:25]  <IllFlower> BGTB2005: Yeah, but maybe he's a d6 douche instead of a d4 douche.
+[24-Jan-2015 19:59:47]  <BGTB2005> I can't think of anything else so sure
+[24-Jan-2015 19:59:49]  <IllFlower> Alicia: You can always change the dice on an existing trait or relationship.
+[24-Jan-2015 19:59:53]  <Alicia> Hatred is the same as love after all.
+[24-Jan-2015 20:00:12]  <Alicia> IllFlower, ponicalica: Maybe bumping up Ayako's?
+[24-Jan-2015 20:00:15]  <Rig> Oh, right, I wanted to raise Kazuki's Ac by one.
+[24-Jan-2015 20:00:41]  <IllFlower> Alicia: Sure.
+[24-Jan-2015 20:01:07]  <ponicalica> +decide d8|d6|d10
+[24-Jan-2015 20:01:07]  <rollermine> ponicalica: d6
+[24-Jan-2015 20:01:22]  <ponicalica> done, 2d6 added
+[24-Jan-2015 20:01:37]  <Alicia> Maybe bump up Ht too..?
+[24-Jan-2015 20:02:04]  <IllFlower> BGTB2005: Who knows, maybe Rin's heart grew one size that day.
+[24-Jan-2015 20:02:12]  <Alicia> lol
+[24-Jan-2015 20:02:15]  <IllFlower> One-third of a delta-Grinch.
+[24-Jan-2015 20:02:36]  <IllFlower> Just make changes, you don't need to ask me for approval.
+[24-Jan-2015 20:02:49]  <ponicalica> do we know the d6-to-heart-size conversion rate, IllFlower?
+[24-Jan-2015 20:02:50]  <Alicia> Modified.
+[24-Jan-2015 20:02:53]  <IllFlower> I trust that you know what you're doing.
+[24-Jan-2015 20:03:00]  <Rig> Modified and reasoned.
+[24-Jan-2015 20:03:50]  <IllFlower> ("MOVE 'ZIG'. FOR GREAT JUSTICE.")
+[24-Jan-2015 20:04:18]  <BGTB2005> went with 1d4 ->1d6 Kazuki for the first one
+[24-Jan-2015 20:05:07]  <Alicia> I upped Ht and also flowerpower did the Ayako upping for me, so
+[24-Jan-2015 20:06:06]  <BGTB2005> Upping Ht sounds good but i'm not sure how to justify it
+[24-Jan-2015 20:06:21]  <Alicia> Up Bd. go big or go home
+[24-Jan-2015 20:06:30]  <Alicia> Wl*
+[24-Jan-2015 20:06:48]  <Alicia> Also lol Hikari has lowest Ac, go her
+[24-Jan-2015 20:06:50]  <Alicia> >___>
+[24-Jan-2015 20:06:51]  <IllFlower> She didn't really do very much willpower-y stuff.
+[24-Jan-2015 20:07:27]  <IllFlower> Alicia: I didn't change your relationship. Up to you whether you want die size or die count changed.
+[24-Jan-2015 20:08:06]  <IllFlower> BGTB2005: She went along with the compassionate solution, instead of a, uh, less-compassionate one.
+[24-Jan-2015 20:08:46]  <Alicia> Size. So 3d8?
+[24-Jan-2015 20:09:02]  <Alicia> Why no 3d7s, huh. 
+[24-Jan-2015 20:09:18]  <ponicalica> seven-sided dice are pretty hard to acquire
+[24-Jan-2015 20:09:20]  <BGTB2005> does anyone even make d7s?
+[24-Jan-2015 20:09:48]  <ponicalica> yeah
+[24-Jan-2015 20:09:49]  <Rig> https://www.thediceshoponline.com/dice/1011/GameScience-7-Sided-D7-Dice-Black
+[24-Jan-2015 20:09:50]  <Omnipresence> 14URL: [www.thediceshoponline.com] The Dice Shop | Roleplaying Dice | …Specialist Dice | Modelling Supplies | Games Accessories | Dice
+[24-Jan-2015 20:09:54]  <ponicalica> @g request comics 24 & 7
+[24-Jan-2015 20:09:54]  <Omnipresence> 14ponicalica: Google: (1/10) http://webcomicweek.blogspot.com/2009/07/724-week-in-review-in-comic-form-3.html — 7/24: Week-in-Review in Comic Form #3 (finally!): Jul 25, 2009 ... Cat and Girl: Tuesday, 7/21/09. JACKSON: Everybody needs somebody to love... (+2713 more characters)
+[24-Jan-2015 20:10:11]  <IllFlower> Alicia: Cool.
+[24-Jan-2015 20:10:16]  <IllFlower> Anyone still have changes to make?
+[24-Jan-2015 20:10:34]  <Rig> Not I.
+[24-Jan-2015 20:10:45]  <BGTB2005> upped Ht for my second fallout
+[24-Jan-2015 20:11:16]  <Alicia> I see Hell has frozen over.
+[24-Jan-2015 20:11:30]  <IllFlower> Then on we go!
+[24-Jan-2015 20:11:41]  <ponicalica> now Ayako has the lowest Ht again
+[24-Jan-2015 20:11:48]  <BGTB2005> yay?
+[24-Jan-2015 20:13:45]  <IllFlower> THE SCENE:
+[24-Jan-2015 20:15:04]  <IllFlower> The sky is clear and the temperature isn't freezing, which qualifies this as a nice January day.
+[24-Jan-2015 20:15:57]  <IllFlower> Rin is hanging out down in a small riverside park near her house.
+[24-Jan-2015 20:17:20]  <IllFlower> She's in the middle of drawing imaginary flight paths through the air above her.
+[24-Jan-2015 20:18:20]  <IllFlower> Of course, this is the kind of peaceful scenery that is always inevitably interrupted by a phone call.
+[24-Jan-2015 20:18:51]  <IllFlower> "Hikami," Rin quickly reads off the screen.
+[24-Jan-2015 20:20:04]  <ponicalica> chiaki?
+[24-Jan-2015 20:20:15]  <BGTB2005> looks like
+[24-Jan-2015 20:20:16]  <IllFlower> Ring, ring, ring, ring...
+[24-Jan-2015 20:20:34]  <Rig> Screen the call.
+[24-Jan-2015 20:20:38]  *** imitationponigiri <~androirc@s-164-67-211-121.resnet.ucla.edu> has joined #madokamadness
+[24-Jan-2015 20:20:38]  *** ChanServ sets mode: +o imitationponigiri
+[24-Jan-2015 20:20:56]  <IllFlower> Cruel.
+[24-Jan-2015 20:20:57]  <BGTB2005> Rin asnwers the phone
+[24-Jan-2015 20:21:25]  <BGTB2005> "Hello?"
+[24-Jan-2015 20:22:16]  <IllFlower> "Hello? Rin? Are you free right now?"
+[24-Jan-2015 20:23:14]  <BGTB2005> "Yeah."
+[24-Jan-2015 20:23:48]  <IllFlower> "I have something I want to talk to you about," Chiaki says with a deliberate vagueness.
+[24-Jan-2015 20:23:58]  <IllFlower> "Can we meet somewhere? Where are you now?"
+[24-Jan-2015 20:26:08]  <IllFlower> ("I can't say. I'm on a secret mission. Look, can I call you back? My phone's being tapped.")
+[24-Jan-2015 20:27:34]  <BGTB2005> "I'm at a park. Where do you want to meet?"
+[24-Jan-2015 20:28:32]  <IllFlower> "I can head over there. Sit tight, okay? I'll be there in about ten minutes."
+[24-Jan-2015 20:29:08]  <IllFlower> Rin can only get in a mumbled affirmative before Chiaki ends the call.
+[24-Jan-2015 20:30:44]  <IllFlower> A middle-aged man walks past with a dog, whistling a jarringly twee idol pop song.
+[24-Jan-2015 20:31:00]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[24-Jan-2015 20:31:04]  <IllFlower> Anyway.
+[24-Jan-2015 20:32:40]  <IllFlower> Chiaki arrives exactly ten minutes later. She gives Rin an almost cheery wave and sits down next to her.
+[24-Jan-2015 20:33:30]  <ponicalica> an almost cheerwine wave
+[24-Jan-2015 20:33:36]  <BGTB2005> pfff
+[24-Jan-2015 20:34:26]  <IllFlower> "Sorry I couldn't explain what was going on over the phone. It'd be hard for me to say."
+[24-Jan-2015 20:35:07]  <Rig> "I love you."
+[24-Jan-2015 20:35:47]  <IllFlower> Chiaki brushes off her skirt, as some kind of nervous gesture maybe. "I'm still not sure I can really make sense of it, but I figured you'd understand somehow."
+[24-Jan-2015 20:36:04]  <ponicalica> chiaki's turning into a witch
+[24-Jan-2015 20:36:53]  <BGTB2005> :<
+[24-Jan-2015 20:37:04]  <Alicia> ( :D )
+[24-Jan-2015 20:39:41]  <IllFlower> I guess Rin is just frowning in distress.
+[24-Jan-2015 20:39:48]  <BGTB2005> something like that
+[24-Jan-2015 20:40:00]  <IllFlower> Oh, dear.
+[24-Jan-2015 20:40:04]  <IllFlower> Well, anyway.
+[24-Jan-2015 20:40:47]  <ponicalica> meanwhile Hikari is strangely excited for reasons she can't fully understand
+[24-Jan-2015 20:41:32]  <IllFlower> "How much do you know about magical girls?" Chiaki finally says, clearly flustered.
+[24-Jan-2015 20:41:58]  <ponicalica> (Rin's eyes light up.  "OH MY GOD I AM ONE AND I'M A CONSERVATOR AND ...")
+[24-Jan-2015 20:44:32]  <BGTB2005> "Quite a bit."
+[24-Jan-2015 20:45:07]  <IllFlower> Whatever answers Chiaki might have been expecting, this was obviously not one of them.
+[24-Jan-2015 20:45:51]  <Rig> Heh
+[24-Jan-2015 20:46:32]  <IllFlower> "Oh. I, um... that's..." she stammers out.
+[24-Jan-2015 20:46:58]  <IllFlower> "Then... can you - someone asked me whether I wanted to become one."
+[24-Jan-2015 20:47:47]  <IllFlower> It's rare for Rin to see Chiaki this poorly composed, but she seems to take it in stride.
+[24-Jan-2015 20:49:16]  <ponicalica> ("DO IT DO IT DO IT WE CAN GO WITCH-HUNTING TOGETHER ONEE-SAMA")
+[24-Jan-2015 20:49:55]  <IllFlower> ponicalica: Is this the kind of character you've been wanting to play all along?
+[24-Jan-2015 20:49:59]  <ponicalica> nah
+[24-Jan-2015 20:50:20]  <IllFlower> Did Jun dying ruin Ayako's chances of having an onee-sama of her own?
+[24-Jan-2015 20:54:18]  <IllFlower> Hm, I take back the "in stride" part. :p
+[24-Jan-2015 20:54:46]  <Rig> Too busy picturing what Chiaki would look like as an emgirl.
+[24-Jan-2015 20:55:24]  <IllFlower> Like a girl, except with more frills.
+[24-Jan-2015 20:55:35]  <Rig> <em>girl</em>
+[24-Jan-2015 20:55:42]  <ponicalica> italicsgirl
+[24-Jan-2015 20:55:47]  <ponicalica> BGTB2005: no response to Chiaki?
+[24-Jan-2015 20:56:09]  <IllFlower> Rig: Don't make me kick you
+[24-Jan-2015 20:56:11]  <IllFlower> .
+[24-Jan-2015 20:56:33]  <Rig> You tempt me so.
+[24-Jan-2015 20:56:40]  <BGTB2005> ponicalica: trying to think of one
+[24-Jan-2015 20:57:09]  <Rig> "Thank god, become one so we can kick Kazuki out of my team."
+[24-Jan-2015 20:57:24]  <BGTB2005> pfff
+[24-Jan-2015 20:57:29]  <ponicalica> BGTB2005: it doesn't have to be amazing, just say something rin would
+[24-Jan-2015 20:58:21]  <IllFlower> Are you implying Rin wouldn't say something amazing? Rude.
+[24-Jan-2015 20:58:39]  <imitationponigiri> Very rude
+[24-Jan-2015 20:58:47]  <Rig> <strong>Rude</strong>
+[24-Jan-2015 20:58:54]  <ponicalica> The question is, does she have a one-hundred-percent chance of saying something amazing
+[24-Jan-2015 20:59:15]  <BGTB2005> "Did you want to?"
+[24-Jan-2015 20:59:17]  *** Rig was kicked by IllFlower (</body></html>)
+[24-Jan-2015 20:59:26]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has joined #madokamadness
+[24-Jan-2015 20:59:26]  *** ChanServ sets mode: +o Rig
+[24-Jan-2015 20:59:32]  <ponicalica> http://gizmodo.com/5599650/in-north-korea-even-the-html-coding-is-very-strong
+[24-Jan-2015 20:59:33]  <Omnipresence> 14URL: [gizmodo.com] text/html document
+[24-Jan-2015 20:59:36]  <Rig> Invalid doctype.
+[24-Jan-2015 20:59:58]  <ponicalica> wait i clicked that before realizing it wasn't the daily wtf source, here: http://thedailywtf.com/articles/Strong-Web-Design
+[24-Jan-2015 20:59:59]  <Omnipresence> 14URL: [thedailywtf.com] Strong Web Design - The Daily WTF
+[24-Jan-2015 21:00:14]  <IllFlower> "I - I don't know," Chiaki says. "How am I supposed to make a decision like that?
+[24-Jan-2015 21:00:52]  <IllFlower> "He talked about fighting and wishes and emotions and all of these other things.
+[24-Jan-2015 21:01:07]  <IllFlower> "Knew all about my life."
+[24-Jan-2015 21:01:45]  <IllFlower> Chiaki looks into Rin's eyes.
+[24-Jan-2015 21:01:54]  <IllFlower> "I'm scared. This doesn't feel right at all."
+[24-Jan-2015 21:02:07]  *** imitationponigiri <~androirc@s-164-67-211-121.resnet.ucla.edu> has quit IRC (Remote host closed the connection)
+[24-Jan-2015 21:06:09]  <Rig> Can Rin actually try to soothe someone's fears?
+[24-Jan-2015 21:06:31]  <Alicia> Punch reason into her.
+[24-Jan-2015 21:07:24]  <ponicalica> Rin transforms on the spot, trying to sooth Chiaki, but instead just freaks her out even more
+[24-Jan-2015 21:07:32]  <ponicalica> Or maybe she should just ask what Chiaki would wish for
+[24-Jan-2015 21:08:41]  *** imitationponigiri <~androirc@172.56.6.165> has joined #madokamadness
+[24-Jan-2015 21:08:41]  *** ChanServ sets mode: +o imitationponigiri
+[24-Jan-2015 21:09:08]  *** buttercrispy <~androirc@s-164-67-211-121.resnet.ucla.edu> has joined #madokamadness
+[24-Jan-2015 21:09:08]  *** ChanServ sets mode: +o buttercrispy
+[24-Jan-2015 21:10:15]  <ponicalica> BGTB2005?
+[24-Jan-2015 21:11:50]  <Rig> Rin just stares down Chiaki.
+[24-Jan-2015 21:12:10]  <BGTB2005> Not knowing what to say, Rin turns and hugs Chiaki
+[24-Jan-2015 21:12:55]  <IllFlower> Must be that extra 1 Ht at work.
+[24-Jan-2015 21:14:30]  <IllFlower> A few moments pass. Chiaki seems to calm down a bit.
+[24-Jan-2015 21:15:21]  *** imitationponigiri <~androirc@172.56.6.165> has quit IRC (Ping timeout: 378 seconds)
+[24-Jan-2015 21:16:04]  <IllFlower> "Thanks." She laughs, though not without some tension in her voice. "Look at me, being comforted by the girl who's called me 'big sister' for years."
+[24-Jan-2015 21:16:19]  *** CentralAve is now known as PrincessAlice
+[24-Jan-2015 21:17:12]  <IllFlower> She shakes her head, maybe wipes away an illusory tear or two.
+[24-Jan-2015 21:17:46]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:4124:90d6:af7d:b689> has quit IRC (Quit: ChatZilla 0.9.91.1 [Firefox 35.0/20150108202552])
+[24-Jan-2015 21:17:52]  <IllFlower> "Things have just gone from bad to insane lately. I must really be going crazy."
+[24-Jan-2015 21:18:15]  <ponicalica> that's it, that's the RP
+[24-Jan-2015 21:19:37]  <Rig> Heh
+[24-Jan-2015 21:19:49]  <BGTB2005> yeah that seems to be a good summary for the campaigns run here I think
+[24-Jan-2015 21:21:35]  <Alicia> <3
+[24-Jan-2015 21:22:11]  <IllFlower> Wow, way to empathize.
+[24-Jan-2015 21:23:15]  <Alicia> It's my forte.
+[24-Jan-2015 21:23:27]  <Rig> All that heart.
+[24-Jan-2015 21:25:57]  <IllFlower> ANYWAY COUGH COUGH
+[24-Jan-2015 21:28:05]  <IllFlower> Let's pretend for a moment that we don't delight in our characters' psychological destruction!
+[24-Jan-2015 21:28:27]  <Rig> ;-;
+[24-Jan-2015 21:28:35]  <BGTB2005> >_>
+[24-Jan-2015 21:28:44]  <Rig> Perhaps ask Chiaki what she's going to do?
+[24-Jan-2015 21:29:04]  <IllFlower> Or, like, what the hell is going on in general.
+[24-Jan-2015 21:29:13]  <Rig> Also a good choice.
+[24-Jan-2015 21:29:15]  <ponicalica> Ask something.
+[24-Jan-2015 21:29:35]  <IllFlower> "What is the airspeed velocity of an unladen swallow?"
+[24-Jan-2015 21:30:04]  <buttercrispy> "African or European?"
+[24-Jan-2015 21:30:27]  <ponicalica> @wa airspeed velocity of unladen swallow > IllFlower 
+[24-Jan-2015 21:30:28]  <Omnipresence> 14IllFlower: Wolfram|Alpha: Assuming estimated average cruising airspeed of an unladen European swallow — Input interpretation: estimated average cruising airspeed of an unladen European swallow — Result: 25 mph  (miles per hour); (asked, but not answered, (+760 more characters)
+[24-Jan-2015 21:31:59]  <IllFlower> Rig: You have 30 minutes, yeah?
+[24-Jan-2015 21:32:04]  <Rig> Yeah.
+[24-Jan-2015 21:32:16]  <Rig> Though it seems like I'm not needed much. :P
+[24-Jan-2015 21:32:18]  <BGTB2005> "Would it help if I introduced you to the others?"
+[24-Jan-2015 21:32:29]  <IllFlower> "Others?"
+[24-Jan-2015 21:32:47]  <Rig> Was gonna ask if Chiaki even knows that Rin is an emgirl.
+[24-Jan-2015 21:32:55]  <IllFlower> Rig: Well, uh, this was supposed to just be an introductory conversation. `_`
+[24-Jan-2015 21:33:00]  <Rig> I know.
+[24-Jan-2015 21:33:19]  <IllFlower> Well, I think it's pretty obvious that Chiaki doesn't, but Rin doesn't care. :p
+[24-Jan-2015 21:33:29]  <Rig> Good point.
+[24-Jan-2015 21:35:23]  <ponicalica> BGTB2005: time to explain conservators to Chiaki
+[24-Jan-2015 21:35:27]  <BGTB2005> "Ayako, Hikari, and Kazuki; the other members of the team."
+[24-Jan-2015 21:35:31]  <Rig> "The team?"
+[24-Jan-2015 21:37:00]  <IllFlower> Rig: Stop that.
+[24-Jan-2015 21:37:03]  <IllFlower> "The team?"
+[24-Jan-2015 21:37:10]  <IllFlower> No, just kidding.
+[24-Jan-2015 21:37:17]  <Rig> But really.
+[24-Jan-2015 21:37:51]  <IllFlower> Chiaki nods. "I don't really understand, but... that's fine. Let's go."
+[24-Jan-2015 21:38:39]  <Rig> Chiaki just gives up on understanding.
+[24-Jan-2015 21:38:50]  <Rig> How does one pronounce Chiaki?
+[24-Jan-2015 21:39:05]  <ponicalica> chee ah key i think
+[24-Jan-2015 21:39:16]  <Rig> Her pet name is Chiapet.
+[24-Jan-2015 21:39:25]  *** Rig was kicked by IllFlower (boo)
+[24-Jan-2015 21:39:32]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has joined #madokamadness
+[24-Jan-2015 21:39:32]  *** ChanServ sets mode: +o Rig
+[24-Jan-2015 21:42:47]  <IllFlower> Just a second.
+[24-Jan-2015 21:45:26]  <IllFlower> Okay, then let's meet the family.
+[24-Jan-2015 21:46:18]  <IllFlower> Rin and Chiaki enter the converted church that serves as Shii's base of operations.
+[24-Jan-2015 21:46:35]  <IllFlower> The rest of the group appears to have assembled already.
+[24-Jan-2015 21:47:00]  <IllFlower> Chiaki is a bit weirded out by the environs, though her face betrays a slight fascination as well.
+[24-Jan-2015 21:48:30]  <ponicalica> Ayako takes a look at the possible initiate-to-be, her mind clearly occupied with some other worry.
+[24-Jan-2015 21:48:47]  <IllFlower> (It's... Kazuki.)
+[24-Jan-2015 21:49:31]  <Rig> Kazuki is unsure why they've invited an uninitiated girl into the church, but he doesn't really want to call out Rin in front of her friend.
+[24-Jan-2015 21:49:49]  <Rig> "Hello," he ventures.
+[24-Jan-2015 21:50:14]  <IllFlower> It's not like any sensitive business goes on in the entrance hall. I think/.
+[24-Jan-2015 21:50:16]  <Rig> ("Are you Chiapet?")
+[24-Jan-2015 21:50:35]  <Rig> True. I dunno what the policy for non-magical people is.
+[24-Jan-2015 21:50:37]  <Alicia> Hikari glances at the new girl, apparently a friend of Rin's, curious. Hikari decides it's best to treat her as a part of them anyway. "Greetings, I'm Hiiragi. Who might you be?"
+[24-Jan-2015 21:50:44]  <Alicia> She looks to Rin, then back.
+[24-Jan-2015 21:50:58]  <IllFlower> Chiaki returns Kazuki's greeting.
+[24-Jan-2015 21:51:17]  <IllFlower> "Is he, like, your boss?" she discreetly asks Rin. "He looks old..."
+[24-Jan-2015 21:51:44]  <Rig> ;-;
+[24-Jan-2015 21:51:50]  <IllFlower> Boom!
+[24-Jan-2015 21:51:54]  <ponicalica> how old is Chiaki anyways
+[24-Jan-2015 21:52:25]  <BGTB2005> I've been imagining her as close to Kazuki's age
+[24-Jan-2015 21:52:38]  <IllFlower> Extra boom!
+[24-Jan-2015 21:52:39]  <BGTB2005> maybe Kazuki should smoke less
+[24-Jan-2015 21:52:39]  <Rig> Kazuki is like 20-something.
+[24-Jan-2015 21:52:43]  <Rig> :P
+[24-Jan-2015 21:53:02]  <IllFlower> Anyway.
+[24-Jan-2015 21:53:11]  <Rig> Anyway, have we been made aware of the situation?
+[24-Jan-2015 21:53:17]  <IllFlower> Someone should probably start the conversation with Chiaki, because she sure as hell doesn't know what to say.
+[24-Jan-2015 21:53:22]  <Rig> Why does Rin want to do a meet'n'greet.
+[24-Jan-2015 21:53:26]  <IllFlower> I assume so, unless it would be funnier if you weren't.
+[24-Jan-2015 21:53:41]  <ponicalica> Rig: Presumably to convince her that initiates aren't that scary
+[24-Jan-2015 21:53:47]  <ponicalica> which will certainly have the opposite effect
+[24-Jan-2015 21:53:49]  <Rig> Terrible plan.
+[24-Jan-2015 21:54:02]  <Alicia> IllFlower: Hikari at least asked her name. >:|
+[24-Jan-2015 21:54:49]  <Rig> "I guess Rin wanted you to meet us so we could answer any questions you might have," Kazuki says. He's really entirely uncertain what Rin intended.
+[24-Jan-2015 21:55:02]  <Rig> "Do you have any questions?"
+[24-Jan-2015 21:55:36]  <IllFlower> "A lot," Chiaki says.
+[24-Jan-2015 21:56:15]  <IllFlower> "Like 'why is that plush toy talking' and 'why me' and 'is this all a bad joke.'"
+[24-Jan-2015 21:56:55]  <ponicalica> "The 'plush toy' is a familiar.  Constructed by the Prophets to manage initiates."
+[24-Jan-2015 21:57:01]  <IllFlower> Chiaki glances at Rin. "I don't *think* it's a joke. Rin's not very good at jokes."
+[24-Jan-2015 21:57:08]  <Rig> Kazuki smirks.
+[24-Jan-2015 21:58:08]  <IllFlower> "And, well, any explanation for the first question will boil down to me being crazy, right?
+[24-Jan-2015 21:58:26]  <IllFlower> "So maybe just the one question."
+[24-Jan-2015 21:58:44]  <Rig> "Of course, the hard one."
+[24-Jan-2015 21:58:56]  <Rig> "Did you ask the talking stuffed animal?"
+[24-Jan-2015 21:59:00]  <IllFlower> "Sorry."
+[24-Jan-2015 22:00:12]  <Alicia> "You're Rin's friend, so I wouldn't mind talking ths with you, but I do think Kazuki is right. It'd be best for you to ask our familiar, Shii."
+[24-Jan-2015 22:00:28]  <ponicalica> y'all really want IllFlower to talk to himself
+[24-Jan-2015 22:00:39]  <IllFlower> Chiaki nods. "That just raised more questions. Like, why does he know so much about me? That Rin's like a sister to me, that I'm having trouble at school, that I don't like eggplants..."
+[24-Jan-2015 22:01:11]  <Rig> "Yeah, they're not very good at... lots of things, I guess."
+[24-Jan-2015 22:01:11]  <IllFlower> Alicia: She can't. Familiars aren't visible to the uninitiated unless they're trying to recruit.
+[24-Jan-2015 22:01:23]  <Alicia> Hrk, right, my bad
+[24-Jan-2015 22:02:17]  * Rig goes to look up setting details.
+[24-Jan-2015 22:02:21]  <IllFlower> "He even knew little details like the shouting match I had with Ms. Kataoka in the staff room."
+[24-Jan-2015 22:04:02]  <Rig> "I think maybe we should start with a question about you? What do you think about magical girls?"
+[24-Jan-2015 22:04:39]  * IllFlower pushes the "twinge of recognition" button
+[24-Jan-2015 22:05:35]  <Rig> Hahaha, names are hard, IllFlower.
+[24-Jan-2015 22:05:45]  <IllFlower> That's why I have this button here.
+[24-Jan-2015 22:06:10]  <IllFlower> "That they were the same as animated superheroes, or fantasy adventurers," Chiaki answers.
+[24-Jan-2015 22:06:12]  <ponicalica> and this nice list of names in a spreadsheet
+[24-Jan-2015 22:06:36]  <IllFlower> "Asking if I want to become one is like asking if I want to jump into my television and live there forever."
+[24-Jan-2015 22:06:37]  <ponicalica> A little odd that they're sorted by given name though, sinec tehy're listed in JP order
+[24-Jan-2015 22:07:32]  <IllFlower> Because most of the time we refer to them by given names.
+[24-Jan-2015 22:07:36]  <IllFlower> Uncouth, maybe.
+[24-Jan-2015 22:07:48]  <Rig> Kazuki recognizes the name Kataoka, but only distantly. He pushes it aside for the moment. "Well, they're not exactly animated."
+[24-Jan-2015 22:08:21]  <IllFlower> Cold, man.
+[24-Jan-2015 22:08:29]  <Rig> :)
+[24-Jan-2015 22:08:31]  <IllFlower> "I figured as much."
+[24-Jan-2015 22:08:33]  <Rig> "I dunno how much Rin has told you about us," Kazuki says with a glance toward Rin.
+[24-Jan-2015 22:09:05]  <IllFlower> "Only good things, I assure you."
+[24-Jan-2015 22:09:29]  <Rig> "But the short version is that some people are given powers. These people have a duty to defend the people without powers."
+[24-Jan-2015 22:09:41]  <Rig> Kazuki realizes how crazy that sounds as he says it.
+[24-Jan-2015 22:10:03]  <Rig> "And apparently, you have some quality that makes you worthy of that duty."
+[24-Jan-2015 22:10:05]  <IllFlower> "I think I heard that in a movie once," Chiaki says.
+[24-Jan-2015 22:10:30]  <ponicalica> "It's an important duty.  It can be difficult, but it's worthwhile."
+[24-Jan-2015 22:10:34]  <Rig> Kazuki smiles and shrugs.
+[24-Jan-2015 22:10:52]  <ponicalica> ("This isn't a movie." "I heard that in a movie once too!")
+[24-Jan-2015 22:11:14]  <IllFlower> "And in return, I get a wish. I remember that."
+[24-Jan-2015 22:11:36]  <Rig> "Oh, right, the wish thing."
+[24-Jan-2015 22:12:20]  <IllFlower> Such nonchalance.
+[24-Jan-2015 22:12:35]  <ponicalica> we're all veteran magical girls here, the wish is but a distant memory
+[24-Jan-2015 22:12:37]  <Rig> Kazuki's wish wasn't important to him. It couldn't affect most the things he wantd.
+[24-Jan-2015 22:12:49]  <IllFlower> Yeah, I know.
+[24-Jan-2015 22:13:01]  <Rig> It'd be better for someone else to talk about that.
+[24-Jan-2015 22:13:03]  <IllFlower> tl;dr Kazuki's a magical trust fund kid.
+[24-Jan-2015 22:13:08]  <Rig> Like Hikari or Rin.
+[24-Jan-2015 22:13:47]  <IllFlower> (Rin: "I wished to save your life." Chiaki J. Fox: "This is heavy.")
+[24-Jan-2015 22:14:08]  <ponicalica> i don't even remember hikari or rin's wish
+[24-Jan-2015 22:14:15]  <Rig> "Is there something wrong with gravity in the future?"
+[24-Jan-2015 22:15:31]  <IllFlower> ponicalica: I don't think that was ever actually explained, lol.
+[24-Jan-2015 22:15:47]  <Rig> I've gotta go.
+[24-Jan-2015 22:15:51]  <Rig> Sorry.
+[24-Jan-2015 22:16:00]  <IllFlower> Right, we'll call it here and pick up next time, then.
+[24-Jan-2015 22:16:07]  <ponicalica> there was the thing you had us all write
+[24-Jan-2015 22:16:18]  <BGTB2005> I need to finish that...
+[24-Jan-2015 22:16:20]  <Rig> Thanks for running the session.
+[24-Jan-2015 22:16:21]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has quit IRC (Remote host closed the connection)
+[24-Jan-2015 22:16:43]  <IllFlower> Thanks for playing, folks. See you same time next week, unless Rig wants it.
+[24-Jan-2015 22:16:44]  <Alicia> "Yes, a wish... like Kazuki said, you're able to become a magical girl if you seem to have potential, in exchange for a wish, and" Hikari has a bit of trouble with the words, "protecting the non-magical people. Conservators like us keep an eye on Conservatorship as well"
+[24-Jan-2015 22:16:53]  <Alicia> (Ack, sorry, wanted to at least get that -_-)
+[24-Jan-2015 22:17:09]  <IllFlower> Next time we'll have an actual plot going, maybe. :p
+[24-Jan-2015 22:17:14]  <Alicia> Thanks for running the session.

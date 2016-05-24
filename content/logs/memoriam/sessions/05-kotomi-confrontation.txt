@@ -1,0 +1,1059 @@
+[08-Sep-2013 20:05:56]  <IllFlower> Okay, when we left off, you guys had just rescued Shirakawa from her binding in the track shed, and were about to embark on a stakeout.
+[08-Sep-2013 20:06:12]  <IllFlower> Speaking of which, was there anything you guys wanted to do about Shirakawa? She was in a bit of a mess.
+[08-Sep-2013 20:06:35]  * Barcode[YANO_Hitomi] checks logs. we were gonna like, ask her a few questions later or something, werne't we?
+[08-Sep-2013 20:07:03]  <Barcode[YANO_Hitomi]> "Ayako is probably right. This girl doesn't have any information that she can give them." Oh, I guess not.
+[08-Sep-2013 20:07:08]  <Rig[Jun]> I don't think there was much we could other than maybe drop her off at a nurse or something. Questioning her further would have probably gotten messy.
+[08-Sep-2013 20:08:14]  <Barcode[YANO_Hitomi]> So how exactly would we have a stakeout...conflict? If that's what we want to do.
+[08-Sep-2013 20:08:29]  <IllFlower> So Shirakawa basically just gets dropped off at the infirmary, and is otherwise left to her own devices (and those of the nurse).
+[08-Sep-2013 20:08:48]  <Rig[Jun]> I think that's agreeable. Then we hightail it out before question are asked of us.
+[08-Sep-2013 20:08:56]  <IllFlower> Works for me.
+[08-Sep-2013 20:09:27]  <Barcode[YANO_Hitomi]> yeh.
+[08-Sep-2013 20:09:37]  <Barcode[YANO_Hitomi]> Hitomi already left earlier to return the books.
+[08-Sep-2013 20:09:53]  <IllFlower> Okay, so let's say we play this out as a conflict. What are the stakes?
+[08-Sep-2013 20:10:40]  <ponicalica[Ayako]> presumably accosting, um, fuck, what was her name, Taniguchi?
+[08-Sep-2013 20:10:48]  <Rig[Jun]> Well, I assume we're looking for Yuzuru in this case.
+[08-Sep-2013 20:11:13]  <Rig[Jun]> So, we want to find evidence of what he or his sister are doing with the book/students at this school.
+[08-Sep-2013 20:11:13]  <Barcode[YANO_Hitomi]> Forgive me for not being familiar with the concept, but googling said "coordianted, covert surveillance". I'm still wondering how you do this while still directly confronting people.
+[08-Sep-2013 20:11:30]  <Rig[Jun]> Conflict doesn't have to be direct.
+[08-Sep-2013 20:11:38]  <ponicalica[Ayako]> I think it's a conflict on a slightly more abstract level.
+[08-Sep-2013 20:12:33]  <ponicalica[Ayako]> also oh hey I still have an experience fallout I need to assign :V
+[08-Sep-2013 20:12:43]  <IllFlower> So can we reduce it to trying to find either Yuzuru or Kotomi?
+[08-Sep-2013 20:12:51]  <Rig[Jun]> Yeah, that'd be fine.
+[08-Sep-2013 20:13:03]  <ponicalica[Ayako]> yeah
+[08-Sep-2013 20:13:24]  <IllFlower> Actually, Yuzuru's kind of a side target. We're really looking for his sister. But finding the former could be a step in the conflict.
+[08-Sep-2013 20:13:51]  <Rig[Jun]> I was thinking the conflict would be spread out across a couple nights. So like, first night one of us raises to watch the shed, but one of them sees by noticing us hiding on the roof and raises by sneaking away or something.
+[08-Sep-2013 20:14:13]  <Rig[Jun]> Or see by sneaking away and raises by returning the next night.
+[08-Sep-2013 20:14:24]  <IllFlower> Yeah, same as I thought.
+[08-Sep-2013 20:14:32]  <IllFlower> Let me draw up some stats for Kotomi.
+[08-Sep-2013 20:14:45]  <Rig[Jun]> ponicalica[Ayako]: So, what were you thinking for XP?
+[08-Sep-2013 20:14:50]  <ponicalica[Ayako]> Rig[Jun]: I'm not really sure.
+[08-Sep-2013 20:15:02]  <Barcode[YANO_Hitomi]> That's pretty reasonable, I mean, the obvious Yield situation would be "well, they saw me/knew I was there so I can't show up again".
+[08-Sep-2013 20:15:11]  <Rig[Jun]> Well, you got real world experience from the situation.
+[08-Sep-2013 20:15:39]  <ponicalica[Ayako]> I know someone suggested like "got into a legitimate dangerous situation" and the confidence thereof.  I think I kind of like that one, though the phrasing colud be a bit clearer
+[08-Sep-2013 20:16:23]  <Barcode[YANO_Hitomi]> Oh, I meant to say like, "has less to be afraid of, as she has now actually been in one of the situations she has never experienced", maybe.
+[08-Sep-2013 20:16:28]  <Rig[Jun]> How about one like "I handled myself against really dangerous magic"
+[08-Sep-2013 20:16:41]  <Barcode[YANO_Hitomi]> rig knows how to construct sentences, while I do not.
+[08-Sep-2013 20:16:49]  <ponicalica[Ayako]> Rig[Jun]: I like that, yeah.
+[08-Sep-2013 20:16:56]  * Rig[Jun] diagrams the hell out of some sentences.
+[08-Sep-2013 20:18:29]  <IllFlower> [TP [NP I] [T' [T PAST] [VP [V' [V handle] blah blah blah
+[08-Sep-2013 20:18:58]  <ponicalica[Ayako]> IllFlower: who the fuck uses sexps with square brackets
+[08-Sep-2013 20:19:41]  <Rig[Jun]> Reed-Kellog is more fun.
+[08-Sep-2013 20:19:49]  <Rig[Jun]> *Kellogg
+[08-Sep-2013 20:20:29]  <IllFlower> Linguists, man.
+[08-Sep-2013 20:21:18]  <IllFlower> All right, shall we proceed with the stakeout?
+[08-Sep-2013 20:21:23]  <Rig[Jun]> Yes.
+[08-Sep-2013 20:22:01]  <IllFlower> This is arguably a physical conflict, so roll Bd+Ht.
+[08-Sep-2013 20:22:07]  <Barcode[YANO_Hitomi]> Sure. Pre-emptive apology if I don't have much to contribute today.
+[08-Sep-2013 20:22:36]  <Rig[Jun]> IllFlower: Do I still have the temp fallout from punching Kazuto?
+[08-Sep-2013 20:22:36]  <ponicalica[Ayako]> +roll 3d6+2d6
+[08-Sep-2013 20:22:36]  <rollermine> ponicalica[Ayako]: (4+1+5)+(1+3)=14
+[08-Sep-2013 20:22:39]  <Barcode[YANO_Hitomi]> +roll 6d6
+[08-Sep-2013 20:22:39]  <rollermine> Barcode[YANO_Hitomi]: (4+1+4+5+6+2)=22
+[08-Sep-2013 20:22:49]  <Barcode[YANO_Hitomi]> 124456. kay.
+[08-Sep-2013 20:22:51]  <Rig[Jun]> I don't think I've conflicted since then, so probably.
+[08-Sep-2013 20:23:01]  <IllFlower> Rig[Jun]: Yeah, you do.
+[08-Sep-2013 20:23:03]  <Rig[Jun]> +roll 4d6+4d6
+[08-Sep-2013 20:23:03]  <rollermine> Rig[Jun]: (4+3+2+5)+(3+6+6+6)=35
+[08-Sep-2013 20:23:08]  <ponicalica[Ayako]> 11345.  not terrible though lol ayako's bd,ht
+[08-Sep-2013 20:23:23]  <Barcode[YANO_Hitomi]> The manual doesn't ever really get into what "temporary" means, I assume.
+[08-Sep-2013 20:23:26]  <IllFlower> +roll 8d6+d8+2d10 >! Rolling for Kotomi's traits as well.
+[08-Sep-2013 20:23:26]  <rollermine> (5+5+4+3+2+1+4+1)+3+(5+5)=38
+[08-Sep-2013 20:23:34]  <Rig[Jun]> 23345666
+[08-Sep-2013 20:23:35]  <Barcode[YANO_Hitomi]> whew.
+[08-Sep-2013 20:23:38]  <IllFlower> Barcode[YANO_Hitomi]: It explicitly says "for the next conflict."
+[08-Sep-2013 20:23:42]  <Barcode[YANO_Hitomi]> Oh, oops.
+[08-Sep-2013 20:23:55]  <IllFlower> 11233445555.
+[08-Sep-2013 20:24:27]  <Rig[Jun]> Shall I start us off with a Raise?
+[08-Sep-2013 20:24:59]  <Barcode[YANO_Hitomi]> I forget, Kotomi's in high school, right?
+[08-Sep-2013 20:25:06]  <IllFlower> Rig[Jun]: I was just about to ask you to do so, haha.
+[08-Sep-2013 20:25:09]  <IllFlower> Barcode[YANO_Hitomi]: Yeah.
+[08-Sep-2013 20:25:09]  <ponicalica[Ayako]> I think she's Jun's age.
+[08-Sep-2013 20:25:11]  <Barcode[YANO_Hitomi]> m.
+[08-Sep-2013 20:27:55]  <ponicalica[Ayako]> I'm still a little lost on how the raises and sees and such are going to work, but then I guess that's why Rig's going first :V
+[08-Sep-2013 20:28:14]  <Barcode[YANO_Hitomi]> take out your gun to remain hidden.
+[08-Sep-2013 20:28:43]  <Rig[Jun]> The night after finding Shirakawa dangling upside down in the equipment shed the trio returns to the school under the cover of darkness. They take positions in the shadows around the shed, keeping their eyes peeled for any suspicious person returning to the scene. Jun has taken a perch above the athletic fields on the school's roof. From here she can see the front gate of the school and the shed. Her eyes scan back and 
+[08-Sep-2013 20:28:44]  <Rig[Jun]> forth over this area and her magical senses reach out for any evidence of newcomers. Raise 34, leave 235666.
+[08-Sep-2013 20:29:48]  <ponicalica[Ayako]> hmmm, I wonder if it would be possible for Ayako to use her light powers without escalating the conflict.  Steal the light from near the girls and shine it near possible Kotomis etc.
+[08-Sep-2013 20:31:01]  <IllFlower> Looks like Kotomi isn't much for being nocturnal. There's no sign of anyone that first night. See 25, leave 113344555.
+[08-Sep-2013 20:31:34]  <IllFlower> ponicalica[Ayako]: I wouldn't be opposed to that.
+[08-Sep-2013 20:31:47]  <Rig[Jun]> And you can always help another person's raise or see.
+[08-Sep-2013 20:31:57]  <IllFlower> ponicalica[Ayako], Barcode[YANO_Hitomi]: Do one of you want to raise next, or should I do so?
+[08-Sep-2013 20:32:17]  <Barcode[YANO_Hitomi]> Let Ponicalica or yourself go next, I'm currently being actively harrassed.
+[08-Sep-2013 20:32:22]  <Barcode[YANO_Hitomi]> harassed*
+[08-Sep-2013 20:32:59]  <ponicalica[Ayako]> I'm not sure if my idea would work better as a raise now or as one once things have moved further...I'm leaning towards go for it now slightly, but want a second opinion.
+[08-Sep-2013 20:33:42]  <IllFlower> I wouldn't be opposed to doing it now. Light is a powerful tool in stakeouts, after all.
+[08-Sep-2013 20:34:00]  <ponicalica[Ayako]> +roll 2d8
+[08-Sep-2013 20:34:00]  <rollermine> ponicalica[Ayako]: (7+4)=11
+[08-Sep-2013 20:34:12]  <ponicalica[Ayako]> 1134457.
+[08-Sep-2013 20:34:24]  <Barcode[YANO_Hitomi]> I'd prefer it as a see, but.
+[08-Sep-2013 20:35:17]  <IllFlower> Barcode[YANO_Hitomi]: What would it be a response to, though?
+[08-Sep-2013 20:35:47]  <Barcode[YANO_Hitomi]> IllFlower: I just imagine it as like, they approach nearby, so Ayako pushes what little light reveals her away.
+[08-Sep-2013 20:36:04]  <Barcode[YANO_Hitomi]> Though I may be mistaken on how direct this is going to be, still.
+[08-Sep-2013 20:36:10]  <ponicalica[Ayako]> eh, I think I prefer it as a raise.
+[08-Sep-2013 20:36:28]  <IllFlower> Barcode[YANO_Hitomi]: Remember that the ultimate objective is to get Kotomi, not for the girls to mask themselves.
+[08-Sep-2013 20:36:45]  <Barcode[YANO_Hitomi]> Ah, our stakes are siezing her, then?
+[08-Sep-2013 20:36:52]  <Barcode[YANO_Hitomi]> (I have no objections either way; the light thing is a cool idea.)
+[08-Sep-2013 20:37:05]  <ponicalica[Ayako]> For flavor-text purposes, how urbanized should I assume the area around the school is?
+[08-Sep-2013 20:37:11]  <IllFlower> Barcode[YANO_Hitomi]: Yeah.
+[08-Sep-2013 20:37:17]  <IllFlower> ponicalica[Ayako]: Just make it up. Could be anywhere.
+[08-Sep-2013 20:37:17]  <Barcode[YANO_Hitomi]> Understood.
+[08-Sep-2013 20:39:12]  <IllFlower> Barcode[YANO_Hitomi]: Or perhaps not seizing her outright, but finding her and then tailing her to wherever.
+[08-Sep-2013 20:41:13]  <IllFlower> ponicalica[Ayako]: Still writing?
+[08-Sep-2013 20:41:41]  <ponicalica[Ayako]> Ayako sees Jun on the roof, illuminated faintly by the various streetlights still illuminating the school.  She gets an idea: subtly shift the light in the area, to darken the girls' images even further, while illuminating brighter a perimeter around the school and especially the shed.  Raise 34, leave 11457.
+[08-Sep-2013 20:42:03]  <Barcode[YANO_Hitomi]> Oh, I was going to say...were we each going to have different nights, or?
+[08-Sep-2013 20:42:27]  <ponicalica[Ayako]> I actually don't know.  I kind of assumed all three of us were coming in every night.  retcon if otherwise I guess :V
+[08-Sep-2013 20:42:52]  <IllFlower> I was thinking there would be a rotation, but it doesn't really matter.
+[08-Sep-2013 20:43:42]  <Barcode[YANO_Hitomi]> How about this is the second night, slightly earlier in the day, and Ayako's hidden herself somewhere that has now become even darker?
+[08-Sep-2013 20:45:02]  <Barcode[YANO_Hitomi]> earlier in the night*
+[08-Sep-2013 20:45:13]  <IllFlower> As Ayako turns the lights up near the shed, a human figure comes into plain view. Caught off-guard, it awkwardly ducks for cover, running into a corner of the shed on the way. See 115, leave 334455, 3d6 fallout.
+[08-Sep-2013 20:45:30]  <ponicalica[Ayako]> Although if there's a rotation, then how will we deal with IllFlower's raises
+[08-Sep-2013 20:45:50]  <IllFlower> We'll deal with that when the time comes. :p
+[08-Sep-2013 20:46:26]  <IllFlower> I think I'll raise next, actually. I've got an idea here.
+[08-Sep-2013 20:48:45]  <IllFlower> Not wanting to get caught out again, Kotomi figures out how to cut the power to the exterior lights on the school grounds, thereby reducing the amount of light Ayako can manipulate, and giving herself (or whoever she might be sending) further cover. Raise 35, leave 3445.
+[08-Sep-2013 20:49:12]  <Rig[Jun]> Who is affected by that exactly?
+[08-Sep-2013 20:50:06]  <IllFlower> Hm, actually, it's not as clear as I thought it would be.
+[08-Sep-2013 20:50:42]  <IllFlower> I wanted it to be something everyone would have to respond to, but it makes more sense that the single person on duty that night would figure it out and respond to it.
+[08-Sep-2013 20:51:07]  <IllFlower> Any feelings either way, or should I scratch the content of the raise and do something else?
+[08-Sep-2013 20:51:39]  <Rig[Jun]> I think it's a little unclear who it affects and how someone could see it effectively. I mean, it's not an action that technically forces a response.
+[08-Sep-2013 20:52:07]  <IllFlower> Hm, okay, let me rethink that.
+[08-Sep-2013 20:53:07]  <Rig[Jun]> Kotomi's raises seem to me to be more things like distracting our characters somehow. Perhaps with demonic influence and magic.
+[08-Sep-2013 20:54:29]  <IllFlower> I was thinking I would just get her to lock the door to the roof this round, thus forcing Jun to rework her stakeout plans, haha.
+[08-Sep-2013 20:55:16]  <ponicalica[Ayako]> jun's athletic and moderately cool, she could probably just climb/jump to the roof
+[08-Sep-2013 20:55:23]  <Barcode[YANO_Hitomi]> heh
+[08-Sep-2013 20:55:44]  <Barcode[YANO_Hitomi]> well, that could be the raise.
+[08-Sep-2013 20:56:08]  <Rig[Jun]> That's not a bad raise.
+[08-Sep-2013 20:56:42]  <IllFlower> I'll go ahead and do that, then. Still raising 35, leaving 3445.
+[08-Sep-2013 20:56:52]  <Rig[Jun]> Jun has to see this one, right?
+[08-Sep-2013 20:56:54]  <IllFlower> The big distractions will come later, haha.
+[08-Sep-2013 20:56:58]  <IllFlower> Rig[Jun]: Yeah. And just her.
+[08-Sep-2013 20:59:01]  <Rig[Jun]> Jun finds the door to the roof locked when she next prepares to set up her stakeout. She takes a while trying to open the door using her "lock picking skills" but ends up mildly frustrated. She kicks down the door instead.
+[08-Sep-2013 20:59:20]  <Rig[Jun]> Rolling for my kendoka trait for the athletic stuff.
+[08-Sep-2013 20:59:26]  <Rig[Jun]> +roll 1d8
+[08-Sep-2013 20:59:26]  <rollermine> Rig[Jun]: (1)=1
+[08-Sep-2013 20:59:28]  <Rig[Jun]> Sweet.
+[08-Sep-2013 20:59:30]  <Barcode[YANO_Hitomi]> x_x
+[08-Sep-2013 20:59:32]  <ponicalica[Ayako]> nice job
+[08-Sep-2013 21:00:01]  <Rig[Jun]> See 125, leave 3666. Take 3d6 fallout.
+[08-Sep-2013 21:00:15]  <IllFlower> Must have stubbed a toe.
+[08-Sep-2013 21:00:19]  <IllFlower> Barcode[YANO_Hitomi]: You're up.
+[08-Sep-2013 21:00:34]  <Rig[Jun]> Fallout for getting frustrated instead of thinking it through, in my opinion.
+[08-Sep-2013 21:00:55]  <ponicalica[Ayako]> IllFlower: That or the fallout's supposed to represent her downspiral back into violence or something
+[08-Sep-2013 21:01:05]  <IllFlower> Yeah, I know, I'm just being silly.
+[08-Sep-2013 21:01:38]  <Barcode[YANO_Hitomi]> I was thinking of having Hitomi stick around a bus stop within visual range of the shed (on the other side of the campus). Maybe fake missing the bus and then sitting there for the whole rotation waiting for another one.
+[08-Sep-2013 21:01:57]  <Barcode[YANO_Hitomi]> That would also let me roll "I need my damn smokes" if she's pretending to be a schoolgirl again.
+[08-Sep-2013 21:02:14]  <Barcode[YANO_Hitomi]> but the pretending part would require being around earlier in the day, of course...
+[08-Sep-2013 21:02:22]  <Barcode[YANO_Hitomi]> earlier in the day than might be realistic*
+[08-Sep-2013 21:02:27]  <IllFlower> Dunno what's there for Kotomi to respond to, unless you want to go for intimidating her with a visible presence on campus after school.
+[08-Sep-2013 21:04:34]  <Barcode[YANO_Hitomi]> True. Being in plain sight of the shed, if raising suspicion, would basically force an actual confrontation (raise to physical, maybe) but that's probably not what we want for a stakeout.
+[08-Sep-2013 21:04:50]  <ponicalica[Ayako]> we're already at physical.  raise would be to actual fighting
+[08-Sep-2013 21:04:56]  <Barcode[YANO_Hitomi]> oh, right.
+[08-Sep-2013 21:05:31]  <Barcode[YANO_Hitomi]> If you guys have ideas, I'm open. I can't think of anything that isn't incredibly dumb (eg, hiding in the shed).
+[08-Sep-2013 21:05:34]  <IllFlower> Barcode[YANO_Hitomi]: Hitomi could stand off on the other side of the street, visibly staring at the shed. Something like that.
+[08-Sep-2013 21:05:59]  <IllFlower> If it's obvious she's being watched, Kotomi might back off, or do something stupid.
+[08-Sep-2013 21:06:16]  <Rig[Jun]> I think the actual intimidation would fit with the character. Probably not terribly effective stakeout behavior, but in character.
+[08-Sep-2013 21:06:44]  <IllFlower> Essentially.
+[08-Sep-2013 21:07:01]  <Barcode[YANO_Hitomi]> Would you guys be okay with something like that..? Again, I'd like to keep this up, I just don't have other ideas.
+[08-Sep-2013 21:07:11]  <IllFlower> +1
+[08-Sep-2013 21:07:17]  <Rig[Jun]> I'm good with that.
+[08-Sep-2013 21:07:18]  <ponicalica[Ayako]> yeah, I'd be okay with that
+[08-Sep-2013 21:07:22]  * Barcode[YANO_Hitomi] types, then.
+[08-Sep-2013 21:10:18]  <Barcode[YANO_Hitomi]> On the next night Hitomi stands against some buildings, opposite of the campus, idly watching the shed. She's not exceptionally well-hidden and a growing collection of spent butts around her makes her intentions perhaps a bit obvious. Nonetheless, nobody's getting in there without her seeing it. Raise 15.
+[08-Sep-2013 21:10:36]  <Barcode[YANO_Hitomi]> and the growing*
+[08-Sep-2013 21:11:25]  <IllFlower> Just a second.
+[08-Sep-2013 21:11:35]  <ponicalica[Ayako]> Barcode[YANO_Hitomi]: leave?
+[08-Sep-2013 21:11:45]  <IllFlower> 2446.
+[08-Sep-2013 21:11:54]  <Barcode[YANO_Hitomi]> Oh, oops. Yeah.
+[08-Sep-2013 21:12:11]  <IllFlower> So I have 3445 against 2446, 3666, 11457.
+[08-Sep-2013 21:12:39]  <IllFlower> I'm going to go ahead and give on the conflict here, actually.
+[08-Sep-2013 21:14:31]  <IllFlower> Kotomi sees that's she's being watched, but thinks nothing of it. "That girl just looks like some delinquent," she thinks, "and it's not like delinquents care about other people walking into school property after hours." With that, she strolls into the shed. **
+[08-Sep-2013 21:14:54]  <Barcode[YANO_Hitomi]> Heheh.
+[08-Sep-2013 21:15:07]  <ponicalica[Ayako]> hehehe
+[08-Sep-2013 21:15:18]  <IllFlower> (I'm not keeping any dice. On closer reading, the manual says that's only supposed to happen when you give in place of raising, not simply at any point.)
+[08-Sep-2013 21:15:40]  <Barcode[YANO_Hitomi]> Ah.
+[08-Sep-2013 21:16:14]  <IllFlower> Barcode[YANO_Hitomi]: So, the immediate response is up to you.
+[08-Sep-2013 21:16:17]  <Rig[Jun]> So, where do we go from here. Hitomi is there, and she could hypothetically call us.
+[08-Sep-2013 21:16:25]  <Rig[Jun]> But she could also charge in to fight on her own.
+[08-Sep-2013 21:16:32]  <Rig[Jun]> Which might make more sense in character.
+[08-Sep-2013 21:17:11]  <Barcode[YANO_Hitomi]> Was thinking she'd send a text out and then get going. The others would get there eventually but she's headed in right away.
+[08-Sep-2013 21:17:22]  <IllFlower> That's exactly what I was thinking, haha.
+[08-Sep-2013 21:17:35]  <Rig[Jun]> That's good.
+[08-Sep-2013 21:17:39]  <ponicalica[Ayako]> yeah, I like that idea
+[08-Sep-2013 21:18:01]  <Rig[Jun]> I assume IllFlower would decide the narrative significance of our arrival.
+[08-Sep-2013 21:18:22]  <IllFlower> Yeah. So I'm guessing we'll start with Hitomi peeking into the shed?
+[08-Sep-2013 21:18:39]  <IllFlower> Or bringing it down on Kotomi's head, whichever she feels more disposed to.
+[08-Sep-2013 21:18:46]  <Barcode[YANO_Hitomi]> Hahah.
+[08-Sep-2013 21:18:54]  <IllFlower> (Only now did I realize that Hitomi and Kotomi's names are incredibly similar! Good job, me.)
+[08-Sep-2013 21:19:02]  <Barcode[YANO_Hitomi]> motoko and makoto
+[08-Sep-2013 21:19:12]  <ponicalica[Ayako]> yuna and yui
+[08-Sep-2013 21:19:17]  <Barcode[YANO_Hitomi]> Hitomi casually waits for Kotomi to enter the shed, trying her best not to look interested. Once she's out of sight she sends a text to the other two girls - "She's in." With this she casually makes her way across the street, then over the fence, and - in case she was heard there - slightly hurriedly towards the shed.
+[08-Sep-2013 21:20:04]  <Barcode[YANO_Hitomi]> RE bringing down the shed, unless she transformed right away I don't think she'd...well, she does have the lighter, but murder isn't a very magically-safe go-to plan.
+[08-Sep-2013 21:20:10]  <IllFlower> Hahaha.
+[08-Sep-2013 21:20:11]  <Barcode[YANO_Hitomi]> she'd have options to...well,*
+[08-Sep-2013 21:20:46]  <Barcode[YANO_Hitomi]> Anyway, Hitomi listens for a moment, ear almost against the shed...
+[08-Sep-2013 21:20:51]  <Barcode[YANO_Hitomi]> (opposite of the door)
+[08-Sep-2013 21:20:54]  <IllFlower> As Hitomi approaches the shed, she notices that it's eerily silent inside. You would think shuffling through books would make quite a bit of noise, and it's not like wood is soundproof. **
+[08-Sep-2013 21:22:00]  <ponicalica[Ayako]> well Hitomi got all the books back to the Library... :P
+[08-Sep-2013 21:22:14]  <IllFlower> s/through/to look for/
+[08-Sep-2013 21:23:53]  <Barcode[YANO_Hitomi]> Hitomi circles to the front of the shed. She considers - ...stops herself from kicking the door in. Strangeness warrants at least some measure of caution and the utter silence suggests some form of awareness. She shuffles to the hinge side of the door (and, by that extension, the shed), and slowly reaches for the doorknob, ready to swing it open as soon as she grabs it.
+[08-Sep-2013 21:24:37]  <IllFlower> Hitomi opens the shed to see... nothing. It looks completely unoccupied - that is, until she looks up.
+[08-Sep-2013 21:24:45]  <Rig[Jun]> It's full of stars.
+[08-Sep-2013 21:24:53]  <ponicalica[Ayako]> my god
+[08-Sep-2013 21:25:03]  <ponicalica[Ayako]> hitomi bowman
+[08-Sep-2013 21:25:05]  <Barcode[YANO_Hitomi]> ((roll for gravity direction))
+[08-Sep-2013 21:25:37]  *** jseblan is now known as jsebookerlan
+[08-Sep-2013 21:25:38]  <Rig[Jun]> I can't let you do that, Hitomi.
+[08-Sep-2013 21:26:31]  <ponicalica[Ayako]> all these magical girls are yours, except hitomi, attempt no landings there
+[08-Sep-2013 21:27:11]  <IllFlower> Kotomi is suspended in midair by chains running from her wrists and ankles to the four corners of the shed, her body pointed upward towards the ceiling. **
+[08-Sep-2013 21:27:29]  <Rig[Jun]> Not what I expected.
+[08-Sep-2013 21:27:40]  <Barcode[YANO_Hitomi]> ((re "she looks like a delinquent", that was especially appropriate because I was thinking the "Heart Is Also Charisma + 2d6" thing would also be partially "Hitomi isn't hideous or anything, she just practically emits a field of hostility"))
+[08-Sep-2013 21:28:17]  <Barcode[YANO_Hitomi]> Pointed meaning like, she's facing the ceiling, rather? Back to the floor, face to the ceiling?
+[08-Sep-2013 21:28:22]  <IllFlower> Yeah.
+[08-Sep-2013 21:28:58]  <ponicalica[Ayako]> I've basically interpreted Ayako's 2d6 Heart as meaning that she's actually a huge nerd who doesn't know how to talk to people, which I tried to express earlier in the last episode when she was talking to the other student
+[08-Sep-2013 21:29:11]  <IllFlower> I suppose I should also mention that she doesn't respond at all to Hitomi's entrance. Come to think of it, Shirakawa was much the same way...
+[08-Sep-2013 21:29:15]  <Rig[Jun]> http://homestuck.bandcamp.com/track/bargaining-with-the-beast This started when IllFlower said the thing about Kotomi.
+[08-Sep-2013 21:29:16]  <Omnipresence> 14URL: [homestuck.bandcamp.com] Bargaining with the Beast | Homestuck
+[08-Sep-2013 21:30:17]  <Barcode[YANO_Hitomi]> Hitomi blinks for a second. She's getting too used to seeing this. She checks around herself, though what are the chances she had backup in case she...didn't end up tying herself up? ((cont))
+[08-Sep-2013 21:30:25]  <Barcode[YANO_Hitomi]> checks behind herself for others*
+[08-Sep-2013 21:31:28]  <IllFlower> Nobody there.
+[08-Sep-2013 21:31:36]  <IllFlower> Jun and Ayako can arrive whenever, by the way.
+[08-Sep-2013 21:32:15]  <ponicalica[Ayako]> Are you saying we should arrive about now?
+[08-Sep-2013 21:32:25]  <IllFlower> ;)
+[08-Sep-2013 21:32:41]  <IllFlower> Barcode's still writing, though.
+[08-Sep-2013 21:32:47]  <IllFlower> Let's let him finish.
+[08-Sep-2013 21:32:51]  <Rig[Jun]> Was waiting for him, yeah.
+[08-Sep-2013 21:33:04]  <Barcode[YANO_Hitomi]> Yeah, if I typed faster you guys would have thought of that after I sent this next thing anyway.
+[08-Sep-2013 21:33:11]  <IllFlower> I'm just saying that you don't have to wait for my cue to bring your characters in.
+[08-Sep-2013 21:33:41]  <Barcode[YANO_Hitomi]> Hitomi opens cautiously. This time around she has more time to resolve the shed's apparent entanglement powers. "Kotomi. What's the meaning of all of this?"
+[08-Sep-2013 21:33:47]  <Barcode[YANO_Hitomi]> ((that's it))
+[08-Sep-2013 21:34:03]  <IllFlower> No response. **
+[08-Sep-2013 21:34:34]  <Barcode[YANO_Hitomi]> ((Yeah, come in whenever. Typing something else up, but no action yet.))
+[08-Sep-2013 21:35:01]  <Barcode[YANO_Hitomi]> Hitomi recalls the abrupt screaming from the first time. Looks around the shed first, instead.
+[08-Sep-2013 21:35:33]  <Barcode[YANO_Hitomi]> ((although, completely unoccupied, re earlier...just, swept clean of valuables?))
+[08-Sep-2013 21:36:17]  <IllFlower> Oh, just that it looked like there were no people there.
+[08-Sep-2013 21:36:27]  <Barcode[YANO_Hitomi]> ah. not as redundant as I thought it'd be, then.
+[08-Sep-2013 21:36:31]  <IllFlower> It's still got the usual track stuff.
+[08-Sep-2013 21:36:35]  <Barcode[YANO_Hitomi]> m.
+[08-Sep-2013 21:36:50]  <Barcode[YANO_Hitomi]> Alright, well, I'm gonna do something this time, assuming nothing else happens...
+[08-Sep-2013 21:37:20]  <ponicalica[Ayako]> I'm basically waiting for Jun so I can come in following her.
+[08-Sep-2013 21:37:38]  <Rig[Jun]> Kind of wanted to see what Barcode had planned first.
+[08-Sep-2013 21:37:47]  <Rig[Jun]> Narratively significant entrances are cool.
+[08-Sep-2013 21:38:28]  <Barcode[YANO_Hitomi]> See, I could do something cool like roll to see demonic presence or whatever the hell, but I don't know how we'd want to go about that.
+[08-Sep-2013 21:38:31]  <Barcode[YANO_Hitomi]> to see/fight*
+[08-Sep-2013 21:39:07]  <Barcode[YANO_Hitomi]> Otherwise I was gonna start poking with the baton. (Not metaphor for beating people up. Actually poking the chains.)
+[08-Sep-2013 21:39:14]  <Rig[Jun]> Grab Kotomi and pull her down while shouting "Get over here!"
+[08-Sep-2013 21:39:37]  <Barcode[YANO_Hitomi]> ((Hitomi pulls off her face, revealing a flaming skull.))
+[08-Sep-2013 21:40:07]  <Barcode[YANO_Hitomi]> But yeah. I'd be happy to try to combat the shed's possession or whatever.
+[08-Sep-2013 21:40:20]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[08-Sep-2013 21:40:35]  <Rig[Jun]> Stakes are "Does Hitomi kill the shed?"
+[08-Sep-2013 21:40:57]  <Rig[Jun]> Joking. The stakes would be more about dispelling the possession or something.
+[08-Sep-2013 21:41:16]  <Barcode[YANO_Hitomi]> Yeah. Stop whatever is autorestraining girls. For its own perversion. Perverted witch.
+[08-Sep-2013 21:41:16]  <IllFlower> I never thought the shed itself was possessed, haha.
+[08-Sep-2013 21:41:48]  <Barcode[YANO_Hitomi]> Well, otherwise Hitomi takes out the baton, pokes the chains to see if there's a response, then  pokes Kotomi.
+[08-Sep-2013 21:41:56]  <Rig[Jun]> Jun jogs up to the school and sees the shed door is already open. She can just make out Hitomi's figure standing inside the shed. "She already has her cornered," Jun thinks as she slows to a walk.
+[08-Sep-2013 21:42:01]  <IllFlower> Oh, I forgot to roll my fallout. Rig[Jun] too.
+[08-Sep-2013 21:42:07]  <Rig[Jun]> +roll 3d6
+[08-Sep-2013 21:42:08]  <rollermine> Rig[Jun]: (1+1+6)=8
+[08-Sep-2013 21:42:09]  <IllFlower> +roll 3d6
+[08-Sep-2013 21:42:09]  <rollermine> IllFlower: (5+4+5)=14
+[08-Sep-2013 21:42:12]  <Barcode[YANO_Hitomi]> oh, this is better.
+[08-Sep-2013 21:42:30]  <Rig[Jun]> So, experience and short term.
+[08-Sep-2013 21:42:49]  <Barcode[YANO_Hitomi]> Hitomi extends the baton, ready to feel around, out of ideas, when...she swings around, baton ready to swing. "Oh, Jun. Yeah, uh, look at this." She eases up.
+[08-Sep-2013 21:43:30]  <Barcode[YANO_Hitomi]> "A spell of impatience", maybe?
+[08-Sep-2013 21:43:32]  <ponicalica[Ayako]> Rig[Jun]: two experiences, yes?
+[08-Sep-2013 21:43:35]  <Barcode[YANO_Hitomi]> or insistence, maybe.
+[08-Sep-2013 21:43:44]  <Rig[Jun]> Just one.
+[08-Sep-2013 21:43:46]  <Barcode[YANO_Hitomi]> strongheadedness*
+[08-Sep-2013 21:43:54]  <Barcode[YANO_Hitomi]> ponicalica[Ayako]: Yeah, just one experience no matter how many 1s.
+[08-Sep-2013 21:45:50]  <Rig[Jun]> Jun looks past Hitomi at the girl hovering in the middle of the room. She sighs. None of this is good.
+[08-Sep-2013 21:46:25]  <ponicalica[Ayako]> Ayako walks into the shed, somewhat behind Jun and panting.  "What the--"
+[08-Sep-2013 21:47:02]  <Barcode[YANO_Hitomi]> "Yeah, I don't know. I was about to ward off whatever's possessing the shed, but...that doesn't feel like what's going on here."
+[08-Sep-2013 21:47:26]  <Rig[Jun]> "I think she's changing into one of /them/." Jun says.
+[08-Sep-2013 21:47:34]  <Rig[Jun]> "I've seen something similar before."
+[08-Sep-2013 21:47:36]  <ponicalica[Ayako]> "Like...witches?"
+[08-Sep-2013 21:48:03]  <Rig[Jun]> Jun reaches into her pocket and pulls out a tube of her lipstick. "Yeah, witches."
+[08-Sep-2013 21:48:29]  <Rig[Jun]> Want to initiate a conflict to dispel the magic or stop the transformation if that's possible.
+[08-Sep-2013 21:48:46]  <Rig[Jun]> Though the stakes should probably start out lower than that.
+[08-Sep-2013 21:48:55]  <IllFlower> An icy voice breaks through the girls' conversation. "Four's a crowd."
+[08-Sep-2013 21:49:20]  <Barcode[YANO_Hitomi]> Hitomi turns around.
+[08-Sep-2013 21:49:41]  <IllFlower> A momentary pause. "Is it too much to ask for peace?" **
+[08-Sep-2013 21:49:56]  <ponicalica[Ayako]> wait, is this supposed to be Kotomi or?
+[08-Sep-2013 21:50:05]  <Rig[Jun]> I suspect it is a newcomer.
+[08-Sep-2013 21:50:26]  <Rig[Jun]> Jun snaps around to see the newest threat.
+[08-Sep-2013 21:51:14]  <IllFlower> Nobody else there. I'd say it's Kotomi. **
+[08-Sep-2013 21:51:50]  <ponicalica[Ayako]> "Well, you stole books from the library and are doing something with your brother, so I'd say it's our business as Conservators..."
+[08-Sep-2013 21:52:08]  <Rig[Jun]> Seeing no one Jun looks up towards the girl suspended above them. This really isn't going well.
+[08-Sep-2013 21:53:01]  <Barcode[YANO_Hitomi]> ((What's Kotomi's last name?))
+[08-Sep-2013 21:53:07]  <IllFlower> Taniguchi.
+[08-Sep-2013 21:53:30]  <Barcode[YANO_Hitomi]> Hitomi firms up, matching the chill in Kotomi's voice with authority within her own. "Taniguchi Kotomi. What are you trying to do?"
+[08-Sep-2013 21:54:20]  <IllFlower> Kotomi ignores Ayako, responding instead to Hitomi's more threateningly-posed question. "Oh? I'm only here to meditate." **
+[08-Sep-2013 21:56:02]  <Barcode[YANO_Hitomi]> "So what was Shirakawa doing here, before you?"
+[08-Sep-2013 21:57:20]  <IllFlower> "Shira... Oh, Mai?
+[08-Sep-2013 21:57:44]  <IllFlower> "I'm hardly proprietary with my methods." **
+[08-Sep-2013 21:57:44]  <ponicalica[Ayako]> (Mai?  That name sounds familiar for reasons I can't place... :P :P :P)
+[08-Sep-2013 21:58:12]  <Barcode[YANO_Hitomi]> ((jan jan [something something something something]))
+[08-Sep-2013 21:58:39]  <IllFlower> You do know it's a pretty common name.
+[08-Sep-2013 21:59:11]  <Rig[Jun]> IllFlower: Do the chains attach to the walls or anything?
+[08-Sep-2013 21:59:21]  <Barcode[YANO_Hitomi]> "We were there. She certainly didn't seem to have entered your predicament willingly."
+[08-Sep-2013 21:59:32]  <IllFlower> Rig[Jun]: Yeah. They're attached to bolts in the four corners of the shed.
+[08-Sep-2013 22:00:09]  <Barcode[YANO_Hitomi]> "Unless you'd prefer that we take you down from there?"
+[08-Sep-2013 22:00:21]  <Rig[Jun]> Jun let's Hitomi and Ayako keep Kotomi distracted while she heads to the nearest attachment for the chain. She draws a quick seal around it with her lipstick before heading for the next.
+[08-Sep-2013 22:00:39]  <Barcode[YANO_Hitomi]> ((darn. i shouldn't have said that.))
+[08-Sep-2013 22:00:52]  <Rig[Jun]> Nah, it works.
+[08-Sep-2013 22:00:54]  <ponicalica[Ayako]> Upon noticing what Jun's doing, Ayako goes 180 degrees from Jun's location and starts drawing lipstick seals of her own.
+[08-Sep-2013 22:02:39]  <Barcode[YANO_Hitomi]> ((kotomi actually has six limbs. ayako stops temporarily to perform some trigonometry to figure out how many degrees she must turn))
+[08-Sep-2013 22:03:04]  <ponicalica[Ayako]> (lol, I just meant the opposite corner :V)
+[08-Sep-2013 22:03:10]  <Barcode[YANO_Hitomi]> ((yeah yeah. :P))
+[08-Sep-2013 22:03:15]  <IllFlower> "She was scared. Three Conservators coming into the room, interrupting her meditation, breaking open our seals... She would have been a fool *not* to play innocent. A few books aren't worth the suspicion, are they? She's a smart girl." **
+[08-Sep-2013 22:04:53]  <ponicalica[Ayako]> "If a few books aren't worth the suspicion, they sure shouldn't be worth locking them up with a flame seal.  You know books are flammable, right?"
+[08-Sep-2013 22:05:05]  <Rig[Jun]> Jun finishes up her second seal and sees Ayako taking care of the others. She walks to the center and kicks some mats out of the way to find the concrete floor and starts drawing larger seal right under Kotomi.
+[08-Sep-2013 22:05:48]  <IllFlower> Just a second.
+[08-Sep-2013 22:06:01]  <Barcode[YANO_Hitomi]> (Hitomi pauses. as if that wasn't what effectively happened, of course)
+[08-Sep-2013 22:06:56]  <IllFlower> ponicalica[Ayako]: "Even learning on my own, cultivating my own practices, there's only so much magic I can wield effectively. I just happen to have an affinity for fire. It was the best I could do."
+[08-Sep-2013 22:07:32]  <IllFlower> She doesn't answer the greater question of why she bothered to put on the seal in the first place, but perhaps she's realized that there's no real justification she can give for that. **
+[08-Sep-2013 22:09:46]  <Rig[Jun]> "Kotomi," Jun says, standing up from the completed fifth seal, "you need to stop. You're playing with things you don't understand. You're endangering yourself, your brother, your team, and countless people that have absolutely nothing to do with this."
+[08-Sep-2013 22:10:29]  <Rig[Jun]> "I'm going to give you one last chance to give up, repent, and come back with us peacefully." Jun drops the spent lipstick casing. "If you don't, I will do everything I can to prevent you from hurting another soul."
+[08-Sep-2013 22:10:42]  <IllFlower> "But we're already playing with things we don't understand."
+[08-Sep-2013 22:11:59]  <IllFlower> Kotomi pauses. "I nearly died once learning that lesson. The words of a Conservator are rather hollow in comparison to that, aren't they?" **
+[08-Sep-2013 22:14:05]  <Barcode[YANO_Hitomi]> Hitomi's mind is still on Mai...though this gives her fuel for the present. "Then what is this for? More power? There are safer ways to shirk your duties than to actively fight those who assign them."
+[08-Sep-2013 22:14:55]  <Rig[Jun]> "You nearly died?" Jun asks. She smiles, but it doesn't seem real. "Takeshi did die. He died because I didn't listen." Her voice is small and quiet under Hitomi's.
+[08-Sep-2013 22:15:53]  <IllFlower> "My familiar threw me up against a witch I wasn't prepared to fight.
+[08-Sep-2013 22:15:53]  <Barcode[YANO_Hitomi]> ((hitomi: incapable of forseeing emotional distress))
+[08-Sep-2013 22:16:35]  <IllFlower> "He had his favorites, you see. He got a new charge not long before then. A girl... I think Mayuzumi was her name.
+[08-Sep-2013 22:17:56]  <IllFlower> "She was a bright girl. It was obvious he saw potential in her, and he got so single-minded about bringing out that potential that he neglected the rest of us.
+[08-Sep-2013 22:19:10]  <IllFlower> "But of course, he didn't take the consequences of that decision. I did, when that witch manifested in Matsuzaka Park, and I didn't have the training I should have had to face it...
+[08-Sep-2013 22:19:33]  <IllFlower> "You say I don't understand what I'm playing with. Maybe not. But at least I'm trying." **
+[08-Sep-2013 22:21:32]  <Rig[Jun]> "And we're trying to protect you from hurting other people. What do you think you'll accomplish by stealing magic, by going against the order of things, by going outside of the system?"
+[08-Sep-2013 22:22:44]  <Barcode[YANO_Hitomi]> Hitomi thinks. She never really received glimpses into the Familiars' hierarchy...only saw other magical girls assigned more menial tasks, only arrested other initiates. Certainly magic was bigger than any one Familiar, but...are *they* ever punished..?
+[08-Sep-2013 22:23:33]  <Barcode[YANO_Hitomi]> She remains silent.
+[08-Sep-2013 22:23:43]  <IllFlower> Rig[Jun]: "The system that almost killed me? Do you really need an answer to that question?" **
+[08-Sep-2013 22:23:48]  <ponicalica[Ayako]> "Of course, by trying you mean stealing things judged to be a high risk for instability, for a loss of control, for turning you into the monsters you were charged to fight..."
+[08-Sep-2013 22:26:25]  *** Xeniera <~Solstace@71-38-132-189.ptld.qwest.net> has joined #madokamadness
+[08-Sep-2013 22:26:25]  *** ChanServ sets mode: +o Xeniera
+[08-Sep-2013 22:27:01]  <Barcode[YANO_Hitomi]> ((Maybe we can make use of the whole emdogs' unconventional-resolvement thing here...))
+[08-Sep-2013 22:27:43]  <Barcode[YANO_Hitomi]> "At Matsuzaka..." Hitomi begins slowly. "You were sent alone? I assume you couldn't stop the witch. ...There were casualties, yes?"
+[08-Sep-2013 22:28:02]  <IllFlower> I sense Hitomi's trouble with authority manifesting itself in an unusual fashion, haha.
+[08-Sep-2013 22:28:30]  <IllFlower> Anyway:
+[08-Sep-2013 22:28:31]  <Rig[Jun]> Yeah, this could probably be a conflict
+[08-Sep-2013 22:31:07]  <IllFlower> "My familiar eventually came to his senses not long later and sent someone after me. I was lucky that day. My comrade, though... not so much." **
+[08-Sep-2013 22:33:17]  <Barcode[YANO_Hitomi]> "How did the Order respond to his, shortcoming?"
+[08-Sep-2013 22:33:27]  <IllFlower> All of you: How are we doing on time?
+[08-Sep-2013 22:33:51]  <Barcode[YANO_Hitomi]> ((My parents are coming back with dinner though I already told them I'd be on this until 7. I'm sure I could wait longer, since they'll be eating out of the house, no doubt.))
+[08-Sep-2013 22:33:59]  <IllFlower> Barcode[YANO_Hitomi]: "As far as I know? Not at all." **
+[08-Sep-2013 22:33:59]  <Barcode[YANO_Hitomi]> out of the house on their own*
+[08-Sep-2013 22:34:02]  <ponicalica[Ayako]> ((I have no time constraints))
+[08-Sep-2013 22:34:04]  <Rig[Jun]> I've got an hour and a half before I absolutely need to do homework.
+[08-Sep-2013 22:34:27]  <IllFlower> Okay, that sounds fine. Guess who's prepping for a conflict.
+[08-Sep-2013 22:34:47]  <IllFlower> (Kotomi's familiar must be Pyunpyun, hm.)
+[08-Sep-2013 22:34:57]  <Barcode[YANO_Hitomi]> ((haw.))
+[08-Sep-2013 22:36:55]  <Rig[Jun]> Jun stands frozen, staring down at the seal she's prepared. Kotomi's situation is familiar, but her response is all wrong. She's trying to hurt people. Maybe not directly, but in some way, people will get hurt. Magic is not a toy or some power trip and Kotomi doesn't seem to understand that. Jun clenches her fists.
+[08-Sep-2013 22:37:39]  <IllFlower> Time to put on some Kalafina...
+[08-Sep-2013 22:39:33]  <IllFlower> Barcode[YANO_Hitomi]: Are you going to respond to Kotomi's statement?
+[08-Sep-2013 22:39:39]  <Barcode[YANO_Hitomi]> Yeah, I've been thinking >_<
+[08-Sep-2013 22:40:31]  <Barcode[YANO_Hitomi]> I could go full on rogue but going I'd rather go somewhere in between that doesn't involve witch-fighting and I'm not sure how we could help someone disappear without making them literally disappear.
+[08-Sep-2013 22:41:29]  <IllFlower> Hitomi should probably at least express her doubts.
+[08-Sep-2013 22:41:46]  <IllFlower> I mean, it's fine that you're conflicted, because Hitomi is also conflicted.
+[08-Sep-2013 22:41:52]  <Barcode[YANO_Hitomi]> heh.
+[08-Sep-2013 22:42:23]  <Barcode[YANO_Hitomi]> "No other casualties?" ((I guess this is important))
+[08-Sep-2013 22:42:26]  *** jsebookerlan is now known as jseblan
+[08-Sep-2013 22:43:36]  <Barcode[YANO_Hitomi]> ((after that i've got a response ready))
+[08-Sep-2013 22:43:44]  <IllFlower> "It was the middle of the night. Thankfully." **
+[08-Sep-2013 22:46:06]  <ponicalica[Ayako]> (sorry for only speaking up occasionally during this conversation.  Ayako clearly isn't good at getting involved when things are actually happening  :P)
+[08-Sep-2013 22:46:17]  <IllFlower> That is kind of her character.
+[08-Sep-2013 22:46:27]  <Barcode[YANO_Hitomi]> Hitomi changes tone, perhaps slightly artificially. "Surely you understand our mission. We are here to end problems within the Order and to prevent further conflict." Building towards her prior authoritative tone, she says, "And surely you know that, beyond being outnumbered, that you face the Order's finest."
+[08-Sep-2013 22:47:18]  <Barcode[YANO_Hitomi]> "Help us to dismantle your operation, give up your power, and perhaps we can see to the rest. I certainly don't want to see any more girls die."
+[08-Sep-2013 22:47:29]  <Barcode[YANO_Hitomi]> "But this. This must end."
+[08-Sep-2013 22:47:44]  <IllFlower> Kotomi sighs. "So that's how it is, is it?
+[08-Sep-2013 22:48:00]  <IllFlower> "If only I could see things in such black-and-white terms." **
+[08-Sep-2013 22:48:11]  <IllFlower> I'm going to initiate conflict.
+[08-Sep-2013 22:48:25]  <IllFlower> Kotomi wants the Conservators out of her hair for the immediate time being.
+[08-Sep-2013 22:49:18]  <Barcode[YANO_Hitomi]> So the stakes would be the continuation of whatever is going on, beyond this night?
+[08-Sep-2013 22:49:30]  <IllFlower> What do you mean?
+[08-Sep-2013 22:49:43]  <IllFlower> Oh, I see.
+[08-Sep-2013 22:49:54]  <ponicalica[Ayako]> I don't. :V
+[08-Sep-2013 22:50:01]  <IllFlower> Basically, Kotomi wants to keep going without the Conservators' interference.
+[08-Sep-2013 22:50:12]  <IllFlower> The Conservators want to shut her down here and now.
+[08-Sep-2013 22:51:23]  <Rig[Jun]> Yes.
+[08-Sep-2013 22:51:26]  <ponicalica[Ayako]> yeah
+[08-Sep-2013 22:51:28]  <Barcode[YANO_Hitomi]> yeah, sounds good.
+[08-Sep-2013 22:51:52]  <IllFlower> Okay. I'm going to start us off at magic level, because it's not like Kotomi cares for subtlety anymore.
+[08-Sep-2013 22:51:56]  <Barcode[YANO_Hitomi]> heh.
+[08-Sep-2013 22:52:02]  <ponicalica[Ayako]> magic level being d10 fallout?
+[08-Sep-2013 22:52:15]  <IllFlower> Yup. Careful out there.
+[08-Sep-2013 22:52:31]  <IllFlower> That's Ac+Wl. Any objections?
+[08-Sep-2013 22:52:37]  <Barcode[YANO_Hitomi]> 3d10 on any blow, right.
+[08-Sep-2013 22:53:05]  <Barcode[YANO_Hitomi]> I don't know what Kotomi's gonna do, but if it's magicshit with potential intent to kill, I mean, it makes sense.
+[08-Sep-2013 22:53:09]  <Rig[Jun]> No objections.
+[08-Sep-2013 22:53:17]  <ponicalica[Ayako]> (N)d10 for N the number of dice you use
+[08-Sep-2013 22:53:19]  <IllFlower> Well, depending on the actual nature of the attack, it could be lower, but I'd wager nobody's going to pull their punches.
+[08-Sep-2013 22:53:27]  <IllFlower> Okay, let's get this party started.
+[08-Sep-2013 22:53:30]  <ponicalica[Ayako]> And no objections.
+[08-Sep-2013 22:54:24]  <Rig[Jun]> +roll 2d6+4d6+1d6+1d8+2d4 > ! Ac+Wl+Magic+Conservator+Dead Boyfriend
+[08-Sep-2013 22:54:24]  <rollermine> (5+1)+(4+6+2+6)+(1)+(8)+(3+2)=38
+[08-Sep-2013 22:54:34]  <IllFlower> +roll 10d6+2d10+2d10+4d8 >! Stats, fire elemental, recklessness, demonic relationship. Gotta roll lots of dice to have a chance in a 3-on-1 conflict.
+[08-Sep-2013 22:54:34]  <rollermine> (4+3+4+4+5+1+3+6+6+5)+(9+8)+(3+4)+(2+4+8+5)=84
+[08-Sep-2013 22:54:44]  <Barcode[YANO_Hitomi]> ten dee six, lol
+[08-Sep-2013 22:55:14]  <Rig[Jun]> 1122345668 in total.
+[08-Sep-2013 22:55:23]  <IllFlower> 123334444455566889.
+[08-Sep-2013 22:55:26]  <Barcode[YANO_Hitomi]> I assume we'd be rolling costumes....
+[08-Sep-2013 22:55:31]  <Rig[Jun]> Oh, right.
+[08-Sep-2013 22:55:39]  <Rig[Jun]> I'll do that in my first raise.
+[08-Sep-2013 22:55:52]  <Barcode[YANO_Hitomi]> Probably will have to do that on your first See.
+[08-Sep-2013 22:55:53]  <IllFlower> Yeah, if you want to. I'm going to hold off because I've already got eighteen dice.
+[08-Sep-2013 22:56:23]  <ponicalica[Ayako]> +roll 5d6+3d6+1d6+2d6+2d6+1d4+1d6 >!Ac+Wl+initiation experience+conservators+costume+magic wand, lol lotsa dice
+[08-Sep-2013 22:56:23]  <rollermine> (1+6+6+1+3)+(1+1+2)+(1)+(3+6)+(5+4)+(4)+(2)=46
+[08-Sep-2013 22:56:50]  <ponicalica[Ayako]> 111112233445666, I think?
+[08-Sep-2013 22:56:52]  <IllFlower> I've been writing my dice down on a piece of paper in order to keep track of them, haha.
+[08-Sep-2013 22:57:13]  <IllFlower> ponicalica[Ayako]: 111112233445666. Yeah. Checks out.
+[08-Sep-2013 22:57:29]  <IllFlower> Okay, I'm going to go ahead and start with the first raise.
+[08-Sep-2013 22:57:32]  <Barcode[YANO_Hitomi]> +roll 4d6 + 5d6 + 2d10 > acuity, will, conservator - gonna wait to see what the first Kotomi action will be, but then I'll have costume (2d6) and meteor flail (2d6 + d4). Kinda wonder if authority distrust should become a relationship or not...
+[08-Sep-2013 22:57:32]  <rollermine> acuity, will, conservator - gonna wait to see what the first Kotomi action will be, but then I'll have costume (2d6) and meteor flail (2d6 + d4). Kinda wonder if authority distrust should become a relationship or not...: (3+3+4+6)=16
+[08-Sep-2013 22:57:49]  <Barcode[YANO_Hitomi]> something went wrong. spaces?
+[08-Sep-2013 22:57:53]  <IllFlower> Yeah.
+[08-Sep-2013 22:58:02]  <Barcode[YANO_Hitomi]> Kay. Keep the 4d6 though?
+[08-Sep-2013 22:58:06]  <Barcode[YANO_Hitomi]> Or reroll it all?
+[08-Sep-2013 22:58:10]  <IllFlower> Whatever you please.
+[08-Sep-2013 22:58:21]  <Barcode[YANO_Hitomi]> +decide reroll|don't
+[08-Sep-2013 22:58:21]  <rollermine> Barcode[YANO_Hitomi]: don't
+[08-Sep-2013 22:58:24]  <Barcode[YANO_Hitomi]> k.
+[08-Sep-2013 22:58:25]  <IllFlower> lol
+[08-Sep-2013 22:58:34]  <Barcode[YANO_Hitomi]> +roll 5d6+2d10 > the other stats, as mentioned
+[08-Sep-2013 22:58:34]  <rollermine> the other stats, as mentioned: (3+3+6+2+1)+(6+4)=25
+[08-Sep-2013 22:58:49]  <IllFlower> Okay, then.
+[08-Sep-2013 22:58:56]  <Barcode[YANO_Hitomi]> so I'm at 12333344666.
+[08-Sep-2013 22:59:33]  <IllFlower> Kotomi transforms, still suspended by the chains. She knows that she needs to end this as quickly as possible.
+[08-Sep-2013 23:00:02]  <IllFlower> Remember how she had an affinity for fire? Remember also how the shed was made of wood? Yeah.
+[08-Sep-2013 23:00:30]  <Barcode[YANO_Hitomi]> Ah, so she falls down.
+[08-Sep-2013 23:00:41]  <Barcode[YANO_Hitomi]> eventually.
+[08-Sep-2013 23:00:45]  <IllFlower> She uses her powers to set the walls ablaze, in the process snapping the chains that had been keeping her in the air.
+[08-Sep-2013 23:00:50]  <Barcode[YANO_Hitomi]> ((oh.))
+[08-Sep-2013 23:00:57]  <IllFlower> Raise 88, leave 1233344444555669.
+[08-Sep-2013 23:01:24]  <IllFlower> All right, I'd wager none of your characters is fire-resistant, so everyone has to see.
+[08-Sep-2013 23:01:29]  <Barcode[YANO_Hitomi]> heh.
+[08-Sep-2013 23:01:38]  <Barcode[YANO_Hitomi]> +roll 2d6 > costume, for now.
+[08-Sep-2013 23:01:38]  <rollermine> costume, for now.: (3+6)=9
+[08-Sep-2013 23:01:56]  <Barcode[YANO_Hitomi]> 1233333446666.
+[08-Sep-2013 23:01:58]  <Rig[Jun]> +roll 1d6
+[08-Sep-2013 23:01:58]  <rollermine> Rig[Jun]: (5)=5
+[08-Sep-2013 23:02:16]  <Barcode[YANO_Hitomi]> Wow, I basically can't survive this.
+[08-Sep-2013 23:02:36]  <ponicalica[Ayako]> well it's only if you get a perfect 20 that you die
+[08-Sep-2013 23:02:56]  <IllFlower> Death is a possibility at any fallout total above 12, though. Strong possibility at 16+.
+[08-Sep-2013 23:03:27]  <IllFlower> Jun would have the best chance of surviving injury, since she has 5d6 Bd.
+[08-Sep-2013 23:03:28]  <ponicalica[Ayako]> and such a total is a possibility with even 3d10
+[08-Sep-2013 23:03:36]  <Barcode[YANO_Hitomi]> yup.
+[08-Sep-2013 23:03:54]  <ponicalica[Ayako]> so the question is: do we care enough to risk death?
+[08-Sep-2013 23:04:15]  <Rig[Jun]> Jun does at this point. You can give and flee if you'd like.
+[08-Sep-2013 23:04:25]  <ponicalica[Ayako]> I'm still deciding, lol.
+[08-Sep-2013 23:05:22]  <IllFlower> The way I'd see it for Ayako is something like this: Does her faith in the system outweigh the risk to her life and limb?
+[08-Sep-2013 23:05:27]  <Barcode[YANO_Hitomi]> I might give if only because previous recalcitrance + showboating in the first chapter + give hitomi something to angst about aside from third degree burns.
+[08-Sep-2013 23:05:47]  <IllFlower> Yeah, I wouldn't blame you for stepping out here, haha.
+[08-Sep-2013 23:06:04]  <IllFlower> I mean, Hitomi's already shown some sympathy for Kotomi's predicament.
+[08-Sep-2013 23:06:20]  <Barcode[YANO_Hitomi]> (("And...and...her name is so similar..."))
+[08-Sep-2013 23:06:39]  <IllFlower> Ahahaha.
+[08-Sep-2013 23:07:31]  <Barcode[YANO_Hitomi]> Aight, well, I think that's what I'll do. Typing something up. (Though in doing that she'd definitely not keep too far away, in case something bad happens and Jun needs help. Dying girls, and so on.)
+[08-Sep-2013 23:07:43]  <Rig[Jun]> As the walls combust Jun snaps. She pulls in all the magical energy she can summon and drives her fist straight down into the magical seal below her. At the point of contact the magic expands outward rapidly in a rush of purple light. Her costume forms around her as the light covers her and the seal glows. A shield of the purple light forms a bubble around Jun as she stands. The flames light at the bubble and it flicker
+[08-Sep-2013 23:07:44]  <Rig[Jun]> briefly, but holds.
+[08-Sep-2013 23:07:46]  <Rig[Jun]> See: 862. Leaving 11234556. Fallout 3d10.
+[08-Sep-2013 23:07:53]  <Rig[Jun]> s/light at the bubble/lick at the bubble
+[08-Sep-2013 23:08:02]  <IllFlower> ponicalica[Ayako]?
+[08-Sep-2013 23:08:16]  <ponicalica[Ayako]> IllFlower: I think I'm going to give.  Typing something up.
+[08-Sep-2013 23:09:51]  <ponicalica[Ayako]> actually, typing it up, I got back into doubt mode.  I don't know what this means. :V
+[08-Sep-2013 23:10:02]  <IllFlower> The kinds of conflicts you guys have stayed in reflect your characters pretty well, haha.
+[08-Sep-2013 23:10:20]  *** Juan <~Juan_Carl@192-0-207-49.cpe.teksavvy.com> has joined #madokamadness
+[08-Sep-2013 23:10:21]  <ponicalica[Ayako]> Actually, yeah, give.  Typing again.
+[08-Sep-2013 23:11:03]  <IllFlower> Hitomi sticks it out for the chance to beat a guy up, Ayako went one-on-one in a textbook charm dispelling, and now Jun's holding fast to her convictions.
+[08-Sep-2013 23:11:19]  <IllFlower> Gotta love how that works out.
+[08-Sep-2013 23:11:35]  <Rig[Jun]> It only makes sense. :P
+[08-Sep-2013 23:11:46]  <IllFlower> Indeed.
+[08-Sep-2013 23:12:18]  <Barcode[YANO_Hitomi]> Hitomi is caught off-guard. She transforms in time but receives the brunt of the hellfire - as well as the brunt of a few two-by-fours sent flying by Kotomi's transformation. She stumbles backwards and with horror notices that these flames seem to be catching onto her costume. Impossible - for regular flame. She can't do this. She won't die here. Running, and with a few magical flares
+[08-Sep-2013 23:12:18]  <Barcode[YANO_Hitomi]> , Hitomi's costume is put out but rapidly sloughs off into debris. She stumbles into the grass a short sprint away and lies low. (Give.)
+[08-Sep-2013 23:12:31]  <IllFlower> Rig[Jun]: Okay, while the other two are extricating themselves from this hairy scenario, you can go ahead and raise.
+[08-Sep-2013 23:12:50]  * Rig[Jun] looks at the dice he has left.
+[08-Sep-2013 23:12:56]  <Barcode[YANO_Hitomi]> ((that almost sounds like a "damaged/destroyed costume" fallout, but here I just mean to be like, in line with her dissolved will.))
+[08-Sep-2013 23:12:56]  * Rig[Jun] looks at the dice Kotomi has.
+[08-Sep-2013 23:12:59]  <ponicalica[Ayako]> Ayako watches the walls go up in flame; she thinks back to the tub, but this time in a much bigger scale.  While in that case she escaped just with a few scars on her hands and some unraveling in her costume, here she could sense the howling closeness of death, and that scared her.  Much like with the tub, she quickly withdraws, running out the door; unlike with the tub, she runs away from the school.  At least she rescued the 
+[08-Sep-2013 23:13:05]  <ponicalica[Ayako]>                               unlike with the tub, she runs away from the school.  At least she rescued the books, she guesses.  Give.
+[08-Sep-2013 23:13:36]  <Barcode[YANO_Hitomi]> IllFlower: Hold on, do you get the fallout dice if you raise, or even if you see and then give?
+[08-Sep-2013 23:14:06]  <Rig[Jun]> Fallout happens no matter what at the end.
+[08-Sep-2013 23:14:10]  <Barcode[YANO_Hitomi]> ah.
+[08-Sep-2013 23:14:25]  <IllFlower> Right, yeah, you can't give to avoid fallout you've already taken.
+[08-Sep-2013 23:14:26]  <ponicalica[Ayako]> Fallout is when you see with 3+ dice
+[08-Sep-2013 23:15:44]  <Rig[Jun]> Jun throws her arms out and pushes her forcefield out suddenly, lashing out at all the flames and trying to suffocate them while strike out at Kotomi simultaneously. The exertion is immense, but years of training have prepared her for even the most hopeless fights. 
+[08-Sep-2013 23:16:16]  <Rig[Jun]> +roll 1d8 + 1d6 > ! for kendo training + putting herself in harms way
+[08-Sep-2013 23:16:16]  <rollermine> (8)=8
+[08-Sep-2013 23:16:22]  <Rig[Jun]> +roll 1d6
+[08-Sep-2013 23:16:22]  <rollermine> Rig[Jun]: (5)=5
+[08-Sep-2013 23:16:33]  <Barcode[YANO_Hitomi]> oh, not bad.
+[08-Sep-2013 23:16:38]  <IllFlower> Not bad at all.
+[08-Sep-2013 23:16:46]  <Rig[Jun]> Raise 58, leave 11234556.
+[08-Sep-2013 23:16:59]  <Rig[Jun]> Gonna push back hard.
+[08-Sep-2013 23:17:50]  <IllFlower> I like your style.
+[08-Sep-2013 23:19:27]  <IllFlower> Kotomi sees the rush of flames Jun deflected towards her, and dives out of the way. She rolls through a collapsing wall and out of the shed, taking little injury. See 49, leave 12333444455566.
+[08-Sep-2013 23:19:57]  <IllFlower> I'm going to roll her 2d4 for her fear of witches. It's only fair when I rolled the 4d8 for her relationship with them, haha.
+[08-Sep-2013 23:20:00]  <IllFlower> +roll 2d4
+[08-Sep-2013 23:20:00]  <rollermine> IllFlower: (4+4)=8
+[08-Sep-2013 23:20:07]  <Barcode[YANO_Hitomi]> Kotomi has one?
+[08-Sep-2013 23:20:08]  <IllFlower> Oh, well, damn.
+[08-Sep-2013 23:20:16]  <IllFlower> Barcode[YANO_Hitomi]: Yeah, it's explained on her character sheet.
+[08-Sep-2013 23:20:44]  <IllFlower> Basically, she's not exactly over having nearly died at the hands of one, even if she is a sorcerer.
+[08-Sep-2013 23:20:52]  <Barcode[YANO_Hitomi]> m.
+[08-Sep-2013 23:21:29]  <Rig[Jun]> Oh, I could have probably pulled in the 1d6 for the lipstick seals. Oh well.
+[08-Sep-2013 23:22:12]  <Rig[Jun]> I must say that this has been a much more exciting session than last time. :P
+[08-Sep-2013 23:22:12]  <IllFlower> Kotomi fires a few more bolts of fire at the rapidly disintegrating shed, hoping that they'll delay Jun for long enough that she can escape. Raise 46, see 12333444445556.
+[08-Sep-2013 23:22:30]  <IllFlower> Rig[Jun]: lol, I certainly hope so.
+[08-Sep-2013 23:22:49]  <IllFlower> That's raise 46, *leave* the rest, obviously.
+[08-Sep-2013 23:23:12]  <Barcode[YANO_Hitomi]> snerk
+[08-Sep-2013 23:23:30]  <Barcode[YANO_Hitomi]> 14d10 fallout; kotomi is atomized
+[08-Sep-2013 23:23:30]  <IllFlower> "take 14d10 fallout"
+[08-Sep-2013 23:23:31]  <ponicalica[Ayako]> now here I thought you were seeing with all the rest of your dice
+[08-Sep-2013 23:23:50]  <ponicalica[Ayako]> man, what's even the probability of not getting an instant 20 on that
+[08-Sep-2013 23:24:00]  <Barcode[YANO_Hitomi]> if only i remembered my statistics.
+[08-Sep-2013 23:24:18]  <ponicalica[Ayako]> @wa 0.95^14+14*0.95^13*0.05
+[08-Sep-2013 23:24:19]  <Omnipresence> 14ponicalica[Ayako]: Wolfram|Alpha: Input: 0.95^14+14×0.95^13×0.05 — Result: 0.8470144374111834393310546875 — Repeating decimal: 0.84701443741118343933105468750
+[08-Sep-2013 23:24:28]  <ponicalica[Ayako]> oh actually better than I thought :V
+[08-Sep-2013 23:24:41]  <Barcode[YANO_Hitomi]> .95? not .90?
+[08-Sep-2013 23:24:41]  <ponicalica[Ayako]> only a fifteen percent chance of instadeath
+[08-Sep-2013 23:24:52]  <BGTB2005> 14considering how trollermine rolls...
+[08-Sep-2013 23:24:55]  <ponicalica[Ayako]> Barcode[YANO_Hitomi]: oh right, d10s. :V
+[08-Sep-2013 23:25:03]  <IllFlower> +roll 14d10 >! Just for kicks...
+[08-Sep-2013 23:25:03]  <rollermine> (9+5+2+1+4+2+8+9+7+5+6+3+7+8)=76
+[08-Sep-2013 23:25:08]  <IllFlower> Wow, only 18!
+[08-Sep-2013 23:25:10]  <ponicalica[Ayako]> @wa 0.90^14+14*0.90^13*0.10
+[08-Sep-2013 23:25:10]  <Omnipresence> 14ponicalica[Ayako]: Wolfram|Alpha: Input: 0.9^14+14×0.9^13×0.1 — Result: 0.58462914051567 — Repeating decimal: 0.584629140515670
+[08-Sep-2013 23:25:11]  <Barcode[YANO_Hitomi]> lol
+[08-Sep-2013 23:25:25]  <ponicalica[Ayako]> forty-percent chance of not getting instadeath
+[08-Sep-2013 23:25:32]  <IllFlower> Rig[Jun]: How's it going?
+[08-Sep-2013 23:25:32]  <Rig[Jun]> Jun walks out of the burning splinters of the shed still wrapped in her glowing bubble. The bolts of fire from Kotomi speed her way, but with efficient, practiced movements she mimics drawing a sword. As she does her forcefield solidifies into a blade of light in her hand. With two quick slashes she deflects the firebolts.
+[08-Sep-2013 23:25:36]  <IllFlower> Oh, hey.
+[08-Sep-2013 23:25:39]  <Rig[Jun]> +roll 1d6 > ! for shinai
+[08-Sep-2013 23:25:39]  <rollermine> (3)=3
+[08-Sep-2013 23:25:59]  <Rig[Jun]> See 46, leave 1123355.
+[08-Sep-2013 23:26:20]  <IllFlower> All right.
+[08-Sep-2013 23:27:45]  <IllFlower> Raise?
+[08-Sep-2013 23:27:49]  <Rig[Jun]> Not sure how to best do a raise here. I was thinking Jun would either create a forcefield in front of Kotomi or would like flash-after her.
+[08-Sep-2013 23:28:18]  <Barcode[YANO_Hitomi]> Depends on Jun's intent. If she's especially angry she could dash in and slash with the sabre made of light.
+[08-Sep-2013 23:28:29]  <Barcode[YANO_Hitomi]> She could of course also do wall in front and fists approaching close.
+[08-Sep-2013 23:28:33]  <Rig[Jun]> Also, there are no objections to me pulling that last belonging, right?
+[08-Sep-2013 23:28:38]  <IllFlower> Hm, her kendo-based powers don't really have much affordance for fleeing people, haha.
+[08-Sep-2013 23:28:49]  <IllFlower> Considering kendo generally isn't about chasing your opponent.
+[08-Sep-2013 23:29:02]  <Rig[Jun]> No, it's certainly difficult for this character's style.
+[08-Sep-2013 23:29:21]  <IllFlower> I'd say Kotomi's not that far away, if it helps.
+[08-Sep-2013 23:29:36]  <IllFlower> She's only getting up to her feet after rolling out of the shed and firing the bolts behind her.
+[08-Sep-2013 23:30:00]  <Rig[Jun]> Okay, I've got an idea. Let's see what you guys think of it and we can rework it if it seems out of character or too much.
+[08-Sep-2013 23:30:05]  <Barcode[YANO_Hitomi]> Worse comes to worse you could pull a weak raise, if only because she's not like, a pursuit expert. That would just involve Kotomi reacting powerfully, but.
+[08-Sep-2013 23:30:10]  <IllFlower> So Jun could run up to her and try to intercept her with a sword slash.
+[08-Sep-2013 23:30:22]  <Barcode[YANO_Hitomi]> Dinner's here, but I don't have to type actively. Bringing laptop down...
+[08-Sep-2013 23:30:55]  *** Barcode <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has joined #madokamadness
+[08-Sep-2013 23:30:55]  *** ChanServ sets mode: +o Barcode
+[08-Sep-2013 23:31:57]  *** Barcode[YANO_Hitomi] <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has quit IRC (Quit: Reise, reise...)
+[08-Sep-2013 23:32:16]  <Rig[Jun]> "You can't run from this, Kotomi." Jun reaches out her free hand and closes her fist. A dome of purple light seals off the area around the pair of them. Jun smiles and settles down into her fighting stance. "You're going to hurt someone, and I can't let you." Raise 55, leave 11233.
+[08-Sep-2013 23:32:38]  <Rig[Jun]> Also, my cat jumped over my laptop to fall on my chest while I was typing and now I am covered in claw marks and very pissed.
+[08-Sep-2013 23:33:08]  <Barcode> >_<
+[08-Sep-2013 23:33:19]  <ponicalica[Ayako]> lol, whoops
+[08-Sep-2013 23:33:22]  <Barcode> Hitomi begins to look up from her limp prostration at the unfolding fight. For the first time in a long, long while, she is utterly powerless.
+[08-Sep-2013 23:33:33]  *** Barcode is now known as Barcode[YANO_Hitomi]
+[08-Sep-2013 23:34:00]  <Rig[Jun]> Barcode[YANO_Hitomi]: For your imagining pleasure, Jun's eyes are now glowing with purple flames like one of your Black Rock Shooter's.
+[08-Sep-2013 23:34:27]  <ponicalica[Ayako]> lol
+[08-Sep-2013 23:34:31]  <Barcode[YANO_Hitomi]> ((   /_*u*_\   ))
+[08-Sep-2013 23:35:18]  <Barcode[YANO_Hitomi]> ((fancy eyes hvea been on my mind all day, since my laptop camera was curiously showing the window's light as flickering computer-error-purple while I was using Photo Booth.))
+[08-Sep-2013 23:35:23]  <Juan> Better yet, /r/trees (the marijuana subreddit) was recently adding new moderators. Snoop asked why they forgot to add him, so now he’s a moderator.  // this is my new favorite thing
+[08-Sep-2013 23:35:27]  <Barcode[YANO_Hitomi]> ((the window's light in my eyes*))
+[08-Sep-2013 23:35:53]  <Juan> Anyone here seen The World's End?
+[08-Sep-2013 23:35:58]  <ponicalica[Ayako]> Juan: it's the middle of an RP
+[08-Sep-2013 23:36:03]  <Alicia> (Not me.)
+[08-Sep-2013 23:36:05]  <Juan> oh shit sorry
+[08-Sep-2013 23:36:05]  <Rig[Jun]> Juan: Mind giving up about 30 more minutes or so.
+[08-Sep-2013 23:36:32]  *** Rig[Jun] changes topic to https://room208.org/wiki/events | All times U.S. ET/PT | RIGHT NOW: MAGICAL DOGS PLAYTESTING
+[08-Sep-2013 23:36:50]  <IllFlower> Oh, I forgot to do that, didn't I. Derp.
+[08-Sep-2013 23:37:30]  <Barcode[YANO_Hitomi]> ((what a coincidence - it's IBRS's eyes that are purple.))
+[08-Sep-2013 23:39:14]  <IllFlower> Kotomi climbs to her feet, putting as much distance between herself and Jun as possible. See 55. "Do you really want to be in an enclosed space with a firestarter?" she asks, matter-of-factly, as she sets the grass inside the dome ablaze. Raise 46, leave 1233344445.
+[08-Sep-2013 23:40:33]  *** SF_Sorrow <~SF_Sorrow@99-67-18-70.lightspeed.sntcca.sbcglobal.net> has joined #madokamadness
+[08-Sep-2013 23:41:12]  <Barcode[YANO_Hitomi]> Kinda wanna have Hitomi yell at Jun to back out, but can we tell how dire this is?
+[08-Sep-2013 23:41:56]  <IllFlower> Everything is on fire. I think you can tell.
+[08-Sep-2013 23:42:03]  <Rig[Jun]> Jun ignores the flames and charges at Kotomi. She refuses to let this girl get away. As she charges the flames and smoke sting and burn her limbs and her magic begins to fade. She collapses and the purple light disappears and Jun's costume shatters into fragments that fade quickly among the flames. See 11233. Take 5d10 Fallout.
+[08-Sep-2013 23:42:03]  <Barcode[YANO_Hitomi]> Heheh.
+[08-Sep-2013 23:42:09]  <Rig[Jun]> Total 8d10 fallout.
+[08-Sep-2013 23:42:11]  <IllFlower> Jesus.
+[08-Sep-2013 23:42:19]  <Barcode[YANO_Hitomi]> well.
+[08-Sep-2013 23:42:32]  <ponicalica[Ayako]> also you don't have dice left :V
+[08-Sep-2013 23:42:39]  <Rig[Jun]> I will role-play this damn character to the end of the fucking earth.
+[08-Sep-2013 23:42:51]  <IllFlower> High five, man.
+[08-Sep-2013 23:42:53]  <Rig[Jun]> Also, I'm out of dice.
+[08-Sep-2013 23:42:53]  <IllFlower> I salute you.
+[08-Sep-2013 23:43:02]  <ponicalica[Ayako]> @wa .9^8+8*.9^7*.1
+[08-Sep-2013 23:43:03]  <IllFlower> Okay, let's go ahead and jump to fallout resolution.
+[08-Sep-2013 23:43:03]  <Omnipresence> 14ponicalica[Ayako]: Wolfram|Alpha: Input: 0.9^8+8×0.9^7×0.1 — Result: 0.81310473 — Repeating decimal: 0.813104730
+[08-Sep-2013 23:43:13]  <Rig[Jun]> +roll 8d10
+[08-Sep-2013 23:43:13]  <rollermine> Rig[Jun]: (3+4+8+10+2+7+8+8)=50
+[08-Sep-2013 23:43:16]  <IllFlower> 18.
+[08-Sep-2013 23:43:27]  <Barcode[YANO_Hitomi]> lemme check the manual.
+[08-Sep-2013 23:43:33]  <IllFlower> Okay, someone with high Ac want to be Jun's healer?
+[08-Sep-2013 23:43:41]  <Rig[Jun]> Page 81.
+[08-Sep-2013 23:43:43]  <Rig[Jun]> For reference.
+[08-Sep-2013 23:44:10]  <ponicalica[Ayako]> Is Ayako close enough to the situation to come to his aid?
+[08-Sep-2013 23:44:14]  <IllFlower> Yeah.
+[08-Sep-2013 23:44:19]  <Rig[Jun]> You should also move me out of the fire.
+[08-Sep-2013 23:44:54]  <Barcode[YANO_Hitomi]> hold on, cjickemn wings
+[08-Sep-2013 23:44:58]  <IllFlower> We'll assume Ayako does that, haha.
+[08-Sep-2013 23:45:23]  <Rig[Jun]> Ayako is probably the best bet for healing.
+[08-Sep-2013 23:45:40]  <IllFlower> ponicalica[Ayako]: You'll roll all the dice here. Jun's Bd + Ayako's Ac + any relevant relationships, traits, or belongings.
+[08-Sep-2013 23:45:58]  <Barcode[YANO_Hitomi]> yeah, hitomi's healing thing is self centered and she also spent the magic not dying.
+[08-Sep-2013 23:46:03]  <ponicalica[Ayako]> of course right this moment is the moment connection with piratepad gets spotty :V
+[08-Sep-2013 23:46:04]  <Rig[Jun]> Quick, make the key relevant!
+[08-Sep-2013 23:46:21]  <Barcode[YANO_Hitomi]> the scene from pulp fiction
+[08-Sep-2013 23:46:26]  <IllFlower> I'm going to roll the fallout dice plus Demonic Influence (4d10).
+[08-Sep-2013 23:46:34]  <Rig[Jun]> 12d10
+[08-Sep-2013 23:46:37]  <IllFlower> +roll 12d10
+[08-Sep-2013 23:46:37]  <rollermine> IllFlower: (7+4+8+6+7+8+9+2+10+1+2+2)=66
+[08-Sep-2013 23:46:47]  * Rig[Jun] laughs alone forever with death.
+[08-Sep-2013 23:47:05]  <Rig[Jun]> It's not a game of Dogs unless I try to kill my character off fighting a possessed lady.
+[08-Sep-2013 23:47:09]  <ponicalica[Ayako]> Rig[Jun]: do you think any of Jun's traits/relationships should come into play?
+[08-Sep-2013 23:47:39]  <IllFlower> Relationship with Ayako, definitely. Although that's not going to help much...
+[08-Sep-2013 23:48:04]  <Rig[Jun]> That's pretty much it from Jun.
+[08-Sep-2013 23:48:22]  <Rig[Jun]> I could argue that her trait about putting herself in the way would work, but she didn't save anyone doing this.
+[08-Sep-2013 23:48:47]  <IllFlower> Ayako's got a lot of traits that might help here.
+[08-Sep-2013 23:48:50]  <Barcode[YANO_Hitomi]> WOuld we want to at least assume the flames die down as Kotomi flees?
+[08-Sep-2013 23:49:00]  <Rig[Jun]> Does Kotomi actually flee?
+[08-Sep-2013 23:49:07]  <IllFlower> Well-read, taking charge of a complex situation, not running from violence, handling dangerous magic...
+[08-Sep-2013 23:49:10]  <Barcode[YANO_Hitomi]> oh, right. IllFlower still would have to say something.
+[08-Sep-2013 23:49:11]  <Rig[Jun]> Is she in shock that Jun would sacrifice herself to stop her.?
+[08-Sep-2013 23:49:32]  <Rig[Jun]> Does she now rethink all her previous actions and renounce the Devil and give into the King of Life's will?
+[08-Sep-2013 23:49:44]  <IllFlower> She set the shed ablaze with the intention of getting rid of the girls by force, so I'm gonna say no to that one.
+[08-Sep-2013 23:49:47]  <Rig[Jun]> (No. She runs away shouting "Later, suckers.")
+[08-Sep-2013 23:50:14]  <IllFlower> Well, she doesn't even care enough about Jun to rub it in, but yeah.
+[08-Sep-2013 23:50:33]  <ponicalica[Ayako]> +roll 5d6+d4+5d6+2d8+1d6+1d6+2d10+2d6 >! Jun's Bd+Jun's Ayako relationship+Ayako's Ac+well-read+takes charge+not running from violence+dangerous magic+relationship w/ Conservators(she is helping a fellow Conservator, after all)
+[08-Sep-2013 23:50:33]  <rollermine> (3+1+5+5+2)+4+(3+5+2+3+4)+(3+3)+(3)+(5)+(3+1)+(2+4)=61
+[08-Sep-2013 23:50:35]  <Rig[Jun]> Yeah, I figured. Was worth a shot though.
+[08-Sep-2013 23:50:44]  <IllFlower> Yeesh.
+[08-Sep-2013 23:50:45]  <Nitya> 14 jesus poni
+[08-Sep-2013 23:51:06]  <ponicalica[Ayako]> 14still less than IllFlower has
+[08-Sep-2013 23:51:09]  <Rig[Jun]> The key should turn out to be a magical artifact worth 99 1ups.
+[08-Sep-2013 23:51:20]  <ponicalica[Ayako]> 14though I think there's still a few things left I can use
+[08-Sep-2013 23:51:21]  <IllFlower> lololol
+[08-Sep-2013 23:51:25]  <IllFlower> The notebook.
+[08-Sep-2013 23:51:32]  <Rig[Jun]> Yeah, include the notebook.
+[08-Sep-2013 23:51:40]  <ponicalica[Ayako]> +roll 1d6
+[08-Sep-2013 23:51:40]  <rollermine> ponicalica[Ayako]: (3)=3
+[08-Sep-2013 23:51:47]  <Rig[Jun]> trollermine.
+[08-Sep-2013 23:51:59]  <Rig[Jun]> Okay, go ahead and kill Jun, IllFlower.
+[08-Sep-2013 23:52:01]  <ponicalica[Ayako]> I could also probably throw in Saki.
+[08-Sep-2013 23:52:08]  <Barcode[YANO_Hitomi]> saki...?
+[08-Sep-2013 23:52:10]  <ponicalica[Ayako]> +roll d10
+[08-Sep-2013 23:52:10]  <rollermine> ponicalica[Ayako]: 5=5
+[08-Sep-2013 23:52:12]  <ponicalica[Ayako]> Barcode[YANO_Hitomi]: the mentor
+[08-Sep-2013 23:52:15]  <Barcode[YANO_Hitomi]> ah.
+[08-Sep-2013 23:52:33]  <ponicalica[Ayako]> @wa sort {3,1,5,5,2,4,3,5,2,3,4,3,3,3,5,3,1,2,4,3,5}
+[08-Sep-2013 23:52:35]  <Omnipresence> 14ponicalica[Ayako]: Wolfram|Alpha: Assuming  referring to math — Input: Sort[{3, 1, 5, 5, 2, 4, 3, 5, 2, 3, 4, 3, 3, 3, 5, 3, 1, 2, 4, 3, 5}] — Result: {1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5}
+[08-Sep-2013 23:52:46]  <ponicalica[Ayako]> 112223333333344455555.
+[08-Sep-2013 23:52:54]  <Barcode[YANO_Hitomi]> referring to math
+[08-Sep-2013 23:53:03]  <ponicalica[Ayako]> Barcode[YANO_Hitomi]: as opposed to other uses of the word sort
+[08-Sep-2013 23:53:07]  <Rig[Jun]> I really should just run DogsBot when we do this.
+[08-Sep-2013 23:53:11]  <IllFlower> Well, I'm going to raise. Jun is still on fire. Raise 2X, leave 1224677889.
+[08-Sep-2013 23:53:21]  <ponicalica[Ayako]> what level is this at, by the way?
+[08-Sep-2013 23:53:24]  <Rig[Jun]> "Jun is still on fire." Best raise.
+[08-Sep-2013 23:53:46]  <Barcode[YANO_Hitomi]> I assume I can't come back into this one?
+[08-Sep-2013 23:53:47]  <IllFlower> ponicalica[Ayako]: There is no escalation here. You get victim's Bd + healer's Ac, and that's it.
+[08-Sep-2013 23:53:57]  <ponicalica[Ayako]> IllFlower: What level of fallout am I taking here.
+[08-Sep-2013 23:54:29]  <IllFlower> Oh, hm, I don't think the manual actually specifies...
+[08-Sep-2013 23:54:58]  <Rig[Jun]> Did we decide in our previous Dogs games? (Dogs on Mars)
+[08-Sep-2013 23:55:11]  <ponicalica[Ayako]> it doesn't, I think.  :V
+[08-Sep-2013 23:55:31]  <Barcode[YANO_Hitomi]> I could see flame being knife fallout, I mean, exposure to injurious flame is not nearly as immediately dangerous as a bullet.
+[08-Sep-2013 23:56:03]  <IllFlower> I'm going to go d6s here.
+[08-Sep-2013 23:56:24]  <Rig[Jun]> IllFlower: You said that last time.
+[08-Sep-2013 23:56:32]  <Rig[Jun]> «(You take any fallout from this conflict, Rashi, by the way, though since this is only a physical conflict it's just d6)»
+[08-Sep-2013 23:56:33]  <IllFlower> Barcode[YANO_Hitomi]: You can't get directly involved, but since Ayako is going to take any fallout from this conflict there may be a knock-on effect...
+[08-Sep-2013 23:56:42]  <ponicalica[Ayako]> d6s sounds about right.
+[08-Sep-2013 23:56:50]  <IllFlower> Rig[Jun]: I was just trying to remember what I said previously, haha.
+[08-Sep-2013 23:57:12]  <Rig[Jun]> Searched our logs for "Gideon" + "dying"
+[08-Sep-2013 23:57:15]  <Barcode[YANO_Hitomi]> knock-on meaning like, domino?
+[08-Sep-2013 23:57:36]  <IllFlower> Barcode[YANO_Hitomi]: Yeah.
+[08-Sep-2013 23:57:39]  <Barcode[YANO_Hitomi]> ah.
+[08-Sep-2013 23:57:42]  <IllFlower> Let's hope not.
+[08-Sep-2013 23:58:04]  <IllFlower> ponicalica[Ayako]: Your response?
+[08-Sep-2013 23:58:47]  <Barcode[YANO_Hitomi]> well, that's fine by me. Hitomi's shitting in the grass contemplating how she threw her friend(s) to the dogs because her heart wasn't into risking herself instead.
+[08-Sep-2013 23:58:48]  <ponicalica[Ayako]> Ayako, in a bit of a panic, pulls out her notebook and starts flipping through rapidly.  She comes across a quick chant that will squelch the fuel, almost like a quick layer of that carbon dioxide foam but without the foam.  See 444, leave 112223333333355555, take 3d6 fallout
+[08-Sep-2013 23:59:00]  <IllFlower> ("Can I assign Jun's leftover 1d10 relationship to 'being alive'?")
+[08-Sep-2013 23:59:25]  <Barcode[YANO_Hitomi]> (("ha ha, 'to the dogs'")
+[08-Sep-2013 23:59:26]  <IllFlower> I take it the fallout is from getting burnt in her panic.
+[08-Sep-2013 23:59:27]  <Barcode[YANO_Hitomi]> )
+[08-Sep-2013 23:59:39]  <Rig[Jun]> Well, if Ayako has any leftover relationship dice she can assign it to a relationship with Jun.
+[08-Sep-2013 23:59:40]  <ponicalica[Ayako]> That sounds like a good idea.
+[08-Sep-2013 23:59:44]  <Barcode[YANO_Hitomi]> I was gonna say. Did she  run in, then realize the flames are pretty nasty?
+[09-Sep-2013 00:00:28]  <IllFlower> Something like that. We don't have to be too concrete. The fallout tells us "stuff be bad" already.
+[09-Sep-2013 00:01:14]  <Barcode[YANO_Hitomi]> m.
+[09-Sep-2013 00:01:22]  <IllFlower> Rig[Jun]: Yeah, ponicalica[Ayako]'s got 1d4 1d6 1d8 left.
+[09-Sep-2013 00:02:03]  <ponicalica[Ayako]> hmm, did I bring in the lipstick?  Now that the fire's out of the way especially, I think drawing a circle could help.  As for a relationship, the question would really be how to phrase it.
+[09-Sep-2013 00:02:18]  <Barcode[YANO_Hitomi]> Might want to first drag Jun out of the fire before coming up with healing runes.
+[09-Sep-2013 00:02:31]  <IllFlower> ponicalica[Ayako]: "Jun 1d8 - Wants her to stay alive, dammit."
+[09-Sep-2013 00:02:35]  <Rig[Jun]> "Jun was ready to give her life for the Conservators. I wish I had conviction like her."
+[09-Sep-2013 00:02:42]  <IllFlower> That works too.
+[09-Sep-2013 00:02:53]  <Rig[Jun]> I like the first one too.
+[09-Sep-2013 00:02:55]  <ponicalica[Ayako]> Barcode[YANO_Hitomi]: well I did an anti-fire spell so I presume that immediate danger is gone?
+[09-Sep-2013 00:03:00]  <Barcode[YANO_Hitomi]> oh, right.
+[09-Sep-2013 00:03:28]  <Rig[Jun]> (Later) "YOU HAD AN ANTI-FIRE SPELL ALL ALONG"
+[09-Sep-2013 00:03:30]  <IllFlower> In any case, urgency is of the essence. Jun is dying!
+[09-Sep-2013 00:03:51]  <Rig[Jun]> Jun coughs up some smoke.
+[09-Sep-2013 00:06:32]  <ponicalica[Ayako]> Her next step is to get Jun at least stable.  Not even quickly enough to pull out the tub of lipstick, she draws on the now ash-covered ground by creating a groove, like drawing in sand but messier.  Raise 55, leave 1122233333333555.
+[09-Sep-2013 00:07:22]  <IllFlower> Like drawing "Elbereth" in the dust, eh?
+[09-Sep-2013 00:07:27]  <Rig[Jun]> Heh.
+[09-Sep-2013 00:07:32]  <Barcode[YANO_Hitomi]> ((∂_∂))
+[09-Sep-2013 00:07:51]  <ponicalica[Ayako]> IllFlower: that's nethack, right?
+[09-Sep-2013 00:07:55]  <IllFlower> Yeah.
+[09-Sep-2013 00:09:22]  <Barcode[YANO_Hitomi]> ((Kotomi runs in fear.))
+[09-Sep-2013 00:10:08]  <ponicalica[Ayako]> ((kotomi's long gone, presumably.))
+[09-Sep-2013 00:10:38]  <IllFlower> Jun's body convulses as she coughs, obscuring some of the lines Ayako's drawn. See 46. The fire *on* her may be out, but Jun's inhaled quite a bit of smoke, and is struggling to breathe. Raise 29, leave 127788.
+[09-Sep-2013 00:12:18]  <ponicalica[Ayako]> I'm going to assign the d8 to Jun now.
+[09-Sep-2013 00:12:56]  <IllFlower> Sure.
+[09-Sep-2013 00:13:07]  <ponicalica[Ayako]> +roll d8
+[09-Sep-2013 00:13:08]  <rollermine> ponicalica[Ayako]: 7=7
+[09-Sep-2013 00:13:13]  <IllFlower> Nicely done.
+[09-Sep-2013 00:16:00]  <ponicalica[Ayako]> Ayako sees a wisp of smoke coming out of Jun's mouth.  "I WON'T LET YOU DIE!" she screams as she does CPR, which I'm not even sure if medical professionals think you should do that anymore.  See 57, leave 112223333333355.
+[09-Sep-2013 00:17:06]  <Rig[Jun]> Actually, I don't know a proper treatment for smoke inhalation.
+[09-Sep-2013 00:17:36]  <Barcode[YANO_Hitomi]> They need to do some lung compression shit to force the monoxide out.
+[09-Sep-2013 00:17:37]  <ponicalica[Ayako]> that mass of threes versus your few good dice are making me worry that Ayako will need medical attention next, which would be ironic
+[09-Sep-2013 00:17:52]  <Barcode[YANO_Hitomi]> Thankfuly we can always say magic.jpg
+[09-Sep-2013 00:17:54]  <IllFlower> Administration of supplemental oxygen.
+[09-Sep-2013 00:18:01]  <ponicalica[Ayako]> Rig[Jun]: Not that this matters, since this is anime and screaming to the heavens that you won't die is the real treatment here.
+[09-Sep-2013 00:18:02]  <Rig[Jun]> Barcode[YANO_Hitomi]: Looks like lots of it involves fixing the inflammation of the lungs.
+[09-Sep-2013 00:18:15]  <Alicia> (Pfft.)
+[09-Sep-2013 00:18:27]  <Barcode[YANO_Hitomi]> And I mean, there are the burns too.
+[09-Sep-2013 00:18:30]  <Barcode[YANO_Hitomi]> (?)
+[09-Sep-2013 00:19:01]  <ponicalica[Ayako]> I am going to so get screwed over by these dice though, since lol reversing the blow
+[09-Sep-2013 00:19:11]  <Rig[Jun]> You can always give, man.
+[09-Sep-2013 00:19:53]  <ponicalica[Ayako]> Mostly now I'm thinking if there are good reasons for me to pull out the dice I have remaining. :P
+[09-Sep-2013 00:20:03]  <Barcode[YANO_Hitomi]> Well, you can still raise, and then bring in the other dice next time.
+[09-Sep-2013 00:20:23]  <Barcode[YANO_Hitomi]> next round* or give next round.
+[09-Sep-2013 00:20:41]  <IllFlower> Well, giving means Jun dies. I'm not sure Ayako would be up for that.
+[09-Sep-2013 00:20:49]  <Rig[Jun]> True.
+[09-Sep-2013 00:21:41]  <ponicalica[Ayako]> clearly I should bring in singing, since I have yet to bring that one into the campaign.
+[09-Sep-2013 00:21:55]  <IllFlower> ponicalica[Ayako]: If you hold on to that 7 and use 335 instead, you can use the 7 in your raise.
+[09-Sep-2013 00:21:56]  <Barcode[YANO_Hitomi]> "pleeeeeeeeeeeeeeeeeeeeEEEeeeeeeaaaSe liiiiiiiVEee"
+[09-Sep-2013 00:22:18]  <IllFlower> Then you can raise something like 57 and force me to raise 78.
+[09-Sep-2013 00:22:24]  <IllFlower> Force me to see 78, rather.
+[09-Sep-2013 00:22:29]  <ponicalica[Ayako]> IllFlower: Actually, yeah, that sounds better.  Especially since inhaling smoke means that I'm getting some in me too.
+[09-Sep-2013 00:22:59]  <ponicalica[Ayako]> so total fallout is instead 6d6 already and I leave 11222333333557.
+[09-Sep-2013 00:23:06]  <IllFlower> Or 77, but either way I blow a few good dice.
+[09-Sep-2013 00:23:31]  <IllFlower> Marginal die strategy, yeah!
+[09-Sep-2013 00:24:02]  <Barcode[YANO_Hitomi]> ((is there a lake nearby the field? Perhaps Ayako can sing Smoke on the Water. despite smoke inhalation.))
+[09-Sep-2013 00:24:18]  <ponicalica[Ayako]> I'm going to bring in singing too, though, because it feels thematically appropriate too.  the healing power of music, of course
+[09-Sep-2013 00:24:22]  <ponicalica[Ayako]> +roll 3d6
+[09-Sep-2013 00:24:22]  <rollermine> ponicalica[Ayako]: (2+5+2)=9
+[09-Sep-2013 00:24:37]  <ponicalica[Ayako]> 11222223333335557.
+[09-Sep-2013 00:24:38]  <IllFlower> Maybe she uses it for a healing chant of some sort.
+[09-Sep-2013 00:24:42]  <Barcode[YANO_Hitomi]> ((well, on one hand i can imagine singing as part of ceremony, yeah.))
+[09-Sep-2013 00:24:59]  <ponicalica[Ayako]> brb bathroom
+[09-Sep-2013 00:25:11]  <Barcode[YANO_Hitomi]> Did you raise
+[09-Sep-2013 00:25:42]  <Barcode[YANO_Hitomi]> eh, never mind.
+[09-Sep-2013 00:26:31]  <ponicalica[Ayako]> back.
+[09-Sep-2013 00:28:57]  <ponicalica[Ayako]> Ayako, seeing Jun slip further away, starts a healing ceremony which opens with song.  Raise 57, leave 112223333335.
+[09-Sep-2013 00:30:41]  <IllFlower> The ceremony keeps things from actively getting worse, but Jun's still in critical condition as it is. See 77. Ayako hears the sound of sirens rushing towards the shed fire, distracting her from the task at hand. Raise 28, leave 18.
+[09-Sep-2013 00:32:27]  *** SpruceZeus is now known as SpruceZeus|away
+[09-Sep-2013 00:34:47]  <ponicalica[Ayako]> hmm, could I thematically justify pulling in my light abilities to cull me from distraction?  That or just burn through my remaining dice and probably end up with someone needing to heal Ayako, lol.
+[09-Sep-2013 00:35:40]  <Barcode[YANO_Hitomi]> Lights? Yeah, iunno. Though I think you can imagine what double purpose those sirens will have.
+[09-Sep-2013 00:35:46]  <ponicalica[Ayako]> yeah, fire trucks
+[09-Sep-2013 00:36:44]  <Rig[Jun]> I don't think the light powers really work.
+[09-Sep-2013 00:36:49]  <ponicalica[Ayako]> yeah, no
+[09-Sep-2013 00:37:22]  <Barcode[YANO_Hitomi]> I could see Ayako like, passing out from the inhalation while singing. Keeping Jun stable until the firefighters arrive.
+[09-Sep-2013 00:37:22]  <ponicalica[Ayako]> I didn't bring Yurika(the other d8 relationship) in, I think for the distraction it'll work.
+[09-Sep-2013 00:37:29]  <ponicalica[Ayako]> +roll d8
+[09-Sep-2013 00:37:29]  <rollermine> ponicalica[Ayako]: 4=4
+[09-Sep-2013 00:37:40]  <Barcode[YANO_Hitomi]> eesh.
+[09-Sep-2013 00:37:47]  <ponicalica[Ayako]> 1122233333345.
+[09-Sep-2013 00:38:17]  <IllFlower> Worst case you take 3d6 more fallout, then raise with whatever.
+[09-Sep-2013 00:38:47]  <Rig[Jun]> And you have to roll 2 6s to be injured enough to even need attention.
+[09-Sep-2013 00:39:03]  <IllFlower> Or maybe 4d6. See 2233, raise 45.
+[09-Sep-2013 00:39:13]  <IllFlower> That way I have to see 18 and then I'm out of dice.
+[09-Sep-2013 00:39:34]  <Barcode[YANO_Hitomi]> Well, 54 is 9 anyway.
+[09-Sep-2013 00:39:48]  <ponicalica[Ayako]> Ayako hears the sirens, but then thinks: "What would Yuriko think?  She wouldn't want me to give up, not now.  I have to keep going!"  See 2233, leave 112333345.
+[09-Sep-2013 00:40:02]  <IllFlower> Barcode[YANO_Hitomi]: Yeah, but if he raises 8 I can see with my 8 and then raise 1(8).
+[09-Sep-2013 00:40:04]  <ponicalica[Ayako]> 10d6 total fallout.
+[09-Sep-2013 00:40:11]  <Barcode[YANO_Hitomi]> ahhhh.
+[09-Sep-2013 00:40:53]  <Barcode[YANO_Hitomi]> IllFlower: but like, 54 would have been 9, which would be see 18, raise nothing.
+[09-Sep-2013 00:41:20]  <ponicalica[Ayako]> She flips through her notebook, runs through her collected knowledge, and says one last complicated spell that should completely push carbon monoxide out and pull oxygen in.  Raise 45, leave 1123333 but it doesn't matter.
+[09-Sep-2013 00:41:41]  <IllFlower> Barcode[YANO_Hitomi]: That's exactly what I'm proposing, haha.
+[09-Sep-2013 00:41:44]  <ponicalica[Ayako]> @wa (5/6)^10+10*(5/6)^9*(1/6)
+[09-Sep-2013 00:41:48]  <Omnipresence> 14ponicalica[Ayako]: Wolfram|Alpha: Input: (5/6)^10+10 (5/6)^9×1/6 — Exact result: 9765625/20155392 — Decimal approximation: 0.4845167486695371640501956002641873698115124726921709... — Repeating decimal: (period 2187)
+[09-Sep-2013 00:41:51]  <IllFlower> I give. There's no way I can win. Roll 10d6 fallout.
+[09-Sep-2013 00:41:58]  <ponicalica[Ayako]> +roll 10d6
+[09-Sep-2013 00:41:58]  <rollermine> ponicalica[Ayako]: (1+1+3+3+3+6+6+6+3+4)=36
+[09-Sep-2013 00:42:02]  <Rig[Jun]> Hahaha.
+[09-Sep-2013 00:42:05]  <Barcode[YANO_Hitomi]> well.
+[09-Sep-2013 00:42:07]  <IllFlower> 666, huh.
+[09-Sep-2013 00:42:16]  <ponicalica[Ayako]> yeah, that had about even chances of happening.
+[09-Sep-2013 00:42:22]  <IllFlower> ponicalica[Ayako]: Roll 3d6 Bd.
+[09-Sep-2013 00:42:27]  <ponicalica[Ayako]> +roll 3d6 >!c'mon
+[09-Sep-2013 00:42:27]  <rollermine> (1+4+6)=11
+[09-Sep-2013 00:42:33]  <IllFlower> ... ouch.
+[09-Sep-2013 00:42:35]  <ponicalica[Ayako]> ................................
+[09-Sep-2013 00:42:39]  <ponicalica[Ayako]> ........................................................................
+[09-Sep-2013 00:42:41]  <IllFlower> Your own bot hates you.
+[09-Sep-2013 00:42:45]  <ponicalica[Ayako]> ......................................................................................................................................................
+[09-Sep-2013 00:42:51]  <ponicalica[Ayako]> trollermine.png
+[09-Sep-2013 00:42:58]  <Rig[Jun]> Your bot just killed the entire party.
+[09-Sep-2013 00:43:00]  <Barcode[YANO_Hitomi]> Well, I'm still here.
+[09-Sep-2013 00:43:03]  <ponicalica[Ayako]> Rig[Jun]: nah, you survived
+[09-Sep-2013 00:43:10]  <Rig[Jun]> Well, yeah, but I can't help.
+[09-Sep-2013 00:43:17]  <Rig[Jun]> Jun is unconscious and burned to shit.
+[09-Sep-2013 00:43:19]  <IllFlower> Hitomi can.
+[09-Sep-2013 00:43:21]  <ponicalica[Ayako]> I'm pretty much dead though, since neither of you are going to be good at saving people.
+[09-Sep-2013 00:43:36]  <ponicalica[Ayako]> so unless the GM wants to pull in a deus ex machina, Ayako's gonna die.
+[09-Sep-2013 00:43:45]  <IllFlower> Just a second, let me run some simulations.
+[09-Sep-2013 00:44:10]  <Rig[Jun]> I honestly would have been okay with you giving at any time.
+[09-Sep-2013 00:44:36]  <IllFlower> Anyone want to call it 11? /whistles
+[09-Sep-2013 00:44:50]  <Barcode[YANO_Hitomi]> Eleven Fallout?
+[09-Sep-2013 00:45:03]  <IllFlower> I feel like I do this a lot, lol.
+[09-Sep-2013 00:45:19]  <IllFlower> "Hey, want to not die?"
+[09-Sep-2013 00:45:25]  <ponicalica[Ayako]> I'm okay with not dying.
+[09-Sep-2013 00:46:05]  <IllFlower> Well, of course. :p
+[09-Sep-2013 00:46:08]  <IllFlower> What's everyone else thinking?
+[09-Sep-2013 00:47:27]  <Rig[Jun]> I don't really mind swinging it as 11 fallout. I mean, I was completely cool with Jun dying, but it seems kind of callous to force someone who gave on the initial conflict to die from it.
+[09-Sep-2013 00:47:38]  <Barcode[YANO_Hitomi]> Jun's rush was pretty blatantly hopeless, but Ayako dying for trying to save her would also be silly, but Ayako saving Jun is of debatable silliness, but I also technically can help Ayako.
+[09-Sep-2013 00:48:11]  <Barcode[YANO_Hitomi]> As far as just GM-changing the dice around I would be fine with 11, though it depends on you guys, I guess.
+[09-Sep-2013 00:48:17]  <IllFlower> All right. I just wanted to make sure nobody thought it was too much of a cop-out.
+[09-Sep-2013 00:48:43]  <IllFlower> 11 it is, then. Take your long-term fallout, ponicalica[Ayako]. And an experience fallout item.
+[09-Sep-2013 00:48:45]  <Barcode[YANO_Hitomi]> Well I mean, we still lost. Jun's still burned as hell. Hitomi is still going to be loaded with guilt.
+[09-Sep-2013 00:48:47]  <Rig[Jun]> I'm okay with it from a story perspective and that's what matters here more than the game rules.
+[09-Sep-2013 00:49:01]  <Barcode[YANO_Hitomi]> Yeah, storywise it's fine by me.
+[09-Sep-2013 00:49:15]  *** SpruceZeus|away is now known as SpruceZeus
+[09-Sep-2013 00:49:29]  <Barcode[YANO_Hitomi]> Maybe you could just unload fallout on me or something, lol.
+[09-Sep-2013 00:49:45]  <Rig[Jun]> I suppose IllFlower should rap up the session with some closing narration?
+[09-Sep-2013 00:50:11]  <Barcode[YANO_Hitomi]> Works for me as well.
+[09-Sep-2013 00:50:13]  <ponicalica[Ayako]> well Rig will also have to take two long-term fallout items, I think?
+[09-Sep-2013 00:50:19]  <Barcode[YANO_Hitomi]> guilt and inferiority*
+[09-Sep-2013 00:50:30]  <IllFlower> Barcode[YANO_Hitomi]: You actually get reflection fallout between towns, so I think that'll suffice.
+[09-Sep-2013 00:50:50]  <Barcode[YANO_Hitomi]> ah. (i'll go look up reflection fallout)
+[09-Sep-2013 00:50:57]  <IllFlower> Barcode[YANO_Hitomi]: pp. 121-22.
+[09-Sep-2013 00:51:15]  <IllFlower> Anyway:
+[09-Sep-2013 00:52:14]  <IllFlower> Thanks to Ayako's desperate efforts, Jun is out of any magical danger now. What injuries she does have are treatable by standard medical science.
+[09-Sep-2013 00:53:46]  <IllFlower> Ambulances arrive on the scene. Hitomi, still in shock, goes to the hospital with Ayako and Jun.
+[09-Sep-2013 00:53:57]  <Barcode[YANO_Hitomi]> ((well, fuck. if I knew that town completion involved getting 1-2 Experience fallouts, I probably would have been more bold to take fallout))
+[09-Sep-2013 00:54:36]  <Barcode[YANO_Hitomi]> ((not in this fight, probably. in the early chapter though))
+[09-Sep-2013 00:54:45]  <IllFlower> The police attempt to ascertain from Hitomi, the sole conscious person left at the scene, what exactly happened, but don't get very far.
+[09-Sep-2013 00:55:01]  <IllFlower> Kotomi is, of course, nowhere to be seen.
+[09-Sep-2013 00:56:28]  <IllFlower> Finally, after everything has died down, the girls' familiar appears to Hitomi, who is sitting alone in the hospital wing outside the other girls' rooms.
+[09-Sep-2013 00:58:08]  <IllFlower> "I'm so sorry," she says. "I never thought -- didn't want to think -- that she had grown powerful enough to overpower the three of you. I was careless..." **
+[09-Sep-2013 01:01:40]  <ponicalica[Ayako]> Barcode[YANO_Hitomi]?  I think the familiar's talking to you.
+[09-Sep-2013 01:01:44]  <Barcode[YANO_Hitomi]> Yeah, typin'.
+[09-Sep-2013 01:03:43]  <Barcode[YANO_Hitomi]> Hitomi was trembling enough, turning the incident over in her head. She didn't need any outside input. "I gave up", she speaks, distantly. Looking past the familiar. "I gave up, and. I gave up and it cost Jun. That should have been me." She swallows. "I had a moment of doubt, and..." she trails off and slowly draws her legs in, sitting with her head behind her knees. Now staring at the familiar.
+[09-Sep-2013 01:04:40]  <IllFlower> "Don't."
+[09-Sep-2013 01:04:44]  <IllFlower> The familiar speaks haltingly.
+[09-Sep-2013 01:05:20]  <IllFlower> "Don't blame yourself."
+[09-Sep-2013 01:05:35]  <IllFlower> Silence, then:
+[09-Sep-2013 01:07:49]  <Rig[Jun]> ((more silence))
+[09-Sep-2013 01:07:52]  <IllFlower> "The good news is that Kotomi won't be able to escape now. Nobody thinks she's just missing anymore, not after she nearly burned down an entire school. That sort of thing gets noticed.
+[09-Sep-2013 01:08:53]  <IllFlower> "I've already been wrong once, so perhaps you'll want to take my words with a grain of salt, but I don't think she'll be back to threaten you anytime soon." **
+[09-Sep-2013 01:09:22]  <Barcode[YANO_Hitomi]> ((What's the Familiar's name?))
+[09-Sep-2013 01:09:38]  <ponicalica[Ayako]> shii, I believe
+[09-Sep-2013 01:09:43]  <IllFlower> s/Kotomi won't be able to escape/Kotomi has no option but to run/, got the two flipped somehow.
+[09-Sep-2013 01:09:58]  <IllFlower> Barcode[YANO_Hitomi]: Yeah, Shii.
+[09-Sep-2013 01:10:04]  <Barcode[YANO_Hitomi]> Ah.
+[09-Sep-2013 01:11:09]  <ponicalica[Ayako]> ((Also, "the good news is" makes me wonder about the bad news)
+[09-Sep-2013 01:11:18]  <Barcode[YANO_Hitomi]> ((Well, the bad news was that two of you almost died.))
+[09-Sep-2013 01:11:24]  <Barcode[YANO_Hitomi]> ((Also the shed needs to be replaced.))
+[09-Sep-2013 01:11:26]  <IllFlower> Yeah.
+[09-Sep-2013 01:14:52]  <ponicalica[Ayako]> so does Barcode have anything to say? :P
+[09-Sep-2013 01:14:59]  <Barcode[YANO_Hitomi]> Yeah, I'm trying to think of a good way to phrase this final question.
+[09-Sep-2013 01:15:14]  <IllFlower> You can do things in increments and use ** too, if you need to.
+[09-Sep-2013 01:15:19]  <IllFlower> Helps let us know you're alive. :p
+[09-Sep-2013 01:15:27]  <Barcode[YANO_Hitomi]> Alright, alright.
+[09-Sep-2013 01:15:35]  <Barcode[YANO_Hitomi]> Hitomi nods, though she keeps staring at her familiar. Her trembling slows; only her hands appear to be unsteady now.
+[09-Sep-2013 01:18:58]  <Barcode[YANO_Hitomi]> "Shii," she begins. She still speaks softly, though her tone is no longer distant. "When we fail, we get scarred, or die. We suffer for our shortcomings. We are...punished by the world for not standing up to it."
+[09-Sep-2013 01:19:33]  <Barcode[YANO_Hitomi]> "When we disobey, we get punished. I have never seen what the Order does to us, but I never hear of repeat offenders."
+[09-Sep-2013 01:21:25]  <Barcode[YANO_Hitomi]> "But when..." She blinks spasmically, and looks away, hugging her knees tightly. Suddenly aware of what she was about to say.
+[09-Sep-2013 01:21:32]  <Barcode[YANO_Hitomi]> **
+[09-Sep-2013 01:21:56]  <Barcode[YANO_Hitomi]> ((oh, shit, also, ever so slight emphasis on /we/, for both "when we" statements.))
+[09-Sep-2013 01:22:35]  <IllFlower> The familiar thinks for a moment, and then asks her own question.
+[09-Sep-2013 01:22:37]  *** SpruceZeus is now known as SpruceZeus|away
+[09-Sep-2013 01:23:05]  <IllFlower> "Why do you think people initiate into magic, Yano?" **
+[09-Sep-2013 01:26:30]  <IllFlower> Noticing Hitomi's taciturn response, she epxands a little more on her question.
+[09-Sep-2013 01:26:36]  <Barcode[YANO_Hitomi]> ((heh))
+[09-Sep-2013 01:26:58]  <Barcode[YANO_Hitomi]> ((I had something, actually.))
+[09-Sep-2013 01:27:45]  <IllFlower> "Imagine the most idealistic girl that ever lived becoming an initiate. If you asked her, what do you think she would say?" **
+[09-Sep-2013 01:29:30]  <Barcode[YANO_Hitomi]> "I don't know. 'To save the world from the ills of magic'? 'To fight the witches'?" She sounds almost indignant. "Where is this going?"
+[09-Sep-2013 01:30:23]  <Barcode[YANO_Hitomi]> She still keeps her eyes off Shii.**
+[09-Sep-2013 01:30:27]  <ponicalica[Ayako]> ((asking Hitomi to imagine an idealist seems really tough.))
+[09-Sep-2013 01:30:39]  <Barcode[YANO_Hitomi]> or actually
+[09-Sep-2013 01:30:40]  <IllFlower> "To protect those she holds dear from the worst of magic, right?
+[09-Sep-2013 01:30:46]  <Barcode[YANO_Hitomi]> ((nm))
+[09-Sep-2013 01:31:36]  <IllFlower> "Why would they need protection if magical wrongs fell only on those who failed, only on those who deserved punishment?
+[09-Sep-2013 01:32:06]  <IllFlower> "Certainly they can't have committed any transgressions in a world they are powerless to know anything of.
+[09-Sep-2013 01:32:16]  <Rig[Jun]> ((Suddenly remembers the plot that IllFlower had))
+[09-Sep-2013 01:32:39]  <ponicalica[Ayako]> ((the plot?))
+[09-Sep-2013 01:32:45]  <Barcode[YANO_Hitomi]> ((a surveillance camera??))
+[09-Sep-2013 01:32:48]  <IllFlower> "Unfortunately, the world we live in isn't so just. Oftentimes the repercussions for one's sins fall on the shoulders of the innocent." **
+[09-Sep-2013 01:33:55]  *** SpruceZeus|away is now known as SpruceZeus
+[09-Sep-2013 01:34:11]  <Barcode[YANO_Hitomi]> "Shii. That doesn't mean anything to me."
+[09-Sep-2013 01:34:18]  <Barcode[YANO_Hitomi]> "We're Conservators. The Initiates protect the innocent. We protect the Initiates."
+[09-Sep-2013 01:34:58]  <Barcode[YANO_Hitomi]> "The Familiars...send the Conservators."
+[09-Sep-2013 01:35:36]  <Barcode[YANO_Hitomi]> Hitomi's trembling picks up again. What is she doing...?**
+[09-Sep-2013 01:36:48]  <Barcode[YANO_Hitomi]> She takes her signature tone again, somewhat. "I'll be fine. Give me a few days. Please...do what you can to help these two."**
+[09-Sep-2013 01:37:40]  <IllFlower> Shii opens her mouth to speak, then closes it. Hitomi's finality seems to shut the familiar down.
+[09-Sep-2013 01:39:38]  <IllFlower> "Very well. I'll be sending another initiate to make sure the three of you stay safe from any magical danger.
+[09-Sep-2013 01:42:13]  <ponicalica[Ayako]> (suddenly, Kaede)
+[09-Sep-2013 01:44:17]  <SpruceZeus> (suddenly, Makoto)
+[09-Sep-2013 01:44:42]  <IllFlower> "You may not hear from me for a little while. I doubt those... above me will be content with merely giving me a stern rebuke." **
+[09-Sep-2013 01:45:23]  <ponicalica[Ayako]> (somehow I think conservator makoto would be pretty dangerous)
+[09-Sep-2013 01:46:11]  <IllFlower> ("Why are we even negotiating with this guy? I say we load him into the cannon!")
+[09-Sep-2013 01:47:42]  <Barcode[YANO_Hitomi]> "Right. I certainly can't keep us safe myself, it seems."
+[09-Sep-2013 01:49:21]  <SpruceZeus> ponicalica[Ayako]: :thejoke:
+[09-Sep-2013 01:50:21]  <IllFlower> Barcode[YANO_Hitomi]: That it?
+[09-Sep-2013 01:50:25]  <Barcode[YANO_Hitomi]> ((One sec.))
+[09-Sep-2013 01:51:34]  <Barcode[YANO_Hitomi]> She lowers her knees and stares at her lap, trembling subsiding somewhat. After a moment of silence, she looks up at Shii again, her tone softening. "...Good luck, Shii."**
+[09-Sep-2013 01:52:40]  <Barcode[YANO_Hitomi]> ((thar.))
+[09-Sep-2013 01:53:18]  <IllFlower> "Same. I only wish I could offer you more."
+[09-Sep-2013 01:53:33]  <IllFlower> Shii vanishes, leaving Hitomi alone again in the hallway. **
+[09-Sep-2013 01:53:50]  <Barcode[YANO_Hitomi]> We doing fallout stuff now, then?
+[09-Sep-2013 01:53:58]  <Barcode[YANO_Hitomi]> Or does everyone have to go?
+[09-Sep-2013 01:54:44]  <Rig[Jun]> I have time to do fallout stuff and talk about the session, but I'm also trying homework stuff at the same time.
+[09-Sep-2013 01:55:00]  <IllFlower> I'm available for about another 20 minutes.
+[09-Sep-2013 01:55:12]  <IllFlower> So we can do that if you guys have the time.
+[09-Sep-2013 01:55:16]  <Barcode[YANO_Hitomi]> Also, sorry that this whole segment took an hour. I would have pasted my lines in succession, and then forced myself ot send them sooner, if I had thought of that little thing. :x
+[09-Sep-2013 01:55:39]  <Barcode[YANO_Hitomi]> I wouldn't mind thinking of fallouts for myself while I'm still of in-character mind.
+[09-Sep-2013 01:55:41]  <Barcode[YANO_Hitomi]> grammar
+[09-Sep-2013 01:55:47]  <ponicalica[Ayako]> I have time for whatever.
+[09-Sep-2013 01:55:49]  <IllFlower> I also want to know if you guys want to call curtains on this "town."
+[09-Sep-2013 01:56:09]  <Rig[Jun]> I think like it feels like an effective stopping point for this Kotomi business.
+[09-Sep-2013 01:56:11]  <ponicalica[Ayako]> I think this is a good ending point for the case of Kotomi Taniguchi.
+[09-Sep-2013 01:56:19]  <Rig[Jun]> I mean, you clearly intend it to be a stopping point.
+[09-Sep-2013 01:56:26]  <Barcode[YANO_Hitomi]> Yeah, her escaping works well enough, I Think.
+[09-Sep-2013 01:56:43]  <Rig[Jun]> I'd like to return to this "town" in the future, of course.
+[09-Sep-2013 01:56:47]  <IllFlower> Sure.
+[09-Sep-2013 01:57:01]  <Rig[Jun]> Also, I hope I wasn't too forward for anyone by taking all that fallout.
+[09-Sep-2013 01:57:12]  <Rig[Jun]> IllFlower: Do I need to take any long-term fallout stuff?
+[09-Sep-2013 01:57:13]  <Barcode[YANO_Hitomi]> I fanything you just made me feel bad about not taking fallout at all, like a wimp.
+[09-Sep-2013 01:57:16]  <IllFlower> After all, the problem's not solved. It'll have a way of coming back in the future.
+[09-Sep-2013 01:57:51]  <IllFlower> Rig[Jun]: Yeah, I think you take two long-term fallout, plus the standard between-towns fallout. But we'll handle the former first.
+[09-Sep-2013 01:58:02]  <ponicalica[Ayako]> yeah, for 12+ is two long-term
+[09-Sep-2013 01:58:03]  <Barcode[YANO_Hitomi]> alright, so, 121-122. Either two Experience fallouts (re-listed on that page) OR one experienceand one the other thing.
+[09-Sep-2013 01:58:05]  <Rig[Jun]> Barcode[YANO_Hitomi]: It's just something you need to get used to with this system.
+[09-Sep-2013 01:58:25]  <ponicalica[Ayako]> since I got GM-fiat-ed back to 11, I have one long-term, one experience, and one reflection
+[09-Sep-2013 01:58:43]  <Barcode[YANO_Hitomi]> Rig[Jun]: Yeah, I'll be more bold should we pick this up again. >_<
+[09-Sep-2013 01:59:41]  <Barcode[YANO_Hitomi]> I do want to take a negative result because I didn't take any all game, so I'm looking at that now.
+[09-Sep-2013 01:59:52]  <Rig[Jun]> For my two long-term fallout I think I'll take a 1d4 rlation
+[09-Sep-2013 01:59:54]  <IllFlower> I think the effects of Hitomi's guilt ought to be fairly representable as reflection fallout.
+[09-Sep-2013 01:59:59]  <Rig[Jun]> *relationship with Kotomi.
+[09-Sep-2013 02:00:34]  <Rig[Jun]> And I'll add another d4 to Jun's dead boyfriend.
+[09-Sep-2013 02:00:36]  <Barcode[YANO_Hitomi]> I was wondering if Jun and Hitomi's relationship would be modified, and if so, how.
+[09-Sep-2013 02:00:53]  <IllFlower> There's room for asymmetric relationships.
+[09-Sep-2013 02:01:10]  <Rig[Jun]> Does anyone oppose or have any better ideas for my fallout?
+[09-Sep-2013 02:01:20]  <Barcode[YANO_Hitomi]> I can see Jun holding a grudge.
+[09-Sep-2013 02:01:45]  <IllFlower> Hitomi doesn't have to hate Jun if she has a 1d4 relationship with her; it's just that Hitomi's reminded of her own weakness.
+[09-Sep-2013 02:01:46]  <Barcode[YANO_Hitomi]> I mean, if she was ready to chase Kotomi like that, despite no magic ability left...
+[09-Sep-2013 02:01:52]  <IllFlower> Rig[Jun]: It sounds perfectly suitable to me.
+[09-Sep-2013 02:02:11]  <Barcode[YANO_Hitomi]> IllFlower: I could do that, but it feels sort of like a cop-out since I never used my relationship with her in the first place.
+[09-Sep-2013 02:02:19]  <Barcode[YANO_Hitomi]> Though I guess guilt could come in fairly often.
+[09-Sep-2013 02:02:22]  <Barcode[YANO_Hitomi]> in teh future*
+[09-Sep-2013 02:02:27]  <IllFlower> Barcode[YANO_Hitomi]: I also think Jun was beyond the point of caring whether or not anyone helped her. Remember that she was willing to give up her life.
+[09-Sep-2013 02:02:40]  <IllFlower> I doubt she'd hold a grudge when she was all but ready to die.
+[09-Sep-2013 02:02:45]  <Barcode[YANO_Hitomi]> hm.
+[09-Sep-2013 02:03:29]  <Rig[Jun]> Yeah, Jun understands. She was protected everyone.
+[09-Sep-2013 02:03:39]  <Rig[Jun]> *wanted to protect
+[09-Sep-2013 02:03:58]  <Barcode[YANO_Hitomi]> oh, I meant, grudge with Kotomi.
+[09-Sep-2013 02:04:14]  <IllFlower> Oh, oh. Yeah.
+[09-Sep-2013 02:04:31]  * Barcode[YANO_Hitomi] looks at his character sheet
+[09-Sep-2013 02:04:39]  <IllFlower> Either that or the 1d4 symbolizes her frustration with her failure to stop Kotomi.
+[09-Sep-2013 02:05:56]  <Rig[Jun]> As for reflection: I'd like to roll up the d-size of my Ayako relationship.
+[09-Sep-2013 02:06:20]  <IllFlower> Barcode[YANO_Hitomi]: But yeah, I think you could change Hitomi's relationship with Jun to xd4, to indicate her insecurities about working together with someone she couldn't help.
+[09-Sep-2013 02:06:26]  <Barcode[YANO_Hitomi]> m.
+[09-Sep-2013 02:07:10]  <IllFlower> Rig[Jun]: Don't forget reflection fallout is actually picking two things, one each from the list starting p. 121 and the list starting p. 122.
+[09-Sep-2013 02:07:16]  <Rig[Jun]> Yeah.
+[09-Sep-2013 02:07:22]  <Barcode[YANO_Hitomi]> Two lists?
+[09-Sep-2013 02:07:33]  <Barcode[YANO_Hitomi]> Thought that was one.
+[09-Sep-2013 02:07:38]  <Rig[Jun]> The second one I need help with. I want to pick again from the first list, but I have a couple ideas I need to bounce around.
+[09-Sep-2013 02:07:41]  <IllFlower> Rig[Jun]: But I'd be more surprised if you didn't revise the Ayako dice upward, haha.
+[09-Sep-2013 02:08:27]  <IllFlower> Barcode[YANO_Hitomi]: One's the same as the experience fallout list. The other is one of adding two dice to free relationship dice, adding 2d4+any die to same, adjusting your character's coat, or picking again from the first list.
+[09-Sep-2013 02:08:49]  <Barcode[YANO_Hitomi]> Ah. So you just can't add two from page 122, then.
+[09-Sep-2013 02:09:07]  <Barcode[YANO_Hitomi]> (didn't see the In Addition)
+[09-Sep-2013 02:10:01]  <Barcode[YANO_Hitomi]> For my two - Well Guarded upgraded to 3d4, as she now has something more present and more vibrant to make her feel inferior or isolated; and change my Jun die from 1d6 to 1d4, to symbolize that any reflection on the issue of their partnership is going to raise guilt?
+[09-Sep-2013 02:10:19]  <Rig[Jun]> That makes sense with me.
+[09-Sep-2013 02:10:24]  <IllFlower> Same here.
+[09-Sep-2013 02:10:38]  <Barcode[YANO_Hitomi]> Sweet.
+[09-Sep-2013 02:10:38]  <ponicalica[Ayako]> yeah
+[09-Sep-2013 02:10:49]  <ponicalica[Ayako]> meanwhile I'm pretty lost on what I should do fallout-wise :V
+[09-Sep-2013 02:11:23]  <Rig[Jun]> As for my second reflection: I'm stuck between upping my "putting myself in the way" to 2d6 or adding a new trait to reflect some kind of willingness to go all out when it comes to stopping someone.
+[09-Sep-2013 02:12:07]  <IllFlower> Barcode[YANO_Hitomi]: You don't need to list history for all those changes, just temporary ones.
+[09-Sep-2013 02:12:31]  <Barcode[YANO_Hitomi]> ...Oh. This is just so I don't forget :V
+[09-Sep-2013 02:12:33]  <IllFlower> If a change is permanent it should suffice to just write a description of how things currently are.
+[09-Sep-2013 02:12:35]  <Barcode[YANO_Hitomi]> or should I really not do that?
+[09-Sep-2013 02:12:40]  <Barcode[YANO_Hitomi]> oh riiight, no changelog
+[09-Sep-2013 02:12:42]  <Barcode[YANO_Hitomi]> no need for a*
+[09-Sep-2013 02:12:44]  <Rig[Jun]> The pad keeps track of versioning.
+[09-Sep-2013 02:13:17]  <IllFlower> That and I don't think keeping detailed track of dice really matters. You can write changes in the description, of course.
+[09-Sep-2013 02:13:22]  <ponicalica[Ayako]> oh right.  I think I have a few that mention origin :V
+[09-Sep-2013 02:13:28]  <Barcode[YANO_Hitomi]> m.
+[09-Sep-2013 02:15:02]  <Barcode[YANO_Hitomi]> ponicalica[Ayako]: Maybe you could develop an (un?)healthy interest in studying fire and counteracting it and its effects, magically?
+[09-Sep-2013 02:15:12]  <Barcode[YANO_Hitomi]> "I've decided on my major 1d6"
+[09-Sep-2013 02:15:41]  <ponicalica[Ayako]> Barcode[YANO_Hitomi]: I was actually thinking the opposite: being wary around fire from then on out
+[09-Sep-2013 02:16:11]  <Barcode[YANO_Hitomi]> Could do that too. Depends on what your negative Fallout turns out to be, maybe. You did have a bunch of brushes with fire, the latter because you were trying to save someone from it.
+[09-Sep-2013 02:17:16]  <ponicalica[Ayako]> well maybe that for my negative fallout, I dunno.  But even then there's my experience as well as the two for reflection
+[09-Sep-2013 02:17:41]  <Barcode[YANO_Hitomi]> m.
+[09-Sep-2013 02:17:54]  <Rig[Jun]> I'd recommend taking the fear of fire at 1d4 for negative.
+[09-Sep-2013 02:18:17]  * Barcode[YANO_Hitomi] watches IF rephrase his description.
+[09-Sep-2013 02:18:41]  <Rig[Jun]> You could add more dice to Ayako's relationship to Jun.
+[09-Sep-2013 02:19:01]  <Rig[Jun]> Or add something to your stats or traits.
+[09-Sep-2013 02:19:18]  <Rig[Jun]> Ayako is clearly capable at this point.
+[09-Sep-2013 02:19:22]  <IllFlower> Barcode[YANO_Hitomi]: So something like that - no straight-up dice history, but a textual explanation of what's come up to this point.
+[09-Sep-2013 02:19:41]  <Barcode[YANO_Hitomi]> IllFlower: Yeah, that looks better.
+[09-Sep-2013 02:20:05]  <Rig[Jun]> You could roll up "I handled myself against magic" to 2d6 or 1d8.
+[09-Sep-2013 02:20:24]  <Rig[Jun]> Oh, looks like you could only do the first actually.
+[09-Sep-2013 02:20:42]  <Rig[Jun]> Oh, ignore me.
+[09-Sep-2013 02:20:45]  <ponicalica[Ayako]> no, I can add a die
+[09-Sep-2013 02:20:49]  <Barcode[YANO_Hitomi]> Dunno if this would be too much like your "I've been in a dangerous situation," but maybe for one of your positives you could have something like "knows what sacrifice is", to indicate that she knows what it feels like to put herself in harm's way. (And thus can think more clearly in such situations.)
+[09-Sep-2013 02:20:51]  <Rig[Jun]> You can do both, lists are shit.
+[09-Sep-2013 02:21:02]  <IllFlower> Yeah, ponicalica[Ayako] has one long-term, one experience, and then the usual between-town stuff.
+[09-Sep-2013 02:21:13]  <ponicalica[Ayako]> yeah, now I just have the between-town stuff left
+[09-Sep-2013 02:22:00]  <Barcode[YANO_Hitomi]> or, well, what i said is basically what rig said.
+[09-Sep-2013 02:22:11]  <ponicalica[Ayako]> maybe add a relationship with Hitomi
+[09-Sep-2013 02:22:54]  <IllFlower> Hm, I'm not sure what the foundation of a new relationship would be.
+[09-Sep-2013 02:23:09]  <IllFlower> I'd say a stat bump would not be out of the quesiton, though. Or one of the more experience-based traits.
+[09-Sep-2013 02:23:38]  <Barcode[YANO_Hitomi]> Stat or trait bump would be good.
+[09-Sep-2013 02:23:54]  <Rig[Jun]> Or both.
+[09-Sep-2013 02:24:05]  <IllFlower> She saved an older girl's life. As good a reason as any to bump Ht, right? :p
+[09-Sep-2013 02:24:11]  <Barcode[YANO_Hitomi]> We did work together, but not so directly. That wouldn't be good enough. But if we had between-town stuff where, iunno, Hitomi opened up to you while Jun was recovering, that could work. However, this incident is supposed to further spur Hitomi's avoidance so that wouldn't make too much sense.
+[09-Sep-2013 02:24:17]  <Barcode[YANO_Hitomi]> Yeah, Heart could be good.
+[09-Sep-2013 02:24:22]  <IllFlower> "I got senpai to notice me by saving her life 1d6"
+[09-Sep-2013 02:24:33]  <Barcode[YANO_Hitomi]> "Sempai didn't notice me because she was passed out, but I saved her 1d6"
+[09-Sep-2013 02:25:32]  <IllFlower> lolol.
+[09-Sep-2013 02:26:03]  <Barcode[YANO_Hitomi]> I could have had two 1d4 relationships instead of the 3d4 avoidance, becuase I /also/ let Ayako go and breathe in a shit ton of smoke for no reason, but.
+[09-Sep-2013 02:26:12]  <Barcode[YANO_Hitomi]> no conscious reason*
+[09-Sep-2013 02:26:51]  <Barcode[YANO_Hitomi]> though ayako didn't necessarily get messed up as badly/directly, so.
+[09-Sep-2013 02:27:26]  <ponicalica[Ayako]> well, ayako came pretty close to dying herself :V
+[09-Sep-2013 02:27:47]  <Barcode[YANO_Hitomi]> true, technically (bla bla bla) v:
+[09-Sep-2013 02:28:06]  <IllFlower> The "Conservator" trait might be a candidate for adjustment. Granted, you've already taken two reasonable fallout items, so I don't really mind either way.
+[09-Sep-2013 02:28:33]  <ponicalica[Ayako]> well right now the main things I have left are the between-town stuff
+[09-Sep-2013 02:28:57]  <IllFlower> (The justification being that she used to relish the power, but now questions whether she's worthy of it.)
+[09-Sep-2013 02:29:08]  <Rig[Jun]> Add some more dice to the dangerous magic one. Make it 2d8.
+[09-Sep-2013 02:29:12]  <Rig[Jun]> Then add 1 to Heart.
+[09-Sep-2013 02:29:19]  <Rig[Jun]> And that works for the reflection stuff?
+[09-Sep-2013 02:29:24]  <IllFlower> Yeah, I was just about to suggest the dangerous magic change, haha.
+[09-Sep-2013 02:29:42]  <ponicalica[Ayako]> heh, I already boosted it from 1d6 to 1d8
+[09-Sep-2013 02:29:44]  <IllFlower> Rig[Jun]: Did you change your costume description?
+[09-Sep-2013 02:29:50]  <Rig[Jun]> No.
+[09-Sep-2013 02:29:53]  <ponicalica[Ayako]> though I guess there was a lot of it.
+[09-Sep-2013 02:30:04]  <IllFlower> Okay.
+[09-Sep-2013 02:30:24]  <Rig[Jun]> My two reflection fallout changes were the Ayako relationship boost and the boost to "putting myself in the way"
+[09-Sep-2013 02:31:27]  <IllFlower> I wasn't sure.
+[09-Sep-2013 02:32:10]  <IllFlower> I suppose Jun's costume is already pretty beat up anyway, given her character.
+[09-Sep-2013 02:32:25]  <Rig[Jun]> Yeah, I was debating making it a 1d4 costume. :P
+[09-Sep-2013 02:32:32]  <Barcode[YANO_Hitomi]> heh.
+[09-Sep-2013 02:32:33]  <Rig[Jun]> Jun wears a cardboard box into battle.
+[09-Sep-2013 02:32:42]  <Rig[Jun]> With "magical girl" written on it in Sharpie.
+[09-Sep-2013 02:32:46]  <Barcode[YANO_Hitomi]> front of box says "magical girl" in scrawled- dammit!
+[09-Sep-2013 02:33:42]  <IllFlower> Hahahaha.
+[09-Sep-2013 02:34:03]  <Barcode[YANO_Hitomi]> I had thought that maybe you'd suffer long-term effects from the burns, though we could always play off the fire as being symptomatic/smoke-mainly/ayako's magic saved you from disfigurement.
+[09-Sep-2013 02:34:08]  <IllFlower> Okay, I think we're done! Anything else you guys want to clear up?
+[09-Sep-2013 02:34:28]  <Barcode[YANO_Hitomi]> also burns are pretty horrible and dunno if we need to go that far.
+[09-Sep-2013 02:34:29]  <Rig[Jun]> This was a fun session.
+[09-Sep-2013 02:34:30]  <ponicalica[Ayako]> is the new conservator Shii sent over a plot hook or just a throwaway line
+[09-Sep-2013 02:34:34]  <Rig[Jun]> In my opinion.
+[09-Sep-2013 02:34:37]  <ponicalica[Ayako]> And yeah, this was a fun session.
+[09-Sep-2013 02:34:51]  <IllFlower> ponicalica[Ayako]: I didn't mean for it to be anything significant. For now.
+[09-Sep-2013 02:34:52]  <Barcode[YANO_Hitomi]> Yeah, this was good. I was pretty fed up at the start for a few reasons (not really this session, external ones), but then I was pretty wrapped up.
+[09-Sep-2013 02:35:09]  <IllFlower> You never know what I might decide is significant in retrospect. :D
+[09-Sep-2013 02:35:11]  *** CentralAve <~CentralAv@cpe-71-64-1-141.insight.res.rr.com> has joined #madokamadness
+[09-Sep-2013 02:35:24]  <Barcode[YANO_Hitomi]> Hah, yeah, I had a feeling that would have been Shii picking up on Hitomi's spitefulness.
+[09-Sep-2013 02:35:27]  <Barcode[YANO_Hitomi]> bitterness* whatever.
+[09-Sep-2013 02:35:56]  <Rig[Jun]> Anyway, after a 6 hour session I need to do some homework.
+[09-Sep-2013 02:36:01]  <Barcode[YANO_Hitomi]> snerk. x_x
+[09-Sep-2013 02:36:07]  <IllFlower> Thanks for playing (for six and a half hours, even!). I'm glad you guys enjoyed the session. I thought it was a blast myself.
+[09-Sep-2013 02:36:26]  <Rig[Jun]> It's nice when we're not pressed for time and have some high stakes to play with.
+[09-Sep-2013 02:36:31]  <IllFlower> We'll resume... sometime. Gotta think of a new mess for your characters to get involved in. :p

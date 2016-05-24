@@ -1,0 +1,7 @@
+- render '/default.haml' do
+  %h2#subsite-heading
+    %a{href: ('/logs/' unless @item.identifier.to_s == '/logs/index.haml')}
+      = @items['/logs/index.haml'][:title]
+  %article.log
+    %h1= @item[:title]
+    = yield

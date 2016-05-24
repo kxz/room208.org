@@ -1,0 +1,306 @@
+[17-Jun-2012 20:09:18]  <Motoko`kaseijin> All right, let's get started, then.
+[17-Jun-2012 20:10:19]  <Motoko`kaseijin> Things were rather tense last night, what with the specter of an unsolved murder hanging on everyone's minds, but you were able to get a long, if fitful, sleep.
+[17-Jun-2012 20:11:01]  <Motoko`kaseijin> Today, you're headed back to Brother Eliezer's place in order to make some headway on finding out who killed Brother Jules, and why.
+[17-Jun-2012 20:11:56]  <Motoko`kaseijin> Brother Eliezer is waiting outside of the local officials' post. He looks somewhat weary, but also relieved. Evidently, knowing that the agricultural units will hold out a little longer has eased his worries.
+[17-Jun-2012 20:13:59]  <Motoko`kaseijin> "Good morning, brothers," he says, waving to you as you approach. "Were you able to rest well? I hope the accommodations were adequate. You likely deserved better, but that's all we had..." **
+[17-Jun-2012 20:15:25]  <Gideon> "They were fine," Gideon says, waving off the man's flattery. He isn't pleased with having given Jules' murderer another night to hide, but it couldn't be helped.
+[17-Jun-2012 20:15:32]  <Rashi> "We've been sleeping under the stars, Brother Eliezer.  Any accomodation is quite welcome."  Rashi smiles.
+[17-Jun-2012 20:16:46]  <Motoko`kaseijin> 14"it couldn't be helped" // Gideon's got some Japanese blood in him, it looks like. ^_~
+[17-Jun-2012 20:17:05]  <Rashi> [that expression bugs the hell out of me >_>]
+[17-Jun-2012 20:17:19]  <Gideon> (hm?)
+[17-Jun-2012 20:18:08]  <Rashi> [nevermind]
+[17-Jun-2012 20:19:13]  <Motoko`kaseijin> "That's good to hear," Brother Eliezer says. "I'm going to bring you to talk to our branch Steward, Brother Leslie.
+[17-Jun-2012 20:21:10]  <Motoko`kaseijin> "He's not yet been able to get much closer to the truth of Brother Jules' death than any of the rest of us have, but I have faith that the King of Life will illuminate his path."
+[17-Jun-2012 20:21:48]  *** Barcode is now known as Barcathon
+[17-Jun-2012 20:22:06]  * Rashi nods.
+[17-Jun-2012 20:22:22]  <Motoko`kaseijin> Brother Eliezer walks into the officials' post, and up some rickety wooden steps to the small second-floor space.
+[17-Jun-2012 20:23:10]  <Motoko`kaseijin> Brother Leslie is an older man. The glint of experience reflects from his eyes. He has clearly been Steward for a long time.
+[17-Jun-2012 20:23:38]  <Motoko`kaseijin> "Thank you, Brother Eliezer," he says, sending the younger man off.
+[17-Jun-2012 20:24:34]  <Motoko`kaseijin> Rashi and Gideon take their respective improptu seats on a pair of wooden crates, at the Steward's invitation.
+[17-Jun-2012 20:25:13]  <Motoko`kaseijin> "I wish we were able to meet under better circumstances, brothers." **
+[17-Jun-2012 20:30:06]  * Motoko`kaseijin idly prods Rashi and Gideon
+[17-Jun-2012 20:30:07]  * Rashi glances at Gideon before saying "Likewise, Steward."
+[17-Jun-2012 20:30:59]  <Motoko`kaseijin> 14I have this mental image now of Gideon falling asleep until Rashi pokes him in the side.
+[17-Jun-2012 20:31:22]  <Gideon> Gideon is momentarily hung up on the fact that his position as a Dog puts him above a Steward, a person who has always been in charge of him until now. After a moment he recovers, "Yes, it's very unfortunate."
+[17-Jun-2012 20:31:58]  <Motoko`kaseijin> 14That works too.
+[17-Jun-2012 20:33:08]  <Gideon> (Was kind of caught on what to say. I want Gideon to be kind of brash and rough with people, but Stewards are kind of supposed to be respected. So yeah.)
+[17-Jun-2012 20:33:42]  <Motoko`kaseijin> "Brother Eliezer has informed me that the immediate crisis has been resolved. I cannot thank the two of you enough. Particularly you, Brother Rashi. Your skills are a gift to us."
+[17-Jun-2012 20:34:53]  <Motoko`kaseijin> Brother Leslie folds his hands. "However, I'm sure the both of you know that this is just the surface. The tensions that lead to hatred and murder are not so easily assuaged.
+[17-Jun-2012 20:35:33]  <Motoko`kaseijin> "Allow me to be blunt. I take it the two of you have met Brother Joseph?" **
+[17-Jun-2012 20:36:07]  <Rashi> "Ah, yes, of course." Rashi's pride evaporates.  "Yes, we have... what about him?"
+[17-Jun-2012 20:36:08]  <Gideon> "He was quite a disagreeable man," Gideon says.
+[17-Jun-2012 20:36:42]  <Gideon> (brb btw)
+[17-Jun-2012 20:37:45]  <Motoko`kaseijin> "Yes. I hate to condemn a man so readily, but ever since this crisis began, he has been... an agitator is the best way to put it, I believe."
+[17-Jun-2012 20:38:28]  <Motoko`kaseijin> Brother Leslie looks out of a nearby window for a moment.
+[17-Jun-2012 20:38:50]  <Gideon> (Suddenly, a sniper's bullet tears through his brain.)
+[17-Jun-2012 20:39:24]  <Motoko`kaseijin> "He's been calling for Brother Eliezer's removal, I suspect in order to take his place. I think his pride has gotten the better of him.
+[17-Jun-2012 20:39:58]  <Motoko`kaseijin> "He has two young siblings as well. I suspect they may be easily swayed to his cause. Perhaps they've already been.
+[17-Jun-2012 20:41:23]  <Motoko`kaseijin> "And he's always had a bit of a taste for revenge. The Brother Joseph I know wouldn't go so far as to kill a man, but he might be able to instill that desire in others.
+[17-Jun-2012 20:42:06]  <Motoko`kaseijin> "I've always been a man of words. This may be naive of me, but I'd like the two of you to talk to him and see what comes to light." **
+[17-Jun-2012 20:43:09]  <Gideon> "We can talk to him, Brother. I'd like to know some more about the situation first, however. It would be rough to blunder into this feud blindly."
+[17-Jun-2012 20:43:30]  <Rashi> [sorry, but can we pause for a few minutes?  I've been putting this off too long...]
+[17-Jun-2012 20:43:52]  <Gideon> (I'm fine with that.)
+[17-Jun-2012 20:44:11]  <Motoko`kaseijin> Sure. Let's go ahead and break for an intermission.
+[17-Jun-2012 20:44:24]  <Rashi> Alright, sorry, I'll try to finish this up AFAP.
+[17-Jun-2012 20:45:03]  <Gideon> AFAP sounds like a very bad sound effect in a doujin.
+[17-Jun-2012 20:46:32]  <Gideon> Motoko`kaseijin: You ever played 4th edition DnD?
+[17-Jun-2012 20:48:31]  <Motoko`kaseijin> I'd never actually done any role-playing before ARE.
+[17-Jun-2012 20:48:45]  <Gideon> Ah, I see.
+[17-Jun-2012 20:49:15]  <Gideon> We just introduced a coworker to DnD on Friday. He was a bit confused about the idea of being able to just say what you do. And having a DM.
+[17-Jun-2012 20:50:11]  <Motoko`kaseijin> Haha.
+[17-Jun-2012 20:50:22]  <Motoko`kaseijin> "What do you mean, there aren't any action buttons?"
+[17-Jun-2012 20:50:39]  <Motoko`kaseijin> I can kind of see that, yeah.
+[17-Jun-2012 20:51:07]  <Gideon> Well, we played a short encounter with premade characters to get an idea of how the game played. He stole some keys from a guard and then found a chest. Instead of using the keys he spent three turns trying to pick the lock.
+[17-Jun-2012 20:51:50]  <Motoko`kaseijin> Maybe he just really wanted to practice lock-picking...
+[17-Jun-2012 20:52:41]  <Gideon> Maybe. It was actually a pretty fun little encounter. 4E is kind of weird, but it does make combat less of a hassle.
+[17-Jun-2012 20:53:06]  <Motoko`kaseijin> Fewer calculations to make, I take it?
+[17-Jun-2012 20:53:12]  <Solstace> Speaking of DnD, I have my setting planned enough to do a trial adventure in a couple weeks, if people are interested.
+[17-Jun-2012 20:53:28]  <Gideon> Yeah. And all your skills are on action cards and easy to understand when and how to use them.
+[17-Jun-2012 20:53:34]  <Gideon> Solstace: I'd be cool with it.
+[17-Jun-2012 20:54:49]  <Motoko`kaseijin> I'll probably sit this one out, since I've never been a fan of the D&D style of setting, though I might be persuaded otherwise.
+[17-Jun-2012 20:54:55]  <Gideon> Oh, and classes in 4E are divided into archetypes based on how they fight. Very MMO like actually, but that's not a terrible thing when you're just starting into roleplaying.
+[17-Jun-2012 20:55:06]  <Motoko`kaseijin> I'm sure Solstace won't miss the haranguing. >_<
+[17-Jun-2012 20:55:25]  <Gideon> Motoko`kaseijin: You should play. We can be a pair of kobolds.
+[17-Jun-2012 20:55:38]  <Gideon> Kobold acrobats.
+[17-Jun-2012 20:55:40]  <Motoko`kaseijin> Oh, so it makes it easier to understand how the classes are divided?
+[17-Jun-2012 20:55:41]  <Gideon> From a circus.
+[17-Jun-2012 20:56:34]  <Motoko`kaseijin> Do our special moves involve throwing opponents into the air and then "barely" failing to catch them on the way down?
+[17-Jun-2012 20:56:35]  <Solstace> Motoko`kaseijin: I'm actually trying to avoid the usual kind of DnD setting.  Which is a lot harder than I initially thought XD
+[17-Jun-2012 20:56:37]  <Gideon> Yeah. There are strikers, controllers, leaders, and defenders. Strikers do lots of damage. Controllers do crowd control. Leaders buff and debuff. Defenders are tanks.
+[17-Jun-2012 20:58:17]  <Motoko`kaseijin> Solstace, yeah, I can imagine. Using the D&D mechanics makes it necessary to have certain aspects no matter what setting you use, I'd guess.
+[17-Jun-2012 20:58:34]  <Gideon> Well, you can always use the d20 Modern stuff.
+[17-Jun-2012 20:58:42]  <Gideon> Not that I've looked at it ever.
+[17-Jun-2012 20:58:44]  <Motoko`kaseijin> One of the supplements?
+[17-Jun-2012 20:58:45]  <Solstace> But I'm not really using a modern setting.
+[17-Jun-2012 20:59:08]  <Gideon> What kind of setting are you thinking?
+[17-Jun-2012 21:00:44]  <Motoko`kaseijin> I've always been a little skittish on mechanics-heavy systems. I think the only reason I made it through ARE is that everyone else was just as new to it. >_>
+[17-Jun-2012 21:00:50]  <Solstace> My vague notion going into this was that I wanted something more JRPGish than DnD.  This further evolved into wanting to get rid of a lot of the random combat, with experience coming more from political encounters, with the occasional faction battle here and there.
+[17-Jun-2012 21:00:57]  <JBridge> Happy Gendo Day, everyone!
+[17-Jun-2012 21:01:07]  *** JBridge was kicked by Solstace (JBridge)
+[17-Jun-2012 21:01:15]  <Gideon> Solstace: Oh, that sounds fun.
+[17-Jun-2012 21:01:17]  *** JBridge <~Joel@c-71-198-84-90.hsd1.ca.comcast.net> has joined #madokamadness
+[17-Jun-2012 21:01:25]  <JBridge> It wasn't /that/ bad of a joke, was it?
+[17-Jun-2012 21:01:30]  <Motoko`kaseijin> It was.
+[17-Jun-2012 21:01:31]  <Solstace> It was pretty close.
+[17-Jun-2012 21:01:35]  <Solstace> Mostly, I just wanted to kick someone.
+[17-Jun-2012 21:01:39]  <JBridge> Ah.
+[17-Jun-2012 21:01:45]  <Gideon> Though that means that playing a kobold acrobat might be out.
+[17-Jun-2012 21:01:48]  <Gideon> ;-;
+[17-Jun-2012 21:01:58]  <Motoko`kaseijin> Playing a bishounen acrobat isn't!
+[17-Jun-2012 21:01:59]  <Solstace> Yeah, almost definitely.
+[17-Jun-2012 21:02:00]  <JBridge> Also, http://boards.4chan.org/tg/res/19518957
+[17-Jun-2012 21:02:00]  <Omnipresence> 14URL: [boards.4chan.org] /tg/ - Traditional Games
+[17-Jun-2012 21:02:13]  <Gideon> I... I just really like kobolds, okay?
+[17-Jun-2012 21:02:13]  <JBridge> I made this thread, as you might've guessed.
+[17-Jun-2012 21:02:15]  <Solstace> I'm still considering whether I want to have Elves or not.
+[17-Jun-2012 21:02:21]  <JBridge> tl;dr I'm a newbie GM, need help.
+[17-Jun-2012 21:02:30]  <Solstace> All the other races are out.
+[17-Jun-2012 21:02:37]  <JBridge> Solstace: What is this?
+[17-Jun-2012 21:02:44]  <Rashi> back.
+[17-Jun-2012 21:02:52]  <Gideon> Just humans? No bishie elves or veira?
+[17-Jun-2012 21:03:04]  <Solstace> If there are elves, they'll be very, very rare.
+[17-Jun-2012 21:03:16]  <Gideon> Okay, well, I'd be cool with a political JRPG thing.
+[17-Jun-2012 21:03:21]  <Solstace> And the humans are probably going to be where the diversity comes from, a la Elder Scroll.
+[17-Jun-2012 21:03:29]  <Rashi> We're taking on Shinra Corp?
+[17-Jun-2012 21:03:33]  <Motoko`kaseijin> Is there an adorable mascot sidekick race?
+[17-Jun-2012 21:03:38]  <Gideon> Kupo.
+[17-Jun-2012 21:03:46]  <Solstace> Like, if you're character hails from a certain region, he might have more constitution due to climate or something.
+[17-Jun-2012 21:03:55]  <Solstace> As opposed to being a Dwarve.
+[17-Jun-2012 21:03:59]  <Solstace> *Dwarf.
+[17-Jun-2012 21:04:56]  <Solstace> This is also the setting I was talking about a while ago where magic is rather tribal/shamanistic, and all magic-users are persecuted/exiled.
+[17-Jun-2012 21:05:30]  <Gideon> Dragon Age?
+[17-Jun-2012 21:05:39]  <Solstace> I don't know anything about Dragon Age.
+[17-Jun-2012 21:05:40]  <Rashi> get out of here, gamer
+[17-Jun-2012 21:05:47]  <Solstace> The tribal idea came from Xam'd.
+[17-Jun-2012 21:05:54]  <Rashi> so, tibetan buddhism
+[17-Jun-2012 21:06:12]  <Solstace> I'm not familiar with tibetan buddhism.
+[17-Jun-2012 21:06:22]  <Rashi> it's what xam'd is based on, I think
+[17-Jun-2012 21:06:27]  <Solstace> Oh.
+[17-Jun-2012 21:06:29]  <Rashi> not that that matters.
+[17-Jun-2012 21:06:30]  <Solstace> That'd make sense.
+[17-Jun-2012 21:06:31]  <Solstace> Yeah.
+[17-Jun-2012 21:06:57]  <Solstace> Anyways, I'll spend the next week trying to finalize and compile all the adjustments I'll be making to the system.
+[17-Jun-2012 21:06:57]  <Rashi> so... when are we resuming
+[17-Jun-2012 21:07:26]  <Motoko`kaseijin> I was going to let you guys finish talking. I didn't want to just run over your conversation.
+[17-Jun-2012 21:07:35]  <Solstace> Oh, you could have told me >.>
+[17-Jun-2012 21:07:50]  <JBridge> What setting is this? Something original?
+[17-Jun-2012 21:08:09]  <Solstace> Yes.
+[17-Jun-2012 21:08:11]  <Motoko`kaseijin> JBridge, on the other hand, can be bound, gagged, and thrown in a basement somewhere. ^_^
+[17-Jun-2012 21:08:11]  <Rashi> planet eating trees, I think/
+[17-Jun-2012 21:08:14]  <JBridge> Ah.
+[17-Jun-2012 21:08:15]  <Solstace> ^
+[17-Jun-2012 21:08:29]  <JBridge> Motoko`kaseijin: I'd let you.
+[17-Jun-2012 21:08:40]  <Motoko`kaseijin> All right, I think we're readdy to start again, so off we go!
+[17-Jun-2012 21:08:45]  <JBridge> (Nah, I was just messing with you.)
+[17-Jun-2012 21:08:52]  <JBridge> (Don't kick me!)
+[17-Jun-2012 21:08:59]  *** Motoko`kaseijin sets mode: +q JBridge!*@*
+[17-Jun-2012 21:09:01]  * Rashi pulls Solstace and JBridge out of the room with a vaudeville hook
+[17-Jun-2012 21:09:54]  <Motoko`kaseijin> Brother Leslie speaks. "What would you like to know, Brother Gideon?"
+[17-Jun-2012 21:09:59]  <Motoko`kaseijin> **
+[17-Jun-2012 21:10:45]  <Gideon> "Does Brother Joseph have a history with Brother Eliezer? An old rivalry or something?"
+[17-Jun-2012 21:11:42]  *** cts <Mibbit@60-241-128-154.static.tpgi.com.au> has joined #madokamadness
+[17-Jun-2012 21:11:48]  <Motoko`kaseijin> "Not anything more unusual than being two townspeople, to my knowledge. Brother Joseph is an ambitious fellow. I suspect some jealousy is at work." **
+[17-Jun-2012 21:12:04]  <Motoko`kaseijin> * two fellow townspeople
+[17-Jun-2012 21:12:35]  <Rashi> [um, what's eliezer's position, again? >_>]
+[17-Jun-2012 21:13:00]  <Gideon> (Liaison with the Territorial Authority.)
+[17-Jun-2012 21:13:08]  <Rashi> [ah, right]
+[17-Jun-2012 21:13:28]  <Motoko`kaseijin> Since the settlements are dependent on the TA's aid, he has to coordinate shipments and such.
+[17-Jun-2012 21:13:57]  <Motoko`kaseijin> It's just that with the impending poor harvest, he also got put in control of emergency food distribution.
+[17-Jun-2012 21:14:15]  <Gideon> "And you believe that Brother Joseph or one of his brothers killed Brother Jules to get at Eliezer?"
+[17-Jun-2012 21:14:18]  <Motoko`kaseijin> That's solved for now, but there's clearly something personal at work.
+[17-Jun-2012 21:15:39]  <Motoko`kaseijin> Gideon: "Not brothers. One is a young girl, in her teens.
+[17-Jun-2012 21:16:16]  <Gideon> (How old is Brother Joseph?)
+[17-Jun-2012 21:16:24]  <Motoko`kaseijin> "And yes, loath as I am to say it. They may have sought to delegitimize Brother Eliezer in the eyes of the town, by throwing things into further chaos."
+[17-Jun-2012 21:17:04]  <Motoko`kaseijin> I was thinking early, maybe mid-twenties. Think... college revolutionary, I guess?
+[17-Jun-2012 21:17:31]  <Rashi> "That's quite serious... you really think he'd endanger everybody just for that?"
+[17-Jun-2012 21:18:28]  <Motoko`kaseijin> "I don't think he was thinking that far ahead. He may have let his own personal dislike for the man cloud his judgment."
+[17-Jun-2012 21:20:40]  <Motoko`kaseijin> ** for what it's worth
+[17-Jun-2012 21:21:04]  <Gideon> "I think we should try talking to Brother Joseph now," Gideon says.
+[17-Jun-2012 21:21:58]  <Motoko`kaseijin> Brother Leslie nods and looks at Rashi. "Are you ready as well?" **
+[17-Jun-2012 21:22:03]  <cts> y'know what. drat this. killing an endless wave of megas is an exercise in frustration
+[17-Jun-2012 21:22:06]  <Rashi> "Yes.  Anything else we should know, Steward?"
+[17-Jun-2012 21:23:31]  <Motoko`kaseijin> "Only that we must have faith that the King shall see us through this, Brother.
+[17-Jun-2012 21:23:44]  <Motoko`kaseijin> "Let us go, then."
+[17-Jun-2012 21:23:47]  <Rashi> "As always."
+[17-Jun-2012 21:24:49]  <Motoko`kaseijin> Brother Leslie rises from his seat, when a loud *bang* rings out. Its volume is such that it's impossible to tell where it came from.
+[17-Jun-2012 21:25:13]  <Gideon> (I was kidding about the sniper.)
+[17-Jun-2012 21:25:28]  <Motoko`kaseijin> A few screams follow. Brother Leslie looks at Gideon and Rashi, and begins rushing out of the building.
+[17-Jun-2012 21:25:41]  * Rashi follows!
+[17-Jun-2012 21:26:51]  * Gideon does the same, realizing that his rifle is still slung on the saddle of his horse.
+[17-Jun-2012 21:26:56]  <Motoko`kaseijin> Out in one of the alleys leading off of the central square, an middle-aged man is restraining a young girl, seeming to fit Brother Leslie's description of Joseph's younger sister.
+[17-Jun-2012 21:27:50]  <Motoko`kaseijin> A gun is dropped at her feet. It doesn't look like anyone is injured, but the struggle is still ongoing. Many townspeople have taken cover in nearby buildings or behind objects outside.
+[17-Jun-2012 21:28:35]  <Motoko`kaseijin> The man notices the Dogs and Brother Leslie emerging from the officials' post, and jerks his head in a motion as if to suggest "go back inside!" **
+[17-Jun-2012 21:29:09]  * Rashi hesitates and stops.
+[17-Jun-2012 21:29:33]  <Gideon> Gideon continues forward, "What's going on?"
+[17-Jun-2012 21:33:36]  <Motoko`kaseijin> The man yells back. His grip on the girl is tenacious, but it may not be enough. "Sister Constance here was headed up to the square with this gun," he says, kicking at the ground. "She didn't look at nobody coming down the street, just striding straight in, eyes at the ground. She's up to no good. You can see it in her!"
+[17-Jun-2012 21:34:11]  <Motoko`kaseijin> Sister Constance pays the newcomers no heed, continuing to fight against her restraints, hoping to take advantage of the distraction.
+[17-Jun-2012 21:34:19]  <Motoko`kaseijin> **
+[17-Jun-2012 21:35:48]  <Motoko`kaseijin> (I'm ready to call in the conflict mechanics whenever you are.)
+[17-Jun-2012 21:35:50]  <Gideon> (So, if I wanted to walk right up to her and lay on hands, would that count as conflict? (Insert joke about laying on hands)) 
+[17-Jun-2012 21:36:08]  <Motoko`kaseijin> You could do that, yes. You'd have to specify some objective, though.
+[17-Jun-2012 21:37:12]  <Gideon> Gideon believes she is possessed and intends to cast the demon out.
+[17-Jun-2012 21:37:51]  <Rashi> very straightforward dude
+[17-Jun-2012 21:38:07]  <Gideon> Gideon's all about Old Testament style justice.
+[17-Jun-2012 21:38:16]  <Motoko`kaseijin> Not a bad guess. Rashi?
+[17-Jun-2012 21:38:41]  <Motoko`kaseijin> (You can jump in later if you feel like now's not the best time to enter.)
+[17-Jun-2012 21:39:00]  * Gideon suspects Gideon may be suffering gunshot wounds in the future.
+[17-Jun-2012 21:39:06]  * Rashi hangs back nervously.
+[17-Jun-2012 21:39:08]  <Gideon> Gideons suspects.... yeah.
+[17-Jun-2012 21:39:53]  <Motoko`kaseijin> Hehe.
+[17-Jun-2012 21:40:02]  <Motoko`kaseijin> Okay, let me put together some figures right quick.
+[17-Jun-2012 21:40:07]  <Gideon> Right.
+[17-Jun-2012 21:40:15]  <Gideon> What arena would this start in?
+[17-Jun-2012 21:44:22]  <Motoko`kaseijin> Physical, likely.
+[17-Jun-2012 21:44:31]  <Motoko`kaseijin> You're not exactly trading punches yet.
+[17-Jun-2012 21:44:35]  <Gideon> Yeah.
+[17-Jun-2012 21:48:51]  <Motoko`kaseijin> Okay, I've put down some details for Sister Constance at the bottom of the character sheet.
+[17-Jun-2012 21:49:26]  <Motoko`kaseijin> I'm going to roll for Body plus Heart and the demonic relationship.
+[17-Jun-2012 21:49:39]  <Motoko`kaseijin> Everything look right here?
+[17-Jun-2012 21:50:12]  <Gideon> Yeah.
+[17-Jun-2012 21:50:36]  <Motoko`kaseijin> That's 3d6+5d6+d6=9d6, then.
+[17-Jun-2012 21:50:43]  <Motoko`kaseijin> !roll 9d6
+[17-Jun-2012 21:50:44]  <GameServ> 2, 1, 2, 5, 2, 1, 3, 6, 1 == 23
+[17-Jun-2012 21:50:55]  <Motoko`kaseijin> 1 1 1 2 2 2 3 5 6.
+[17-Jun-2012 21:51:13]  <Gideon> I'll roll for Body + Heart along with my trait "executor of the King's will" and my Book of Life. Sound good?
+[17-Jun-2012 21:51:36]  <Gideon> Oh, and I'll probably call in my devotion to the faith.
+[17-Jun-2012 21:51:39]  <Motoko`kaseijin> You're aiming for an exorcism, right? That looks good to me.
+[17-Jun-2012 21:52:19]  <Motoko`kaseijin> So that's 2d6+5d6+d6+d6+3d6 = 12d6, I think.
+[17-Jun-2012 21:52:19]  <Gideon> So, 2d6+6d6+1d6+3d6+1d6 = 14d6.
+[17-Jun-2012 21:52:48]  <Rashi> heaven or hell!  let's go!
+[17-Jun-2012 21:52:48]  <Motoko`kaseijin> Oh, your Heart is 6d6. Okay. You still had an extra d6, though. >_>
+[17-Jun-2012 21:52:59]  <Gideon> Okay, 13d6 then?
+[17-Jun-2012 21:53:05]  <Motoko`kaseijin> Yeah.
+[17-Jun-2012 21:53:08]  <Gideon> !roll 13d6
+[17-Jun-2012 21:53:08]  <GameServ> 6, 3, 2, 3, 1, 5, 6, 1, 5, 1, 6, 4, 4 == 47
+[17-Jun-2012 21:53:36]  <Motoko`kaseijin> Haha, I can see this one escalating quickly...
+[17-Jun-2012 21:54:01]  <Gideon> 1 1 1 2 3 3 4 4 5 5 6 6 6
+[17-Jun-2012 21:54:17]  <Motoko`kaseijin> Seems right. Okay, your raise.
+[17-Jun-2012 21:54:29]  <Gideon> Raises are 2 dice?
+[17-Jun-2012 21:54:32]  <Motoko`kaseijin> I like the "6 6 6" there.
+[17-Jun-2012 21:54:35]  <Motoko`kaseijin> Yeah, just two dice.
+[17-Jun-2012 21:56:13]  <Gideon> Raise: 5 6. Gideon strides up to Sister Constance and puts his palm to her forehead. With his free hand he pulls his Book of Life from a pocket inside his coat and begins to read.
+[17-Jun-2012 21:56:45]  <Gideon> Out loud of course.
+[17-Jun-2012 21:56:59]  <Gideon> It'd be silly if he was just calmly perusing the Bible while exorcising a demon.
+[17-Jun-2012 21:58:22]  <Motoko`kaseijin> Constance begins screaming as loudly as possible to block the effect of Gideon's words, a high-pitched, unnatural scream. See 5 6, leave 1 1 1 2 2 2 3.
+[17-Jun-2012 21:59:17]  <Gideon> Remaining dice for Gideon: 1 1 1 2 3 3 4 4 5 6 6
+[17-Jun-2012 21:59:30]  <Motoko`kaseijin> I'm going to escalate the conflict, since it's clear she has no chance of winning at this rate. Roll Will. I'm also going to bring in the Passion trait, so I get an additional 6d6.
+[17-Jun-2012 21:59:41]  <Motoko`kaseijin> 5d6 for you, I believe.
+[17-Jun-2012 21:59:50]  <Gideon> !roll 5d6
+[17-Jun-2012 21:59:51]  <GameServ> 4, 4, 3, 2, 4 == 17
+[17-Jun-2012 21:59:53]  <Motoko`kaseijin> !roll 6d6
+[17-Jun-2012 21:59:54]  <GameServ> 2, 6, 1, 1, 4, 5 == 19
+[17-Jun-2012 22:00:01]  * Rashi flinches from the sound, but sets about clearing out any remaining bystanders
+[17-Jun-2012 22:01:39]  <Motoko`kaseijin> Constance knocks the man restraining her to the ground and charges into Gideon, trying to knock the Book from his hand. Raise 2 5, leave 1 1 1 1 1 2 2 2 2 3 6.
+[17-Jun-2012 22:05:45]  <Gideon> Gideon stumbles backwards, but keeps hold on the Book. His superior size and training allows him to hold Constance back for the moment. See 3 4, leave 1 1 1 2 2 3 3 4 4 4 4 5 6 6.
+[17-Jun-2012 22:08:25]  <Gideon> "I am a servant of the King of Life and you will obey me," Gideon says (Invoking the Ancients), sweeping Constance's feet from under her. He kneels beside her, still holding the book in one hand and keeping his palm pressed to her forehead. Raise 5 6, leave 1 1 1 2 2 3 3 4 4 4 4 6.
+[17-Jun-2012 22:08:57]  <Gideon> (Karate based exorcisms are all the rage)
+[17-Jun-2012 22:09:26]  <Rashi> [I think I saw that movie once!]
+[17-Jun-2012 22:10:00]  <Gideon> (I like how Rashi fixes a machine and Gideon beats up a girl.)
+[17-Jun-2012 22:10:11]  <Gideon> (Fuck yeah! Dogs!)
+[17-Jun-2012 22:11:08]  <Motoko`kaseijin> Constance hits the ground hard, taking several cuts to the face. See 2 2 2 2 3, leave 1 1 1 1 1 6, fallout 5d6.
+[17-Jun-2012 22:11:47]  <Motoko`kaseijin> I'm going to roll 2d6 for her tenacity trait. Down, but not quite out.
+[17-Jun-2012 22:11:49]  <Motoko`kaseijin> !roll 2d6
+[17-Jun-2012 22:11:50]  <GameServ> 5, 3 == 8
+[17-Jun-2012 22:13:09]  <Motoko`kaseijin> Constance takes a swipe directly at Gideon's face, looking to grab onto his hair or at least leave a few marks. Raise 6 3, leave 1 1 1 1 1 5.
+[17-Jun-2012 22:14:06]  <Rashi> [What happened to the dude who was restraining her?]
+[17-Jun-2012 22:15:03]  <Motoko`kaseijin> It felt unfair to play him as another NPC. He was mostly just there to set the scene.
+[17-Jun-2012 22:15:11]  <Rashi> [alright.]
+[17-Jun-2012 22:15:26]  <Motoko`kaseijin> Imagine that she managed to disable him with a well-placed kick between the legs, if you wish.
+[17-Jun-2012 22:15:31]  <Gideon> Without thinking Gideon takes his hand from her forehead and catches her wrist. See 6 3, leave 1 1 1 2 2 3 4 4 4 4.
+[17-Jun-2012 22:16:49]  <Gideon> "Sister, the King of Life will forgive you if you repent. I know this." Raise 4 4, leave 1 1 1 2 2 3 4 4.
+[17-Jun-2012 22:18:15]  <Motoko`kaseijin> Okay, I don't think anything good can come from her taking more fallout, so I give.
+[17-Jun-2012 22:18:49]  <Gideon> I kind of expected you to have her pick up the rifle and shoot me.
+[17-Jun-2012 22:19:08]  <Motoko`kaseijin> Oh, no, we're not quite there yet.
+[17-Jun-2012 22:19:14]  <Gideon> Good to know.
+[17-Jun-2012 22:20:17]  <Motoko`kaseijin> The strength drains from Constance's body, and she slumps to the ground, unconscious. The redness seems to lift from her features. She's actually rather fair-looking, discounting the fresh blood of course.
+[17-Jun-2012 22:20:55]  <Motoko`kaseijin> Time to roll some fallout...
+[17-Jun-2012 22:20:57]  <Motoko`kaseijin> !roll 5d6
+[17-Jun-2012 22:20:58]  <GameServ> 3, 3, 2, 5, 1 == 14
+[17-Jun-2012 22:21:09]  <Gideon> Do I need to do anything?
+[17-Jun-2012 22:21:29]  <Motoko`kaseijin> Okay, not too bad. She'll probably be fine.
+[17-Jun-2012 22:21:52]  <Motoko`kaseijin> Gideon, what do you do here? She's been exorcised.
+[17-Jun-2012 22:23:43]  <Gideon> Gideon stands up, as if he's suddenly realized that he's kneeling over a bloody, unconscious and fairly attractive girl his own age. He takes a few steps back and looks back at Rashi, "Um, help?" 
+[17-Jun-2012 22:24:03]  <Motoko`kaseijin> Hahahahaha.
+[17-Jun-2012 22:24:15]  <Gideon> It's his first time. :P
+[17-Jun-2012 22:24:17]  * Rashi jogs over
+[17-Jun-2012 22:24:30]  <Rashi> "You... she was possessed."
+[17-Jun-2012 22:24:39]  * Rashi leans down to check vitals.
+[17-Jun-2012 22:24:49]  <Gideon> Gideon just nods, stunned.
+[17-Jun-2012 22:25:25]  <Motoko`kaseijin> A few of the townspeople come out from their hiding places and come to look at the scene.
+[17-Jun-2012 22:25:38]  <Motoko`kaseijin> "We should take her to the local healer," a woman says.
+[17-Jun-2012 22:26:27]  <Motoko`kaseijin> A man leans in. "Is she going to be all right?" he asks Rashi. **
+[17-Jun-2012 22:27:07]  <Gideon> (I like how Rashi is becoming the guy who does all the finesse related stuff. Fix a machine, make sure people aren't dead, so on, so forth.)
+[17-Jun-2012 22:27:12]  <Rashi> "Yeah, I think she'll be fine.  Someone, help me carry her to the healer."
+[17-Jun-2012 22:28:15]  <Motoko`kaseijin> The man takes her arms and hoists Constance over his shoulders, not seeming to care about the blood.
+[17-Jun-2012 22:28:40]  <Gideon> Gideon half-steps forward, expecting someone to rush forward to help, and is relieved when someone does.
+[17-Jun-2012 22:29:44]  <Motoko`kaseijin> The woman looks at Constance, then Rashi and Gideon. "She... something in the way she looked didn't seem... human. I'm so glad you could drive... them... out of her."
+[17-Jun-2012 22:29:50]  <Motoko`kaseijin> **
+[17-Jun-2012 22:30:43]  <Gideon> "It's part of our duty," Gideon says, attempting to regain control of the situation. "That would be Brother Joseph's sister?"
+[17-Jun-2012 22:32:37]  <Motoko`kaseijin> "Yes. She's ordinarily... not like that, at all. She always seems so happy, so innocent, but... with that innocence comes vulnerability. *They* must have turned her into... into that."
+[17-Jun-2012 22:32:42]  <Motoko`kaseijin> **
+[17-Jun-2012 22:35:30]  <Rashi> "Hm.  We'll see."
+[17-Jun-2012 22:35:41]  <Motoko`kaseijin> 14I think I'm going to wrap up after this closing conversation. We should be able to finish this town's episode next week.
+[17-Jun-2012 22:36:10]  <Gideon> "I think we need to talk to her brother," Gideon says, walking towards his horse. He pulls the old rifle from the saddle and slings the strap across his back. "Let's go."
+[17-Jun-2012 22:36:16]  <Gideon> (Cool, whenever.)
+[17-Jun-2012 22:36:41]  <Motoko`kaseijin> All right, we'll pick up next week as you head down to confront Brother Joseph. *suspense chord*
+[17-Jun-2012 22:36:46]  <Gideon> Hah.
+[17-Jun-2012 22:36:58]  <Motoko`kaseijin> It's been two and a half hours and I kind of need to eat. >_<
+[17-Jun-2012 22:37:00]  <Gideon> Rashi: I'm not monopolizing the sessions or anything, am I?
+[17-Jun-2012 22:37:06]  <Rashi> Not at all.
+[17-Jun-2012 22:37:24]  <Gideon> Cool. Just want to make sure.
+[17-Jun-2012 22:37:26]  <Motoko`kaseijin> It's really saying a lot about your respective characters, I think.
+[17-Jun-2012 22:37:29]  <Rashi> Also that's a weird thing to ask after most of last time was Rashi versus agriculture in the fight of the century
+[17-Jun-2012 22:37:51]  <Gideon> Yeah, but I just feel like Gideon is always jumping in and talking and Rashi is like, "Um, okay, yeah."
+[17-Jun-2012 22:37:59]  <Gideon> Which does work for the whole character thing.
+[17-Jun-2012 22:38:00]  <Motoko`kaseijin> It's like we've had a second round of initiations, haha.
+[17-Jun-2012 22:38:19]  <Gideon> We need to have a showdown with more than one NPC.
+[17-Jun-2012 22:38:27]  <Gideon> Which I assume will be next session.
+[17-Jun-2012 22:38:42]  <Motoko`kaseijin> Well, Joseph does have one sibling left...
+[17-Jun-2012 22:38:51]  <Gideon> Yeah.
+[17-Jun-2012 22:38:53]  <Motoko`kaseijin> Totally not hinting at anything. ^_^
+[17-Jun-2012 22:39:21]  <Gideon> I'm kind of sad that I missed out on at least a little fallout. Damn my excellent skills at exorcism.
+[17-Jun-2012 22:39:34]  <Gideon> I figure I'll probably fall apart in the first gunfight.
+[17-Jun-2012 22:39:38]  <Motoko`kaseijin> My dice were kind of terrible, too. Did you see all those 1s?
+[17-Jun-2012 22:39:55]  <Gideon> Yeah. Not nearly as well as the machine.
+[17-Jun-2012 22:40:27]  <Motoko`kaseijin> Those ag units could have gone Skynet on you guys if you didn't stop them.
+[17-Jun-2012 22:41:16]  <Motoko`kaseijin> All right, good session, everyone. I'll fix up logs sometime during the week. Hope you guys enjoyed it.

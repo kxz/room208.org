@@ -1,0 +1,974 @@
+[12-Oct-2014 19:07:07]  <Rig> We left off with the three of you standing in the catering trailer surrounded by unconscious bodies. You've taken Shui captive with a minimal amount of fuss.
+[12-Oct-2014 19:08:40]  <IllFlower> I just ran out of bubble gum. Appropriately enough.
+[12-Oct-2014 19:08:41]  <Rig> Of course, you've rendered the entire catering staff unconscious and the guests will be arriving within 25 minutes. It might be time to figure out your plan to carry the unconscious young socialite out the gate.
+[12-Oct-2014 19:09:43]  <IllFlower> A diversion always sounds good. We have a bunch of flashbangs, right?
+[12-Oct-2014 19:10:18]  <Rig> You do. I believe you have 3 a piece.
+[12-Oct-2014 19:10:22]  <BGTB2005> Koishi looks at the unconscious guard, and then at the other two runners
+[12-Oct-2014 19:11:18]  <IllFlower> Is there just the one door in and out of the trailer?
+[12-Oct-2014 19:11:37]  <IllFlower> I hope there's a second one on the opposite side for our characters to make a break for it.
+[12-Oct-2014 19:12:30]  <jseblan> we could blow a bunch of flashbangs near the trailer and try to lose ourselves in the crowd
+[12-Oct-2014 19:12:31]  <Rig> There is a second door, but it's still well within the perimeter of security.
+[12-Oct-2014 19:12:34]  <IllFlower> And there were snipers, right? Can we do something crazy like toss some of the flashbangs in the air to try and blind all of them at once?
+[12-Oct-2014 19:12:53]  <Rig> I don't think they have enough range.
+[12-Oct-2014 19:12:58]  <Rig> 10m radius.
+[12-Oct-2014 19:13:03]  <jseblan> in their panic they'd probably go mostly for the parking lot, which is the direction we want to reach anyway
+[12-Oct-2014 19:13:26]  <BGTB2005> How far apart are the platforms?
+[12-Oct-2014 19:13:28]  <Alicia> (Just kill the guests.)
+[12-Oct-2014 19:13:51]  <jseblan> or I could cast mob mood and make them terrified
+[12-Oct-2014 19:14:04]  <IllFlower> Malcolm holds up one of the flashbangs and points outside the door the runners came in through, then sweeps his fingers around the three of them, and finally points at the door opposite.
+[12-Oct-2014 19:14:10]  <Rig> The platforms are stationed around the checkpoints into the area.
+[12-Oct-2014 19:14:47]  <IllFlower> One of us is probably going to die, right?
+[12-Oct-2014 19:14:50]  <Rig> There are three up front covering the main area and two in back covering the stage.
+[12-Oct-2014 19:14:54]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:9968:23e4:cc9f:30c0> has joined #madokamadness
+[12-Oct-2014 19:14:58]  <Rig> Hopefully not.
+[12-Oct-2014 19:15:11]  <Rig> What actions would you like to take?
+[12-Oct-2014 19:15:25]  <BGTB2005> Koishi has a plan, probably not a good one
+[12-Oct-2014 19:16:15]  <AttObl> [[Well, that was earlier than i expected. Still late for me. Sorry about that.]]
+[12-Oct-2014 19:16:16]  <Omnipresence> 14Wikipedia (full-text): https://en.wikipedia.org/wiki/List_of_atheist_authors — There have been many atheists who have been authors. The is a list of atheist authors. Living persons in this list are people whose atheism is relevant to their notable…
+[12-Oct-2014 19:16:19]  <jseblan> Rig: can we walk up to those guard towers or will they shoot on sight/are unreachable
+[12-Oct-2014 19:17:01]  <Rig> They're raised platforms overlooking the crowd. Made out of metal frames. It'd be suspicious for you to climb them, but you could get pretty close to the base without drawing attention.
+[12-Oct-2014 19:17:03]  <IllFlower> I figured we would throw the a flashbang out of one entrance and make a break through the opposite one and into the midst of the crowd backstage.
+[12-Oct-2014 19:17:27]  <Alicia> (AttObl: ())
+[12-Oct-2014 19:17:27]  <BGTB2005> Koishi's plan is essentially: Strip the guard, ensure he doesn't wake up (optional), have one of the other two wear the uniform, and have him basically just waltz out the (back) door with Shui
+[12-Oct-2014 19:17:43]  <IllFlower> lol.
+[12-Oct-2014 19:18:01]  <Rig> jseblan probably wants to melt the supports of the towers?
+[12-Oct-2014 19:18:18]  * jseblan grins
+[12-Oct-2014 19:18:28]  <BGTB2005> how many guards per tower?
+[12-Oct-2014 19:18:49]  <Rig> 1 guard. They appear to have a rifle and a sidearm.
+[12-Oct-2014 19:18:58]  <AttObl> ((It's fine. Problems happen from time t time. And yeah, consider me out for the Shadowrun game, since it's in the middle. Delete Seha if you like.))
+[12-Oct-2014 19:19:02]  <jseblan> if you guys do a distraction with those flashbangs, I run for one of the tower to make /another/ distraction/get rid of at least that one sniper
+[12-Oct-2014 19:19:13]  <IllFlower> He'd only be able to melt one of them before someone notices, presumably.
+[12-Oct-2014 19:19:19]  <AttObl> ((*to))
+[12-Oct-2014 19:19:22]  <BGTB2005> Koishi has a suppressed automatic weapon
+[12-Oct-2014 19:19:45]  <Rig> That'd be a good presumption.
+[12-Oct-2014 19:19:48]  <jseblan> IllFlower: while I melt a tower you guys can run for the truck and I'd hopefully join up with you.
+[12-Oct-2014 19:19:52]  <Rig> You have 15 minutes until guests arrive.
+[12-Oct-2014 19:20:04]  <IllFlower> It was 25 earlier! D:
+[12-Oct-2014 19:20:08]  <Rig> Time passes.
+[12-Oct-2014 19:20:18]  <IllFlower> Not that fast! D:
+[12-Oct-2014 19:20:19]  <Rig> Talking isn't always a free action. :P
+[12-Oct-2014 19:20:20]  <jseblan> talking isn't a free action? everything I know is a lie
+[12-Oct-2014 19:20:29]  <Rig> We'll say 20 then.
+[12-Oct-2014 19:20:42]  <Rig> I just want you to be aware that catering will be required soon.
+[12-Oct-2014 19:20:45]  <BGTB2005> I could probably be able to take one or two out before the other guard(s) notice, if within range
+[12-Oct-2014 19:20:48]  <IllFlower> Right, yeah.
+[12-Oct-2014 19:20:49]  <Rig> There are also catering carts and trays in the trailer.
+[12-Oct-2014 19:21:04]  <IllFlower> We should load Shui onto one of them and cover it with a tablecloth.
+[12-Oct-2014 19:21:19]  <Rig> Presumably they have a van or something too in the garage
+[12-Oct-2014 19:21:19]  <jseblan> is the catering ready
+[12-Oct-2014 19:21:35]  <Rig> It looks like some of the food prep was done, but not everything has been plated.
+[12-Oct-2014 19:21:44]  <IllFlower> We can wait for the potentially lethal force later.
+[12-Oct-2014 19:22:01]  <IllFlower> And Malcolm's dressed like the executive chef! I think.
+[12-Oct-2014 19:22:24]  <Rig> Close enough to pass with a little effort, presumably.
+[12-Oct-2014 19:22:42]  <IllFlower> Unless Shui is, like, 180 cm tall, she should fit underneath one of those carts easily.
+[12-Oct-2014 19:22:44]  <BGTB2005> If we were to disguise ourselves as catering staff, would we be able to take a catering tray out of the area?
+[12-Oct-2014 19:22:58]  <BGTB2005> cart, whatever
+[12-Oct-2014 19:23:03]  <Rig> You could try.
+[12-Oct-2014 19:23:05]  <IllFlower> Serve her on a platter.
+[12-Oct-2014 19:23:17]  <IllFlower> SOYLENT GREEN IS PEOPLE
+[12-Oct-2014 19:23:47]  <BGTB2005> they have the technology to put her back together, right?
+[12-Oct-2014 19:24:13]  <Rig> I highly advise not disassembling the target.
+[12-Oct-2014 19:24:22]  <jseblan> am I still online
+[12-Oct-2014 19:24:24]  <Rig> She is only 11.
+[12-Oct-2014 19:24:27]  <Rig> jseblan: You are.
+[12-Oct-2014 19:24:28]  <IllFlower> Malcolm spots a caterers' cart in the corner, and immediately gets an idea.
+[12-Oct-2014 19:24:31]  <jseblan> my internet is bugging out again
+[12-Oct-2014 19:24:58]  <IllFlower> "Antoine, can you bring Shui here?" he says, walking up to the cart.
+[12-Oct-2014 19:26:57]  <Rig> jseblan appears to be suffering from a Matrix glitch.
+[12-Oct-2014 19:27:13]  <jseblan> I am
+[12-Oct-2014 19:27:17]  <BGTB2005> did he go with a cheap commlink?
+[12-Oct-2014 19:27:33]  <IllFlower> "And Koishi, grab me one of those tablecloths from the rack over there."
+[12-Oct-2014 19:27:39]  <jseblan> Rig: /ping Omnipresence took 2 minutes, 32 seconds
+[12-Oct-2014 19:28:07]  <Rig> That's... pretty bad.
+[12-Oct-2014 19:28:50]  <jseblan> I don't understand how I wasn't disconnected
+[12-Oct-2014 19:28:52]  <jseblan> anyway!
+[12-Oct-2014 19:28:57]  <jseblan> back to melting stuff off
+[12-Oct-2014 19:29:12]  <Rig> IllFlower: Roll Intuition - 1.
+[12-Oct-2014 19:29:19]  <BGTB2005> Koishi guesses at Malcolm's plan and grabs a second tablecloth
+[12-Oct-2014 19:29:22]  <Rig> So, 3d6.
+[12-Oct-2014 19:29:37]  <IllFlower> What's this for?
+[12-Oct-2014 19:29:42]  <Rig> Disguise.
+[12-Oct-2014 19:29:48]  <jseblan> I pick up Shui (do I need a roll?) and bring her to Mal
+[12-Oct-2014 19:29:53]  <IllFlower> +roll 3d6
+[12-Oct-2014 19:29:54]  <rollermine> IllFlower: (1+3+6)=10
+[12-Oct-2014 19:30:00]  <BGTB2005> the second one? to make sure Shui doesn't (try to) move about under in the cart
+[12-Oct-2014 19:30:01]  <IllFlower> One hit.
+[12-Oct-2014 19:30:02]  <Rig> She's 11. I bet you can carry her.
+[12-Oct-2014 19:30:15]  <Rig> IllFlower: Oh, that's... gonna be good.
+[12-Oct-2014 19:30:24]  <IllFlower> I think the rule was something like 15 kg per Body point.
+[12-Oct-2014 19:30:31]  <IllFlower> Rig: Good good or "good" good?
+[12-Oct-2014 19:30:36]  <Rig> "good"
+[12-Oct-2014 19:30:41]  <jseblan> ...
+[12-Oct-2014 19:30:49]  * BGTB2005 prepares popcorn
+[12-Oct-2014 19:31:22]  <jseblan> I guess now I shove Shui in the cart? after Koishi binds her or whatever she wants to do with her
+[12-Oct-2014 19:31:25]  <IllFlower> Oh. I see. Well, then.
+[12-Oct-2014 19:31:32]  <IllFlower> Where's Hikari when we need her?
+[12-Oct-2014 19:31:35]  <BGTB2005> jseblan: yeah
+[12-Oct-2014 19:32:06]  <Rig> You now have a catering cart with Shui stowed underneath and a white tablecloth covering the whole thing.
+[12-Oct-2014 19:32:29]  <Rig> Shui appears to be completely hidden from a casual glance.
+[12-Oct-2014 19:32:50]  <BGTB2005> Could I bind her to make sure she doesn't move about while we try to sneak past the checkpoint?
+[12-Oct-2014 19:33:10]  <IllFlower> She's unconscious, isn't she?
+[12-Oct-2014 19:33:15]  <Rig> She is.
+[12-Oct-2014 19:33:21]  <Alicia> (Hikari is with you in spirit.)
+[12-Oct-2014 19:33:25]  <IllFlower> So what are the odds of her moving around?
+[12-Oct-2014 19:34:12]  <Rig> Pretty low unless you're doing stunts with this cart.
+[12-Oct-2014 19:34:36]  <BGTB2005> also what if she wakes up
+[12-Oct-2014 19:34:53]  <jseblan> I still have 19 charges on my stun gloves
+[12-Oct-2014 19:34:53]  <Rig> You can tie her up if you like.
+[12-Oct-2014 19:35:12]  <BGTB2005> I believe Koishi's Escape Artist skill is applicable?
+[12-Oct-2014 19:35:13]  <IllFlower> What are the odds of her waking up, then?
+[12-Oct-2014 19:35:26]  <IllFlower> BGTB2005: Only if she ties Shui to herself.
+[12-Oct-2014 19:35:37]  <Rig> I really don't think you need to roll to tie her up. She's 11.
+[12-Oct-2014 19:35:50]  <Rig> She is unlikely to be trained at anything more than being 11.
+[12-Oct-2014 19:36:05]  <IllFlower> You don't really get training for that, either.
+[12-Oct-2014 19:36:13]  <Rig> It's a hard life.
+[12-Oct-2014 19:36:19]  <IllFlower> It is.
+[12-Oct-2014 19:36:27]  <jseblan> she's the daughter of an extremely wealthy man
+[12-Oct-2014 19:36:30]  <jseblan> I'm pretty sure she did
+[12-Oct-2014 19:37:02]  <Rig> Anything else?
+[12-Oct-2014 19:37:54]  <IllFlower> I'm just going to have Malcolm start rolling Shui out of here if not.
+[12-Oct-2014 19:38:16]  <jseblan> do I go straight for the nearest tower or do I follow Mal
+[12-Oct-2014 19:38:32]  <BGTB2005> I guess Koishi will disguise herself as one of the catering staff, then?
+[12-Oct-2014 19:38:34]  <IllFlower> "Who wants to take point?" Malcolm asks.
+[12-Oct-2014 19:39:34]  <Rig> I'll be right back. Gotta fix my cat. Should be 3 minutes.
+[12-Oct-2014 19:39:43]  <IllFlower> He gestures in front of him to make it clear what he's asking.
+[12-Oct-2014 19:40:48]  <IllFlower> I presume he's not planning on neutering his cat in three minutes.
+[12-Oct-2014 19:40:57]  <jseblan> you never know
+[12-Oct-2014 19:41:05]  <Rig> BGTB2005: If you're disguising yourself you need to roll for it.
+[12-Oct-2014 19:42:14]  <BGTB2005> I have two points in the Stealth skill group...
+[12-Oct-2014 19:42:20]  <Rig> Which would be 6d6 for you.
+[12-Oct-2014 19:42:39]  <BGTB2005> @dice roll 6d6
+[12-Oct-2014 19:42:39]  <Omnipresence> 14BGTB2005: Rolled 1 2 3 5 5 6 = 22.
+[12-Oct-2014 19:42:51]  <Rig> Cool, 3 hits.
+[12-Oct-2014 19:43:13]  <Rig> Now, who is rolling what where?
+[12-Oct-2014 19:43:18]  <IllFlower> Maybe Koishi should be the one pushing the cart.
+[12-Oct-2014 19:43:30]  <jseblan> I'm not entirely sure what I'm supposed to do right now
+[12-Oct-2014 19:43:39]  <jseblan> head's a bit out of it, sorry
+[12-Oct-2014 19:43:57]  <Rig> jseblan: No problem. You could disguise yourself as a caterer.
+[12-Oct-2014 19:44:08]  <jseblan> okay, I will.
+[12-Oct-2014 19:44:15]  <Rig> 4d6 then.
+[12-Oct-2014 19:44:16]  <jseblan> 5d6 since we use intuition, right?
+[12-Oct-2014 19:44:25]  <BGTB2005> int+disguise
+[12-Oct-2014 19:44:25]  <Rig> It's default so you get a -1.
+[12-Oct-2014 19:44:32]  <IllFlower> I was thinking the three of them would walk with some distance between each other so that they wouldn't all have to coordinate their disguises.
+[12-Oct-2014 19:45:03]  <Rig> Makes sense. Who will push the cart?
+[12-Oct-2014 19:45:09]  <IllFlower> Or maybe just one of them sticks with whoever's pushing the cart.
+[12-Oct-2014 19:45:14]  <Rig> Who goes first?
+[12-Oct-2014 19:45:42]  <IllFlower> I was thinking Koishi, but she's got three disguise hits so it might be better to have her push the cart.
+[12-Oct-2014 19:46:06]  <Rig> That makes sense.
+[12-Oct-2014 19:46:09]  <IllFlower> I suppose I could take point since I already basically bombed out on the test.
+[12-Oct-2014 19:46:17]  <IllFlower> And I have guns.
+[12-Oct-2014 19:46:21]  <Rig> Of course, Koishi can't handle being questioned at all.
+[12-Oct-2014 19:46:31]  <BGTB2005> I think you left them behind?
+[12-Oct-2014 19:46:38]  <Rig> You left the big one behind.
+[12-Oct-2014 19:46:42]  <Rig> The others are concealable.
+[12-Oct-2014 19:47:04]  <IllFlower> Oh, hm, yeah, maybe I should push the cart if they're going to ask me questions...
+[12-Oct-2014 19:47:17]  <IllFlower> Well, Malcolm should. I can't push it.
+[12-Oct-2014 19:47:37]  <BGTB2005> He could answer the questions for her, if it's possible
+[12-Oct-2014 19:47:54]  <IllFlower> Malcolm can stick with Koishi and Antoine can take point, then.
+[12-Oct-2014 19:48:00]  <Rig> Sounds like a plan.
+[12-Oct-2014 19:48:13]  <Rig> Did Antoine want to disguise himself?
+[12-Oct-2014 19:48:29]  <IllFlower> Oh, there should probably be something on top of the cart.
+[12-Oct-2014 19:48:29]  <jseblan> this is ridiculous
+[12-Oct-2014 19:48:41]  *** jseblan <~chatzilla@CPE788df722aae1-CM788df722aae0.cpe.net.cable.rogers.com> has quit IRC (Quit: ChatZilla 0.9.91 [Firefox 32.0.3/20140923175406])
+[12-Oct-2014 19:48:49]  <Rig> Hahaha.
+[12-Oct-2014 19:48:52]  *** jseblan <~chatzilla@CPE788df722aae1-CM788df722aae0.cpe.net.cable.rogers.com> has joined #madokamadness
+[12-Oct-2014 19:49:03]  <jseblan> what did I miss
+[12-Oct-2014 19:49:25]  <BGTB2005> If you want Antoine to try disguising, roll 4d6
+[12-Oct-2014 19:49:33]  <IllFlower> Malcolm grabs a heavy-looking cooler and kinda sorta drops it on top of the cart.
+[12-Oct-2014 19:49:37]  <Rig> Um, so, Malcom and Koishi are walking the cart. Antoine should take point.
+[12-Oct-2014 19:49:42]  <Rig> Is he gonna disguise himself?
+[12-Oct-2014 19:49:45]  <jseblan> yes
+[12-Oct-2014 19:49:46]  <Alicia> (jseblan: Nothing.)
+[12-Oct-2014 19:49:58]  <jseblan> +roll 4d6
+[12-Oct-2014 19:49:58]  <rollermine> jseblan: (2+1+2+6)=11
+[12-Oct-2014 19:50:02]  <Rig> 1 hit.
+[12-Oct-2014 19:50:04]  <IllFlower> "There, that should be a little less suspicious. Should keep the cloth from fluttering about too much, too."
+[12-Oct-2014 19:50:05]  <jseblan> fail?
+[12-Oct-2014 19:50:14]  <AttObl> ((Phew, at least it's not a glitch.))
+[12-Oct-2014 19:50:17]  <Rig> Nah, it's just not a great disguise.
+[12-Oct-2014 19:50:23]  <AttObl> ((And yeah, you're not missing anything.))
+[12-Oct-2014 19:50:27]  <IllFlower> jseblan: No, it just means that if anyone wants to do Perception against you they only have to get 1 hit.
+[12-Oct-2014 19:50:30]  <BGTB2005> You should invest points into stealth skills
+[12-Oct-2014 19:50:54]  <Rig> Okay, ready to put this plan into action?
+[12-Oct-2014 19:50:55]  <jseblan> Rig: well, I'm a white French Canadian who can't speak the local language, I don't think a good disguise would have madesnese :P
+[12-Oct-2014 19:51:00]  <jseblan> made sense*
+[12-Oct-2014 19:51:05]  <Rig> No, it's totally in character.
+[12-Oct-2014 19:51:06]  <IllFlower> Rig: Wait, I have the Stealth skill group.
+[12-Oct-2014 19:51:13]  <Rig> Oh, shit. I didn't see.
+[12-Oct-2014 19:51:18]  *** WildSeraph <~Spheraph@d67-193-23-119.home3.cgocable.net> has quit IRC (Read error: Connection reset by peer)
+[12-Oct-2014 19:51:27]  <Rig> You can reroll that disguise check then.
+[12-Oct-2014 19:51:30]  <IllFlower> lol, neither did I.
+[12-Oct-2014 19:51:33]  <IllFlower> +roll 6d6
+[12-Oct-2014 19:51:33]  <rollermine> IllFlower: (1+2+4+5+6+2)=20
+[12-Oct-2014 19:51:38]  <IllFlower> Two hits. Whoo.
+[12-Oct-2014 19:51:46]  <Rig> Improved then.
+[12-Oct-2014 19:51:55]  <IllFlower> I rolled twice as many dice, haha.
+[12-Oct-2014 19:51:59]  <Rig> Everyone ready to blow this popsicle stand?
+[12-Oct-2014 19:52:09]  <IllFlower> There are popsicles?!
+[12-Oct-2014 19:52:15]  <BGTB2005> probably in the cooler?
+[12-Oct-2014 19:52:20]  <IllFlower> Shit, man.
+[12-Oct-2014 19:52:27]  <IllFlower> Let's get this show on the road.
+[12-Oct-2014 19:52:54]  <IllFlower> ("HALT SUSPICIOUS PARTY" "I'm not suspicious! Here, have a popsicle.")
+[12-Oct-2014 19:53:02]  <BGTB2005> pfhahahaha
+[12-Oct-2014 19:53:04]  <jseblan> by taking point do you mean I just stay behind and follow you or uh.
+[12-Oct-2014 19:53:12]  <Rig> Point means first.
+[12-Oct-2014 19:53:16]  <jseblan> oh
+[12-Oct-2014 19:53:20]  <BGTB2005> good luck
+[12-Oct-2014 19:53:35]  <jseblan> Rig: thank god I have a perfect grasp of the English language ¬_¬
+[12-Oct-2014 19:53:38]  <IllFlower> You're basically out front to react first if anything goes down.
+[12-Oct-2014 19:54:23]  <jseblan> alright
+[12-Oct-2014 19:54:26]  <jseblan> should be fun
+[12-Oct-2014 19:55:18]  <Rig> How far behind are Koishi and Malcolm gonna follow?
+[12-Oct-2014 19:56:12]  <jseblan> are we going straight for the truck or...
+[12-Oct-2014 19:56:53]  <IllFlower> About five meters, I'm thinking.
+[12-Oct-2014 19:57:06]  <IllFlower> jseblan: I don't see what not doing so would gain us.
+[12-Oct-2014 19:57:15]  <jseblan> right
+[12-Oct-2014 19:58:12]  <jseblan> also since we have that cart/cooler we can tell any suspicious people we need to get something at wherever the catering service is from, which isn't on-site, unfortunately, haha, what a shame.
+[12-Oct-2014 19:58:29]  <jseblan> anyway, I start walking towards the parking lot.
+[12-Oct-2014 19:59:23]  <Rig> The guard at the gate gives you a look, but lets you pass without hassling you. He doesn't care about a single caterer leaving. He is more concerned with the people coming in.
+[12-Oct-2014 19:59:41]  <BGTB2005> Koishi follows with the cart
+[12-Oct-2014 20:00:20]  <jseblan> I'm assuming Mal is the one with the truck's keys
+[12-Oct-2014 20:00:27]  <IllFlower> Koishi walks quickly. It's all Malcolm can do to keep up with her.
+[12-Oct-2014 20:00:47]  <IllFlower> jseblan: I guess so. Nobody else can drive, so...
+[12-Oct-2014 20:00:54]  <jseblan> mm
+[12-Oct-2014 20:00:57]  <Rig> As you reach the gate the guard stops you.
+[12-Oct-2014 20:00:59]  <IllFlower> I doubt Malcolm locked the doors, though. It's a hunk of junk.
+[12-Oct-2014 20:01:07]  <Rig> A pair of caterers with a cart was a different matter.
+[12-Oct-2014 20:01:15]  <jseblan> Rig: any cars nearby I can hide behind? I'm gonna cast Influence on the guard
+[12-Oct-2014 20:01:30]  <jseblan> or will I be seen
+[12-Oct-2014 20:01:35]  <Rig> Most the cars are parked in the garage nearby.
+[12-Oct-2014 20:01:54]  <Rig> The area is pretty clear except for the concrete barricades marking the perimeter.
+[12-Oct-2014 20:02:42]  <Rig> The guard looks over Koishi and Malcolm and then at the cart. "Where are you going with this?"
+[12-Oct-2014 20:03:02]  <IllFlower> Malcolm'll talk, I suppose.
+[12-Oct-2014 20:03:07]  <IllFlower> Should I roll for deception?
+[12-Oct-2014 20:03:08]  <BGTB2005> yeah he kinda has to
+[12-Oct-2014 20:03:14]  <BGTB2005> talk, that is
+[12-Oct-2014 20:04:08]  <Rig> jseblan: You could probably still see the guard from the garage, but it's still 30 meters away and would take you a few seconds to get to it and cast.
+[12-Oct-2014 20:04:22]  <Rig> IllFlower: Yeah, you should roll for something.
+[12-Oct-2014 20:04:22]  <jseblan> mm
+[12-Oct-2014 20:04:34]  <Rig> What are you looking to say to the guard?
+[12-Oct-2014 20:05:01]  <IllFlower> Make up a story about the drinks in the cooler not being up to snuff.
+[12-Oct-2014 20:05:22]  <Rig> Sounds like a con roll to me.
+[12-Oct-2014 20:05:52]  *** WildSeraph <~Spheraph@d67-193-23-119.home3.cgocable.net> has joined #madokamadness
+[12-Oct-2014 20:05:57]  <IllFlower> I would try negotiating instead but I don't think I can do that without an implicit con.
+[12-Oct-2014 20:06:16]  <Rig> Yeah, not really. But you do get a +1 on this roll.
+[12-Oct-2014 20:06:23]  <IllFlower> Oh, really?
+[12-Oct-2014 20:06:30]  <Rig> Yeah, you have the first impression trait.
+[12-Oct-2014 20:06:45]  <Rig> So, defaulting on con gives you -1, but the trait gives you +2 on this test.
+[12-Oct-2014 20:06:53]  <IllFlower> Yay.
+[12-Oct-2014 20:07:02]  <IllFlower> @dice roll 6d6
+[12-Oct-2014 20:07:02]  <Omnipresence> 14IllFlower: Rolled 1 3 4 4 5 6 = 23.
+[12-Oct-2014 20:07:08]  <IllFlower> Still just two hits.
+[12-Oct-2014 20:07:22]  <Rig> Lemme find the stats for this guy.
+[12-Oct-2014 20:07:54]  <Rig> @dice roll 2d6
+[12-Oct-2014 20:07:54]  <Omnipresence> 14Rig: Rolled 4 4 = 8.
+[12-Oct-2014 20:08:02]  <Rig> So, you can con this guy.
+[12-Oct-2014 20:08:21]  <IllFlower> lol.
+[12-Oct-2014 20:09:37]  <IllFlower> "Sorry, we got a bad batch of drinks in here." Malcolm briefly pops open the cooler to show the guard an assortment of aluminum cans. "One of the other caterers arrived with an emergency shipment to replace these."
+[12-Oct-2014 20:09:41]  <Rig> (For the record, your disguises barely held up before this)
+[12-Oct-2014 20:09:54]  <BGTB2005> woohoo
+[12-Oct-2014 20:11:00]  <IllFlower> We're barely competent! Yeah!
+[12-Oct-2014 20:11:18]  <Rig> The guard takes a look at the drinks, taking one for himself. "Looks fine to me," he says, examining the date printed on the bottom. "But what do I know? You wouldn't tell me how to shoot, right?" He laughs and waves them on.
+[12-Oct-2014 20:11:41]  <IllFlower> Later the guard dies from botulism.
+[12-Oct-2014 20:11:51]  <jseblan> I swear to god if you guys don't fuck up enough for me to have to cast toxic wave on something
+[12-Oct-2014 20:12:07]  <Rig> Hahaha, well, catering will be missing shortly.
+[12-Oct-2014 20:12:11]  <Rig> And that'll be noticed.
+[12-Oct-2014 20:12:21]  <Alicia> (Man jseblan is bloodthirsty.)
+[12-Oct-2014 20:12:21]  <IllFlower> But we'll be long gone by then, right?
+[12-Oct-2014 20:12:22]  <BGTB2005> we plan on being well out of there by the time that happens
+[12-Oct-2014 20:12:24]  <IllFlower> Riiiight?
+[12-Oct-2014 20:12:35]  <jseblan> we should at least be far enough
+[12-Oct-2014 20:13:31]  <IllFlower> Antoine finally sees Malcolm approaching the truck, with Koishi not too far behind.
+[12-Oct-2014 20:14:43]  <IllFlower> "Help Koishi load Shui into the back," Malcolm says, somewhat brusquely. "Can't hurt to take the cart and drinks too. Just make sure you don't put the cart in wheel side down. I'll start the truck."
+[12-Oct-2014 20:14:59]  <Rig> From the top of the parking garage you can see  panicked milling around the catering trailer in the venue. Someone seems to have found the missing caterers.
+[12-Oct-2014 20:15:38]  <Rig> It's only a matter of time until they realize the guard in the trailer was assigned to Shui.
+[12-Oct-2014 20:15:53]  <IllFlower> "Hurry!" Malcolm shouts in Cantonese, forgetting that neither of the other two understands it.
+[12-Oct-2014 20:16:26]  <BGTB2005> I'm guessing none of them needed the instruction if they could see the site from their location?
+[12-Oct-2014 20:16:27]  <jseblan> Antoine picks up the cooler and slides it at the back of truck. He then holds the front of the cart, and points at the back while looking at Koishi, signifying that he wants her to lift it.
+[12-Oct-2014 20:16:59]  <IllFlower> Malcolm slams himself into the driver's seat and kicks up the ignition.
+[12-Oct-2014 20:17:06]  <Rig> A group of guards have broken off from the main force and are heading for the parking garage. It appears they're going to set up a checkpoint at the exit.
+[12-Oct-2014 20:17:27]  <jseblan> it might be a good idea to get out of our caterer disguises
+[12-Oct-2014 20:17:29]  <IllFlower> There's only one exit?
+[12-Oct-2014 20:17:40]  <Rig> Unless you've rigged the truck to fly.
+[12-Oct-2014 20:17:50]  <IllFlower> We could leap off the second floor or something.
+[12-Oct-2014 20:17:58]  <Rig> You could.
+[12-Oct-2014 20:18:00]  <IllFlower> badideas.jpg
+[12-Oct-2014 20:18:05]  <Alicia> (Do it.)
+[12-Oct-2014 20:18:07]  * Rig nods.
+[12-Oct-2014 20:18:12]  <BGTB2005> ditching the disguises would probably help
+[12-Oct-2014 20:18:18]  <BGTB2005> i guess we could abandond the cart too
+[12-Oct-2014 20:18:23]  <BGTB2005> *abandon
+[12-Oct-2014 20:18:33]  <IllFlower> Then leave 'em behind and hop in.
+[12-Oct-2014 20:18:35]  <BGTB2005> Cover Shui with the tablecloth
+[12-Oct-2014 20:18:41]  <jseblan> alright
+[12-Oct-2014 20:18:53]  <IllFlower> I figure we'd need something to weight the tablecloth down, though.
+[12-Oct-2014 20:18:57]  <BGTB2005> The cooler
+[12-Oct-2014 20:19:05]  <Rig> Are you putting Shui in the bed of the truck?
+[12-Oct-2014 20:19:06]  <jseblan> I already have it in the truck
+[12-Oct-2014 20:19:26]  <IllFlower> Rig: I figure there's no room in the cab.
+[12-Oct-2014 20:19:31]  <Rig> That'd be reasonable.
+[12-Oct-2014 20:19:38]  <IllFlower> Unless we, like, prop her in the passenger seat, which would definitely get noticed.
+[12-Oct-2014 20:19:41]  <Rig> I was gonna say that there was barely enough room for 3 adults.
+[12-Oct-2014 20:19:44]  <IllFlower> "This is my friend Bernie!"
+[12-Oct-2014 20:19:47]  <Rig> Hahaha.
+[12-Oct-2014 20:19:50]  <jseblan> pff
+[12-Oct-2014 20:19:58]  <Rig> So, what's the arrangement in the truck?
+[12-Oct-2014 20:20:02]  <IllFlower> Well, Koishi might not be an adult yet.
+[12-Oct-2014 20:20:04]  <Rig> Mal is driving.
+[12-Oct-2014 20:20:08]  <IllFlower> He is.
+[12-Oct-2014 20:20:29]  <Rig> Shui is in the bed of the truck under a tablecloth with a cooler on top of it.
+[12-Oct-2014 20:20:33]  <Rig> Is the cart in there too?
+[12-Oct-2014 20:20:49]  <BGTB2005> I think we're leaving that behind?
+[12-Oct-2014 20:20:51]  <jseblan> Mal told us to ditch it
+[12-Oct-2014 20:21:01]  <Rig> Okay, where are Antoine and Koishi riding?
+[12-Oct-2014 20:21:18]  <IllFlower> Koishi should ride in the back.
+[12-Oct-2014 20:21:19]  <BGTB2005> I guess Koishi will ride in the bed
+[12-Oct-2014 20:21:27]  <jseblan> alright, I sit with Mal
+[12-Oct-2014 20:21:32]  <IllFlower> That way, when she starts shooting, they can't shoot back at her as easily.
+[12-Oct-2014 20:21:35]  <IllFlower> Logic!
+[12-Oct-2014 20:22:03]  <jseblan> and I guess I can safely cast from the front seat
+[12-Oct-2014 20:22:09]  <BGTB2005> ...the tailgate is armoured, yes?
+[12-Oct-2014 20:22:17]  <Rig> The truck has some minor armor.
+[12-Oct-2014 20:22:18]  <IllFlower> "All right, everyone strapped in?" Malcolm shouts as he puts the truck into gear.
+[12-Oct-2014 20:22:47]  <jseblan> Antoine nods, attaching his belt
+[12-Oct-2014 20:23:39]  <BGTB2005> Koishi hops into the truck's bed and slaps the roof of the cabin twice
+[12-Oct-2014 20:23:48]  <Rig> Okay, there are three levels of the garage plus the roof.
+[12-Oct-2014 20:23:53]  <IllFlower> Which level are we on?
+[12-Oct-2014 20:24:26]  <BGTB2005> Top, i think?
+[12-Oct-2014 20:24:44]  <Rig> The roof. The guards have simply set up a barricade at the exit and are stopping all vehicles and searching them.
+[12-Oct-2014 20:25:08]  <Rig> You can hear sirens coming and it appears they've discovered Shui is missing.
+[12-Oct-2014 20:25:28]  <jseblan> what's the barricade like?
+[12-Oct-2014 20:25:38]  <jseblan> could we uh, hypothetically, smash through it
+[12-Oct-2014 20:25:39]  <BGTB2005> some cones and guards?
+[12-Oct-2014 20:26:00]  <IllFlower> If it's above-ground, we can have Antoine melt away a wall on the first level and drive through it.
+[12-Oct-2014 20:26:23]  <BGTB2005> just floor it :p
+[12-Oct-2014 20:27:12]  <Rig> It is above ground.
+[12-Oct-2014 20:27:57]  <Rig> You can't see the barricade yet, so, it could be anything.
+[12-Oct-2014 20:28:08]  <IllFlower> BGTB2005: There's a potential for damage to the truck if we do that.
+[12-Oct-2014 20:28:22]  <Rig> But these garages generally have metal pillars to block the exit that pop out of the ground.
+[12-Oct-2014 20:28:31]  <Rig> I don't remember the name for that device.
+[12-Oct-2014 20:28:33]  <IllFlower> Anyway, Malcolm speeds off towards the bottom floor.
+[12-Oct-2014 20:28:44]  <BGTB2005> retractable bollards?
+[12-Oct-2014 20:28:47]  <jseblan> when we get stopped at the barricade I'll cast toxic wave on it and Koishi can shoot the guards
+[12-Oct-2014 20:28:57]  <IllFlower> Rig: Maybe it's got those spike things.
+[12-Oct-2014 20:29:50]  <Rig> As you reach the ramp to the bottom floor you can see that the bollards have been deployed and that four guards have taken positions between them.
+[12-Oct-2014 20:30:02]  <Rig> They've got their weapons drawn and are staring your vehicle down.
+[12-Oct-2014 20:30:51]  <Rig> Plans?
+[12-Oct-2014 20:30:51]  <IllFlower> I still suggest melting one of the other walls.
+[12-Oct-2014 20:30:57]  <BGTB2005> yeah
+[12-Oct-2014 20:31:35]  <IllFlower> Malcolm backs the truck up to the ramp from the second floor, out of sight of the guards.
+[12-Oct-2014 20:31:56]  *** Juan <~Juan_Carl@199.189.165.66> has quit IRC (Quit: Leaving.)
+[12-Oct-2014 20:31:58]  <Rig> Hahaha.
+[12-Oct-2014 20:31:58]  <IllFlower> "Antoine," he says, pointing at the wall in front of them, "can you do the melty-melty thing there?"
+[12-Oct-2014 20:32:42]  <jseblan> Antoine grins, says "enfin" and takes out his spellcasting focus
+[12-Oct-2014 20:32:54]  <jseblan> I cast toxic wave on the wall
+[12-Oct-2014 20:33:43]  <jseblan> "you forget to get out of the car. the acid splashes all over the cabin, killing you both"
+[12-Oct-2014 20:34:12]  <Rig> Remind me, is Toxic Wave indirect?
+[12-Oct-2014 20:34:21]  <AttObl> ((CLUE-file worthy if that happens))
+[12-Oct-2014 20:34:25]  <jseblan> Rig: yeah
+[12-Oct-2014 20:34:30]  <jseblan> Indirect, Elemental, Area
+[12-Oct-2014 20:35:44]  <BGTB2005> ((Koishi hears the screams of the other two, says "fuck this", abandons the truck and flees))
+[12-Oct-2014 20:36:52]  <Rig> jseblan: Magic + Spellcasting and any other focus stuff you're using.
+[12-Oct-2014 20:37:06]  <IllFlower> "main street thoroughfares (e.g., Michigan Ave.)" // I have a feeling this game used to be set in Chicago.
+[12-Oct-2014 20:37:16]  <jseblan> okay, but I do need to get my head out of the car because the casting point starts on the caster for indirect spells it seems
+[12-Oct-2014 20:37:46]  <jseblan> Rig: so magic 4 + spellcasting 6 + spellcasting focus 4
+[12-Oct-2014 20:37:52]  <jseblan> 14d6?
+[12-Oct-2014 20:37:54]  <Rig> yeah.
+[12-Oct-2014 20:38:00]  <jseblan> +roll 14d6
+[12-Oct-2014 20:38:00]  <rollermine> jseblan: (2+2+3+6+5+1+5+2+3+4+2+2+2+4)=43
+[12-Oct-2014 20:38:10]  <IllFlower> 3 hits.
+[12-Oct-2014 20:38:12]  <jseblan> three hits
+[12-Oct-2014 20:38:13]  <AttObl> ((http://shadowrun.wikia.com/wiki/Chicago))
+[12-Oct-2014 20:39:05]  <Rig> @dice roll 15d6
+[12-Oct-2014 20:39:05]  <Omnipresence> 14Rig: Rolled 1 1 1 2 2 3 4 4 4 4 4 4 6 6 6 = 52.
+[12-Oct-2014 20:39:38]  <AttObl> ((IIRC, Seattle was widely used for the most part))
+[12-Oct-2014 20:39:44]  <Rig> You've done some damage, but not enough to destroy the wall.
+[12-Oct-2014 20:40:00]  <Rig> One of the guards has broke off and is coming up the ramp to find out what you're up to.
+[12-Oct-2014 20:40:14]  <Rig> Let's roll for Initiative.
+[12-Oct-2014 20:40:16]  <IllFlower> "the Noose" // Clever.
+[12-Oct-2014 20:40:59]  <IllFlower> @dice roll 8d6
+[12-Oct-2014 20:40:59]  <Omnipresence> 14IllFlower: Rolled 1 1 2 2 3 4 4 5 = 22.
+[12-Oct-2014 20:41:37]  <jseblan> how do we roll initiative again
+[12-Oct-2014 20:41:41]  <IllFlower> 3 hits, 11 initiative.
+[12-Oct-2014 20:41:43]  <Rig> IllFlower: You only rolll half.
+[12-Oct-2014 20:41:43]  <jseblan> reaction + uh...
+[12-Oct-2014 20:41:49]  <IllFlower> Intuition.
+[12-Oct-2014 20:41:53]  <BGTB2005> REA+INT
+[12-Oct-2014 20:42:02]  <BGTB2005> and then what do I add?
+[12-Oct-2014 20:42:07]  <jseblan> +roll 8d6
+[12-Oct-2014 20:42:08]  <rollermine> jseblan: (2+5+3+2+4+5+4+4)=29
+[12-Oct-2014 20:42:19]  <Rig> BGTB2005: Hang on, you have a stupid number of things.
+[12-Oct-2014 20:42:20]  <IllFlower> Rig: Half?
+[12-Oct-2014 20:42:29]  <Rig> IllFlower: Combat Paralysis.
+[12-Oct-2014 20:42:36]  <IllFlower> Oh, right, that.
+[12-Oct-2014 20:43:01]  <IllFlower> @dice roll 4d6
+[12-Oct-2014 20:43:01]  <Omnipresence> 14IllFlower: Rolled 1 1 2 5 = 9.
+[12-Oct-2014 20:43:03]  <BGTB2005> last time I did 17d6
+[12-Oct-2014 20:43:06]  <IllFlower> 1 hit, 9 initiative.
+[12-Oct-2014 20:43:18]  <IllFlower> jseblan: 2 hits for 10 total.
+[12-Oct-2014 20:43:27]  <Rig> BGTB2005: You get +2 this time.
+[12-Oct-2014 20:43:35]  <BGTB2005> 19d6?
+[12-Oct-2014 20:43:45]  <BGTB2005> or less?
+[12-Oct-2014 20:44:00]  <Rig> Less.
+[12-Oct-2014 20:44:07]  <Rig> I count 9d6.
+[12-Oct-2014 20:44:13]  <Rig> 11d6 I mean.
+[12-Oct-2014 20:44:26]  <BGTB2005> @dice roll 11d6
+[12-Oct-2014 20:44:26]  <Omnipresence> 14BGTB2005: Rolled 2 2 2 3 3 3 3 5 5 5 6 = 39.
+[12-Oct-2014 20:44:37]  <Rig> 4 hits?
+[12-Oct-2014 20:44:55]  <jseblan> I have to go do the supper. I'll have my tablet with IRC on so it should be fine-ish
+[12-Oct-2014 20:45:18]  <IllFlower> Yeah, 4. So 15 total?
+[12-Oct-2014 20:45:20]  *** jseblan[out] <~androirc@CPE788df722aae1-CM788df722aae0.cpe.net.cable.rogers.com> has joined #madokamadness
+[12-Oct-2014 20:45:31]  <Rig> Yeah.
+[12-Oct-2014 20:45:37]  <Rig> @dice roll 7d6
+[12-Oct-2014 20:45:37]  <Omnipresence> 14Rig: Rolled 4 5 5 6 6 6 6 = 38.
+[12-Oct-2014 20:46:14]  <Rig> @dice roll 7d6
+[12-Oct-2014 20:46:14]  <Omnipresence> 14Rig: Rolled 2 2 2 3 5 6 6 = 26.
+[12-Oct-2014 20:46:15]  <Rig> @dice roll 7d6
+[12-Oct-2014 20:46:15]  <Omnipresence> 14Rig: Rolled 1 2 5 5 5 6 6 = 30.
+[12-Oct-2014 20:46:16]  <Rig> @dice roll 7d6
+[12-Oct-2014 20:46:16]  <Omnipresence> 14Rig: Rolled 2 2 3 5 6 6 6 = 30.
+[12-Oct-2014 20:47:15]  <IllFlower> That's a lot of guards.
+[12-Oct-2014 20:47:22]  <Rig> 4 in total.
+[12-Oct-2014 20:47:33]  <IllFlower> So... 13, 10, 12, 11.
+[12-Oct-2014 20:47:45]  <IllFlower> I guess Koishi will have to save us.
+[12-Oct-2014 20:48:07]  <Rig> Hahaha. Well, the good news is that only one guard is close enough at the the moment.
+[12-Oct-2014 20:48:13]  <Rig> But Koishi has the first action.
+[12-Oct-2014 20:48:16]  *** Zia_ is now known as Zia
+[12-Oct-2014 20:49:17]  <Rig> Oh, and jseblan needs to roll to resist drain still.
+[12-Oct-2014 20:49:43]  <jseblan> +roll 9d6
+[12-Oct-2014 20:49:44]  <rollermine> jseblan: (4+4+5+5+4+6+6+6+5)=45
+[12-Oct-2014 20:50:05]  <jseblan> that's how it is right?
+[12-Oct-2014 20:50:05]  <BGTB2005> Koishi quickdraws her Ingram Smartgun
+[12-Oct-2014 20:50:07]  <Rig> You take 1 point of stun.
+[12-Oct-2014 20:50:12]  <Rig> And yeah, that's right.
+[12-Oct-2014 20:50:13]  *** JBridge <~JBridge@173-228-104-193.dsl.dynamic.fusionbroadband.com> has joined #madokamadness
+[12-Oct-2014 20:50:20]  <jseblan> cool. at least I remembered that roll
+[12-Oct-2014 20:52:14]  <Rig> BGTB2005: Pistols + Rea
+[12-Oct-2014 20:52:26]  *** A_sentient_JDAM <~JBridge@173-228-104-193.dsl.dynamic.fusionbroadband.com> has quit IRC (Ping timeout: 186 seconds)
+[12-Oct-2014 20:53:13]  <Rig> So, 12d6.
+[12-Oct-2014 20:53:26]  <BGTB2005> @dice roll 12d6
+[12-Oct-2014 20:53:26]  <Omnipresence> 14BGTB2005: Rolled 1 1 1 1 1 1 2 3 3 3 5 5 = 27.
+[12-Oct-2014 20:54:06]  <IllFlower> That's a glitch, no?
+[12-Oct-2014 20:54:35]  <BGTB2005> Quickdraw holster reduces threshold from 3 to 2
+[12-Oct-2014 20:54:53]  <Rig> It's still a glitch.
+[12-Oct-2014 20:54:55]  <IllFlower> Koishi loses her grip on the pistol. It flies into the guard's face, knocking him out.
+[12-Oct-2014 20:55:03]  <IllFlower> If only.
+[12-Oct-2014 20:55:58]  <Rig> I think the gun will just get stuck and you can't draw it.
+[12-Oct-2014 20:56:36]  <Rig> That's 1 simple action burned.
+[12-Oct-2014 20:58:15]  <Rig> You've got another simple action and a free action if you want to use it.
+[12-Oct-2014 21:00:21]  <BGTB2005> Drop prone (free action) and draw the weapon normally (Ready weapon?) for the rest of her first initiative pass
+[12-Oct-2014 21:01:05]  <Rig> Prone in the bed of the truck?
+[12-Oct-2014 21:01:38]  <BGTB2005> ...yeah this is going to be a problem really soon isn't it
+[12-Oct-2014 21:01:47]  <ponicalica> 13:54:53 <@Rig> It's still a glitch. <---I thought glitch+success meant "you succeed, but something fucks up"
+[12-Oct-2014 21:02:16]  <Rig> The book says a glitch on a quickdraw generally means the gun is stuck.
+[12-Oct-2014 21:02:24]  <BGTB2005> or dropped
+[12-Oct-2014 21:02:25]  <Rig> Or is dropped.
+[12-Oct-2014 21:02:34]  <Rig> A critical glitch means you shoot yourself.
+[12-Oct-2014 21:02:41]  <Rig> Or throw the gun across the room.
+[12-Oct-2014 21:02:44]  <BGTB2005> or throw it across the room
+[12-Oct-2014 21:03:02]  <Rig> Okay, so, Koishi is prone in the truck with her weapon drawn.
+[12-Oct-2014 21:03:33]  <Rig> The other three guards move up the ramp, following behind the first guard.
+[12-Oct-2014 21:03:53]  <Rig> Antoine can take his pass now.
+[12-Oct-2014 21:04:04]  <Rig> The guards are spread apart as they come up the ramp.
+[12-Oct-2014 21:04:25]  <Rig> jseblan: You can keep trying to burn through the wall or take shots at guards.
+[12-Oct-2014 21:04:48]  <BGTB2005> He could try throwing grenades
+[12-Oct-2014 21:05:09]  <jseblan[out]> One moment
+[12-Oct-2014 21:06:29]  <jseblan[out]> What do I need to throw a grenade?
+[12-Oct-2014 21:07:49]  <Rig> You have to ready it and then throw it.
+[12-Oct-2014 21:07:57]  <Rig> So, both your simple actions.
+[12-Oct-2014 21:09:01]  <Rig> And it'd be an AGI+Throwing Weapons roll.
+[12-Oct-2014 21:09:22]  *** jseblan[out] <~androirc@CPE788df722aae1-CM788df722aae0.cpe.net.cable.rogers.com> has quit IRC (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[12-Oct-2014 21:09:29]  <jseblan> okay, back on the PC
+[12-Oct-2014 21:09:39]  <jseblan> my agi is shit and I don't have throwing wapons so
+[12-Oct-2014 21:10:17]  <BGTB2005> throw magic at them?
+[12-Oct-2014 21:10:23]  <jseblan> mhmm
+[12-Oct-2014 21:10:47]  <Rig> Okay, that's a complex action.
+[12-Oct-2014 21:10:59]  <Rig> What spell are you throwing at them?
+[12-Oct-2014 21:11:01]  <Alicia> (I thought you were the toxic murderous dude, seb.)
+[12-Oct-2014 21:11:08]  <jseblan> Alicia: I am
+[12-Oct-2014 21:11:21]  <Rig> And at which target in particular.
+[12-Oct-2014 21:11:33]  <IllFlower> You mean "all of them" isn't a valid answer?
+[12-Oct-2014 21:11:36]  <jseblan> Rig: Acid Stream. Toxic Wave might damage the car too, and I doubt I'm close enough for death touch
+[12-Oct-2014 21:12:03]  <jseblan> I target the guard closest to me.
+[12-Oct-2014 21:12:18]  <Rig> Okay, so, roll Magic + Spellcasting.
+[12-Oct-2014 21:12:24]  <Rig> If you want to use your focus roll that too.
+[12-Oct-2014 21:12:35]  <jseblan> +roll 14d6
+[12-Oct-2014 21:12:35]  <rollermine> jseblan: (2+3+4+4+4+6+4+6+3+2+4+2+2+2)=48
+[12-Oct-2014 21:13:02]  <Rig> I count 2 hits.
+[12-Oct-2014 21:13:16]  <jseblan> yeah
+[12-Oct-2014 21:13:23]  <Rig> So, we've got a 7 total force.
+[12-Oct-2014 21:14:10]  <Rig> @dice roll 6d6
+[12-Oct-2014 21:14:10]  <Omnipresence> 14Rig: Rolled 1 1 1 3 4 5 = 15.
+[12-Oct-2014 21:15:39]  <Rig> You do 6 damage to the poor guy.
+[12-Oct-2014 21:16:01]  <IllFlower> Does he go Wicked Witch of the West?
+[12-Oct-2014 21:16:12]  <BGTB2005> not completely?
+[12-Oct-2014 21:16:49]  <Rig> @dice roll 3d6
+[12-Oct-2014 21:16:49]  <Omnipresence> 14Rig: Rolled 4 6 6 = 16.
+[12-Oct-2014 21:17:07]  <IllFlower> @wa 1 (km/h)/(m/(3 sec))
+[12-Oct-2014 21:17:08]  <Omnipresence> 14IllFlower: Wolfram|Alpha: Assuming meters — Input interpretation: 1×(km/h  (kilometer per hour))/((meter)/(3 seconds)) — Result: 0.8333
+[12-Oct-2014 21:17:10]  <Rig> He's not dead yet, but he's covered in acid.
+[12-Oct-2014 21:17:37]  <Rig> The guard claws at his armored vest and tries to peel it off before the acid melts it to his skin.
+[12-Oct-2014 21:18:05]  <Rig> And unless jseblan has any ideas for a free action we can move to his turn.
+[12-Oct-2014 21:18:30]  <jseblan> I give him the finger. as a free action.
+[12-Oct-2014 21:18:59]  <Rig> Hahaha.
+[12-Oct-2014 21:19:09]  <BGTB2005> heh
+[12-Oct-2014 21:19:21]  <jseblan> "roll unarmed combat + intimidation"
+[12-Oct-2014 21:19:33]  <IllFlower> So we're not moving at the moment, right?
+[12-Oct-2014 21:21:01]  <Rig> No.
+[12-Oct-2014 21:21:13]  <IllFlower> So I have the option of either driving or shooting someone.
+[12-Oct-2014 21:21:17]  <Rig> Not yet.
+[12-Oct-2014 21:21:21]  <Rig> But yes.
+[12-Oct-2014 21:21:33]  <Rig> The guard that Antoine just attacked has his turn.
+[12-Oct-2014 21:21:42]  <IllFlower> Just thinkin'.
+[12-Oct-2014 21:21:44]  <Rig> And he raises his SMG and fires a burst at Antoine.
+[12-Oct-2014 21:21:59]  <IllFlower> I'm not sure if trying to ram the guards would be worth it.
+[12-Oct-2014 21:22:48]  <Rig> @dice roll 4d6
+[12-Oct-2014 21:22:48]  <Omnipresence> 14Rig: Rolled 5 5 6 6 = 22.
+[12-Oct-2014 21:22:56]  * jseblan suddenly regrets flipping the guard
+[12-Oct-2014 21:23:00]  <Rig> jseblan: roll rea
+[12-Oct-2014 21:23:06]  <jseblan> +roll 3d6
+[12-Oct-2014 21:23:06]  <rollermine> jseblan: (6+3+1)=10
+[12-Oct-2014 21:23:17]  <BGTB2005> ...now i'm thinking most, if not all, of the truck's armour is applied to the cabin...
+[12-Oct-2014 21:23:19]  <Rig> What armor do you have?
+[12-Oct-2014 21:23:36]  <jseblan> armor clothing with chemical protection
+[12-Oct-2014 21:25:47]  <Rig> Okay, roll Body + 4.
+[12-Oct-2014 21:26:07]  <Rig> +6 actually.
+[12-Oct-2014 21:26:16]  <IllFlower> Truck has 8 armor by default, looks like.
+[12-Oct-2014 21:26:27]  <jseblan> +roll 9d6
+[12-Oct-2014 21:26:27]  <rollermine> jseblan: (4+6+2+4+1+5+5+4+1)=32
+[12-Oct-2014 21:26:47]  <Rig> Shit, really? I miscounted that. Add another 6 to that roll.
+[12-Oct-2014 21:26:52]  <Rig> So, just roll 6d6
+[12-Oct-2014 21:26:56]  <jseblan> +roll 6d6
+[12-Oct-2014 21:26:56]  <rollermine> jseblan: (3+3+5+3+2+2)=18
+[12-Oct-2014 21:27:03]  <jseblan> four hits?
+[12-Oct-2014 21:27:18]  <IllFlower> Reading page 171 here.
+[12-Oct-2014 21:27:25]  <jseblan> tell it to me straight doc
+[12-Oct-2014 21:27:50]  <IllFlower> Passengers are always considered to be under Good Cover, it says.
+[12-Oct-2014 21:28:50]  <Rig> Yeah, I counted that.
+[12-Oct-2014 21:29:07]  <Rig> So, you had 4 hits and he was doing 11 damage. So, you take 9.
+[12-Oct-2014 21:29:20]  <IllFlower> Oh dear.
+[12-Oct-2014 21:29:31]  <Rig> You're really hurt.
+[12-Oct-2014 21:29:46]  <Rig> He got an amazing number of hits.
+[12-Oct-2014 21:29:51]  <jseblan> ;_;
+[12-Oct-2014 21:29:59]  <Rig> Malcom is up.
+[12-Oct-2014 21:30:04]  <Alicia> (Shouldn't have flipped him the Alicia, jseblan.)
+[12-Oct-2014 21:30:24]  <BGTB2005> maybe you should be less specific with your rude hand gestures
+[12-Oct-2014 21:31:25]  <IllFlower> He's still got one box left on the CM, right?
+[12-Oct-2014 21:31:30]  <Rig> Yeah.
+[12-Oct-2014 21:33:13]  <IllFlower> So if I shoot that's 4P...
+[12-Oct-2014 21:33:23]  <Rig> Which person?
+[12-Oct-2014 21:33:31]  <Rig> I meant Antoine had one box left.
+[12-Oct-2014 21:33:38]  <Rig> (Don't shoot Antoine.)
+[12-Oct-2014 21:33:44]  <IllFlower> I could use the truck as a battering ram for... 8P?
+[12-Oct-2014 21:33:47]  <IllFlower> 8P minimum.
+[12-Oct-2014 21:34:32]  <Rig> It'd be the Body of the truck / 2
+[12-Oct-2014 21:34:41]  <IllFlower> Yeah, the truck in the manual has 16.
+[12-Oct-2014 21:34:48]  <Rig> Which truck?
+[12-Oct-2014 21:35:08]  <IllFlower> The only truck.
+[12-Oct-2014 21:35:16]  <Rig> The Gopher?
+[12-Oct-2014 21:35:24]  <Rig> It has 14.
+[12-Oct-2014 21:36:31]  <IllFlower> Oh, okay. So 7P.
+[12-Oct-2014 21:36:54]  <Rig> Yeah,
+[12-Oct-2014 21:37:12]  <Rig> Is that what you you want to do?
+[12-Oct-2014 21:37:34]  <IllFlower> Thinkin'...
+[12-Oct-2014 21:38:02]  <IllFlower> I'd be rolling 7, then a Vehicle Test to avoid crashing.
+[12-Oct-2014 21:38:22]  <Rig> Yeah.
+[12-Oct-2014 21:38:29]  <IllFlower> How many hits would I need?
+[12-Oct-2014 21:38:29]  <Rig> Plus the guard does have a defense roll.
+[12-Oct-2014 21:39:08]  <IllFlower> A good defense roll?
+[12-Oct-2014 21:39:09]  <Rig> Depends on how many hits the guard gets.
+[12-Oct-2014 21:39:27]  <IllFlower> I mean, what's the base?
+[12-Oct-2014 21:39:46]  <Rig> The base for damage?
+[12-Oct-2014 21:39:57]  <IllFlower> No, of the guard's defense roll.
+[12-Oct-2014 21:40:03]  <Rig> Oh, it's 7d6.
+[12-Oct-2014 21:40:13]  <IllFlower> This is too fair for my tastes, haha.
+[12-Oct-2014 21:40:22]  <Rig> Hahaha, you could spend edge,.
+[12-Oct-2014 21:40:25]  <IllFlower> And that'd be a -2 penalty for the next round, right?
+[12-Oct-2014 21:40:30]  <IllFlower> Because the car would be moving.
+[12-Oct-2014 21:41:01]  <Rig> Yeah, it'd make you harder to hit for the next round though.
+[12-Oct-2014 21:42:28]  <Rig> And Koishi still gets two more passes on this round.
+[12-Oct-2014 21:42:30]  <IllFlower> Whereas if I shoot that's 8d6.
+[12-Oct-2014 21:42:37]  <BGTB2005> I have smartlinks for my guns, so what would that do
+[12-Oct-2014 21:42:40]  <IllFlower> But only 4P.
+[12-Oct-2014 21:43:01]  <Rig> BGTB2005: Oh, it adds 2 to your tests.
+[12-Oct-2014 21:43:09]  <IllFlower> +decide shoot|ram >! eh, k
+[12-Oct-2014 21:43:09]  <rollermine> ram
+[12-Oct-2014 21:43:21]  <BGTB2005> IllFlower: i'd say do whatever makes us harder to hit
+[12-Oct-2014 21:43:31]  <IllFlower> @dice roll 7d6
+[12-Oct-2014 21:43:31]  <Omnipresence> 14IllFlower: Rolled 2 2 3 3 4 5 6 = 25.
+[12-Oct-2014 21:43:34]  <IllFlower> Two hits.
+[12-Oct-2014 21:43:39]  <Rig> @dice roll 7d6
+[12-Oct-2014 21:43:39]  <Omnipresence> 14Rig: Rolled 1 2 3 3 4 4 6 = 23.
+[12-Oct-2014 21:43:42]  <Rig> One.
+[12-Oct-2014 21:43:44]  <BGTB2005> Rig: I meant that question in the context of being in a moving vehicle
+[12-Oct-2014 21:43:46]  <IllFlower> Bam.
+[12-Oct-2014 21:44:20]  <IllFlower> Vehicle has to resist 3 damage, so, uh...
+[12-Oct-2014 21:44:27]  <jseblan> so will the guard dodge the ram
+[12-Oct-2014 21:44:36]  <Rig> BGTB2005: Oh, they'd nullify your penalty for moving.
+[12-Oct-2014 21:44:44]  <Rig> Nah, the guard takes a hit.
+[12-Oct-2014 21:45:04]  <IllFlower> How does damage resistance work?
+[12-Oct-2014 21:45:12]  <BGTB2005> does he die
+[12-Oct-2014 21:45:18]  <Rig> Hang on.
+[12-Oct-2014 21:45:24]  <IllFlower> Oh, body + armor, okay.
+[12-Oct-2014 21:45:47]  <IllFlower> That'd be 24d6 so I'm just gonna trade that in for 8 hits, haha.
+[12-Oct-2014 21:45:54]  <Rig> Hahaha.
+[12-Oct-2014 21:45:55]  <Rig> Okay,
+[12-Oct-2014 21:46:19]  <Rig> @dice roll 7d6
+[12-Oct-2014 21:46:19]  <Omnipresence> 14Rig: Rolled 1 1 1 2 3 4 6 = 18.
+[12-Oct-2014 21:46:30]  <IllFlower> "If an attack’s modified DV does not exceed a vehicle’s modified Armor rating, then the attack automatically fails." // Oh, this works too.
+[12-Oct-2014 21:46:33]  <Rig> The damage from the ram was 9, right?
+[12-Oct-2014 21:46:43]  <IllFlower> 7.
+[12-Oct-2014 21:46:50]  <IllFlower> 14 body divided by 2.
+[12-Oct-2014 21:47:05]  <Rig> Plus 2 for the hits.
+[12-Oct-2014 21:47:34]  <IllFlower> Yeah, then 9.
+[12-Oct-2014 21:47:51]  <Rig> The guard is rammed by the pickup and flies up and over the hood, cracking the windshield as he rolls over the top. His unconscious form drops into the bed next to Koishi and Shui.
+[12-Oct-2014 21:47:55]  <IllFlower> @dice roll 7d6 >! need 2 to avoid crashing
+[12-Oct-2014 21:47:55]  <Omnipresence> 14: Rolled 1 2 3 4 5 6 6 = 27.
+[12-Oct-2014 21:47:59]  <IllFlower> Awesome.
+[12-Oct-2014 21:48:02]  <Rig> Good.
+[12-Oct-2014 21:48:23]  <Rig> So, now you're heading down the ramp. You've got 3 guards around you. Two on the left, one on the right.
+[12-Oct-2014 21:48:27]  <IllFlower> We're in a truck moving 4 2/3 km/h, guys!
+[12-Oct-2014 21:48:34]  <BGTB2005> wheeeee
+[12-Oct-2014 21:48:44]  <Rig> Man, that's slower than I thought. :P
+[12-Oct-2014 21:48:51]  <Rig> Let's say you ran the guard over then.
+[12-Oct-2014 21:49:00]  <Rig> Because that's not fast enough to throw him up over the thing.
+[12-Oct-2014 21:49:18]  <IllFlower> It's only got 5 accel and 1 m/combat turn = 5/6 km/h.
+[12-Oct-2014 21:49:27]  <Rig> Koishi has another pass.
+[12-Oct-2014 21:49:43]  <IllFlower> Sorry, not even 4 2/3. 4 1/6.
+[12-Oct-2014 21:49:54]  <Rig> @wa 4 1/6 km/h
+[12-Oct-2014 21:49:56]  <Omnipresence> 14Rig: Wolfram|Alpha: Assuming mixed fraction — Input interpretation: (4+1/6) km/h  (kilometers per hour) — Unit conversions: 2.589 mph  (miles per hour) / 2.25 knots / 1.157 m/s  (meters per second) / 62.14 miles per day / 3.797 ft/s  (feet per (+476 more characters)
+[12-Oct-2014 21:50:10]  <Rig> That's really not fast enough to kill anything. :P
+[12-Oct-2014 21:51:02]  <BGTB2005> could try and crush him with the tyres, but i think there's still the problem with acid?
+[12-Oct-2014 21:51:16]  <IllFlower> I suppose it's 20 m/turn if you're running.
+[12-Oct-2014 21:51:22]  <Rig> We'll just consider him dead.
+[12-Oct-2014 21:51:38]  <Rig> Or at least too wounded to continue this fight.
+[12-Oct-2014 21:51:48]  <Rig> BGTB2005: What do you want to do now?
+[12-Oct-2014 21:54:22]  <IllFlower> @wa 1800 kg * 4.166666667 km/h
+[12-Oct-2014 21:54:24]  <Omnipresence> 14IllFlower: Wolfram|Alpha: Assuming kilograms — Input interpretation: 1800 kg  (kilograms)×4.166666667 km/h  (kilometers per hour) — Result: 2083.333333 kg m/s  (kilogram meters per second) — Unit conversions: 2083.333333 J s/m  (joule seconds per (+760 more characters)
+[12-Oct-2014 21:55:53]  <BGTB2005> Since I don't think there's sufficient line-of-sight from her current position to fire at the guards, Koishi spends one of her simple actions to climb to a crouching position
+[12-Oct-2014 21:56:06]  <Rig> Okay.
+[12-Oct-2014 21:56:44]  <IllFlower> "~~ 16 × approximate momentum of an American football player moving at a speed of 1 m/s (~~ 140 kg m/s )"
+[12-Oct-2014 21:57:59]  <IllFlower> Rig: How many CM boxes do the guards have?
+[12-Oct-2014 21:58:11]  <Rig> You really shouldn't know. :P
+[12-Oct-2014 21:58:19]  <Rig> But most of them have 10.
+[12-Oct-2014 21:58:34]  <BGTB2005> her other simple action will be spent firing at one of the guards on the left
+[12-Oct-2014 21:59:25]  <Rig> Okay, that's Agility+Pistols-1
+[12-Oct-2014 22:00:10]  <BGTB2005> The prepared weapon was the Ingram, which is SMG-class according to the book
+[12-Oct-2014 22:01:17]  <IllFlower> So Koishi's name really does mean "small rock." Interesting.
+[12-Oct-2014 22:01:25]  <Rig> Oh, so, Agility+Autos-1 then.
+[12-Oct-2014 22:01:26]  <IllFlower> * our Koishi's
+[12-Oct-2014 22:01:35]  <Rig> +SMG 
+[12-Oct-2014 22:01:46]  <Rig> So, 11d6, I think.
+[12-Oct-2014 22:02:16]  <BGTB2005> I have a DP of 14 written down
+[12-Oct-2014 22:02:33]  <Rig> How?
+[12-Oct-2014 22:02:37]  <BGTB2005> 10 from the skill, 2 for the built-in smartlink, and another 2 from the specialisation
+[12-Oct-2014 22:02:48]  <Rig> -3 for the moving vehicle.
+[12-Oct-2014 22:02:56]  <BGTB2005> okay
+[12-Oct-2014 22:03:10]  <BGTB2005> @dice roll 11d6
+[12-Oct-2014 22:03:10]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 3 3 3 4 4 4 5 5 = 35.
+[12-Oct-2014 22:03:14]  <Rig> @roll 4d6
+[12-Oct-2014 22:03:39]  <Rig> @dice roll 4d6
+[12-Oct-2014 22:03:39]  <Omnipresence> 14Rig: Rolled 1 4 6 6 = 17.
+[12-Oct-2014 22:03:56]  <Rig> Tie, right?
+[12-Oct-2014 22:04:08]  <BGTB2005> looks like
+[12-Oct-2014 22:04:13]  <IllFlower> -2 for the moving vehicle, I thought.
+[12-Oct-2014 22:04:34]  <Rig> My screen says -3
+[12-Oct-2014 22:04:41]  <BGTB2005> but it's currently moving at about walking pace, isn't it?
+[12-Oct-2014 22:04:42]  <IllFlower> Oh, sorry, you're right. -3.
+[12-Oct-2014 22:04:59]  <IllFlower> BGTB2005: It is, but it's accelerating.
+[12-Oct-2014 22:05:17]  *** Juan <~Juan_Carl@199.189.165.66> has joined #madokamadness
+[12-Oct-2014 22:05:26]  <IllFlower> In about ten seconds it'll be going at 40 km/h.
+[12-Oct-2014 22:05:36]  <Rig> Your shot grazes the arm of the guard as he scrambles towards the cover of the cars.
+[12-Oct-2014 22:05:44]  <Rig> You get another pass though because holy shit magic.
+[12-Oct-2014 22:05:47]  <BGTB2005> IllFlower: if we aren't all dead by then
+[12-Oct-2014 22:06:26]  <Rig> So, more actions?
+[12-Oct-2014 22:06:30]  <BGTB2005> Koishi fires another burst at him
+[12-Oct-2014 22:06:48]  <Rig> Oh, you're firing bursts?
+[12-Oct-2014 22:06:55]  <IllFlower> How does running work for vehicles? Just a Running free action test?
+[12-Oct-2014 22:07:28]  <BGTB2005> ...should I have declared its firemode with my first shots at him?
+[12-Oct-2014 22:07:53]  <IllFlower> Oh, you just declare it.
+[12-Oct-2014 22:08:11]  <IllFlower> Probably a bad idea, I don't think we have 25 meters left on this ramp...
+[12-Oct-2014 22:08:20]  <Rig> BGTB2005: Yeah, because burst gives you recoil negatives. But that's okay.
+[12-Oct-2014 22:08:30]  <Rig> So, another burst at the same target?
+[12-Oct-2014 22:08:31]  <BGTB2005> the smartgun also has RC of 3
+[12-Oct-2014 22:08:33]  <BGTB2005> yes
+[12-Oct-2014 22:10:05]  <Rig> Ah, I didn't see that.
+[12-Oct-2014 22:10:17]  <BGTB2005> RC of 2 without the stock, according to the table
+[12-Oct-2014 22:10:32]  <BGTB2005> if I'm reading it correctly
+[12-Oct-2014 22:10:34]  <Rig> Yeah.
+[12-Oct-2014 22:10:43]  <Rig> So, it's 10d6 this time.
+[12-Oct-2014 22:10:59]  <BGTB2005> @dice roll 10d6
+[12-Oct-2014 22:10:59]  <Omnipresence> 14BGTB2005: Rolled 1 1 1 3 4 4 4 4 5 6 = 33.
+[12-Oct-2014 22:11:10]  <Rig> @dice roll 4d6
+[12-Oct-2014 22:11:10]  <Omnipresence> 14Rig: Rolled 1 1 2 6 = 10.
+[12-Oct-2014 22:11:28]  <IllFlower> Is anyone dead yet?
+[12-Oct-2014 22:11:36]  <BGTB2005> the guy we ran over?
+[12-Oct-2014 22:11:42]  <Rig> That one.
+[12-Oct-2014 22:11:45]  <Rig> Yes.
+[12-Oct-2014 22:11:47]  <Rig> Maybe Antoine.
+[12-Oct-2014 22:13:17]  <IllFlower> Antoine's only almost dead.
+[12-Oct-2014 22:13:39]  <Rig> @dice roll 10d6
+[12-Oct-2014 22:13:39]  <Omnipresence> 14Rig: Rolled 1 1 2 2 3 4 4 6 6 6 = 35.
+[12-Oct-2014 22:13:41]  <IllFlower> Does that mean I was responsible for the first death in this campaign?
+[12-Oct-2014 22:13:45]  <IllFlower> Am I the Reaper?
+[12-Oct-2014 22:14:11]  <ponicalica> <fps announcer voice> first blood
+[12-Oct-2014 22:14:40]  <jseblan> I still have one HP or whatever. took nine damage, and my physical damage is 8 + half of body rounded up, so 10
+[12-Oct-2014 22:14:47]  <Rig> The guard trips as he scrambles for cover and takes some rounds to his chest. He's hurt, but his vest saved his life.
+[12-Oct-2014 22:14:48]  <jseblan> if I understand this correctly
+[12-Oct-2014 22:14:59]  <Rig> One more simple action, BGTB2005.
+[12-Oct-2014 22:15:07]  <Rig> jseblan: That'd be right.
+[12-Oct-2014 22:15:46]  <IllFlower> Never stop running, never stop firing.
+[12-Oct-2014 22:15:48]  <Rig> It might be worth making a bot that can handle this stupid damage calculation.
+[12-Oct-2014 22:16:05]  <Rig> Like 8 steps to find out if you even made a guy cry.
+[12-Oct-2014 22:16:52]  <BGTB2005> Yeah, Koishi fires another burst at the guy
+[12-Oct-2014 22:16:55]  <IllFlower> Roll a moeblob check.
+[12-Oct-2014 22:17:02]  <Rig> 10d6 again.
+[12-Oct-2014 22:17:17]  <Rig> @dice roll 3d6
+[12-Oct-2014 22:17:17]  <Omnipresence> 14Rig: Rolled 1 2 4 = 7.
+[12-Oct-2014 22:17:23]  <BGTB2005> @dice roll 10d6
+[12-Oct-2014 22:17:23]  <Omnipresence> 14BGTB2005: Rolled 1 2 2 3 3 3 4 4 5 6 = 33.
+[12-Oct-2014 22:17:51]  <Rig> @dice roll 10d6
+[12-Oct-2014 22:17:51]  <Omnipresence> 14Rig: Rolled 1 1 1 2 2 3 3 4 5 6 = 28.
+[12-Oct-2014 22:18:23]  <Rig> The guard slumps against the car as another salvo hits him. He seems done for.
+[12-Oct-2014 22:18:47]  <Rig> Congratulations. You've killed two guards.
+[12-Oct-2014 22:18:52]  <BGTB2005> woohoo
+[12-Oct-2014 22:19:24]  <Rig> And now we reroll initiative for everyone left alive. IllFlower can roll all his initiative this time, but jseblan has a -3 modifier.
+[12-Oct-2014 22:19:40]  <Rig> @dice roll 7d6
+[12-Oct-2014 22:19:40]  <Omnipresence> 14Rig: Rolled 1 2 4 4 4 4 5 = 24.
+[12-Oct-2014 22:19:41]  <Rig> @dice roll 7d6
+[12-Oct-2014 22:19:41]  <Omnipresence> 14Rig: Rolled 3 3 4 4 5 6 6 = 31.
+[12-Oct-2014 22:19:54]  <jseblan> +roll 5d6
+[12-Oct-2014 22:19:54]  <rollermine> jseblan: (5+4+5+3+6)=23
+[12-Oct-2014 22:20:10]  <IllFlower> @dice roll 8d6
+[12-Oct-2014 22:20:10]  <Omnipresence> 14IllFlower: Rolled 2 3 3 4 5 5 5 6 = 33.
+[12-Oct-2014 22:20:15]  <IllFlower> 12.
+[12-Oct-2014 22:20:19]  <BGTB2005> same roll as last time for me?
+[12-Oct-2014 22:20:34]  <Rig> Yeah.
+[12-Oct-2014 22:20:59]  <BGTB2005> @dice roll 11d6
+[12-Oct-2014 22:20:59]  <Omnipresence> 14BGTB2005: Rolled 1 2 2 3 3 3 3 3 4 4 5 = 33.
+[12-Oct-2014 22:21:05]  <BGTB2005> :/
+[12-Oct-2014 22:21:35]  <Rig> Okay, Malcolm and Koishi tied.
+[12-Oct-2014 22:21:48]  <Rig> You technically act at the same time, but who wants to go first.
+[12-Oct-2014 22:22:00]  <BGTB2005> I rolled a 1, so I think Mal goes first
+[12-Oct-2014 22:22:17]  <BGTB2005> ?
+[12-Oct-2014 22:22:18]  <IllFlower> Koishi can go first.
+[12-Oct-2014 22:22:35]  <Rig> Nah, you'd have to glitch to actually have that affect you.
+[12-Oct-2014 22:22:52]  <Rig> Still one guard on the left and one on the right.
+[12-Oct-2014 22:23:39]  *** Section42L <~section@TOROON3639W-LP130-1-3096626874.dsl.bell.ca> has joined #madokamadness
+[12-Oct-2014 22:24:03]  <BGTB2005> Since she's still looking that way, Koishi will shoot at the other guard on the left
+[12-Oct-2014 22:24:51]  <Rig> Okay, 11d6
+[12-Oct-2014 22:25:00]  <Rig> @dice roll 4d6
+[12-Oct-2014 22:25:00]  <Omnipresence> 14Rig: Rolled 1 3 5 6 = 15.
+[12-Oct-2014 22:25:01]  <BGTB2005> @dice roll 11d6
+[12-Oct-2014 22:25:01]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 2 3 5 5 6 6 6 6 = 43.
+[12-Oct-2014 22:25:04]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has joined #madokamadness
+[12-Oct-2014 22:25:17]  <Rig> @dice roll 10d6
+[12-Oct-2014 22:25:17]  <Omnipresence> 14Rig: Rolled 1 1 1 1 1 1 1 2 3 3 = 15.
+[12-Oct-2014 22:25:21]  <IllFlower> lol
+[12-Oct-2014 22:25:21]  <Rig> Hahaha.
+[12-Oct-2014 22:25:38]  <Rig> Your bullets seem to find all the places unprotected.
+[12-Oct-2014 22:25:46]  <BGTB2005> ahahahahaha
+[12-Oct-2014 22:26:01]  <Rig> The guard falls to the pavement, dead before he hits the ground.
+[12-Oct-2014 22:26:12]  <jseblan> nice
+[12-Oct-2014 22:26:16]  <Rig> Amazing.
+[12-Oct-2014 22:26:27]  <Rig> You have one more simple action.
+[12-Oct-2014 22:27:58]  <BGTB2005> what's the penalty for turning around to shoot at the last one?
+[12-Oct-2014 22:28:22]  <Rig> -2
+[12-Oct-2014 22:28:33]  <Rig> You'd get 8d6.
+[12-Oct-2014 22:29:04]  <IllFlower> Malcolm hears the silent *thud* of Koishi's latest victim. "Jesus Christ, that girl really is scary," he thinks for just a moment.
+[12-Oct-2014 22:29:46]  <BGTB2005> @dice roll 8d6
+[12-Oct-2014 22:29:46]  <Omnipresence> 14BGTB2005: Rolled 2 4 4 5 5 5 6 6 = 37.
+[12-Oct-2014 22:29:59]  <IllFlower> ditto
+[12-Oct-2014 22:30:28]  <jseblan> Antoine is still conscious, right?
+[12-Oct-2014 22:30:37]  <IllFlower> Barely.
+[12-Oct-2014 22:30:41]  <Alicia> (@ship Koishi/Malcolm)
+[12-Oct-2014 22:30:52]  <IllFlower> Alicia: He's taken, sorry.
+[12-Oct-2014 22:30:57]  <Alicia> (By who?)
+[12-Oct-2014 22:31:17]  <IllFlower> A different Japanese girl. I wrote this down somewhere...
+[12-Oct-2014 22:31:28]  <Alicia> (Oh right, her.)
+[12-Oct-2014 22:31:33]  <Rig> @dice roll 10d6
+[12-Oct-2014 22:31:33]  <Omnipresence> 14Rig: Rolled 1 1 2 2 2 2 3 3 4 5 = 25.
+[12-Oct-2014 22:32:07]  <IllFlower> Alicia: https://docs.google.com/document/d/1AOelhxnGqj4f49ouZPMmuJelKnsaXNvxjhvwI9CdsJ8/edit
+[12-Oct-2014 22:32:07]  <Omnipresence> 14URL: [docs.google.com] Malcolm's bio - Google Docs
+[12-Oct-2014 22:32:10]  <Rig> Your bullets find their mark again. The other guard stumbles back as his uniform gets some custom tailoring.
+[12-Oct-2014 22:32:24]  <Rig> He's bloodied, but not defeated.
+[12-Oct-2014 22:32:30]  <Rig> Malcolm's up.
+[12-Oct-2014 22:32:37]  <Rig> I think he mostly needs to keep driving.
+[12-Oct-2014 22:32:40]  <IllFlower> Yeah.
+[12-Oct-2014 22:32:45]  <IllFlower> That's what I'm gonna do.
+[12-Oct-2014 22:32:55]  <Alicia> (IF: Right, thanks.)
+[12-Oct-2014 22:33:02]  <Rig> How fast should your truck be going?
+[12-Oct-2014 22:33:09]  <IllFlower> It's 10/turn at this point, I think.
+[12-Oct-2014 22:33:12]  <IllFlower> 5+5
+[12-Oct-2014 22:33:28]  <Rig> You're pretty rapidly approaching the exit.
+[12-Oct-2014 22:33:28]  <IllFlower> I assume the guard I ran down last turn wasn't much of an obstacle.
+[12-Oct-2014 22:33:34]  <Rig> No.
+[12-Oct-2014 22:33:38]  <IllFlower> How much further to the exit?
+[12-Oct-2014 22:33:51]  <Rig> You'll reach it next turn if you continue.
+[12-Oct-2014 22:34:30]  <IllFlower> Wow, it's a really good thing I didn't elect to do running instead of walking.
+[12-Oct-2014 22:34:30]  <Rig> You'll reach the bottom of the ramp this turn.
+[12-Oct-2014 22:35:37]  <Rig> Actually, let's say you'll reach it the turn after next. Otherwise this is a pretty steep ramp.
+[12-Oct-2014 22:35:59]  <Rig> So, next turn you reach the bottom of the ramp. Turn after that you're at the exit.
+[12-Oct-2014 22:36:45]  <Rig> What's your dice pool for a driving test?
+[12-Oct-2014 22:36:48]  <IllFlower> Okay. Well, let's just drive for now.
+[12-Oct-2014 22:36:53]  <IllFlower> 7
+[12-Oct-2014 22:37:10]  <Rig> You can buy a hit and call it a day.
+[12-Oct-2014 22:37:20]  <IllFlower> Done.
+[12-Oct-2014 22:37:29]  <Rig> Okay, jseblan.
+[12-Oct-2014 22:37:34]  <IllFlower> Malcolm continues ably moving the car in a straight line.
+[12-Oct-2014 22:38:17]  <IllFlower> That's why they pay him the big bucks, right?
+[12-Oct-2014 22:38:36]  <Rig> Gotta have a driver.
+[12-Oct-2014 22:39:31]  <jseblan> can I even do anything right now
+[12-Oct-2014 22:39:33]  <IllFlower> I wonder if it'd be more productive to have him acid down the barrier ahead of us instead of attacking the remaining guard.
+[12-Oct-2014 22:39:59]  <jseblan> I could try another acid stream on the surviving guard but I doubt it would succeed
+[12-Oct-2014 22:40:46]  <IllFlower> I don't think you're actually incapacitated by anything until your CM boxes run out.
+[12-Oct-2014 22:41:06]  <Rig> You do have a wound modifier, but you can do stuff.
+[12-Oct-2014 22:41:24]  <Rig> I'd probably settle for the barrier approach.
+[12-Oct-2014 22:41:56]  <Rig> The last time you pissed off a guard it didn't go well.
+[12-Oct-2014 22:42:01]  <jseblan> is it within range of a toxic wave?
+[12-Oct-2014 22:42:05]  <IllFlower> Oh, so he's down 3 for all of his tests.
+[12-Oct-2014 22:42:11]  <BGTB2005> but that guard was in perfect health at the time
+[12-Oct-2014 22:42:16]  <IllFlower> It's only about ten meters away.
+[12-Oct-2014 22:42:21]  <Rig> It's los.
+[12-Oct-2014 22:42:44]  <jseblan> I cast toxic wave on the barrier. also should I use spellcasting focus or power focus?
+[12-Oct-2014 22:42:48]  <Rig> Spells are cool because you just need to be able to see.
+[12-Oct-2014 22:43:10]  <Rig> Which is more powerful?
+[12-Oct-2014 22:43:25]  <jseblan> spellcasting has 4, power has 3
+[12-Oct-2014 22:43:29]  <Rig> Spellcasting.
+[12-Oct-2014 22:43:38]  <jseblan> alright
+[12-Oct-2014 22:43:53]  <Rig> So, it's magic+spellcasting+1, I believe.
+[12-Oct-2014 22:44:01]  <jseblan> so uh... magic + spellcasting + focus - wound modifier
+[12-Oct-2014 22:44:02]  <jseblan> right
+[12-Oct-2014 22:44:10]  <IllFlower> <Rig> Which is more powerful? // The only question you ever need to ask.
+[12-Oct-2014 22:44:34]  <jseblan> +roll 11d6
+[12-Oct-2014 22:44:34]  <rollermine> jseblan: (1+4+5+4+1+6+4+3+6+6+1)=41
+[12-Oct-2014 22:44:47]  <jseblan> that seems good
+[12-Oct-2014 22:45:24]  <IllFlower> 4 hits.
+[12-Oct-2014 22:45:34]  <Rig> @dice roll 8d6
+[12-Oct-2014 22:45:34]  <Omnipresence> 14Rig: Rolled 1 1 2 3 5 5 6 6 = 29.
+[12-Oct-2014 22:46:19]  <Rig> The acid washes over the bollards, melting their bases. They're significantly weakened now.
+[12-Oct-2014 22:46:28]  <jseblan> cool
+[12-Oct-2014 22:46:55]  <jseblan> oh, the drain resist or whatever
+[12-Oct-2014 22:46:57]  <Rig> Yeah.
+[12-Oct-2014 22:47:01]  <jseblan> do I take a wound modifier there too
+[12-Oct-2014 22:47:01]  <Rig> -3 on the test.
+[12-Oct-2014 22:47:03]  <Rig> Yeah.
+[12-Oct-2014 22:47:12]  <jseblan> +roll 6d6
+[12-Oct-2014 22:47:12]  <rollermine> jseblan: (5+4+3+2+4+6)=24
+[12-Oct-2014 22:48:56]  <Rig> You take some stun damage, but not a lot.
+[12-Oct-2014 22:50:15]  <Rig> The remaining guard goes prone behind the car and tries to cast a spell around himself.
+[12-Oct-2014 22:50:50]  <Rig> @dice roll 4d6
+[12-Oct-2014 22:50:50]  <Omnipresence> 14Rig: Rolled 3 4 4 5 = 16.
+[12-Oct-2014 22:51:07]  <Rig> A shimmering barrier surrounds the guard.
+[12-Oct-2014 22:51:38]  <Rig> Koishi has more passes because adepts are apparently ridiculous.
+[12-Oct-2014 22:52:56]  <Rig> However, for the sake of moving things on, would anyone object to just ramming through what's left of the barrier and escaping onto the street?
+[12-Oct-2014 22:53:11]  <BGTB2005> 'the car' in question is one of the others in the parking area, yes?
+[12-Oct-2014 22:53:15]  <Rig> Yeah.
+[12-Oct-2014 22:53:34]  <BGTB2005> Koishi will attempt to shoot the last guard through the car
+[12-Oct-2014 22:53:45]  <Alicia> (Good God you're violent.)
+[12-Oct-2014 22:53:52]  <BGTB2005> can't leave any witnesses
+[12-Oct-2014 22:53:57]  <Rig> Okay, lemme grab all the negatives to that.
+[12-Oct-2014 22:54:00]  <ponicalica> are you surprised?  I mean, you saw Rin.
+[12-Oct-2014 22:54:15]  <BGTB2005> at least, witnesses who try to stop us
+[12-Oct-2014 22:54:21]  <Alicia> (No not really.)
+[12-Oct-2014 22:54:40]  <IllFlower> 14RP time dilation: We're playing Shadowrun, where a combat turn is 3 in-game seconds. That might take ten minutes to roleplay in person. Here, it took us 90 minutes.
+[12-Oct-2014 22:55:11]  <BGTB2005> 14clearly DitV is the superior system
+[12-Oct-2014 22:55:16]  <IllFlower> Should I roll up for ramming through the barrier?
+[12-Oct-2014 22:55:23]  <Rig> BGTB2005 wants to shoot more.
+[12-Oct-2014 22:55:28]  <Rig> It's 5d6.
+[12-Oct-2014 22:55:55]  <BGTB2005> @dice roll 5d6
+[12-Oct-2014 22:55:55]  <Omnipresence> 14BGTB2005: Rolled 1 1 3 4 4 = 13.
+[12-Oct-2014 22:56:00]  <BGTB2005> welp
+[12-Oct-2014 22:56:00]  <IllFlower> Isn't ammunition for those things expensive?
+[12-Oct-2014 22:56:14]  <Rig> You miss.
+[12-Oct-2014 22:56:20]  <Rig> Want to keep trying?
+[12-Oct-2014 22:56:24]  <Rig> 4d6 for the next one.
+[12-Oct-2014 22:56:54]  <IllFlower> "Koishi!" Malcolm yells in Japanese. "That's enough! He's probably going to die of blood loss anyway."
+[12-Oct-2014 22:57:07]  <BGTB2005> one last try
+[12-Oct-2014 22:57:15]  <Rig> IllFlower: You just need to make a test to avoid crashing. The barriers are fairly gone.
+[12-Oct-2014 22:57:19]  <BGTB2005> @dice roll 4d6
+[12-Oct-2014 22:57:19]  <Omnipresence> 14BGTB2005: Rolled 1 1 3 5 = 10.
+[12-Oct-2014 22:57:23]  <IllFlower> Shows how much Malcolm means to her, haha.
+[12-Oct-2014 22:57:48]  <BGTB2005> yeah he's probably going to succumb to his injuries, but Koishi wants to be sure
+[12-Oct-2014 22:58:05]  <Alicia> (`-`)
+[12-Oct-2014 22:58:05]  <Rig> A speedbumb in the parking lot causes Koishi to fumble her shot and she ventilates the tailgate of the truck.
+[12-Oct-2014 22:58:07]  <Rig> *bump
+[12-Oct-2014 22:58:26]  <IllFlower> But she gets a hit? Wait, how's that work...
+[12-Oct-2014 22:58:40]  <Rig> It's not enough to actually hurt the guard still.
+[12-Oct-2014 22:59:14]  <Rig> You've got two more simple actions, I suppose.
+[12-Oct-2014 23:00:03]  <Rig> However, I would continue to express the idea that you can continue on without wasting time taking potshots.
+[12-Oct-2014 23:00:06]  <Alicia> (Koishi then pounds his face, just to make sure he's double dead.)
+[12-Oct-2014 23:00:19]  <IllFlower> Malcolm swears to himself, then yells again, "Just lie down in the back, will you?!"
+[12-Oct-2014 23:00:46]  <Rig> Malcolm has switched to speaking Cantonese of course.
+[12-Oct-2014 23:00:57]  <Rig> Antoine just looks wounded.
+[12-Oct-2014 23:01:18]  <BGTB2005> damned modern bulletproof cars
+[12-Oct-2014 23:01:29]  <BGTB2005> Koishi's done shooting
+[12-Oct-2014 23:01:37]  <Rig> He's got a barrier around him, he's prone, he's armored, he's pretty damn hard to hit.
+[12-Oct-2014 23:01:44]  <BGTB2005> Hopefully he bleeds to death
+[12-Oct-2014 23:01:57]  <IllFlower> @dice roll 7d6
+[12-Oct-2014 23:01:57]  <Omnipresence> 14IllFlower: Rolled 1 2 2 2 4 4 5 = 20.
+[12-Oct-2014 23:02:23]  <Rig> Uh.
+[12-Oct-2014 23:02:23]  <IllFlower> Uh, well, crashing would be anticlimactic. Can I roll in some Edge dice?
+[12-Oct-2014 23:02:28]  <Nitya> roll 4d6 to exsanguinate
+[12-Oct-2014 23:02:28]  <Rig> Yeah.
+[12-Oct-2014 23:02:44]  <Rig> How do you want to do that?
+[12-Oct-2014 23:03:10]  <Rig> You can reroll all the dice. Or you can roll just edge dice.
+[12-Oct-2014 23:03:28]  <Rig> Oh, you can't do that.
+[12-Oct-2014 23:03:31]  <Rig> You scored a hit.
+[12-Oct-2014 23:03:33]  <IllFlower> I can re-roll all the dice that didn't hit.
+[12-Oct-2014 23:03:53]  <Rig> Yeah.
+[12-Oct-2014 23:03:59]  <Rig> Is that what you want to do?
+[12-Oct-2014 23:04:22]  <IllFlower> I only need one extra hit so the exploding 6s wouldn't be of any benefit.
+[12-Oct-2014 23:04:32]  <Rig> Not really.
+[12-Oct-2014 23:04:40]  <IllFlower> And if I re-roll instead of adding new dice, I get one more die.
+[12-Oct-2014 23:04:45]  <IllFlower> @dice roll 6d6
+[12-Oct-2014 23:04:45]  <Omnipresence> 14IllFlower: Rolled 1 2 2 4 5 6 = 20.
+[12-Oct-2014 23:04:54]  <IllFlower> 3 total. Hooray.
+[12-Oct-2014 23:05:06]  <Rig> Yay!
+[12-Oct-2014 23:05:19]  <Rig> Though crashing would have led to an interesting thing.
+[12-Oct-2014 23:05:32]  <IllFlower> Yeah, Malcolm's not in the mood for "interesting."
+[12-Oct-2014 23:05:42]  <Rig> Okay, you're on the street now in a car that has a few bullet holes, but what used car doesn't these days?
+[12-Oct-2014 23:06:00]  <Rig> There are sirens approaching, but you've got some time before they're on you.
+[12-Oct-2014 23:06:23]  <IllFlower> A stray flash of light briefly blinds Malcolm, almost causing him to crash, but at the last moment he gets a hold of himself and smashes the truck clean through the barricade.
+[12-Oct-2014 23:06:25]  <BGTB2005> IllFlower: He might if his last name were "Reynalds"
+[12-Oct-2014 23:06:35]  <BGTB2005> *Reynolds"
+[12-Oct-2014 23:06:45]  <BGTB2005> bleh
+[12-Oct-2014 23:07:18]  <Rig> Should we call it a day?
+[12-Oct-2014 23:07:19]  <IllFlower> Rig: How far to the client?
+[12-Oct-2014 23:07:33]  <Rig> You need to make it to a lift down to Lower Hangzhou.
+[12-Oct-2014 23:07:52]  <IllFlower> I vote for slamming hard on the accelerator.
+[12-Oct-2014 23:08:04]  <Rig> The nearest one isn't terribly far, but it probably already has security at it.
+[12-Oct-2014 23:08:27]  <IllFlower> Oh, if there's more combat left I'd be willing to call it a day. Or just drive further out.
+[12-Oct-2014 23:08:45]  <Rig> I'd actually kind of like to call it.
+[12-Oct-2014 23:08:55]  <Rig> Combat is kind of exhaustingly reference intensive.
+[12-Oct-2014 23:08:57]  <IllFlower> Sure.
+[12-Oct-2014 23:09:06]  <Rig> Sorry that this was so slow.
+[12-Oct-2014 23:09:22]  <IllFlower> I don't think we had any expectations that it'd be fast, haha.
+[12-Oct-2014 23:09:40]  <jseblan> it was the first real fight we got into so next time should go better, hopefully
+[12-Oct-2014 23:09:54]  <Rig> Hopefully. We've got a few weeks before we get back to this.
+[12-Oct-2014 23:10:04]  <Rig> I might write a simple bot to handle more of the stuff.
+[12-Oct-2014 23:10:17]  <Rig> Or I'll dig up a way to simplify combat more.
+[12-Oct-2014 23:10:28]  <IllFlower> Did you see the Adeptus Evangelion battles? It took us three hours to get through, like, two turns.
+[12-Oct-2014 23:10:35]  <Rig> Hahaha. That's awful.
+[12-Oct-2014 23:10:43]  <Rig> We only got two turns done too.
+[12-Oct-2014 23:11:08]  <IllFlower> And Xeniera elided a good bit of the mechanics.
+[12-Oct-2014 23:11:09]  <Alicia> @_@
+[12-Oct-2014 23:11:14]  *** Juan <~Juan_Carl@199.189.165.66> has quit IRC (Ping timeout: 186 seconds)
+[12-Oct-2014 23:11:18]  <BGTB2005> two turns was pretty much all we needed here anyways
+[12-Oct-2014 23:11:20]  <Rig> Anything you guys want me to change?
+[12-Oct-2014 23:11:22]  <IllFlower> Anyway, thanks for running this.
+[12-Oct-2014 23:11:24]  <Rig> Or explain more?
+[12-Oct-2014 23:11:39]  <Rig> Yeah, no problem. It's amusing to see how this turns out.
+[12-Oct-2014 23:11:43]  <IllFlower> All I really had to do was have Malcolm drive, haha.
+[12-Oct-2014 23:11:52]  <Rig> I'm sorry that Antoine caught a really terrible hit.
+[12-Oct-2014 23:11:56]  <jseblan> I melted some stuff so I'm pretty happy
+[12-Oct-2014 23:12:00]  <IllFlower> All the things a member of the moneyed elite would need to know.
+[12-Oct-2014 23:12:03]  <Nitya> i'm s ure antoine is unhappy about it too
+[12-Oct-2014 23:12:08]  *** Juan <~Juan_Carl@199.189.165.66> has joined #madokamadness
+[12-Oct-2014 23:12:15]  <Rig> And yeah, Malcolm got to fleece a guard and drive a truck.
+[12-Oct-2014 23:12:18]  <Rig> His specialities.
+[12-Oct-2014 23:12:23]  <jseblan> hopefully I'll roleplay more next time. all I really did here was follow people and call my moves
+[12-Oct-2014 23:12:32]  <Nitya> illflower's character is a con artist trucker, huh
+[12-Oct-2014 23:12:47]  <Rig> Yeah, hopefully we can reach the warehouse next time and play some more social scenes.
+[12-Oct-2014 23:13:08]  <Rig> Remember after delivery you need to act as protection until the ransom is delivered.

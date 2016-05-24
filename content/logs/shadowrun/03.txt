@@ -1,0 +1,773 @@
+[02-Nov-2014 20:06:59]  <Rig> Okay, as of last session you'd kidnapped one of the targets and escaped the garage by killing quite a few corporate security officers.
+[02-Nov-2014 20:07:27]  <Rig> Antoine was pretty seriously hurt in the escape attempt though, and you've still got sirens coming toward you.
+[02-Nov-2014 20:08:23]  <Rig> You need to make it to a lift to Lower Hangzhou and rendezvous with the client. You assume the client would like to arrive without a small contingent of security forces.
+[02-Nov-2014 20:08:33]  <Rig> https://www.google.com/maps/d/edit?mid=zRuAaQ75gYHs.kuDURtL8pE_s
+[02-Nov-2014 20:08:34]  <Omnipresence> 14URL: [www.google.com] Shadowrun
+[02-Nov-2014 20:09:00]  <Rig> Ignore the obvious Shanghai.
+[02-Nov-2014 20:10:01]  <jseblan> we'll just assume the Chinese government standardized street layouts and now every city has the same overall grid as Shanghai
+[02-Nov-2014 20:10:06]  <Rig> Hahah.
+[02-Nov-2014 20:10:43]  <Rig> Anyway, you need to make it to one of the lifts marked on the map. The closest one is the one you can up through, but the sirens are almost certainly coming from that direction.
+[02-Nov-2014 20:10:50]  <BGTB2005> well we are above the plate so the street layout probably is a grid
+[02-Nov-2014 20:11:01]  <jseblan> Antoine suggests [incoherent screaming]
+[02-Nov-2014 20:11:55]  <BGTB2005> Koishi suggests [lost to wind and road noise]
+[02-Nov-2014 20:12:28]  <IllFlower> Shame there's no way to get on the elevated expressway.
+[02-Nov-2014 20:12:39]  <BGTB2005> but yeah the south lift would probably be safer if we can look as inconspicuous as a shot-up truck with someone riding in the bed can be
+[02-Nov-2014 20:14:00]  <Rig> I would like to handle this as chase combat, if you guys don't mind?
+[02-Nov-2014 20:14:09]  <IllFlower> Yeah, we can do that.
+[02-Nov-2014 20:14:15]  <IllFlower> How far are the sirens from us?
+[02-Nov-2014 20:14:55]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[02-Nov-2014 20:15:13]  <Rig> I added a marker to the map to approximate the siren distance, can you see it?
+[02-Nov-2014 20:15:40]  <IllFlower> Yeah.
+[02-Nov-2014 20:16:14]  <IllFlower> So let's not go in that direction.
+[02-Nov-2014 20:16:18]  <BGTB2005> if we take some back roads we might be able to get around them?
+[02-Nov-2014 20:16:31]  <BGTB2005> but yeah heading away from the sirens still seems like the far better idea
+[02-Nov-2014 20:16:38]  <jseblan> we're still in the parking garage, or close to it, right?
+[02-Nov-2014 20:16:42]  <Rig> Yeah.
+[02-Nov-2014 20:16:47]  <Rig> You're just at the entrance.
+[02-Nov-2014 20:16:57]  <Rig> You can pull onto the road from where you are.
+[02-Nov-2014 20:17:05]  <IllFlower> BGTB2005: No assurances that they're not blocking off other roads too.
+[02-Nov-2014 20:18:41]  <IllFlower> Malcolm slams on the accelerator and peels right onto the main road.
+[02-Nov-2014 20:18:47]  <IllFlower> Gonna do this at running speed.
+[02-Nov-2014 20:19:04]  <Rig> Okay, hang on, Preview has locked itself up because fucking upgrades.
+[02-Nov-2014 20:19:54]  <Rig> Okay, let's roll Initiative for chase combat
+[02-Nov-2014 20:20:00]  <IllFlower> Did you accidentally do an edit operation? Preview loves going to hell in a handbasket on large PDFs.
+[02-Nov-2014 20:20:37]  <Rig> It was searching.
+[02-Nov-2014 20:20:42]  <IllFlower> @dice roll 8d6
+[02-Nov-2014 20:20:42]  <Omnipresence> 14IllFlower: Rolled 2 2 4 4 6 6 6 6 = 36.
+[02-Nov-2014 20:20:45]  <Rig> And then it wouldn't let me switch to my bookmarks.
+[02-Nov-2014 20:21:09]  <IllFlower> Oh, half of mine, right.
+[02-Nov-2014 20:21:09]  <jseblan> what's my injury malus
+[02-Nov-2014 20:21:11]  <IllFlower> @dice roll 4d6
+[02-Nov-2014 20:21:11]  <Omnipresence> 14IllFlower: Rolled 2 2 3 6 = 13.
+[02-Nov-2014 20:21:16]  <Rig> jseblan: -3
+[02-Nov-2014 20:21:27]  <jseblan> so rea+int-3?
+[02-Nov-2014 20:21:52]  <jseblan> @dice roll 6d6
+[02-Nov-2014 20:21:52]  <Omnipresence> 14jseblan: Rolled 1 1 2 2 2 6 = 14.
+[02-Nov-2014 20:22:56]  <Rig> BGTB2005: ?
+[02-Nov-2014 20:23:02]  <BGTB2005> @dice roll 9d6
+[02-Nov-2014 20:23:02]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 3 3 5 5 6 6 = 32.
+[02-Nov-2014 20:23:54]  <Rig> Okay, order is Koishi, Police, Antoine, and Mal.
+[02-Nov-2014 20:24:01]  <jseblan> wait
+[02-Nov-2014 20:24:05]  <jseblan> 3+5 is 8 not 9
+[02-Nov-2014 20:24:11]  <jseblan> behold my mathematics skill
+[02-Nov-2014 20:24:27]  <Rig> Want to try again?
+[02-Nov-2014 20:24:28]  <jseblan> @dice roll 5d6
+[02-Nov-2014 20:24:28]  <Omnipresence> 14jseblan: Rolled 2 2 2 3 5 = 14.
+[02-Nov-2014 20:24:31]  <jseblan> well
+[02-Nov-2014 20:24:59]  <Rig> Mal and Antoine go at the same time.
+[02-Nov-2014 20:25:26]  <IllFlower> BFFs
+[02-Nov-2014 20:25:29]  <Rig> This is chase combat, which is on page 169.
+[02-Nov-2014 20:25:30]  <jseblan> is the police in front or behind us
+[02-Nov-2014 20:25:46]  <IllFlower> Behind, the way Malcolm's going.
+[02-Nov-2014 20:25:46]  <BGTB2005> behind, I believe
+[02-Nov-2014 20:26:01]  <Rig> Behind, but they're at long distance. You can see them, but the flashing lights kind of give them away.
+[02-Nov-2014 20:26:22]  <Rig> Passengers can do their regular actions. Drivers perform stunts and such to escape or cause crashes.
+[02-Nov-2014 20:26:43]  <jseblan> how wide is the road?
+[02-Nov-2014 20:26:47]  <Rig> Koishi, you've got the first turn this pass. What would you like to do?
+[02-Nov-2014 20:27:35]  <IllFlower> How many cars are chasing us?
+[02-Nov-2014 20:27:41]  <Rig> You're pulling out onto a 3 lane road, so roughly 30ft.
+[02-Nov-2014 20:27:46]  <Rig> You can see two.
+[02-Nov-2014 20:27:58]  <Rig> They look like standard Nissan patrol cars.
+[02-Nov-2014 20:28:21]  <Rig> 3 lane per side.
+[02-Nov-2014 20:28:28]  <Rig> Divided by a barrier.
+[02-Nov-2014 20:28:55]  *** SF_Sorrow <SF_Sorrow@college8-32-249.resnet.ucsc.edu> has quit IRC (Ping timeout: 189 seconds)
+[02-Nov-2014 20:29:41]  <Rig> BGTB2005: You have any ideas?
+[02-Nov-2014 20:30:36]  <BGTB2005> I don't know what to do so I guess just duck down in the bed of the truck and reload?
+[02-Nov-2014 20:31:06]  <Rig> Well, I would suggest you maybe help Antoine somehow since you are the only member of the team with medical skills.
+[02-Nov-2014 20:31:24]  <Nitya> 14sure is taking a while for jseblan to bleed out. like, weeks.
+[02-Nov-2014 20:31:32]  <Rig> Time dialation.
+[02-Nov-2014 20:31:33]  <BGTB2005> what's the page for using medical skills...
+[02-Nov-2014 20:31:44]  <IllFlower> Malcolm yells to Koishi in Japanese. "Can you get up front here and help Antoine out? He's hurt badly!"
+[02-Nov-2014 20:31:55]  <Rig> 252, I think.
+[02-Nov-2014 20:32:48]  <jseblan> Nitya: french canadians have large reserves of blood
+[02-Nov-2014 20:34:19]  <IllFlower> So according to the map we're 3.3 km away from the elevator, and the police cars are 300 m away. Fun.
+[02-Nov-2014 20:34:25]  <Rig> Yeah, the roll would be First Aid + Logic - 3
+[02-Nov-2014 20:35:01]  <Rig> Hahaha, that's not gonna even help.
+[02-Nov-2014 20:35:15]  <Rig> Let's do that -2 then to give you a fighting chance of at least succeeding.
+[02-Nov-2014 20:36:08]  <BGTB2005> @dice roll 5d6 >! this right?
+[02-Nov-2014 20:36:08]  <Omnipresence> 14: Rolled 1 4 6 6 6 = 23.
+[02-Nov-2014 20:36:17]  <Rig> How do you get 5?
+[02-Nov-2014 20:36:33]  <Rig> I count 2d6.
+[02-Nov-2014 20:36:41]  <BGTB2005> first aid =4, logic =3, minus 2 =5
+[02-Nov-2014 20:36:50]  <Rig> First Aid has a rating of 1.
+[02-Nov-2014 20:36:56]  <BGTB2005> ...
+[02-Nov-2014 20:36:59]  <Rig> Logic has 3.
+[02-Nov-2014 20:37:12]  <BGTB2005> @dice roll 2d6
+[02-Nov-2014 20:37:12]  <Omnipresence> 14BGTB2005: Rolled 3 3 = 6.
+[02-Nov-2014 20:37:30]  <Rig> Antoine screams in agony when you poke his bullet wounds.
+[02-Nov-2014 20:38:28]  <IllFlower> lol.
+[02-Nov-2014 20:39:19]  <BGTB2005> Koishi makes a note in her commlink to buy medical supplies for the next mission
+[02-Nov-2014 20:41:21]  <Rig> Okay, IllFlower, I need you to make a vehicle test.
+[02-Nov-2014 20:41:35]  <IllFlower> Oh, is it my turn already?
+[02-Nov-2014 20:41:37]  <Rig> Which is Rea+Pilot Ground Vehicle+Handling
+[02-Nov-2014 20:41:44]  <Rig> Nah, this is just to determine if the police are catching up.
+[02-Nov-2014 20:42:26]  <IllFlower> @dice roll 7d6
+[02-Nov-2014 20:42:26]  <Omnipresence> 14IllFlower: Rolled 1 2 4 5 6 6 6 = 30.
+[02-Nov-2014 20:43:09]  <IllFlower> 4 hits.
+[02-Nov-2014 20:43:42]  <Rig> Okay, you win the test.
+[02-Nov-2014 20:44:04]  <IllFlower> Hooray.
+[02-Nov-2014 20:44:05]  <Rig> You can move the range of engagement by 1 at the start of the next turn.
+[02-Nov-2014 20:44:16]  <Rig> I assume you want to make it extreme?
+[02-Nov-2014 20:44:23]  <IllFlower> Yeah.
+[02-Nov-2014 20:44:58]  <Rig> The cops haven't opened fire yet as they're busy trying to fight through traffic to catch up.
+[02-Nov-2014 20:45:34]  <Rig> They're shouting orders to pull over over an intercom in alternating Cantonese and Mandarin.
+[02-Nov-2014 20:45:45]  <Rig> Mal/Antoine's turn now.
+[02-Nov-2014 20:46:07]  <jseblan> what kind of action would be me crawling into the trunk of the truck
+[02-Nov-2014 20:46:11]  <jseblan> bed*
+[02-Nov-2014 20:46:14]  <IllFlower> How does speed work relative to chase combat> It's mentioned exactly once and then never again.
+[02-Nov-2014 20:46:44]  <IllFlower> Or is that reference to the intrinsic stat of the vehicle?
+[02-Nov-2014 20:47:07]  <Rig> I only see it being used to determine who wins the chase turn and decides to move the range of engagement.
+[02-Nov-2014 20:47:27]  <Rig> jseblan: Honestly, I dunno. That'd probably be a simple one.
+[02-Nov-2014 20:47:40]  <Rig> I don't think you need to roll for it unless Mal makes a 180.
+[02-Nov-2014 20:47:46]  <jseblan> even though I'm injured?
+[02-Nov-2014 20:47:57]  <jseblan> well, anyway
+[02-Nov-2014 20:48:03]  <jseblan> I do that
+[02-Nov-2014 20:48:11]  <IllFlower> Rig: Yeah, that's what I mean. I assume we don't keep track of the current speed of the vehicle, just use engagement range as a proxy, and then use the vehicle's speed stat as the modifier for the opposed test.
+[02-Nov-2014 20:48:19]  <Rig> IllFlower: Yeah.
+[02-Nov-2014 20:48:23]  <IllFlower> Cool.
+[02-Nov-2014 20:48:47]  <IllFlower> @wa (100 m)/(3 seconds) in km/h
+[02-Nov-2014 20:48:49]  <Omnipresence> 14IllFlower: Wolfram|Alpha: Assuming meters — Input interpretation: convert (100 meters)/(3 seconds) to kilometers per hour — Result: 120 km/h  (kilometers per hour) — Additional conversions: 74.56 mph  (miles per hour) / 64.79 knots / 33.33 m/s  (meters (+826 more characters)
+[02-Nov-2014 20:48:51]  <Rig> jseblan: Okay, you've got another simple action. I think you can default on first aid if you want, but you'd be at a pretty big loss.
+[02-Nov-2014 20:49:09]  <jseblan> casting a spell is a complex action, right?
+[02-Nov-2014 20:49:14]  <Rig> It is.
+[02-Nov-2014 20:49:58]  *** SF_Sorrow <SF_Sorrow@eduroam-232-251.ucsc.edu> has joined #madokamadness
+[02-Nov-2014 20:50:11]  <jseblan> we got rid of the box of drinks, in the last session, right? the one that was on the cart we transported the girl in
+[02-Nov-2014 20:50:24]  <BGTB2005> no I'm pretty sure we took that with us
+[02-Nov-2014 20:50:36]  <jseblan> I pick it up and throw it behind the truck
+[02-Nov-2014 20:50:47]  <BGTB2005> D:
+[02-Nov-2014 20:50:54]  <Rig> Logs say you left it in the garage.
+[02-Nov-2014 20:50:57]  <IllFlower> They're about 300 m away and the cooler's maybe 1 m across, I don't think that'll do much good.
+[02-Nov-2014 20:50:59]  <jseblan> damn it
+[02-Nov-2014 20:51:05]  <IllFlower> We left the cart in the garage, not the cooler.
+[02-Nov-2014 20:51:09]  <BGTB2005> we were using that to anchor the tablecloth
+[02-Nov-2014 20:51:13]  <Rig> Oh, cooler.
+[02-Nov-2014 20:51:21]  <Rig> You can throw the cooler I guess, but like IllFlower said.
+[02-Nov-2014 20:51:30]  <BGTB2005> plus it was sorta our bonus for the mission
+[02-Nov-2014 20:51:34]  <jseblan> wouldn't that affect the traffic
+[02-Nov-2014 20:52:19]  <Rig> Not a whole lot, I'd imagine. I don't have any specific rules for how traffic handles intercepting coolers.
+[02-Nov-2014 20:52:58]  <IllFlower> If you think Chinese drivers are going to be fazed by a box landing on the road...
+[02-Nov-2014 20:53:05]  <jseblan> yeah, plus with my strength and my wounds I probably couldn't even lift the thing
+[02-Nov-2014 20:53:10]  <Rig> Hahaha. :P
+[02-Nov-2014 20:53:20]  *** SF_Sorrow <SF_Sorrow@eduroam-232-251.ucsc.edu> has quit IRC (Ping timeout: 189 seconds)
+[02-Nov-2014 20:53:35]  <jseblan> I don't see what else I can do... I'll try first aid, useless or not
+[02-Nov-2014 20:53:40]  <BGTB2005> you could probably shove it out after opening the tailgate, but then we'd lose our drinks
+[02-Nov-2014 20:53:41]  <jseblan> maybe a critical failure will do something funny
+[02-Nov-2014 20:54:01]  <BGTB2005> and then the tablecloth obscuring the girl
+[02-Nov-2014 20:54:08]  <Rig> I think you're first aid would be a 1d6, of course, you could spend edge on it?
+[02-Nov-2014 20:54:13]  <BGTB2005> jseblan: it would probably turn into 'roll to bleed out'
+[02-Nov-2014 20:54:25]  <jseblan> Rig: oh, right, I'll spend edge
+[02-Nov-2014 20:55:09]  <Rig> Okay, that'd make it 3d6 with exploding sixes.
+[02-Nov-2014 20:55:29]  <IllFlower> So +roll 3m6. Blast from the past, that.
+[02-Nov-2014 20:55:47]  <jseblan> +roll 3d6
+[02-Nov-2014 20:55:47]  <rollermine> jseblan: (1+1+1)=3
+[02-Nov-2014 20:55:52]  <IllFlower> D:
+[02-Nov-2014 20:55:55]  <Rig> rollermine you fucking asshole.
+[02-Nov-2014 20:55:59]  <BGTB2005> ouch
+[02-Nov-2014 20:56:21]  <Rig> @dice roll 1d3
+[02-Nov-2014 20:56:21]  <Omnipresence> 14Rig: Rolled 3 = 3.
+[02-Nov-2014 20:56:25]  <Rig> ...
+[02-Nov-2014 20:56:35]  <jseblan> Antoine pokes his wounds again
+[02-Nov-2014 20:56:50]  <IllFlower> His hand goes straight through his abdomen. He dies in shock.
+[02-Nov-2014 20:57:05]  <Rig> Okay, so, basically, you have 1 point of edge left that can negate that glitch.
+[02-Nov-2014 20:57:13]  <Rig> I would probably strongly suggest spending it.
+[02-Nov-2014 20:57:19]  <jseblan> I will
+[02-Nov-2014 20:57:19]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:c9a6:2da9:792a:ad6c> has joined #madokamadness
+[02-Nov-2014 20:57:26]  <Rig> Okay, cool. ^_^
+[02-Nov-2014 20:57:30]  <Rig> Antoine doesn't die!
+[02-Nov-2014 20:57:42]  <Rig> You guys are really bad at first aid though.
+[02-Nov-2014 20:57:44]  <IllFlower> \o/
+[02-Nov-2014 20:57:57]  <Rig> Mal needs to make a vehicle test to not crash.
+[02-Nov-2014 20:58:10]  <IllFlower> @dice roll 7d6
+[02-Nov-2014 20:58:10]  <Omnipresence> 14IllFlower: Rolled 2 2 3 3 5 5 6 = 26.
+[02-Nov-2014 20:58:35]  <IllFlower> Oh, can I make that an attempt to break off?
+[02-Nov-2014 20:58:56]  <Rig> You can, but you'd risk crashing.
+[02-Nov-2014 20:59:07]  <IllFlower> Wait, really?
+[02-Nov-2014 20:59:19]  <Rig> Yeah, you have to make 1 complex action a turn just driving.
+[02-Nov-2014 20:59:48]  <IllFlower> It seems like the stunts count as driving actions.
+[02-Nov-2014 21:00:11]  <Rig> Oh, yeah, you're right.
+[02-Nov-2014 21:00:16]  <Rig> Misread the sentence after that.
+[02-Nov-2014 21:00:41]  <IllFlower> Cool.
+[02-Nov-2014 21:01:49]  <Rig> You swerve across traffic and make an illegal turn across 3 more lanes of oncoming traffic.
+[02-Nov-2014 21:02:04]  <IllFlower> Oh, so a typical Monday morning commute.
+[02-Nov-2014 21:02:06]  <Rig> You manage to narrowly avoid a motorbike as you dive down a sidestreet.
+[02-Nov-2014 21:02:06]  *** SF_Sorrow <SF_Sorrow@eduroam-232-251.ucsc.edu> has joined #madokamadness
+[02-Nov-2014 21:02:51]  <Rig> Koishi has 2 more passes this turn if she wants to use them, but beyond reloading or trying to heal Antoine there isn't much you could reasonably do.
+[02-Nov-2014 21:03:15]  <Rig> And IllFlower, could you reroll Mal's initiative with normal stats.
+[02-Nov-2014 21:03:16]  <jseblan> Antoine murmurs "oh no, we're gonna get a ticket" as he lies in the truck's bed
+[02-Nov-2014 21:03:23]  <IllFlower> @dice roll 8d6
+[02-Nov-2014 21:03:23]  <Omnipresence> 14IllFlower: Rolled 1 3 3 4 4 5 5 6 = 31.
+[02-Nov-2014 21:03:36]  <Rig> Koishi can't understand the pained moans of the French guy.
+[02-Nov-2014 21:04:18]  <Rig> Thanks, IllFlower. You and the police act on the same turn now.
+[02-Nov-2014 21:04:26]  <BGTB2005> I thought he was Canadian?
+[02-Nov-2014 21:04:33]  <IllFlower> Because *sunglasses* I am the police.
+[02-Nov-2014 21:04:37]  <Rig> Koishi isn't sure.
+[02-Nov-2014 21:04:51]  <Rig> She just knows that that sounds like pained French.
+[02-Nov-2014 21:05:01]  <jseblan> Rig: I said it in English. If I said it in French I would have said it in French
+[02-Nov-2014 21:05:02]  <BGTB2005> all that matters is he speaks a language she doesn't understand
+[02-Nov-2014 21:05:13]  <Rig> ;-;
+[02-Nov-2014 21:05:22]  <IllFlower> "Antoine, hang in there!" Malcolm shouts as he takes the truck down a rather bumpy alleyway.
+[02-Nov-2014 21:05:27]  <Rig> Fine, Koishi just knows that the bald guy is in pain.
+[02-Nov-2014 21:05:48]  <Rig> BGTB2005: Anything you want to do before we move to the next turn and you have to decide what to do again?
+[02-Nov-2014 21:05:58]  <BGTB2005> anyways, yeah reloading sounds like a good idea
+[02-Nov-2014 21:06:12]  <IllFlower> Koishi reloads Antoine with blood.
+[02-Nov-2014 21:06:28]  <BGTB2005> but that would require medical supplies she doesn't have
+[02-Nov-2014 21:06:33]  <Rig> I don't think you can bail blood.
+[02-Nov-2014 21:06:34]  <jseblan> they don't share blood types and Antoine dies of shock
+[02-Nov-2014 21:06:52]  <jseblan> or whatever it's called when you get a transfusion from an improper blood type
+[02-Nov-2014 21:07:46]  <Rig> Probably shock and blood poisoning.
+[02-Nov-2014 21:07:52]  <Rig> But you can at least resist that.
+[02-Nov-2014 21:08:22]  <Rig> Want to swing with first-aid one more time, BGTB2005? You could spend some edge?
+[02-Nov-2014 21:08:23]  <jseblan> it's called Acute Hemolytic Reaction
+[02-Nov-2014 21:08:44]  <BGTB2005> yeah, one more go at first aid
+[02-Nov-2014 21:08:48]  <Rig> With edge?
+[02-Nov-2014 21:08:54]  <BGTB2005> sure
+[02-Nov-2014 21:09:06]  <jseblan> I'm just imagining Antoine looking up Wikipedia as he bleeds to death. "Huh, the more you know"
+[02-Nov-2014 21:09:07]  <Rig> Okay, that's 7m6
+[02-Nov-2014 21:09:17]  <BGTB2005> +roll 7m6
+[02-Nov-2014 21:09:18]  <rollermine> BGTB2005: ((6+5)+(6+6+3)+(6+2)+3+(6+4)+3+1)=51
+[02-Nov-2014 21:09:41]  <jseblan> oh, there's a difference between m6 and d6?
+[02-Nov-2014 21:10:12]  <Rig> Koishi manages to remember some of her first aid training and rips up some of the tablecloth to bind Antoine's injuries.
+[02-Nov-2014 21:10:13]  <IllFlower> Explodes 6s.
+[02-Nov-2014 21:10:38]  <IllFlower> The "m" thing is a legacy of ponicalica originally implementing this for Magical Burst.
+[02-Nov-2014 21:10:54]  <IllFlower> Wow, six hits on seven dice? Not bad.
+[02-Nov-2014 21:10:55]  <Rig> Okay, vehicle test again, IllFlower.
+[02-Nov-2014 21:11:00]  <IllFlower> @dice roll 7d6
+[02-Nov-2014 21:11:00]  <Omnipresence> 14IllFlower: Rolled 1 1 1 3 3 3 4 = 16.
+[02-Nov-2014 21:11:04]  <IllFlower> Bah.
+[02-Nov-2014 21:11:14]  <IllFlower> Shouldn't have gone down the side street.
+[02-Nov-2014 21:11:25]  <BGTB2005> oh this is going to suck isn't it
+[02-Nov-2014 21:11:37]  <IllFlower> I didn't glitch, so at best they'll just get a little closer.
+[02-Nov-2014 21:11:42]  <IllFlower> At worst, I mean.
+[02-Nov-2014 21:11:45]  <Rig> Yeah, back to long range next turn.
+[02-Nov-2014 21:13:27]  <Rig> The police cruisers maneuver through the vehicles as the autodriving mechanisms in most vehicles kick in to pull them to the side of the road forcefully.
+[02-Nov-2014 21:13:41]  <Rig> The police manage to gain some ground.
+[02-Nov-2014 21:14:33]  <Rig> IllFlower: Want to try breaking off again?
+[02-Nov-2014 21:14:42]  <IllFlower> Yeah.
+[02-Nov-2014 21:14:50]  <IllFlower> @dice roll 7d6
+[02-Nov-2014 21:14:50]  <Omnipresence> 14IllFlower: Rolled 1 1 3 3 3 3 6 = 20.
+[02-Nov-2014 21:14:57]  <IllFlower> Eh.
+[02-Nov-2014 21:15:08]  <IllFlower> @wa 3.3 km/(100 km/h)
+[02-Nov-2014 21:15:16]  <Omnipresence> 14IllFlower: Wolfram|Alpha: Input interpretation: (3.3 km  (kilometers))/(100 km/h  (kilometers per hour)) — Result: 0.033 hours — Unit conversions: 1 minute 59 seconds / 119 seconds / 1.98 minutes — Comparison as half‐life:  ~~ 0.4 × half-life of (+306 more characters)
+[02-Nov-2014 21:15:32]  <Rig> Not great. You fail to break off.
+[02-Nov-2014 21:15:43]  <IllFlower> Things just ain't goin' my way, eh?
+[02-Nov-2014 21:16:19]  <Rig> Mal just isn't a fast or furious guy.
+[02-Nov-2014 21:16:40]  <Rig> Antoine's up and is feeling lighter on his feet from all that blood loss.
+[02-Nov-2014 21:16:47]  <Rig> He only has a -1 modifier now.
+[02-Nov-2014 21:17:32]  <Rig> jseblan: Any actions?
+[02-Nov-2014 21:17:41]  <IllFlower> Malcolm finds himself face-to-face with a blind corner and is forced to slow down significantly to make the turn. The police sirens sound like they're getting closer. He curses in two different languages simultaneously.
+[02-Nov-2014 21:17:47]  <jseblan> can I damage the road behind us with toxic wave?
+[02-Nov-2014 21:18:03]  <Rig> You can.
+[02-Nov-2014 21:18:41]  <jseblan> I cast toxic wave with my spellcasting focus
+[02-Nov-2014 21:18:47]  <Rig> I assume you want to make it impassible to the police cars?
+[02-Nov-2014 21:19:05]  <jseblan> yes
+[02-Nov-2014 21:19:11]  <Rig> Okay, so Magic+Spellcasting+3
+[02-Nov-2014 21:19:20]  <jseblan> plus focus?
+[02-Nov-2014 21:19:30]  <jseblan> my spellcasting focus is 4
+[02-Nov-2014 21:19:38]  <Rig> The +3 is your focus minus your wound.
+[02-Nov-2014 21:19:43]  <jseblan> oh, okay
+[02-Nov-2014 21:20:05]  <Rig> Sorry, automatically simplifying it for myself.
+[02-Nov-2014 21:20:06]  <jseblan> @dice roll 13d6
+[02-Nov-2014 21:20:06]  <Omnipresence> 14jseblan: Rolled 1 1 2 2 3 3 4 4 4 5 5 5 6 = 45.
+[02-Nov-2014 21:20:14]  <jseblan> four hits
+[02-Nov-2014 21:21:08]  <Rig> A wave of acid rushes down the street from the tailgate of the truck, melting tires and causing the road to warp. Cars skid to a halt and a few people scramble to higher ground. The road behind you is certainly more treacherous.
+[02-Nov-2014 21:21:22]  <Rig> Resist drain?
+[02-Nov-2014 21:21:34]  <jseblan> @dice roll 9d6
+[02-Nov-2014 21:21:34]  <Omnipresence> 14jseblan: Rolled 1 1 1 2 3 5 5 5 6 = 29.
+[02-Nov-2014 21:22:02]  <IllFlower> (computer voice) "quake"
+[02-Nov-2014 21:22:13]  <Nitya> you need help, dude
+[02-Nov-2014 21:22:34]  <Rig> Antoine winces as his head aches from the effort of the casting.
+[02-Nov-2014 21:23:03]  <Rig> Koishi has 2 more passes again, but not a lot to do unless you want to get out and push?
+[02-Nov-2014 21:23:22]  <BGTB2005> I'm good
+[02-Nov-2014 21:23:30]  <Rig> Okay, one moment.
+[02-Nov-2014 21:23:33]  <BGTB2005> it's safer in the truck
+[02-Nov-2014 21:24:39]  <Rig> Currently at long range engagement.
+[02-Nov-2014 21:24:47]  <Rig> IllFlower: Another vehicle test, please?
+[02-Nov-2014 21:25:48]  <IllFlower> @dice roll 7d6
+[02-Nov-2014 21:25:48]  <Omnipresence> 14IllFlower: Rolled 1 1 2 2 3 5 6 = 20.
+[02-Nov-2014 21:25:55]  <Nitya> autopilot engaged for the next three seconds
+[02-Nov-2014 21:27:14]  <IllFlower> 2 hits.
+[02-Nov-2014 21:28:20]  <Rig> The police appear down the street, seeming to know where you were headed already. Almost like you have a passenger with a GPS tracker on them.
+[02-Nov-2014 21:28:36]  <Rig> Koishi's up.
+[02-Nov-2014 21:28:55]  <Rig> You've got a police cruiser at medium range now.
+[02-Nov-2014 21:29:49]  <jseblan> can I do an intuition check to search the girl
+[02-Nov-2014 21:29:58]  <jseblan> on my turn I mean
+[02-Nov-2014 21:30:03]  <jseblan> or perception, whatever
+[02-Nov-2014 21:30:04]  <Rig> Yeah.
+[02-Nov-2014 21:30:13]  <Rig> BGTB2005 could too.
+[02-Nov-2014 21:30:53]  <jseblan> Antoine, lying on his back staring in the distance, suddenly asks around "Hey, did anyone search the girl before we left?"
+[02-Nov-2014 21:32:38]  <jseblan> Rig: http://thecaptivephantom.tumblr.com/post/101615058730/outofcontextdnd-wait-are-you-trying-to if I die
+[02-Nov-2014 21:32:39]  <Omnipresence> 14URL: [thecaptivephantom.tumblr.com] The Lucky Revenant
+[02-Nov-2014 21:33:25]  <Rig> Hahaha.
+[02-Nov-2014 21:33:31]  <Rig> I think you're much better now.
+[02-Nov-2014 21:33:45]  <Rig> Antoine is more stunned than physically wounded now.
+[02-Nov-2014 21:33:47]  <BGTB2005> healing is magic
+[02-Nov-2014 21:34:46]  <Rig> BGTB2005: What are you going to do?
+[02-Nov-2014 21:34:59]  <IllFlower> "Can you check the girl's body?" Malcolm shouts in Japanese from the front? "Make sure she's not bugged!"
+[02-Nov-2014 21:35:12]  <IllFlower> s/front\?/front./
+[02-Nov-2014 21:35:34]  <jseblan> Antoine screams "What?"
+[02-Nov-2014 21:36:33]  <Rig> Antoine doesn't speak perl either.
+[02-Nov-2014 21:36:46]  <jseblan> true
+[02-Nov-2014 21:36:47]  <BGTB2005> Koishi starts checking the girl for tracking devices
+[02-Nov-2014 21:37:01]  <BGTB2005> what do I roll
+[02-Nov-2014 21:39:43]  <Rig> It's a perception test.
+[02-Nov-2014 21:39:49]  <Rig> So, perception+intuition+3
+[02-Nov-2014 21:40:23]  <jseblan> BGTB2005: what's your perception?
+[02-Nov-2014 21:40:29]  <BGTB2005> @dice roll 9d6
+[02-Nov-2014 21:40:29]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 3 3 3 5 6 6 = 30.
+[02-Nov-2014 21:41:00]  <Rig> You find a comlink in one of the girl's pockets.
+[02-Nov-2014 21:41:16]  <Rig> You'd guess that this is what's being used to track you.
+[02-Nov-2014 21:41:38]  <IllFlower> Throw it in the river.
+[02-Nov-2014 21:43:25]  <BGTB2005> Koishi chucks it out the back of the truck
+[02-Nov-2014 21:43:35]  <Nitya> throw it into another car!
+[02-Nov-2014 21:44:04]  <Rig> Effective.
+[02-Nov-2014 21:44:30]  <Rig> IllFlower: Go ahead.
+[02-Nov-2014 21:44:46]  <IllFlower> The police are at medium range, right?
+[02-Nov-2014 21:44:50]  <Rig> Yeah.
+[02-Nov-2014 21:44:58]  <IllFlower> I'm going to have Malcolm try to pull away again since I don't think there's much else I can do.
+[02-Nov-2014 21:45:05]  <IllFlower> @dice roll 7d6
+[02-Nov-2014 21:45:05]  <Omnipresence> 14IllFlower: Rolled 1 3 3 4 4 5 6 = 26.
+[02-Nov-2014 21:45:10]  <IllFlower> 4 hits.
+[02-Nov-2014 21:45:47]  <Rig> Do you want me to count this as a maneuver?
+[02-Nov-2014 21:46:15]  <IllFlower> Yeah.
+[02-Nov-2014 21:46:25]  <IllFlower> Sorry, forgot that breaking off was long-range only.
+[02-Nov-2014 21:46:36]  <Rig> Okay, so you get a +4 on your next opposed test.
+[02-Nov-2014 21:46:45]  <IllFlower> Oh, wonderful.
+[02-Nov-2014 21:47:10]  <Rig> I assume you want to drive away from the police?
+[02-Nov-2014 21:47:43]  <IllFlower> Indeed.
+[02-Nov-2014 21:47:55]  *** Buttercupistiny <~chatzilla@2602:306:834e:5780:6505:32f7:22be:210> has quit IRC (Ping timeout: 195 seconds)
+[02-Nov-2014 21:48:07]  <Rig> Malcolm makes a quick turn away from the police and heads back towards the other cruisers.
+[02-Nov-2014 21:48:59]  <IllFlower> "You guys see anyone behind us?" he yells to the other two in English.
+[02-Nov-2014 21:49:20]  <IllFlower> Driving is hard and sometimes you forget who understands what.
+[02-Nov-2014 21:49:34]  <jseblan> do I do a perception check for cars following us
+[02-Nov-2014 21:49:34]  <Rig> In answer a burst of gunfire comes from the police car behind you.
+[02-Nov-2014 21:49:44]  <Rig> Nah, the police are gonna fire at Koishi.
+[02-Nov-2014 21:49:49]  <jseblan> oh good
+[02-Nov-2014 21:50:06]  <BGTB2005> oh dear
+[02-Nov-2014 21:50:21]  <Rig> BGTB2005: Roll reaction.
+[02-Nov-2014 21:50:36]  <IllFlower> I suggest propping Shui's body up in the back.
+[02-Nov-2014 21:50:45]  <IllFlower> It'll make them a little less eager to shoot, hopefully.
+[02-Nov-2014 21:51:09]  <BGTB2005> probably, but they also have four others
+[02-Nov-2014 21:51:17]  <jseblan> jesus
+[02-Nov-2014 21:51:35]  <jseblan> you don't get quintuplets so you have /spares/ BGTB2005 
+[02-Nov-2014 21:51:44]  <Rig> Hahaha.
+[02-Nov-2014 21:52:00]  <Rig> Anyway, got a roll for me, BGTB2005?
+[02-Nov-2014 21:52:40]  <BGTB2005> can I try rolling to dodge?
+[02-Nov-2014 21:53:00]  <Rig> You don't really need to, to be honest.
+[02-Nov-2014 21:53:15]  *** Buttercupistiny <~chatzilla@2602:306:834e:5780:c1bb:7b38:ac42:1c80> has joined #madokamadness
+[02-Nov-2014 21:53:15]  *** ChanServ sets mode: +o Buttercupistiny
+[02-Nov-2014 21:53:34]  <BGTB2005> so just roll reaction?
+[02-Nov-2014 21:53:37]  <Rig> Yeah.
+[02-Nov-2014 21:53:42]  <Rig> I think it's 7d6
+[02-Nov-2014 21:53:48]  <BGTB2005> @dice roll 7d6
+[02-Nov-2014 21:53:48]  <Omnipresence> 14BGTB2005: Rolled 1 1 1 2 5 6 6 = 22.
+[02-Nov-2014 21:54:31]  <Rig> The bullets strike the frame of the truck and leave some more cosmetic upgrades.
+[02-Nov-2014 21:54:48]  <Rig> jseblan: You're up.
+[02-Nov-2014 21:55:28]  <BGTB2005> try throwing acid at them
+[02-Nov-2014 21:55:41]  <jseblan> it's getting a bit repetitive
+[02-Nov-2014 21:56:01]  <Rig> It also kind of costs you a lot in terms of drain.
+[02-Nov-2014 21:56:06]  <jseblan> wish I could do something with that street magic knowledge
+[02-Nov-2014 21:56:12]  <Rig> It has by far the largest drain.
+[02-Nov-2014 21:56:34]  <jseblan> how about just acid spray? are the police cars close enough for me to hit one?
+[02-Nov-2014 21:56:41]  <Rig> Yeah.
+[02-Nov-2014 21:57:00]  <jseblan> I cast Acid Stream* then
+[02-Nov-2014 21:57:09]  <Rig> Magic+Spellcasting then.
+[02-Nov-2014 21:57:19]  <jseblan> @dice roll 10d6
+[02-Nov-2014 21:57:19]  <Omnipresence> 14jseblan: Rolled 1 1 2 2 3 3 3 3 4 5 = 27.
+[02-Nov-2014 21:57:25]  <jseblan> hmmf
+[02-Nov-2014 21:57:29]  <Rig> Oh, sorry, forgot the minus 3.
+[02-Nov-2014 21:57:35]  <Rig> So, 7d6.
+[02-Nov-2014 21:57:40]  <jseblan> @dice roll 7d6
+[02-Nov-2014 21:57:40]  <Omnipresence> 14jseblan: Rolled 2 2 3 4 4 6 6 = 27.
+[02-Nov-2014 21:57:48]  <IllFlower> Better!
+[02-Nov-2014 21:59:32]  <Rig> @dice roll 6d6
+[02-Nov-2014 21:59:32]  <Omnipresence> 14Rig: Rolled 3 4 5 5 5 6 = 28.
+[02-Nov-2014 21:59:55]  <IllFlower> "Prop Shui's body up in the back!" Malcolm yells in Japanese. "That should make them think twice!"
+[02-Nov-2014 22:00:36]  <Rig> The acid splashes across the hood and windshield of the patrol car leaving deep scarring, but it seems mostly cosmetic. The windshield wipers come on briefly before melting away as well.
+[02-Nov-2014 22:00:48]  <Rig> Koishi: anything you want to do for your last two passes?
+[02-Nov-2014 22:01:05]  <Rig> BGTB2005: ^'
+[02-Nov-2014 22:01:18]  <BGTB2005> open fire
+[02-Nov-2014 22:02:25]  <Rig> Targetting?
+[02-Nov-2014 22:02:31]  <IllFlower> Malcolm's been doing a lot of shouting.
+[02-Nov-2014 22:02:41]  <Rig> He has been. Not sure how useful it has been.
+[02-Nov-2014 22:02:44]  <BGTB2005> the patrol car
+[02-Nov-2014 22:03:14]  <Rig> With what weapon?
+[02-Nov-2014 22:03:42]  <BGTB2005> Koishi will use her Ingram Smartgun, in burst fire mode
+[02-Nov-2014 22:03:57]  <Rig> Okay.
+[02-Nov-2014 22:04:00]  <Rig> Roll for it.
+[02-Nov-2014 22:04:46]  <BGTB2005> 14d6?
+[02-Nov-2014 22:04:57]  <Rig> I got 12, where did you get the 14?
+[02-Nov-2014 22:05:39]  <Rig> Oh, probably the smartlink. It gets cancelled from the moving vehicle penalty.
+[02-Nov-2014 22:06:01]  <BGTB2005> yeah, the smartlink and then the specialisation
+[02-Nov-2014 22:06:32]  <Rig> So, Agility+Auto+SMG+Smartlink-Moving totals up to 12d6.
+[02-Nov-2014 22:06:51]  <BGTB2005> @dice roll 12d6
+[02-Nov-2014 22:06:51]  <Omnipresence> 14BGTB2005: Rolled 1 2 3 3 3 3 4 5 5 6 6 6 = 47.
+[02-Nov-2014 22:07:09]  <IllFlower> 5 hits.
+[02-Nov-2014 22:07:44]  <Rig> The low-caliber bullets bounce rather ineffectual off the armored patrol car.
+[02-Nov-2014 22:07:50]  <Rig> *ineffectually
+[02-Nov-2014 22:08:17]  <jseblan> I forgot to roll drain
+[02-Nov-2014 22:08:26]  <Rig> Oh, right, wanna do that real quick?
+[02-Nov-2014 22:08:33]  <jseblan> @dice roll 9d6
+[02-Nov-2014 22:08:33]  <Omnipresence> 14jseblan: Rolled 1 1 3 3 3 4 6 6 6 = 33.
+[02-Nov-2014 22:09:02]  <Rig> You take two more stun, putting you at 6. The headache is pretty powerful now and your vision swims.
+[02-Nov-2014 22:09:37]  <Rig> Propping the girl up isn't a bad idea.
+[02-Nov-2014 22:10:15]  <Rig> BGTB2005: Anything else you want to do?
+[02-Nov-2014 22:11:29]  <BGTB2005> tempted to keep shooting until the bullets punch through the windscreen
+[02-Nov-2014 22:11:39]  *** ponicalica <~sl2c@2607:f010:2ba:2:21c:25ff:febc:692> has quit IRC (Ping timeout: 206 seconds)
+[02-Nov-2014 22:11:40]  <Rig> It's pretty unlikely with an ingra.
+[02-Nov-2014 22:11:42]  <Rig> *ingram
+[02-Nov-2014 22:12:10]  <BGTB2005> yeah, if only we had bigger guns...
+[02-Nov-2014 22:13:04]  <BGTB2005> unless using the girl as a human shield counts a complex action, one last volley
+[02-Nov-2014 22:13:27]  <Rig> It doesn't. Propping her up in front of you would only be a simple action.
+[02-Nov-2014 22:13:49]  *** ponicalica <~sl2c@2607:f010:2ba:2:21c:25ff:febc:692> has joined #madokamadness
+[02-Nov-2014 22:13:49]  *** ChanServ sets mode: +o ponicalica
+[02-Nov-2014 22:14:53]  <Rig> Are you shooting at the car or using her as a shield?
+[02-Nov-2014 22:15:17]  <BGTB2005> I have one more pass after my next action, right?
+[02-Nov-2014 22:15:20]  <Rig> Yeah.
+[02-Nov-2014 22:17:00]  <BGTB2005> Koishi will send a last volley of burst fire at the pursuing car, and then prop Shui up as a deterrent
+[02-Nov-2014 22:17:21]  <Rig> Okay, roll 12d6 again.
+[02-Nov-2014 22:17:55]  <BGTB2005> @dice roll 12d6
+[02-Nov-2014 22:17:55]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 2 2 2 2 3 3 5 5 6 = 34.
+[02-Nov-2014 22:18:05]  <Rig> More pinging off of armor.
+[02-Nov-2014 22:19:04]  <Rig> Propping up Shui causes the cruiser to back off a little though.
+[02-Nov-2014 22:19:23]  <Rig> IllFlower: Vehicle test with that +4 modifier
+[02-Nov-2014 22:19:43]  <IllFlower> @dice roll 11d6
+[02-Nov-2014 22:19:43]  <Omnipresence> 14IllFlower: Rolled 1 2 2 3 3 4 4 5 5 6 6 = 41.
+[02-Nov-2014 22:19:49]  <IllFlower> 4 hits.
+[02-Nov-2014 22:19:57]  <Rig> You can go to long distance then.
+[02-Nov-2014 22:20:27]  <Rig> IllFlower: Do you want to roll to pull away?
+[02-Nov-2014 22:20:38]  <IllFlower> Yeah.
+[02-Nov-2014 22:20:41]  <IllFlower> @dice roll 7d6
+[02-Nov-2014 22:20:41]  <Omnipresence> 14IllFlower: Rolled 1 2 2 3 3 4 4 = 19.
+[02-Nov-2014 22:20:44]  <IllFlower> 2 hits.
+[02-Nov-2014 22:21:20]  *** SF_Sorrow <SF_Sorrow@eduroam-232-251.ucsc.edu> has quit IRC (Ping timeout: 189 seconds)
+[02-Nov-2014 22:21:27]  <Rig> I don't see any hits.
+[02-Nov-2014 22:21:43]  <IllFlower> Apaprently 4 = 6? I'm tired. Yeah, zero hits.
+[02-Nov-2014 22:21:52]  <Rig> No problem.
+[02-Nov-2014 22:22:10]  <Rig> Either way, the police cruiser seems to back off and you get an open space where you can run for the lift.
+[02-Nov-2014 22:22:49]  <Rig> After a few minutes the flashing lights and sirens fade out entirely and you can slow down.
+[02-Nov-2014 22:23:35]  <Rig> The lift tower looms ahead of you, inviting you to return to the shady underbelly of Hangzhou.
+[02-Nov-2014 22:23:57]  <jseblan> I have feeling they're not really backing away
+[02-Nov-2014 22:24:02]  <BGTB2005> Koishi wants to take this opportunity to top off her Smartgun's magazine
+[02-Nov-2014 22:24:27]  <BGTB2005> Koishi feels the same
+[02-Nov-2014 22:24:53]  <IllFlower> Malcolm raises an eyebrow as he watches the police cruisers fade out of sight in the rearview mirror.
+[02-Nov-2014 22:25:10]  <Rig> Maybe they think like Koishi.
+[02-Nov-2014 22:25:12]  <Rig> They do have spares.
+[02-Nov-2014 22:25:22]  <IllFlower> He brings the truck to a stop in an alley near the lift.
+[02-Nov-2014 22:25:47]  <IllFlower> "Antoine, you still alive?" he asks rather flippantly.
+[02-Nov-2014 22:25:51]  *** SF_Sorrow <SF_Sorrow@college8-32-249.resnet.ucsc.edu> has joined #madokamadness
+[02-Nov-2014 22:25:58]  <jseblan> Antoine answers "No"
+[02-Nov-2014 22:26:25]  <IllFlower> "Okay, then."
+[02-Nov-2014 22:26:44]  <IllFlower> Malcolm turns and addresses Koishi instead. "You don't think they're actually letting us go, do you?"
+[02-Nov-2014 22:26:59]  <Rig> Koishi grunts back.
+[02-Nov-2014 22:27:39]  <BGTB2005> "No, they're likely waiting for a better opportunity to get us."
+[02-Nov-2014 22:28:21]  <IllFlower> "Figures.
+[02-Nov-2014 22:28:38]  <BGTB2005> "They've seen the truck. We'll probably need another vehicle."
+[02-Nov-2014 22:28:49]  <IllFlower> "I'm a bit confused, though. Once we get underground, they're basically powerless, right?"
+[02-Nov-2014 22:29:37]  <jseblan> Rig: I'm not hurt enough to need help walking, am I?
+[02-Nov-2014 22:29:52]  <Rig> No, you're more sore and beat up.
+[02-Nov-2014 22:29:56]  <jseblan> alright
+[02-Nov-2014 22:30:01]  <IllFlower> I wonder what would happen if we woke Shui up.
+[02-Nov-2014 22:30:06]  <jseblan> I get out of the truck, a bit wobbly
+[02-Nov-2014 22:30:21]  <jseblan> IllFlower: better not try
+[02-Nov-2014 22:31:00]  <jseblan> something about all the magic bullshit surrounding those kids makes me think her being conscious that she's in a dangerous situation would be a bad thing
+[02-Nov-2014 22:31:34]  <Rig> brb
+[02-Nov-2014 22:32:50]  <Rig> Okay.
+[02-Nov-2014 22:33:49]  <Rig> Plans?
+[02-Nov-2014 22:34:08]  <Rig> The path to the lift seems unobstructed.
+[02-Nov-2014 22:34:33]  <Rig> Of course, the lift ride is a closed environment for a good couple minutes. You could be walking into a trap.
+[02-Nov-2014 22:35:33]  <IllFlower> Is there a way to drive the truck down the lift without us?
+[02-Nov-2014 22:36:00]  <jseblan> could a spirit drive (not that I have one)
+[02-Nov-2014 22:36:05]  <Rig> You could try to remotely pilot it, but Malcolm is probably the only one with half a chance and that's still pretty unlikely.
+[02-Nov-2014 22:36:24]  <Rig> You could try to find a lackey that'd do it for you.
+[02-Nov-2014 22:37:10]  <jseblan> could we put a heavy object on the gas pedal and let it go
+[02-Nov-2014 22:37:23]  <IllFlower> Maybe we can steal a parked car.
+[02-Nov-2014 22:37:29]  <IllFlower> Or what jseblan said.
+[02-Nov-2014 22:37:30]  <Rig> Yes, but that... well, isn't very stealthy.
+[02-Nov-2014 22:37:37]  <Rig> I mean, you certainly could.
+[02-Nov-2014 22:37:45]  <Rig> I'm not sure what you're trying to do.
+[02-Nov-2014 22:37:54]  <BGTB2005> borrowing someone else's car sounds like a good plan
+[02-Nov-2014 22:37:56]  <IllFlower> Well, we wouldn't be in the car, and we suspect the other side already knows what's up.
+[02-Nov-2014 22:37:57]  <Rig> Are you trying to drive the empty truck into the lift?
+[02-Nov-2014 22:38:04]  <IllFlower> Yeah.
+[02-Nov-2014 22:38:06]  <jseblan> could we jump off
+[02-Nov-2014 22:38:27]  <Rig> Do you have parachutes?
+[02-Nov-2014 22:38:38]  <IllFlower> To jump out of the truck?
+[02-Nov-2014 22:38:49]  <jseblan> we didn't search the girl for parachutes yet
+[02-Nov-2014 22:38:56]  <Rig> I assume by "jump off" you meant jump off Upper Hangzhou.
+[02-Nov-2014 22:39:01]  <jseblan> yes
+[02-Nov-2014 22:39:09]  <Rig> Yes, that would require parachutes.
+[02-Nov-2014 22:39:28]  <BGTB2005> I though he was asking about jumping of the truck after guiding it to the lift
+[02-Nov-2014 22:39:32]  <jseblan> "wow, Shui had a set of four parachutes on her! How unlikely"
+[02-Nov-2014 22:39:42]  <Rig> It was that kind of fashion show.
+[02-Nov-2014 22:39:45]  <jseblan> hahaha
+[02-Nov-2014 22:39:50]  <BGTB2005> *off
+[02-Nov-2014 22:40:11]  <Rig> The lift takes a little while to get down to Lower Hangzhou. About 10 minutes.
+[02-Nov-2014 22:40:26]  <Rig> It's kind of like a vertical ferry.
+[02-Nov-2014 22:40:32]  <Rig> Lots of cars and passengers can fit on it.
+[02-Nov-2014 22:41:26]  <Rig> It's a pretty large hexagonal platform with an engineer control station on one side that is raised above the rest of the platform.
+[02-Nov-2014 22:41:29]  <IllFlower> Maybe one of us can drive the truck onto the lift while we jack a car with the rest of us and head for another lift.
+[02-Nov-2014 22:41:59]  <jseblan> that would work if there was more than one person who could drive
+[02-Nov-2014 22:41:59]  <Rig> That would be possible. Though if it is a trap that person would be in trouble.
+[02-Nov-2014 22:42:07]  <Rig> Everyone can drive ground vehicles.
+[02-Nov-2014 22:42:12]  <Rig> Or at least default on them.
+[02-Nov-2014 22:42:12]  <jseblan> oh
+[02-Nov-2014 22:42:28]  <jseblan> okay, so it's like chases and stunts that need skills?
+[02-Nov-2014 22:42:30]  <Rig> You're unlikely to win a vehicle test, but you can drive normally.
+[02-Nov-2014 22:42:31]  <Rig> Yeah.
+[02-Nov-2014 22:44:00]  <IllFlower> Is there enough time to leave the truck on the lift and get off?
+[02-Nov-2014 22:44:06]  <BGTB2005> We don't need to return the truck, do we?
+[02-Nov-2014 22:44:07]  <IllFlower> Also, do any of us know how to steal cars?
+[02-Nov-2014 22:44:12]  <Rig> You could do that, yes.
+[02-Nov-2014 22:44:41]  <ponicalica> so is jseblan's character dead yet
+[02-Nov-2014 22:44:50]  <jseblan> surprisingly not!
+[02-Nov-2014 22:45:02]  <jseblan> I even got to melt a street
+[02-Nov-2014 22:45:14]  <jseblan> all my wildest dreams are realizing themselves
+[02-Nov-2014 22:45:57]  <BGTB2005> Koishi does have the equipment to defeat most locks, and I think the relevant skill falls under the stealth group
+[02-Nov-2014 22:46:00]  <IllFlower> Or maybe I could talk someone into lending us a car.
+[02-Nov-2014 22:46:06]  <Rig> Well, there are a couple ways to steal a car.
+[02-Nov-2014 22:46:55]  <IllFlower> Actually, I think I have a way to do this without lying.
+[02-Nov-2014 22:47:02]  <Rig> Hahaha.
+[02-Nov-2014 22:47:17]  <BGTB2005> 'our truck broke down, can we borrow your car?'
+[02-Nov-2014 22:47:19]  <Rig> "Give us your car so we can get this girl to safety!"
+[02-Nov-2014 22:47:57]  <IllFlower> The PCs tell the hapless civilian that they need to get to a hospital, then commandeer the car on the way.
+[02-Nov-2014 22:48:41]  <IllFlower> Antoine does kinda need medical assistance. And Shui's unconscious!
+[02-Nov-2014 22:48:48]  <ponicalica> which one's shui
+[02-Nov-2014 22:48:53]  <IllFlower> The girl we kidnapped.
+[02-Nov-2014 22:48:54]  <Rig> The girl they kidnapped.
+[02-Nov-2014 22:48:57]  <ponicalica> ah
+[02-Nov-2014 22:49:11]  <Rig> So, are you gonna lie to a hapless civilian on his way to his job?
+[02-Nov-2014 22:49:17]  <jseblan> yes
+[02-Nov-2014 22:49:24]  <IllFlower> After abandoning the truck on the lift, yes.
+[02-Nov-2014 22:49:41]  <Rig> Okay, so, who is going to drive the truck onto the lift?
+[02-Nov-2014 22:49:45]  <Nitya> are you... actually going to a hospital? i thought the police were chasing you, or was that just because they're angry about the acid
+[02-Nov-2014 22:50:01]  <IllFlower> Malcolm'll do it.
+[02-Nov-2014 22:50:15]  <IllFlower> Probably a bad idea, but hey.
+[02-Nov-2014 22:50:16]  <ponicalica> Nitya: they're going to bring the girl they kidnapped to a hospital
+[02-Nov-2014 22:50:48]  <jseblan> IllFlower: don't we need your rogue-ish charms to get the new car
+[02-Nov-2014 22:51:07]  <IllFlower> We don't have to do them both at the same time, right?
+[02-Nov-2014 22:51:13]  <jseblan> true
+[02-Nov-2014 22:51:13]  <Rig> Nope.
+[02-Nov-2014 22:51:34]  <Nitya> malcolm drives onto elevator, triggers land mine, is shredded. rip rogueish charms
+[02-Nov-2014 22:51:42]  <Rig> Okay, the truck has a pass that'll let it onto the lift. All you have to do is drive it on and then walk back out.
+[02-Nov-2014 22:52:00]  <IllFlower> Oh, does that mean we have to carjack someone with a pass?
+[02-Nov-2014 22:52:07]  <IllFlower> Hm, this might make things more complicated.
+[02-Nov-2014 22:52:33]  <Rig> You can pay at the gate.
+[02-Nov-2014 22:52:36]  <ponicalica> rip the pass from the truck
+[02-Nov-2014 22:52:44]  <IllFlower> Please tell me it's like an EZPass transponder and you can see it on - oh, that works too.
+[02-Nov-2014 22:53:02]  <ponicalica> @g the onion sonny corleone ezpass
+[02-Nov-2014 22:53:03]  <Omnipresence> 14ponicalica: Google: (1/4) http://www.theonion.com/articles/sonny-corleone-would-still-be-alive-today-if-he-ha,36297/ — Sonny Corleone Would Still Be Alive Today If He Had E-ZPass | The ...: Jun 17, 2014 ... That's because with each viewing, I become more (+1103 more characters)
+[02-Nov-2014 22:53:05]  <Rig> It's the future. There are thousands of ways to pay for arbitrary things.
+[02-Nov-2014 22:53:50]  <jseblan> "do you accept kidnapped high-society girls" "sure, put her in the pile"
+[02-Nov-2014 22:54:00]  <Rig> Hahaha
+[02-Nov-2014 22:54:12]  <ponicalica> what is the kidnapped-high-society-girl/bitcoin exchange rate
+[02-Nov-2014 22:54:35]  <jseblan> it's 207-something so one girl gives 0.000000002 bitcoins
+[02-Nov-2014 22:54:37]  <IllFlower> Malcolm gestures to the other two, speaking in English. "Wait with Shui here. I'll leave the truck on this lift, and we'll get a ride to a different one. Sound reasonable?"
+[02-Nov-2014 22:54:52]  <jseblan> Antoine nods
+[02-Nov-2014 22:55:09]  <Rig> Koishi opens fire on the lift.
+[02-Nov-2014 22:55:18]  <IllFlower> He leaves Antoine and Koishi to exchange awkward nods at each other over Shui's unconscious body.
+[02-Nov-2014 22:55:20]  <BGTB2005> Koishi looks confused
+[02-Nov-2014 22:55:43]  <IllFlower> Really need to buy that linguasoft.
+[02-Nov-2014 22:56:42]  <IllFlower> Okay, Malcolm hops in the truck and drives it onto the lift.
+[02-Nov-2014 22:57:09]  <Rig> The gate to the lift opens automatically for the truck and the dashboard lights up with a guide to the assigned spot for the truck.
+[02-Nov-2014 22:57:17]  <Rig> *dashboard HUD.
+[02-Nov-2014 22:58:11]  <IllFlower> And so Malcolm parks, before hopping out of the truck and heading back to his comrades.
+[02-Nov-2014 22:58:18]  <jseblan> "the end"
+[02-Nov-2014 22:58:46]  <Rig> No one hassles Malcolm or seems to pay him any mind.
+[02-Nov-2014 22:59:43]  <IllFlower> Well, that was easy.
+[02-Nov-2014 23:00:03]  <Rig> Now what would you like to do?
+[02-Nov-2014 23:00:23]  <jseblan> get ice cream
+[02-Nov-2014 23:00:29]  <IllFlower> Cover Shui's clothes up with the tablecloth, which Malcolm totally remembered to take with him.
+[02-Nov-2014 23:00:34]  <Rig> Shui prefers green tea ice cream.
+[02-Nov-2014 23:00:42]  <IllFlower> I assume it's a trendy velvet number.
+[02-Nov-2014 23:00:58]  <Rig> A bit ripped from Antoine's medical treatment earlier.
+[02-Nov-2014 23:01:09]  <BGTB2005> We did take the cooler from the truck, right?
+[02-Nov-2014 23:01:19]  <Rig> If you say you did.
+[02-Nov-2014 23:01:45]  <Rig> Are you disguising Shui?
+[02-Nov-2014 23:02:25]  <IllFlower> Hastily.
+[02-Nov-2014 23:02:35]  <Rig> Okay, we'll skip a roll for that.
+[02-Nov-2014 23:02:47]  <IllFlower> I figure she'll be slightly harder to recognize in not-fashion-show clothes.
+[02-Nov-2014 23:02:59]  <Rig> Yeah, I'm good with that logic.
+[02-Nov-2014 23:04:35]  <Rig> Next step?
+[02-Nov-2014 23:04:42]  *** Xeniera <~Solstace@67-5-175-115.ptld.qwest.net> has joined #madokamadness
+[02-Nov-2014 23:04:43]  *** ChanServ sets mode: +o Xeniera
+[02-Nov-2014 23:04:50]  <IllFlower> "So," Malcolm says in English as he returns to the group, "I figure we'll go back in a different car. Preferably one with a closed trunk."
+[02-Nov-2014 23:06:40]  <jseblan> Rig: we're still in the alley?
+[02-Nov-2014 23:06:46]  <Rig> I believe so.
+[02-Nov-2014 23:07:29]  <jseblan> I doubt there's any cars in it
+[02-Nov-2014 23:08:07]  <Rig> A couple mopeds.
+[02-Nov-2014 23:08:11]  <Rig> You could try that. :)
+[02-Nov-2014 23:08:55]  <IllFlower> That seems unwieldy.
+[02-Nov-2014 23:09:03]  <Rig> But fun.
+[02-Nov-2014 23:09:09]  <IllFlower> "Fun."
+[02-Nov-2014 23:09:29]  <Rig> The DorfFort one.
+[02-Nov-2014 23:09:39]  <BGTB2005> take a moped and drive it into someone's car
+[02-Nov-2014 23:10:44]  <IllFlower> I was just going to have Malcolm negotiate someone into driving us to the nearest lift.
+[02-Nov-2014 23:10:53]  <BGTB2005> that seems best
+[02-Nov-2014 23:11:00]  <Rig> Okay. Want to flag down a passerby then?
+[02-Nov-2014 23:11:13]  <IllFlower> Yeah.
+[02-Nov-2014 23:11:19]  <jseblan> oooh wait I could use Influence
+[02-Nov-2014 23:11:58]  <jseblan> unless the drain would start getting really bad?
+[02-Nov-2014 23:12:24]  <Rig> You're at 3 stun, right now.
+[02-Nov-2014 23:12:37]  <Rig> Influence is pretty low drain.
+[02-Nov-2014 23:12:48]  <IllFlower> I'll have something like 11d6 to use for negotiation too.
+[02-Nov-2014 23:13:06]  <Rig> You'd just need to get someone that you can actually see long enough to cast the spell.
+[02-Nov-2014 23:13:52]  <Rig> So, if Malcom flags someone down with negotiation you can hit them with the spell.
+[02-Nov-2014 23:14:15]  <IllFlower> Do we have to negotiate just to flag someone down?
+[02-Nov-2014 23:14:58]  <Rig> I think so. It's not like any random guy is gonna pull over for one well-dressed guy and two foreigners (one who looks like a gang member and another who is bald and bleeding)
+[02-Nov-2014 23:15:10]  <jseblan> "these guys look shady as hell but that one is pretty attractive, sounds like a deal" /stops, gets brainwashed/
+[02-Nov-2014 23:15:17]  <Rig> Hahaha.
+[02-Nov-2014 23:15:31]  <Rig> "Isn't that Shui? Let's stop and find out!"
+[02-Nov-2014 23:15:52]  <IllFlower> I figured we would just walk up to someone at a stoplight.
+[02-Nov-2014 23:16:00]  <Rig> Okay, you can do that.
+[02-Nov-2014 23:16:13]  <Rig> There is one near the lift.
+[02-Nov-2014 23:16:14]  <jseblan> ... couldn't we just get a taxi
+[02-Nov-2014 23:16:22]  <Rig> You could also do that.
+[02-Nov-2014 23:16:48]  <IllFlower> "A taxi?" Malcolm looks dumbfounded.
+[02-Nov-2014 23:16:53]  <IllFlower> "Oh, yeah, I guess we could do that."
+[02-Nov-2014 23:17:00]  <jseblan> ¯\_(ツ)_/¯
+[02-Nov-2014 23:17:29]  <BGTB2005> hail a taxi, then steal it
+[02-Nov-2014 23:17:49]  <IllFlower> Does Shui fit in the cooler?
+[02-Nov-2014 23:17:54]  <Rig> ...
+[02-Nov-2014 23:17:57]  <IllFlower> ("hahahahaha no")
+[02-Nov-2014 23:18:27]  *** Lin_Chong <~Lin_Chong@182.55.189.100> has joined #madokamadness
+[02-Nov-2014 23:18:36]  <BGTB2005> we could probably make her fit
+[02-Nov-2014 23:18:42]  <Rig> I can't see a reason why she couldn't, but I'm reminded that the Hong Kong police just arrested a guy for killing a sex worker and shoving her in a suitcase.
+[02-Nov-2014 23:18:44]  <Rig> So....
+[02-Nov-2014 23:19:10]  <jseblan> um, yeah, I think we'll be fine without doing that
+[02-Nov-2014 23:19:52]  <IllFlower> I was thinking we could put the cooler in the trunk.
+[02-Nov-2014 23:20:08]  <IllFlower> As opposed to putting Shui in the trunk, which might get us some awkward questions.
+[02-Nov-2014 23:20:25]  <IllFlower> Or having Shui up front with us, which might also get us some awkward questions.
+[02-Nov-2014 23:20:42]  <Rig> I'll let you do that.
+[02-Nov-2014 23:21:00]  <Rig> The cooler thing.
+[02-Nov-2014 23:21:03]  <Rig> If you want.
+[02-Nov-2014 23:21:21]  <IllFlower> "Koishi, can you help me dump the cooler? We'll put Shui in it and call a taxi."
+[02-Nov-2014 23:21:35]  <IllFlower> Malcolm gestures to the large container on the ground.
+[02-Nov-2014 23:21:37]  <BGTB2005> "Yeah."
+[02-Nov-2014 23:22:41]  <IllFlower> It's a bit of a right fit, but eventually they manage to squeeze Shui in and mostly, but not entirely, close the lid. The girl needs some air anyway, right?
+[02-Nov-2014 23:23:55]  <IllFlower> "Okay, let's get ourselves that taxi..."
+[02-Nov-2014 23:24:30]  <IllFlower> Malcolm walks to the nearest street and waves down a passing car.
+[02-Nov-2014 23:24:50]  <Rig> You could try the Uber app.
+[02-Nov-2014 23:25:01]  <Rig> They'd probably help you kidnap a girl.
+[02-Nov-2014 23:25:26]  <Rig> Anyway, you flag down a taxi and the door opens automatically.
+[02-Nov-2014 23:25:57]  <Fiora> Lyft: the transportation of magical girls
+[02-Nov-2014 23:26:27]  <IllFlower> After helping Koishi load the cooler into the trunk, Malcolm hops into the front seat.
+[02-Nov-2014 23:26:42]  <jseblan> Rig: driverless?
+[02-Nov-2014 23:26:42]  <IllFlower> "Xizang Lift," he says to the driver.
+[02-Nov-2014 23:26:43]  <Rig> The taxi is a gruff looking dwarf.
+[02-Nov-2014 23:26:47]  <jseblan> oh
+[02-Nov-2014 23:26:49]  <Rig> *driver is
+[02-Nov-2014 23:27:02]  <IllFlower> It's a catbus!
+[02-Nov-2014 23:27:21]  <Rig> "The lift trip will cost extra, you know?"
+[02-Nov-2014 23:27:42]  <Rig> The driver pulls away without waiting for an answer. The meter is already running.
+[02-Nov-2014 23:27:52]  <IllFlower> I hope Koishi and Antoine got in first.
+[02-Nov-2014 23:27:53]  <jseblan> IllFlower: hopefully if we're getting in a Miyazaki movie it's gonna be Totoro, but I have a feeling this is grave of the fireflies
+[02-Nov-2014 23:28:08]  <Rig> I assumed they piled into the back.
+[02-Nov-2014 23:28:12]  <jseblan> yeah
+[02-Nov-2014 23:28:14]  <jseblan> sure, whatever
+[02-Nov-2014 23:28:15]  <BGTB2005> yeah
+[02-Nov-2014 23:28:33]  <IllFlower> Grave of the Fireflies was actually Isao Takahata. The other Ghibli guy.
+[02-Nov-2014 23:28:37]  <jseblan> oh
+[02-Nov-2014 23:28:44]  <Rig> The dwarf glances in the mirror and grumbles something about costs for blood on the seats, but doesn't slow down as he swerves through traffic.
+[02-Nov-2014 23:28:50]  <BGTB2005> Ghibli, Miyazaki, close enough, right?
+[02-Nov-2014 23:28:54]  <jseblan> I like that dwarf
+[02-Nov-2014 23:29:11]  <jseblan> Antoine seems to notice that the dwarf saw his injury and asks if the taxi has a first aid kit
+[02-Nov-2014 23:29:40]  <jseblan> in English. hopefully the dwarf knows it
+[02-Nov-2014 23:29:55]  <Rig> "In the glove box," he says, pointing at the compartment by Malcolm's knees.
+[02-Nov-2014 23:30:14]  <Rig> Want to try healing wounds again?
+[02-Nov-2014 23:31:17]  <IllFlower> Malcolm grabs the first aid kit and hands it backwards.
+[02-Nov-2014 23:32:20]  <Rig> It's Body+Willpower+2
+[02-Nov-2014 23:32:42]  <jseblan> @dice roll 9d6
+[02-Nov-2014 23:32:42]  <Omnipresence> 14jseblan: Rolled 1 1 3 3 4 5 5 6 6 = 34.
+[02-Nov-2014 23:32:49]  <jseblan> that seems good
+[02-Nov-2014 23:33:26]  <Rig> Yeah, Antoine feels much better. The world outside the cab has certainly stopped spinning, which is a plus.
+[02-Nov-2014 23:34:02]  <Rig> The taxi pulls up the lift's gate and the meter jumps from 4 nuyen to 19 as the gate opens.
+[02-Nov-2014 23:34:34]  <IllFlower> Maybe we should just have this guy drive us all the way to the pickup point.
+[02-Nov-2014 23:34:43]  <Rig> Was just about to ask.
+[02-Nov-2014 23:36:06]  <jseblan> also wow taxis are actually really cheap in Shadowrun
+[02-Nov-2014 23:36:25]  <Rig> Yeah, according to what the book says they are.
+[02-Nov-2014 23:36:54]  <IllFlower> "Actually," Malcolm says to the dwarf, "I like you. Tell you what, just drive us all the way to the port. Gate 14. I'll give you an extra ten percent on top."
+[02-Nov-2014 23:37:05]  <BGTB2005> I wonder what the exchange rate from nuyen to USD is...
+[02-Nov-2014 23:37:34]  <IllFlower> It seems fairly even for cars.
+[02-Nov-2014 23:37:46]  <Rig> The dwarf looks at Malcolm, and then over his shoulder at Antoine and Koishi. "As long as there isn't any heat, I'm good for that deal."
+[02-Nov-2014 23:38:14]  <IllFlower> "No heat, pal. Our friend in the back there is just a little clumsy."
+[02-Nov-2014 23:38:33]  <Rig> "I'm gonna go have a smoke," the cabbie says. "Don't bleed too much on the upholstery. It's... newish." 
+[02-Nov-2014 23:39:12]  <IllFlower> "Got it, brother."
+[02-Nov-2014 23:39:25]  <Rig> He leaves the car, taking the keys and leaving the meter running while the lift starts it's slow decent below the plate.
+[02-Nov-2014 23:39:55]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has joined #madokamadness
+[02-Nov-2014 23:39:56]  <IllFlower> Malcolm turns and addresses Antoine. "You heard the man."
+[02-Nov-2014 23:40:02]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[02-Nov-2014 23:40:13]  <IllFlower> A pause, then, "You think we're in the clear?"
+[02-Nov-2014 23:41:05]  <Rig> People mill about on the lift platform. Some of the idly chatting, others playing games on their commlinks, and some just staring at the internals of the plate as it slides by them.
+[02-Nov-2014 23:42:35]  <jseblan> Antoine looks tiredly at Malcolm. "We're never in the clear. Keep your guard up."
+[02-Nov-2014 23:42:50]  <IllFlower> "I mean as a relative measure."
+[02-Nov-2014 23:43:10]  <Rig> As if on cue, a chrome finger taps on Malcolm's window.
+[02-Nov-2014 23:43:25]  *** CentralAve is now known as ShowerAvenue
+[02-Nov-2014 23:44:11]  <jseblan> Antoine sighs but does his best to appear casual.
+[02-Nov-2014 23:44:18]  <Rig> The owner of the chrome arm that fills up pretty much all of the window crouches down, revealing polished ebony tusks framed by straight black hair.
+[02-Nov-2014 23:44:30]  <Rig> The troll gestures for Malcolm to roll down the window.
+[02-Nov-2014 23:44:50]  <Rig> (Which is super archaic gesturing considering)
+[02-Nov-2014 23:45:12]  <Rig> Actually, how do you guys gesture for a window to be lowered anymore?
+[02-Nov-2014 23:45:33]  <jseblan> just wave your hand down
+[02-Nov-2014 23:45:49]  <jseblan> or just knock on the window, usually the person will get the signal
+[02-Nov-2014 23:45:52]  <Rig> I always imagine the cranking motion from the old window cranks.
+[02-Nov-2014 23:46:20]  <jseblan> I'm pretty sure the only people who still do that are over 40
+[02-Nov-2014 23:46:24]  <Rig> ;-;
+[02-Nov-2014 23:48:25]  <Rig> How are you guys gonna handle your new troll friend?
+[02-Nov-2014 23:48:26]  <IllFlower> Malcolm looks through the window in half-feigned bewilderment.
+[02-Nov-2014 23:49:02]  <IllFlower> He pretends not to understand what the troll is asking him to do.
+[02-Nov-2014 23:49:37]  <Rig> The troll gestures more aggressively, trying to get his message across by simply making his gestures "louder"
+[02-Nov-2014 23:50:09]  <IllFlower> Is there any indication of who this troll is?
+[02-Nov-2014 23:50:31]  <jseblan> It's Jim
+[02-Nov-2014 23:50:36]  <IllFlower> Oh, Jim!
+[02-Nov-2014 23:50:51]  <Rig> A closer look at the troll shows that his cyberarms are covered in "tattoos"
+[02-Nov-2014 23:50:58]  <Rig> Do any of you have Triad knowledge?
+[02-Nov-2014 23:51:33]  <IllFlower> "Local politics" knowledge, yes.
+[02-Nov-2014 23:51:34]  <Rig> Okay, Malcolm recognizes the tattoos are belonging to Triads.
+[02-Nov-2014 23:51:50]  <Rig> I thought one of you did, but Koishi has Yakuza. ¬.¬
+[02-Nov-2014 23:52:01]  <jseblan> I have magic threats
+[02-Nov-2014 23:52:25]  <Rig> The cyberarms are certainly threatening with all those chrome muscles, but you don't detect any magic.
+[02-Nov-2014 23:52:46]  <IllFlower> Malcolm finally opens the window by about a centimeter, just enough to talk through the gap.
+[02-Nov-2014 23:53:01]  <IllFlower> "Is there something wrong?" he asks the troll, his voice only barely hiding his annoyance.
+[02-Nov-2014 23:54:46]  <Rig> "I know you, don't I?" the troll says. He's speaking sloppy Mandarin, barely better than Antoine's.
+[02-Nov-2014 23:55:30]  <Rig> "You worked for SYI, right?" the troll says.
+[02-Nov-2014 23:56:16]  *** Saladofstones is now known as DeadSaladSnow
+[02-Nov-2014 23:56:29]  <IllFlower> Hahaha, someone read my bio.
+[02-Nov-2014 23:57:07]  <Rig> Malcolm doesn't recognize the troll. SYI was never much for promoting metahumans to executive positions.
+[02-Nov-2014 23:57:25]  <Rig> If you go through the work to write it, I will use it.
+[02-Nov-2014 23:57:31]  <jseblan> shit
+[02-Nov-2014 23:58:02]  <IllFlower> "Yeah. Odd jobs here and there," Malcolm says. "Do I know you?"
+[03-Nov-2014 00:00:31]  <Rig> The troll snorts. "Yeah, I did some odd jobs too," the troll says with a little bit of a chortle. "I exfilled a some researchers a while back. They wanted to work for Wuxing. Better pay, you know?"
+[03-Nov-2014 00:00:41]  <Rig> "What about you? Working for Wuxing now?"
+[03-Nov-2014 00:01:22]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:c9a6:2da9:792a:ad6c> has quit IRC (Read error: Connection reset by peer)
+[03-Nov-2014 00:01:46]  <IllFlower> "I, uh, got out of the business altogether. I'm not really Wuxing's type."
+[03-Nov-2014 00:01:50]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:c9a6:2da9:792a:ad6c> has joined #madokamadness
+[03-Nov-2014 00:03:12]  <Rig> "Ah, that's too bad. Always nice to see a familiar face in this line of work," the troll says. His smile shows more shiny teeth, most of them filed to points.
+[03-Nov-2014 00:04:12]  <Rig> "Well, maybe you'll come around someday." The troll starts to stand up, but stops and says "If you ever need a job that actually pays, look me up. The name's Buffalo."
+[03-Nov-2014 00:04:39]  <Rig> Buffalo stands up to his full height again, his grin disappearing above the cab.
+[03-Nov-2014 00:05:06]  <IllFlower> Malcolm raises his eyebrows once more. "That was something."
+[03-Nov-2014 00:05:10]  <Rig> Malcolm and the others can see him circle behind the cab and pause by the trunk briefly before heading for the edge of the lift.
+[03-Nov-2014 00:05:54]  <Rig> The internals of the plate have finally passed by and the smog layers of underneath it filter the light from Lower Hangzhou into greasy smears of neon color.
+[03-Nov-2014 00:06:27]  <Rig> Does anyone have any objections to stopping here?
+[03-Nov-2014 00:06:48]  <IllFlower> No. I assume we're screwed once the lift stops, haha.
+[03-Nov-2014 00:07:07]  <Rig> Hahaha.
+[03-Nov-2014 00:07:27]  <Rig> jseblan | BGTB2005: You okay with stopping here?
+[03-Nov-2014 00:07:32]  <jseblan> sounds good
+[03-Nov-2014 00:07:47]  <Rig> Any thoughts on the campaign? Anything I can do to make things better for you guys?
+[03-Nov-2014 00:08:26]  <jseblan> don't see anything right now. Kinda wish I could use my magic threat street knowledge but eh
+[03-Nov-2014 00:09:07]  <Rig> I'll try to tie that in next session.
+[03-Nov-2014 00:09:10]  <IllFlower> Next session we find out we took this giant detour for no reason at all.
+[03-Nov-2014 00:09:23]  <Rig> I wouldn't be so cruel.
+[03-Nov-2014 00:09:36]  <IllFlower> Of course not.
+[03-Nov-2014 00:09:37]  <Rig> If there was a trap on the first lift I would have just sprung it on Malcolm.
+[03-Nov-2014 00:09:49]  <Rig> Not waited for the second lift.
+[03-Nov-2014 00:11:08]  <AttObl> Going off the rails is always nice.
+[03-Nov-2014 00:11:31]  <IllFlower> I hope Malcolm gets to do some sweet-talking next time.
+[03-Nov-2014 00:11:47]  <IllFlower> Thanks for running the game, Rig.
+[03-Nov-2014 00:11:57]  <Rig> No problem. I hope it's been fun so far.
+[03-Nov-2014 00:12:03]  <jseblan> hopefully Antoine will still excel at not dying
+[03-Nov-2014 00:12:18]  <Rig> Well, Antoine did accidentally try to heal himself to death.
+[03-Nov-2014 00:12:20]  <Rig> That was good.
+[03-Nov-2014 00:12:26]  <jseblan> hehe
+[03-Nov-2014 00:12:39]  <BGTB2005> "roll to bleed out"
+[03-Nov-2014 00:12:41]  <Rig> "I'm so toxic I injure myself."
+[03-Nov-2014 00:12:54]  <IllFlower> "Hey, baby,"

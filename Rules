@@ -52,6 +52,11 @@ compile '/blog/posts/*' do
   layout '/blog/post.haml'
 end
 
+compile '/logs/**/*.txt' do
+  filter :interstat, args: ['--template-dir', 'layouts/interstat/']
+  layout '/logs/log.haml'
+end
+
 compile '/**/*.scss' do
   filter :sass, style: :compressed, syntax: :scss
 end

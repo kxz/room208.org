@@ -1,0 +1,811 @@
+[20-Jan-2013 20:23:55]  <IllFlower> all right, let's get this party started.
+[20-Jan-2013 20:24:05]  <Miaka_Watanabe[Barcode]> ((error: party.dll not found))
+[20-Jan-2013 20:24:52]  <IllFlower> school's been over for a long while now -- the sun is starting to set -- but Miaka, Yui, and Yuna are assembled in a classroom regardless.
+[20-Jan-2013 20:25:18]  <IllFlower> Pyunpyun sits on top of the teacher's desk at the front, waving his bushy tail to and fro.
+[20-Jan-2013 20:25:39]  <IllFlower> behind him, thw chalk powder seems to be drawing figures on its own on the chalkboard.
+[20-Jan-2013 20:26:10]  <IllFlower> "Yuna, you'll remember the statues you fought yesterday beneath the school?" **
+[20-Jan-2013 20:27:08]  <Miaka_Watanabe[Barcode]> ((post-eating shakes. or is it EXCITEMENT))
+[20-Jan-2013 20:27:46]  <Yui> ((it's excitement. you're fighting with a flashlight user and a rolling pin user today))
+[20-Jan-2013 20:27:58]  <ponicalica> 14no lame magic wands this time
+[20-Jan-2013 20:28:05]  <Miaka_Watanabe[Barcode]> ((heeeeeeeeeeeeeell yeah))
+[20-Jan-2013 20:28:10]  <ponicalica> 14last battle's overcharge levels were hilarious
+[20-Jan-2013 20:28:25]  <Yuna> "Oh, yeah, those things!  Gosh they were creepy but were actually pretty easy."
+[20-Jan-2013 20:28:45]  <Miaka_Watanabe[Barcode]> ((poni: don't worry, I have suitably violent combat descriptions ready should I accidentally roll twelve Fury dice))
+[20-Jan-2013 20:28:54]  <IllFlower> "well, that's because they were merely harbingers."
+[20-Jan-2013 20:28:59]  <Miaka_Watanabe[Barcode]> ((should we assume yuna's brought yui and miaka up to speed on that?))
+[20-Jan-2013 20:29:05]  <Miaka_Watanabe[Barcode]> ((gonna go with yes)
+[20-Jan-2013 20:29:06]  <Miaka_Watanabe[Barcode]> )
+[20-Jan-2013 20:29:25]  <Miaka_Watanabe[Barcode]> "Harbringers, huh? Something nastier our way comes?"
+[20-Jan-2013 20:29:29]  <Yui> ((cheesy 3-way call sequence))
+[20-Jan-2013 20:29:32]  <IllFlower> Pyunpyun's voice is oddly businesslike. his personality hasn't exactly been consistent, maybe, but it's still jarring.
+[20-Jan-2013 20:30:24]  <IllFlower> "let's cut to the chase. Yuna, you may have thought you were fighting a witch. you weren't. you were only fighting its subordinates."
+[20-Jan-2013 20:30:35]  <Miaka_Watanabe[Barcode]> Miaka bounces one leg under her desk, though her face is serious.
+[20-Jan-2013 20:30:54]  <Nitya> 14the shocking reelation puts you all in a coma
+[20-Jan-2013 20:30:58]  *** Jinxy <Mibbit@184-96-80-25.hlrn.qwest.net> has joined #madokamadness
+[20-Jan-2013 20:31:03]  <IllFlower> Pyunpyun turns to the blackboard, on which a map has appeared. unlike the map on the television screen in Pyunpyun's hideout, it's comprehensible to human viewers.
+[20-Jan-2013 20:31:05]  <Yuna> "That makes sense.  Those things really didn't seem very witch-like."
+[20-Jan-2013 20:32:06]  <IllFlower> "her name is Christel. don't ask me how I found that out. she's here, lurking in the construction site not far from here."
+[20-Jan-2013 20:32:32]  * Miaka_Watanabe[Barcode] raises an eyebrow.
+[20-Jan-2013 20:32:34]  <IllFlower> the initiates vaguely recall something about it being a planned public recreation center, but no more than that.
+[20-Jan-2013 20:32:41]  *** SpruceZeus is now known as SpruceZeus|away
+[20-Jan-2013 20:32:44]  <IllFlower> not that that detail is really important anyway.
+[20-Jan-2013 20:32:46]  <IllFlower> **
+[20-Jan-2013 20:33:10]  <Miaka_Watanabe[Barcode]> Miaka speaks up. "Well, then. What're we waiting for?
+[20-Jan-2013 20:33:11]  <Miaka_Watanabe[Barcode]> "
+[20-Jan-2013 20:33:25]  <Yui> An engraved invitation, clearly
+[20-Jan-2013 20:33:42]  <Yui> I mean if statues were the minions it's not too much of a stretch
+[20-Jan-2013 20:34:54]  <IllFlower> "well, are there any questions? Mayu, Miaka, I trust Yuna has explained the details."
+[20-Jan-2013 20:34:58]  <IllFlower> **
+[20-Jan-2013 20:35:09]  * Miaka_Watanabe[Barcode] nods, looking at the other girls.
+[20-Jan-2013 20:35:48]  <Yui> Why minions? Is the witch trying to feel us out and find soft spots so we're easy pickings? Is that why you're so on edge, fuzzbutt?
+[20-Jan-2013 20:35:48]  <Yuna> "What was up with those statues anyways?  Why were they hiding away in the school?"
+[20-Jan-2013 20:36:08]  <Yuna> ((We asked the same question))
+[20-Jan-2013 20:36:10]  <ponicalica> 14hehehe, fuzzbutt
+[20-Jan-2013 20:36:48]  <IllFlower> "witches are attracted to places with large numbers of people. Christel at least has some sense of subtlety. she sent out scouts." **
+[20-Jan-2013 20:37:29]  *** HandsomeJack <~AttObl@108-91-87-34.lightspeed.cicril.sbcglobal.net> has quit IRC (Quit: ChatZilla 0.9.89 [Firefox 18.0.1/20130116073211])
+[20-Jan-2013 20:37:42]  <Yuna> "S-so... um... if we hadn't spotted those weird looking statues poking out of there... what would they have done?"
+[20-Jan-2013 20:38:05]  <Miaka_Watanabe[Barcode]> "Oh, and any special warnings about Christel? I mean, wouldn't want to get ambushed like we did with that gross tumour thing. It couldn't even move and yet it caught us by surprise...."
+[20-Jan-2013 20:38:45]  <IllFlower> Yuna: "I think we should be asking what they've already done. remember, four of your schoolmates are still missing." **
+[20-Jan-2013 20:39:15]  * Yuna shivers for a moment, her mind only now connecting the two.
+[20-Jan-2013 20:39:17]  * Miaka_Watanabe[Barcode] grimaces.
+[20-Jan-2013 20:39:22]  <IllFlower> Miaka_Watanabe[Barcode]: subtle, aren't we? Pyunpyun merely shrugs, as well as he can do for a quadruped fellow. **
+[20-Jan-2013 20:39:57]  * Miaka_Watanabe[Barcode] huffs gently. "Worth a try..."
+[20-Jan-2013 20:40:01]  <ponicalica> 14Pyunpyun is a dick.
+[20-Jan-2013 20:40:33]  <IllFlower> as far as he's concerned, it's like asking the IT guy to fix your coffee maker.
+[20-Jan-2013 20:41:23]  <Miaka_Watanabe[Barcode]> ((snowin' like crazy outside. was so fucking cold coming home today, you wouldn't believe))
+[20-Jan-2013 20:41:42]  <IllFlower> Pyunpyun jumps off the desk, and almost literally hightails it out of the classroom, his feathery appendage waving in the air above him.
+[20-Jan-2013 20:42:15]  <IllFlower> he stops in the doorway briefly, though. "good luck," he says, as the chalk on the blackboard shifts to read the same thing.
+[20-Jan-2013 20:42:37]  <Miaka_Watanabe[Barcode]> ((https://room208.org/booru/post/show/837 pyun's reactino to miaka's question))
+[20-Jan-2013 20:42:45]  <IllFlower> the message does look like a classroom of teenagers wrote it. it could easily be interpreted as being about the upcoming exams. **
+[20-Jan-2013 20:43:11]  * Miaka_Watanabe[Barcode] stands up slowly. "Might as well head on over, then..."
+[20-Jan-2013 20:43:55]  <Yui> Maybe, but how are everyone's soul gems? I've still got the grief seed from the other day if anyone needs it.
+[20-Jan-2013 20:44:42]  * Miaka_Watanabe[Barcode] pulls it out of her bag. "Er...looks fine..."
+[20-Jan-2013 20:45:12]  * Yuna looks at hers.  "Mine's slightly dark, I think?  We didn't get a seed when were took out those weird statue things the other day."
+[20-Jan-2013 20:45:43]  <Miaka_Watanabe[Barcode]> ((five percent darker than usual, in fact!))
+[20-Jan-2013 20:46:52]  <Miaka_Watanabe[Barcode]> ((pistony?))
+[20-Jan-2013 20:46:59]  <Yui> do you think you'll be okay today or do you want to try and clear it up before we go off into god knows what furball found?
+[20-Jan-2013 20:47:15]  <Yuna> I think I'll be fine, but if you want to use it now that's okay too!
+[20-Jan-2013 20:48:06]  <Yui> I just don't want you to get hurt sooner, but if you think you'll be fine, that's your decision, Yuna. If all's good, may as well get on with it.
+[20-Jan-2013 20:48:13]  <Miaka_Watanabe[Barcode]> ((yui basketball-passes the despair diadem at yuna))
+[20-Jan-2013 20:48:27]  <IllFlower> ready to go, then?
+[20-Jan-2013 20:48:34]  <Miaka_Watanabe[Barcode]> ((i'm greddy))
+[20-Jan-2013 20:48:42]  <Yuna> "I feel like it's time to take out this witch."
+[20-Jan-2013 20:49:17]  * Yui  looks at Yuna and nods
+[20-Jan-2013 20:49:53]  * Miaka_Watanabe[Barcode] grins, looking aggressive. ((adjectives))
+[20-Jan-2013 20:50:05]  <IllFlower> the three girls head out of the classroom onto the early evening streets.
+[20-Jan-2013 20:50:51]  <IllFlower> this part of Kikugawa, being mostly suburban, isn't all that busy, but there are occasional children traipsing down the sidewalk, talking excitedly, and a few adults walking dogs.
+[20-Jan-2013 20:51:18]  <Miaka_Watanabe[Barcode]> ((on the way)) "So, Yui, Yuna....did...you guys know any of the kids that disappeared?" Half muttering to herself, she adds, " I can't believe it's taken me until now to ask."
+[20-Jan-2013 20:51:28]  <IllFlower> it's dark enough that the streetlights have already turned on, as the retreating sun casts long shadows over everything.
+[20-Jan-2013 20:52:01]  * Miaka_Watanabe[Barcode] squints up at the sun while walking.
+[20-Jan-2013 20:53:06]  <Yui> Not really, Miaka, no. Not beyond the whole seeing them on a regular basis because classmates, thing.
+[20-Jan-2013 20:53:14]  * Yuna frowns slightly.  "N-not really... I don't really know many people at school that well.  I think I have more friends who are magical girls than are not..."
+[20-Jan-2013 20:53:27]  <IllFlower> (keep talking, but) after some walking, the girls finally arrive at the construction site. it's surrounded by the typical corrugated metal walls, with spartan signs reading "AUTHORIZED PERSONNEL ONLY" next to more colorful illustrations of what the building will be when it's finished.
+[20-Jan-2013 20:53:57]  <IllFlower> at the moment, though, it's little more than a skeleton of concrete floors and steel beams.
+[20-Jan-2013 20:54:29]  <IllFlower> (we now return to the girls' conversation, already in progress.) **
+[20-Jan-2013 20:55:10]  * Miaka_Watanabe[Barcode] "m"s, looking slightly downcast. "I...really hope we can still help them, whatever's happened to them." She scans the construction site. "...My parents always told me to stay away from these sorts of places... you don't have any idea how stable anything is."
+[20-Jan-2013 20:55:58]  <Yui> Usually stable enough. Besides, we're totally authorized personnel, eh Yuna?
+[20-Jan-2013 20:56:41]  <IllFlower> Meme Oshino's going to show up out of nowhere. just you wait!
+[20-Jan-2013 20:57:01]  <Yuna> "Um... totally, yup!  We're, like, magical girl construction workers or something.  See, I even have a flashlight, I'm like, totally equipped for this."
+[20-Jan-2013 20:57:14]  <Yui> That's my girl
+[20-Jan-2013 20:57:16]  <Miaka_Watanabe[Barcode]> "Heh."
+[20-Jan-2013 20:58:09]  <IllFlower> can you all make rolls against your finishing attribute? no Cr, just for story purposes.
+[20-Jan-2013 20:58:28]  <Miaka_Watanabe[Barcode]> ((finishing?))
+[20-Jan-2013 20:58:37]  <IllFlower> that's Heart for Yuna and Yui, Fury for Miaka.
+[20-Jan-2013 20:58:39]  <ponicalica> 14attribute of your finishing attack, I think
+[20-Jan-2013 20:58:39]  <Miaka_Watanabe[Barcode]> ((oh))
+[20-Jan-2013 20:58:40]  <Nitya> 14the one on your finishing attack
+[20-Jan-2013 20:58:48]  <Yuna> +roll 2d6+9
+[20-Jan-2013 20:58:48]  <rollermine> Yuna: (3+5)+9=17
+[20-Jan-2013 20:58:58]  <Miaka_Watanabe[Barcode]> +roll 2d6+8
+[20-Jan-2013 20:58:58]  <rollermine> Miaka_Watanabe[Barcode]: (3+1)+8=12
+[20-Jan-2013 20:59:04]  <Miaka_Watanabe[Barcode]> ((ow.))
+[20-Jan-2013 20:59:16]  <Miaka_Watanabe[Barcode]> ((mind if I throw in the transformation sequence here? or is something about to inturrupt us))
+[20-Jan-2013 20:59:17]  <Yui> +roll 2d6+8
+[20-Jan-2013 20:59:17]  <rollermine> Yui: (6+4)+8=18
+[20-Jan-2013 21:00:12]  <IllFlower> the three girls walk around to an entrance, made of chain-link fence. the gate's been locked shut.
+[20-Jan-2013 21:01:05]  <Miaka_Watanabe[Barcode]> "Suppose we should get into gear,. then." Miaka says. She straightens out from her slouch, holds her right hand to her chest and her left arm outwards. In a flash, a whirlwind of chains appears and envelopes her, scraping against each other noisily; just as quickly, they dissipate, revealing her magic-imbued uniform. "I guess I can't be afraid of a few stray metal beams if I'm going to carry...
+[20-Jan-2013 21:01:05]  <IllFlower> Yui, though, whips out her rolling pin and bashes the lock with it. it opens up almost automatically, popping off the door and onto the ground.
+[20-Jan-2013 21:01:06]  <Miaka_Watanabe[Barcode]> ...one around for this whole fight."
+[20-Jan-2013 21:01:12]  <Miaka_Watanabe[Barcode]> ((shit. right, **s))
+[20-Jan-2013 21:01:22]  <IllFlower> go ahead from there. **
+[20-Jan-2013 21:01:27]  <Miaka_Watanabe[Barcode]> ((oh okay. then it happens then))
+[20-Jan-2013 21:01:39]  <Miaka_Watanabe[Barcode]> ((here*))
+[20-Jan-2013 21:01:45]  <Yui> I knew that my rolling pin wasn't entirely useless
+[20-Jan-2013 21:02:23]  <IllFlower> the rest of you may as well transform, now that you're in enemy territory.
+[20-Jan-2013 21:02:37]  <Miaka_Watanabe[Barcode]> ((magical burst: quake wars))
+[20-Jan-2013 21:02:50]  * Yuna eventually needs to get herself a transformation theme
+[20-Jan-2013 21:03:26]  <Miaka_Watanabe[Barcode]> ((you illuminate to a globe of incandescence, which then fades to reveal your uniform?))
+[20-Jan-2013 21:03:31]  <Miaka_Watanabe[Barcode]> you in your*
+[20-Jan-2013 21:03:33]  <Nitya> 14"Invert the Inverted Cross", by Horde
+[20-Jan-2013 21:03:39]  * Yuna watashi no kokoro, unlock!
+[20-Jan-2013 21:03:58]  <IllFlower> (a frying pan comes out of nowhere and beans Yuna on the head.)
+[20-Jan-2013 21:04:02]  <Yuna> Mahou Shoujo Starlight Yuna~!
+[20-Jan-2013 21:04:13]  <ponicalica> 14I thought Hikaru was the one who was supposed to use watashi no kokoro unlock
+[20-Jan-2013 21:04:14]  <Yuna> (owww)
+[20-Jan-2013 21:04:28]  <Miaka_Watanabe[Barcode]> ((oh shit, that's a song, huh. checks))
+[20-Jan-2013 21:04:31]  <ponicalica> 14because Pyunpyun made her cool and/or spicy
+[20-Jan-2013 21:04:37]  * Yui smacks rolling pin into her hand aims a shot of breath at misbehaving bangs, and winds up in her housewife getup
+[20-Jan-2013 21:04:39]  <Miaka_Watanabe[Barcode]> ((right now I'm listening to Somewhere around Nothing by Apocalyptica))
+[20-Jan-2013 21:04:39]  <Yuna> ((pfff))
+[20-Jan-2013 21:05:19]  <Nitya> 14barcode if you get into unblack metal i will never stop laughing
+[20-Jan-2013 21:05:29]  <Miaka_Watanabe[Barcode]> ((we'll see!))
+[20-Jan-2013 21:05:35]  <Miaka_Watanabe[Barcode]> ((wait is this christian black metal))
+[20-Jan-2013 21:05:41]  <Yuna> ((I think I'll go with Amulet Heart's transformation theme))
+[20-Jan-2013 21:06:05]  <IllFlower> the girls, after transforming, peek their heads into the construction site. it looks pretty normal, if dark.
+[20-Jan-2013 21:06:45]  <Miaka_Watanabe[Barcode]> "Hm...Yuna, you can point aorund the flashlight like this without burning any magical energy, right?"
+[20-Jan-2013 21:07:05]  * Miaka_Watanabe[Barcode] peers into the shadows, brow furrowed.
+[20-Jan-2013 21:07:10]  <Yuna> "I think so!  It works pretty normal unless I try to make it do all magicky things."
+[20-Jan-2013 21:07:14]  <IllFlower> the building's skeleton has several floors; there are no stairs connecting them yet, but Yuna's flashlight does find a small construction elevator off to one side of the building.
+[20-Jan-2013 21:07:16]  * Yuna waves it around a bit/.
+[20-Jan-2013 21:07:45]  <IllFlower> there's a sound of echoing footsteps from above, like that of high heels clicking down a long hallway. **
+[20-Jan-2013 21:08:00]  <IllFlower> (it's obviously out of place, seeing as how there's nothing for the sound to echo off of...)
+[20-Jan-2013 21:08:11]  <Yuna> "... is someone else here...?"
+[20-Jan-2013 21:08:34]  <Yuna> "Those don't sound like construction worker shoes... could there be another magical girl here?"
+[20-Jan-2013 21:09:06]  <Miaka_Watanabe[Barcode]> "We'll have to investigate...come with me," Miaka hisses. She slowly walks to the construction elevator. keeping the Kruger pointed upwards.
+[20-Jan-2013 21:09:37]  <Nitya> 14wait is this christian black metal <-- yes.  unblack
+[20-Jan-2013 21:09:50]  <Miaka_Watanabe[Barcode]> ((nitya: egh, not bad but I wasn't /amazed/ or nuffen
+[20-Jan-2013 21:09:53]  <Miaka_Watanabe[Barcode]> ))
+[20-Jan-2013 21:10:04]  <Yuna> ((http://www.youtube.com/watch?v=FsV5sUuCn4M#t=3m33s  this is totally Miaki's transformation theme))
+[20-Jan-2013 21:10:07]  <Nitya> 14that warrants at least two minutes of crazed laughter, brb
+[20-Jan-2013 21:10:31]  <Miaka_Watanabe[Barcode]> ((nitya, who do you exactly think I am `-` it's just black metal with christian lyrics.))
+[20-Jan-2013 21:11:20]  <Yui> Man, Yuna, why did we think these shoes were at all practical?
+[20-Jan-2013 21:11:23]  <IllFlower> the footsteps pause for a moment, as the sound of a door creaking open reaches the girls' ears. there were, of course, no doors visible from outside the construction site. **
+[20-Jan-2013 21:11:28]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[20-Jan-2013 21:11:50]  <Yuna> "U-um... magical girls on TV wear things like these, so...."
+[20-Jan-2013 21:12:10]  * Miaka_Watanabe[Barcode] lowers the Kruger somewhat, looks around. "...Are you two coming?!" she whispers
+[20-Jan-2013 21:12:42]  * Yuna quickly steps up behind Miaka.  "U-um... yes yes!"
+[20-Jan-2013 21:12:58]  * Miaka_Watanabe[Barcode] (says that partly out of fear of the change of upper-building noise)
+[20-Jan-2013 21:13:13]  <Yui> We're right behind you, Miaka.
+[20-Jan-2013 21:13:30]  <Yui> Was that a door? I didn't see a door.
+[20-Jan-2013 21:13:54]  <IllFlower> the elevator's not going to move on its own, Miaka. ;)
+[20-Jan-2013 21:13:57]  * Miaka_Watanabe[Barcode] reaches the construction elevator, kind of stares blankly at the controls. "I've...never used one of these before." She reads the embossed kanji on the controls. "Seems self explanatory..."
+[20-Jan-2013 21:14:29]  <Miaka_Watanabe[Barcode]> ((I'm going to assume everyone's in this thing)) She gingerly pulls up on the one joystick. The elevator shudders and begins to rise.
+[20-Jan-2013 21:14:51]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has left #madokamadness
+[20-Jan-2013 21:15:08]  <Miaka_Watanabe[Barcode]> ((by joystick I mean lever used to operate two push-buttons. I could blather on with my EXTREME FACTORY EXPERIENCE but whatever))
+[20-Jan-2013 21:15:27]  <IllFlower> the elevator's motor sputters to life, and the car slowly ascends.
+[20-Jan-2013 21:16:01]  <IllFlower> every single one of the floors looks to be approximately the same: concrete floor and ceiling, metal beams at regular intervals, occasional random tools strewn about.
+[20-Jan-2013 21:16:18]  <Nitya> 14I thought engines sputtered, not motors.
+[20-Jan-2013 21:16:37]  <Miaka_Watanabe[Barcode]> ((motors kind of do some dumb movements too, really))
+[20-Jan-2013 21:16:42]  <Miaka_Watanabe[Barcode]> ((pre sure anyway))
+[20-Jan-2013 21:16:56]  <IllFlower> as the elevator reaches the top floor, the sound of a door slamming loudly echoes throughout the building.
+[20-Jan-2013 21:17:11]  <Miaka_Watanabe[Barcode]> ((side note. the kruger has been placed on her back before entering the elevator. there's. not a lot of room in those))
+[20-Jan-2013 21:17:28]  <Nitya> 14osha's gonna sue the pants offa pyunpyun at this rate
+[20-Jan-2013 21:17:40]  * Yui clings to the end of her rolling pin a little tighter
+[20-Jan-2013 21:18:02]  <Miaka_Watanabe[Barcode]> "Don't want to be trapped in here. Move!" Miaka whispers. She quickly exits the elevator and puts the Kruger back on, crouching and looking around,
+[20-Jan-2013 21:18:03]  <Miaka_Watanabe[Barcode]> .*
+[20-Jan-2013 21:18:05]  <ponicalica> 14I think OSHA's too busy trying to sue Kyubey for that scene in the opening where they're all on top of the buildign
+[20-Jan-2013 21:18:32]  * Yuna shudders a bit and holds her flashlight tightly.
+[20-Jan-2013 21:18:38]  <Yuna> "This doesn't sound good..."
+[20-Jan-2013 21:18:39]  <IllFlower> the initiates' eyes immediately meet with a swirling portal, located right in the middle of the building.
+[20-Jan-2013 21:18:45]  * Yui follows Miaka out holding the rolling pin up by her head
+[20-Jan-2013 21:18:50]  <Yuna> (( http://nicosound.anyap.info/sound/sm13366124 Yuna's transformation theme? ))
+[20-Jan-2013 21:18:51]  <Omnipresence> 14URL: [nicosound.anyap.info] 【東方Vocal】 ミセリコルディア -Misericordia- 【恋色マスタースパーク】 - にこ☆さうんど＃
+[20-Jan-2013 21:19:08]  <Yuna> (( The flashlight/starlight motif keeps making me think of Marisa. ))
+[20-Jan-2013 21:19:14]  * Miaka_Watanabe[Barcode] exhales shudderingly. "At least we won't have to fight in this death trap..."
+[20-Jan-2013 21:19:27]  <Yuna> I... I guess that's our witch
+[20-Jan-2013 21:19:28]  <Yuna> ?
+[20-Jan-2013 21:19:54]  <IllFlower> the witch's barrier is a blitz of white and maroon. beyond it, the sound of footsteps has resumed, but muffled now, as if coming from somewhere off in the distance. **
+[20-Jan-2013 21:20:56]  <Miaka_Watanabe[Barcode]> ((hour and a half to go)) Miaka deflates slightly, considering the upcoming fight. "L-let's go, then."
+[20-Jan-2013 21:21:05]  * Miaka_Watanabe[Barcode] approaches the portal...
+[20-Jan-2013 21:21:11]  <Yuna> "I guess we don't have a choice at this point..."
+[20-Jan-2013 21:21:16]  * Yuna follows Miaka
+[20-Jan-2013 21:21:31]  * Yui falls in step behind Yuna
+[20-Jan-2013 21:21:47]  * Miaka_Watanabe[Barcode] braces, holding the Kruger with her other hand, then runs into the portal.
+[20-Jan-2013 21:22:17]  <IllFlower> with a flash, the outside world fades away as the girls enter the witch's maze.
+[20-Jan-2013 21:22:47]  <IllFlower> it looks like a giant... hall of some sort, the kind that you'd expect the Roman Senate to have met in.
+[20-Jan-2013 21:23:38]  * Miaka_Watanabe[Barcode] 's run sputters to a stop, metal-lined footsteps clacking away in the hall. She looks around for anything. Doors, pillars for cover...other entities...
+[20-Jan-2013 21:23:38]  <IllFlower> the place is a stir of gleaming white columns and velvet curtains. a large dome is visible protruding from the ceiling.
+[20-Jan-2013 21:23:56]  <Yuna> "This looks like a fitting place for those weird statues to have come from."
+[20-Jan-2013 21:24:10]  <Yui> ((too bad none of us use anything that reacts with Calcium Carbonate))\
+[20-Jan-2013 21:24:17]  <Miaka_Watanabe[Barcode]> ((heh))
+[20-Jan-2013 21:24:25]  <IllFlower> at the center of the room is a large gold engraving on the floor, with inscriptions in some long-dead language on them, and right in the middle of that...
+[20-Jan-2013 21:24:29]  <IllFlower> Sharp challenge, everyone.
+[20-Jan-2013 21:24:44]  <Miaka_Watanabe[Barcode]> +roll 2d6+6
+[20-Jan-2013 21:24:44]  <rollermine> Miaka_Watanabe[Barcode]: (1+2)+6=9
+[20-Jan-2013 21:24:52]  <ponicalica> 14pfffft
+[20-Jan-2013 21:25:02]  <Yui> +roll 2d6+6
+[20-Jan-2013 21:25:02]  <rollermine> Yui: (6+1)+6=13
+[20-Jan-2013 21:25:16]  <Yuna> +roll 2d6+7
+[20-Jan-2013 21:25:16]  <rollermine> Yuna: (5+4)+7=16
+[20-Jan-2013 21:25:17]  <Miaka_Watanabe[Barcode]> ((Miaka is too busy combat rolling to apillar to notice said pillar falling on her))
+[20-Jan-2013 21:25:34]  <Miaka_Watanabe[Barcode]> ((oh thank god, yuna))
+[20-Jan-2013 21:26:13]  <Yuna> ((Yui, maybe we should have brought some hydrochloric acid?))
+[20-Jan-2013 21:26:13]  <Miaka_Watanabe[Barcode]> ((holy shit, threatened_in_romania, you came on at just the right time))
+[20-Jan-2013 21:26:36]  <IllFlower> ... is the body of a teenaged male in a Takami uniform, lying curled up on the floor. his back is studded with needles, in what looks like some grotesque parody of acupuncture.
+[20-Jan-2013 21:26:44]  <Yui> ((Yuna, I know right))
+[20-Jan-2013 21:27:18]  <IllFlower> Miaka's not sure what's going on, at all.
+[20-Jan-2013 21:27:18]  * Miaka_Watanabe[Barcode] lowers the Kruger slightly, a look of concern crossing her face. She cautiously calls out. "Hello? You there? Can you hear me?"
+[20-Jan-2013 21:27:21]  <IllFlower> Yui gasps, as something about him seems eerily familiar.
+[20-Jan-2013 21:27:24]  <Nitya> 14have to do a Sharp check to see a corpse, huh
+[20-Jan-2013 21:27:35]  * Yuna stands still in shock, slowly just blinking as she sees the boy
+[20-Jan-2013 21:27:39]  <IllFlower> only Yuna immediately recognizes the body as that of Tadashi Irie, the last student to have disappeared.
+[20-Jan-2013 21:27:39]  <Miaka_Watanabe[Barcode]> ((er, wait, scratch that I guess. I just look dumbfounded?))
+[20-Jan-2013 21:27:41]  <Nitya> 14("i'm sure he's alive")
+[20-Jan-2013 21:27:43]  <Miaka_Watanabe[Barcode]> ((oh.))
+[20-Jan-2013 21:27:47]  <IllFlower> **
+[20-Jan-2013 21:27:57]  <Yuna> "T-that's.... that's the Irie boy..."
+[20-Jan-2013 21:28:23]  <Nitya> 14yuna: a baseball fan?
+[20-Jan-2013 21:28:43]  <Yui> ((she watches for their butts))
+[20-Jan-2013 21:28:50]  <IllFlower> ("something compels the girls to EXAMINE THE BODY.")
+[20-Jan-2013 21:29:09]  <Nitya> 14nah man the pillars are where the mystery's at, the PILLARS
+[20-Jan-2013 21:29:11]  <Miaka_Watanabe[Barcode]> ((been typing too fast. you guys take the lead here, I'm supposed to think that's just a very large porcupine))
+[20-Jan-2013 21:29:33]  <IllFlower> Miaka_Watanabe[Barcode]: well, now that Yuna's told Miaka who it is, presumably she has some clue.
+[20-Jan-2013 21:29:40]  <Yuna> (baseball?)
+[20-Jan-2013 21:29:44]  <Yui> What do you think happened to him ,Yuna?
+[20-Jan-2013 21:29:48]  <Miaka_Watanabe[Barcode]> ((ah, right. STILL))
+[20-Jan-2013 21:30:11]  <Yuna> "I-I don't know... it just... looks... horrible..."
+[20-Jan-2013 21:30:17]  <Yui> He looks more like a pincushion than something planned
+[20-Jan-2013 21:30:36]  * Miaka_Watanabe[Barcode] starts cautiously approaching, eyes fixed on the boy.
+[20-Jan-2013 21:30:37]  * Nitya 14just pictures a scene from Sailor Nothing
+[20-Jan-2013 21:30:42]  <Miaka_Watanabe[Barcode]> slowly approaching*
+[20-Jan-2013 21:30:50]  <IllFlower> Yuna brushes a hand across Tadashi's skin. as expected, it's cold to the touch.
+[20-Jan-2013 21:31:00]  <Yuna> He's dead...
+[20-Jan-2013 21:31:02]  <ponicalica> 14which one?  the 0,0girl turned into a doll?
+[20-Jan-2013 21:31:21]  <Nitya> 14yeah, i think that's what it is
+[20-Jan-2013 21:31:28]  * Miaka_Watanabe[Barcode] 's eyes widen in shock.
+[20-Jan-2013 21:31:29]  <Nitya> 14the person strung up
+[20-Jan-2013 21:31:34]  <IllFlower> oddly enough, despite the fact that his back is crammed with sharp points, there is no blood, or indeed any sign of it.
+[20-Jan-2013 21:31:39]  <IllFlower> **
+[20-Jan-2013 21:32:19]  * Miaka_Watanabe[Barcode] seems more distraught at the discovery of the body than of the possible danger the place holds now.
+[20-Jan-2013 21:32:43]  <Yui> Well, if he's dead, that certainly explains why fuzzbutt was so cagey about telling us what was up earier
+[20-Jan-2013 21:33:09]  <Yuna> "I-I'm not so sure the puffpile really cares that much about him..."
+[20-Jan-2013 21:33:20]  * Miaka_Watanabe[Barcode] blankly pulls at a needle.
+[20-Jan-2013 21:33:26]  *** SpruceZeus|away is now known as SpruceZeus
+[20-Jan-2013 21:34:07]  <IllFlower> Miaka instantly drops the needle as if it's administered her a strong electric shock. the "plink" of it hitting the ground echoes through the hall.
+[20-Jan-2013 21:34:23]  <Yuna> A-are you okay, Miaka?
+[20-Jan-2013 21:34:23]  * Miaka_Watanabe[Barcode] gasps, scrambles back slightly.
+[20-Jan-2013 21:34:37]  <IllFlower> a loud rumbling begins to reverberate through the floor, as if the sound's awakened something.
+[20-Jan-2013 21:35:08]  <Nitya> 14bad end: needles in a body are a desperate ritual to keep the witch back
+[20-Jan-2013 21:35:17]  <Yui> he might not care about Irie, and sometimes I wonder how much he cares about us, but I don't think he'd be so happy to tell us this thing we're fighting has killed our classmates and is liable to kill us in a similar fashion. Don't think it would make us very excited about fighting, y'know?
+[20-Jan-2013 21:35:36]  <IllFlower> slowly, a fissure opens around the gold medallion in the center of the room, and it begins to sink into the ground. **
+[20-Jan-2013 21:35:39]  <Yui> ((sorry when younger sisters attack))
+[20-Jan-2013 21:35:45]  <Yuna> M-maybe... I guess... I wouldn't be surprised about a witch being liable to kill people...
+[20-Jan-2013 21:35:54]  * Yuna shuffles behind Yui and holds her flashlight tightly.
+[20-Jan-2013 21:36:07]  * Miaka_Watanabe[Barcode] stumbles to a stand. She's shaken. "...Horrible..." she manages.
+[20-Jan-2013 21:36:10]  <IllFlower> ("you feel compelled to GET THE HELL OFF THE MEDALLION BEFORE IT GETS SWALLOWED INTO NOTHINGNESS.")
+[20-Jan-2013 21:36:29]  * Miaka_Watanabe[Barcode] quickly realizes she is descending and scrambles off of the medallion
+[20-Jan-2013 21:36:45]  * Yui walks backwards pushing Yuna along with her
+[20-Jan-2013 21:37:04]  * Yuna tumbles along with Yui and gets off the medallion
+[20-Jan-2013 21:37:21]  <IllFlower> the fissure finally turns into a complete circle around the medallion.
+[20-Jan-2013 21:37:52]  <IllFlower> the gold decoration plunges into an endless sea of blackness, taking Tadashi's body along with it.
+[20-Jan-2013 21:38:19]  * Miaka_Watanabe[Barcode] kind of reaches out, stops. "So much for...some sort of burial..."
+[20-Jan-2013 21:38:38]  <IllFlower> as the girls back away in shock, the head of a tremendous statue begins to emerge from where the medallion once sat.
+[20-Jan-2013 21:39:01]  <Yuna> ... this looks like the daddy statue ...
+[20-Jan-2013 21:39:31]  <IllFlower> it's easily five meters tall. the figure is female, swathed in a large velvet robe that runs over her head and all the way down her body.
+[20-Jan-2013 21:39:44]  <Yuna> Or maybe the mommy statue.
+[20-Jan-2013 21:40:19]  *** Miaka_Watanabe[Barcode] <~chatzilla@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has quit IRC (Read error: Connection reset by peer)
+[20-Jan-2013 21:40:21]  <Yui> either way it's taller than all of us combined.
+[20-Jan-2013 21:40:39]  <Yuna> ((We lost scannerfodder...)
+[20-Jan-2013 21:40:57]  <IllFlower> with a final shudder, the statue finishes rising up into place, seeming to stare down at the girls from its imposing height.
+[20-Jan-2013 21:40:58]  *** Miaka_Watanabe[Barcode] <~chatzilla@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has joined #madokamadness
+[20-Jan-2013 21:41:22]  <Miaka_Watanabe[Barcode]> ((a peer literally reset my connection. checkin logs))
+[20-Jan-2013 21:41:30]  <Miaka_Watanabe[Barcode]> ((aight))
+[20-Jan-2013 21:41:49]  <IllFlower> the only saving grace, perhaps, is that it appears to be facing away from the girls. perhaps this is an opportunity to strike...
+[20-Jan-2013 21:42:07]  <IllFlower> I'm going to initiate battle. pick your attributes now.
+[20-Jan-2013 21:42:16]  * Miaka_Watanabe[Barcode] shakes her head, trying to snap out of it. She readies the Kruger.
+[20-Jan-2013 21:42:21]  <IllFlower> and do hurry, I've only got about an hour left!
+[20-Jan-2013 21:42:41]  <Fiora> (Support: Ht, Atk: Fr, Def: Mg)
+[20-Jan-2013 21:42:59]  <Yui> A Ht: 8 D Mg:6 S: Fr 4)
+[20-Jan-2013 21:42:59]  <Miaka_Watanabe[Barcode]> magic attack (6), fury defense (8), heart support (4)
+[20-Jan-2013 21:43:16]  <Miaka_Watanabe[Barcode]> ((http://www.youtube.com/watch?v=FgBW7xnOypQ combat theme))
+[20-Jan-2013 21:43:31]  <IllFlower> okay, Yui goes first.
+[20-Jan-2013 21:44:02]  <Yui> attack, so 2d6+8, right?
+[20-Jan-2013 21:44:06]  <Miaka_Watanabe[Barcode]> ((yup))
+[20-Jan-2013 21:44:11]  <IllFlower> 2m6+8, yeah.
+[20-Jan-2013 21:44:24]  <Miaka_Watanabe[Barcode]> ((yuna btw turn after this let's do a team attack using Magic attribute? works off our friendship))
+[20-Jan-2013 21:44:42]  <Yui> m? okay nemotode
+[20-Jan-2013 21:44:51]  <Yuna> ((we have a friendship?  oh I guess we do))
+[20-Jan-2013 21:44:55]  <IllFlower> Yui: yeah, +roll 2m6+8
+[20-Jan-2013 21:44:56]  <Yuna> ((are there triple attacks? XD))
+[20-Jan-2013 21:45:02]  <Yui> +roll 2m6+8
+[20-Jan-2013 21:45:02]  <rollermine> Yui: (5+3)+8=16
+[20-Jan-2013 21:45:13]  <IllFlower> +roll 2m6+8
+[20-Jan-2013 21:45:14]  <rollermine> IllFlower: (5+1)+8=14
+[20-Jan-2013 21:45:49]  <IllFlower> I'm going to take a point of OC and roll another die.
+[20-Jan-2013 21:45:52]  <IllFlower> +roll m6
+[20-Jan-2013 21:45:52]  <rollermine> IllFlower: 3=3
+[20-Jan-2013 21:46:02]  <IllFlower> Yui: 17 > 16. attack fails.
+[20-Jan-2013 21:46:23]  <Yuna> (I guess she could also take a point of OC)
+[20-Jan-2013 21:46:34]  <Miaka_Watanabe[Barcode]> ((if she wanted, but. firstm ove and all))
+[20-Jan-2013 21:46:37]  <Nitya> 14we have a friendship?  oh I guess we do <-- a game about teamwork, eh
+[20-Jan-2013 21:46:48]  <Yui> ((I'll leave it for now))
+[20-Jan-2013 21:47:33]  <IllFlower> all right. describe the attack. I'll describe the effect, so do hold on for that. meanwhile, Miaka_Watanabe[Barcode], you're up.
+[20-Jan-2013 21:47:35]  <Yui> Well. That didn't go as planned. I hope I didn't rouse it!
+[20-Jan-2013 21:47:37]  <Miaka_Watanabe[Barcode]> ((you two can also do team attacks on heart))
+[20-Jan-2013 21:48:08]  <Miaka_Watanabe[Barcode]> +roll 2m6+6
+[20-Jan-2013 21:48:08]  <rollermine> Miaka_Watanabe[Barcode]: (1+5)+6=12
+[20-Jan-2013 21:48:14]  <Miaka_Watanabe[Barcode]> ((wowee!))
+[20-Jan-2013 21:48:31]  <IllFlower> +roll 2m6+8
+[20-Jan-2013 21:48:31]  <rollermine> IllFlower: (3+1)+8=12
+[20-Jan-2013 21:48:32]  <Miaka_Watanabe[Barcode]> ((least it wasn't like, 1+6+1))
+[20-Jan-2013 21:48:38]  <Yui> Yui attempted the shadow crawl down her leg, but dropped the rolling pin instead.
+[20-Jan-2013 21:48:47]  *** TOKAM <~TOKAM@107.45.128.44> has joined #madokamadness
+[20-Jan-2013 21:48:49]  <IllFlower> Miaka_Watanabe[Barcode]: tie. 8>6, so attack fails.
+[20-Jan-2013 21:48:56]  *** Miaka_Watanabe[Barcode] <~chatzilla@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has left #madokamadness
+[20-Jan-2013 21:49:01]  *** Miaka_Watanabe[Barcode] <~chatzilla@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has joined #madokamadness
+[20-Jan-2013 21:49:05]  <Miaka_Watanabe[Barcode]> ((wtf I pressed nothing))
+[20-Jan-2013 21:49:22]  <Miaka_Watanabe[Barcode]> (()IllFlower: 8>6 so attack fails? I thought higher defense won))
+[20-Jan-2013 21:49:46]  <Miaka_Watanabe[Barcode]> ((never mind. describin' attack))
+[20-Jan-2013 21:49:50]  <IllFlower> Miaka_Watanabe[Barcode]: the attribute I'm using to defend is 8, yours is 6.
+[20-Jan-2013 21:49:55]  <IllFlower> * yours to attack
+[20-Jan-2013 21:49:59]  <Miaka_Watanabe[Barcode]> ((oooh. right))
+[20-Jan-2013 21:50:00]  <IllFlower> higher base attribute wins.
+[20-Jan-2013 21:50:13]  <IllFlower> witch is up next.
+[20-Jan-2013 21:50:36]  * Miaka_Watanabe[Barcode] hurries to try to catch the witch by surprise. A bolt erupts from the Kruger towards the witch, though it's slightly off-center from its mark.
+[20-Jan-2013 21:50:42]  <IllFlower> Miaka's attack glances off the witch's robe, which falls from its head onto its shoulders.
+[20-Jan-2013 21:50:46]  <Yuna> ((my Read an Enemy challenge uses 2d6m, not 2d6, right?)
+[20-Jan-2013 21:50:59]  <Miaka_Watanabe[Barcode]> ((movie ricochet sound))
+[20-Jan-2013 21:51:11]  <IllFlower> underneath the robe, where one would expect hair, or at least the back of a head, lies... a second face.
+[20-Jan-2013 21:51:21]  <IllFlower> Yuna: yes, anything against a magical attribute is m6.
+[20-Jan-2013 21:51:42]  *** CentralAve <~CentralAv@cpe-24-208-145-101.insight.res.rr.com> has joined #madokamadness
+[20-Jan-2013 21:51:55]  <IllFlower> the witch launches an attack against Yuna, the only girl who hasn't moved since the proceedings started.
+[20-Jan-2013 21:51:58]  *** CentralAve is now known as TiredAvenue
+[20-Jan-2013 21:52:08]  <IllFlower> +roll 2m6+6
+[20-Jan-2013 21:52:09]  <rollermine> IllFlower: (3+3)+6=12
+[20-Jan-2013 21:52:11]  * Miaka_Watanabe[Barcode] 's progress towards a determined face is slowed by being stared down by the back of someone's head.
+[20-Jan-2013 21:52:16]  <Yuna> (( http://upload.wikimedia.org/wikipedia/commons/f/f4/Janus-Vatican.JPG )) ?
+[20-Jan-2013 21:52:16]  <Omnipresence> 14URL: [upload.wikimedia.org] JPEG image (604 × 530 pixels, 237 kilobytes)
+[20-Jan-2013 21:52:29]  * Yuna takes a passive defense of 14
+[20-Jan-2013 21:52:32]  <IllFlower> oh, hey, look. someone got the reference. ;)
+[20-Jan-2013 21:52:37]  <Nitya> 14hello
+[20-Jan-2013 21:52:48]  <Yuna> *er, 16
+[20-Jan-2013 21:52:54]  <Yuna> or wait, I can't do math
+[20-Jan-2013 21:53:02]  <Yuna> ... that'd be 6+4=10, okay, so I have to roll.
+[20-Jan-2013 21:53:13]  <IllFlower> yeah, that's 10 `_`
+[20-Jan-2013 21:53:16]  <Yuna> +roll 2d6+6
+[20-Jan-2013 21:53:17]  <rollermine> Yuna: (6+1)+6=13
+[20-Jan-2013 21:53:23]  <IllFlower> roll again, take 1 OC.
+[20-Jan-2013 21:53:24]  <Yuna> +roll 1d6
+[20-Jan-2013 21:53:25]  <rollermine> Yuna: (5)=5
+[20-Jan-2013 21:53:30]  <IllFlower> 18.
+[20-Jan-2013 21:53:42]  <Miaka_Watanabe[Barcode]> this witch is totally going to incur a permanent change after this battle
+[20-Jan-2013 21:53:46]  <Miaka_Watanabe[Barcode]> (())*
+[20-Jan-2013 21:54:36]  <IllFlower> a column drops from the ceiling. Yuna jumps out of the way just as stone meets stone, the column shattering into debris.
+[20-Jan-2013 21:54:42]  <IllFlower> Yuna's go.
+[20-Jan-2013 21:55:21]  <IllFlower> 45 minutes!
+[20-Jan-2013 21:55:25]  <Yuna> I try to read the target!
+[20-Jan-2013 21:55:31]  <Yuna> +roll 2d6m+9
+[20-Jan-2013 21:55:31]  <rollermine> Yuna: (6+4)=10
+[20-Jan-2013 21:55:38]  <Yuna> .....?
+[20-Jan-2013 21:55:38]  <IllFlower> 2m6, not 2d6m
+[20-Jan-2013 21:55:48]  <Yuna> okay I'll go with that, 1 overcharge again >_>;
+[20-Jan-2013 21:55:49]  <Miaka_Watanabe[Barcode]> ((roll one more d6))
+[20-Jan-2013 21:55:53]  <Yuna> +roll 1d6
+[20-Jan-2013 21:55:53]  <rollermine> Yuna: (6)=6
+[20-Jan-2013 21:55:55]  <Yuna> ....
+[20-Jan-2013 21:55:56]  <Miaka_Watanabe[Barcode]> ((wait is this your support attribute or))
+[20-Jan-2013 21:55:56]  <Yuna> +roll 1d6
+[20-Jan-2013 21:55:57]  <rollermine> Yuna: (3)=3
+[20-Jan-2013 21:56:04]  <Miaka_Watanabe[Barcode]> (( ;{ ))
+[20-Jan-2013 21:56:05]  <Yuna> .... 28
+[20-Jan-2013 21:56:06]  <IllFlower> 2 Heart OC.
+[20-Jan-2013 21:56:12]  <Yuna> do I get to know like literally everything about this 
+[20-Jan-2013 21:56:24]  <IllFlower> +roll 2d4
+[20-Jan-2013 21:56:25]  <rollermine> IllFlower: (4+3)=7
+[20-Jan-2013 21:56:53]  <Miaka_Watanabe[Barcode]> ((yuna is imbued with incredible knowledge about the universe, but only learns that the statue has four ears.))
+[20-Jan-2013 21:57:00]  <Yuna> *snerk*
+[20-Jan-2013 21:57:16]  <IllFlower> Yuna gets +1 defense and -1 damage from Christel's attacks, as well as knowledge of her other special ability.
+[20-Jan-2013 21:57:28]  <IllFlower> Debilitating Attack (see page 36).
+[20-Jan-2013 21:57:45]  <IllFlower> that's the end of the round. any attribute changes?
+[20-Jan-2013 21:58:01]  <Yuna> Atk: Ht, Def: Mg, Spt: Fr
+[20-Jan-2013 21:58:17]  <IllFlower> Miaka_Watanabe[Barcode], Yui?
+[20-Jan-2013 21:58:33]  <buttercupistiny> no sirr
+[20-Jan-2013 21:59:11]  *** Barcode[out] <~Barcodeou@74.198.9.129> has joined #madokamadness
+[20-Jan-2013 21:59:16]  <IllFlower> `_~
+[20-Jan-2013 21:59:18]  <IllFlower> `_`
+[20-Jan-2013 21:59:33]  <Barcode[out]> ((They're fucking with the Internet here. Ill tr to play trough my phone.))
+[20-Jan-2013 21:59:40]  <IllFlower> attribute changes?
+[20-Jan-2013 22:00:01]  <Barcode[out]> ((Magical team attack this turn, yuna?))
+[20-Jan-2013 22:00:06]  <IllFlower> I can do rolls for you, if you'd like. I imagine they're not easy to type on one's phone.
+[20-Jan-2013 22:00:09]  *** Miaka_Watanabe[Barcode] <~chatzilla@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has quit IRC (Ping timeout: 195 seconds)
+[20-Jan-2013 22:00:48]  <Barcode[out]> ((Salright, I just needta type + n shit. YUNA))
+[20-Jan-2013 22:01:41]  <Yuna> ((??))
+[20-Jan-2013 22:02:13]  <Yuna> ((No magical team attack.  I don't want the overcharge...))
+[20-Jan-2013 22:02:24]  <IllFlower> there's no OC effect.
+[20-Jan-2013 22:02:34]  <Barcode[out]> ((Plus it'd be to magic, not heart))
+[20-Jan-2013 22:02:51]  <IllFlower> no, it'd be to her attack attribute.
+[20-Jan-2013 22:02:52]  <Barcode[out]> ((We both need magic attack to do this))
+[20-Jan-2013 22:03:01]  <IllFlower> oh, yeah, you're right, sorry.
+[20-Jan-2013 22:03:11]  <IllFlower> same attribute for attack.
+[20-Jan-2013 22:03:34]  <Yuna> ((Wait, there isn't?))
+[20-Jan-2013 22:03:42]  <IllFlower> p. 16, last bullet.
+[20-Jan-2013 22:03:48]  <Barcode[out]> ((The magic of relationships.))
+[20-Jan-2013 22:03:59]  <Yuna> You can only use your finishing attack once per episode, and you take an extra point of Overcharge on its corresponding 
+[20-Jan-2013 22:04:02]  <Yuna> attribute when you do.
+[20-Jan-2013 22:04:04]  <IllFlower> all but the last attacker has to hold, they must have a relationship, and they must attack using the same attribute.
+[20-Jan-2013 22:04:12]  <IllFlower> that's the finisher. that's different.
+[20-Jan-2013 22:04:28]  <Yuna> (oic)
+[20-Jan-2013 22:04:33]  <Barcode[out]> ((Look a team attack))
+[20-Jan-2013 22:04:38]  <Yuna> (Could barcode team attack with a finisher, and me not?)
+[20-Jan-2013 22:04:55]  <IllFlower> he could if he wanted to.
+[20-Jan-2013 22:05:14]  <IllFlower> I doubt that's his intention, though, he's just looking for the +2 bonus.
+[20-Jan-2013 22:05:20]  <IllFlower> (for team attacks, that is.)
+[20-Jan-2013 22:05:21]  <Barcode[out]> Same attributes for me then. If I go first I Hold, so we can pull this off. ((Let's jus do a basic one for now))
+[20-Jan-2013 22:05:39]  <Yuna> (okay, whoever goes first holds)
+[20-Jan-2013 22:05:47]  <IllFlower> so you're going with Yuna's A:Ht/D:Mg/S:fr?
+[20-Jan-2013 22:05:57]  <IllFlower> Barcode[out]?
+[20-Jan-2013 22:06:15]  <Barcode[out]> ((Switch magic to attack for this to work yuna))
+[20-Jan-2013 22:06:22]  <Yuna> ((?? why??)
+[20-Jan-2013 22:06:31]  *** Miaka_Watanabe[Barcode] <~chatzilla@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has joined #madokamadness
+[20-Jan-2013 22:06:34]  <IllFlower> you have to attack with the same attribute.
+[20-Jan-2013 22:06:39]  <Yuna> ((ohhhhhh))
+[20-Jan-2013 22:06:41]  <Barcode[out]> ((Both attackers must be using the same attribute))
+[20-Jan-2013 22:06:52]  <IllFlower> Miaka's Ht is 4, so not great.
+[20-Jan-2013 22:06:55]  <IllFlower> both of you have Mg6.
+[20-Jan-2013 22:06:59]  <Miaka_Watanabe[Barcode]> ((BOOM I'M BACK DUMMY)) ((think I'm on tether? we'll see))
+[20-Jan-2013 22:07:13]  <Yuna> ((can't miaka hold and I do the attack, so I use mya ttribute?)
+[20-Jan-2013 22:07:25]  <IllFlower> no, both of you attack, just during whoever's last's turn.
+[20-Jan-2013 22:07:29]  <Yuna> ((oh.  I see))
+[20-Jan-2013 22:07:29]  <Miaka_Watanabe[Barcode]> ((you don't want to use heart again anyway, what if you get an OC charge.))
+[20-Jan-2013 22:07:42]  <Miaka_Watanabe[Barcode]> ((3 isn't horrible but still needless pushing when magic's got 0))
+[20-Jan-2013 22:07:49]  * Yuna switches to Atk:Mg Def:Ht Sup:Fr
+[20-Jan-2013 22:08:07]  <IllFlower> okay.
+[20-Jan-2013 22:08:14]  <IllFlower> Yui, you're up first.
+[20-Jan-2013 22:08:52]  <buttercupistiny> 'kay, attack okay?
+[20-Jan-2013 22:08:58]  <IllFlower> sure. 2m6+8
+[20-Jan-2013 22:09:06]  <buttercupistiny> +roll 2m6+8
+[20-Jan-2013 22:09:06]  <rollermine> buttercupistiny: ((6+1)+3)+8=18
+[20-Jan-2013 22:09:09]  * Miaka_Watanabe[Barcode] runs cradling the Kruger, positioning behind Yuna. "Yuna, all together this time, alright?"
+[20-Jan-2013 22:09:22]  <IllFlower> +roll 2m6+6
+[20-Jan-2013 22:09:22]  <rollermine> IllFlower: (5+5)+6=16
+[20-Jan-2013 22:09:38]  <IllFlower> Yui: attack succeeds. 1 point Ht OC.
+[20-Jan-2013 22:09:44]  <Miaka_Watanabe[Barcode]> ((this rp-action will be inturrupted by the witch no doubt but whatever))
+[20-Jan-2013 22:09:48]  <IllFlower> it's the witch's turn next.
+[20-Jan-2013 22:09:56]  <Yui> ((aye aye, cap'n))
+[20-Jan-2013 22:10:55]  *** Jinxy <Mibbit@184-96-80-25.hlrn.qwest.net> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[20-Jan-2013 22:11:00]  <IllFlower> the witch attempts to use a Debilitating Attack against all three girls. Yui, then Yuna, then Miaka, in that order.
+[20-Jan-2013 22:11:06]  <IllFlower> +roll 2m6+8
+[20-Jan-2013 22:11:06]  <rollermine> IllFlower: (5+1)+8=14
+[20-Jan-2013 22:11:15]  <IllFlower> taking another die.
+[20-Jan-2013 22:11:17]  <IllFlower> +roll m6
+[20-Jan-2013 22:11:17]  <rollermine> IllFlower: 1=1
+[20-Jan-2013 22:11:20]  <IllFlower> 15.
+[20-Jan-2013 22:11:37]  <IllFlower> so that's 15 against Yui, 13 against Yuna, 11 against Miaka.
+[20-Jan-2013 22:11:48]  <Miaka_Watanabe[Barcode]> +roll 2m6+8
+[20-Jan-2013 22:11:48]  <rollermine> Miaka_Watanabe[Barcode]: (4+3)+8=15
+[20-Jan-2013 22:11:56]  <Yuna> +roll 2m6+9
+[20-Jan-2013 22:11:56]  <rollermine> Yuna: (4+1)+9=14
+[20-Jan-2013 22:11:59]  <IllFlower> Yuna can pdef.
+[20-Jan-2013 22:12:04]  <Yuna> oh, I can?
+[20-Jan-2013 22:12:06]  <IllFlower> 9+4=13.
+[20-Jan-2013 22:12:06]  <Yuna> Ah, because the 9 is defense
+[20-Jan-2013 22:12:10]  <Yuna> Okay, passive defending.
+[20-Jan-2013 22:12:32]  <IllFlower> Yui needs to roll for defense.
+[20-Jan-2013 22:12:53]  <Yui> +roll 2m6+6
+[20-Jan-2013 22:12:53]  <rollermine> Yui: ((6+5)+3)+6=20
+[20-Jan-2013 22:13:02]  <Miaka_Watanabe[Barcode]> {{ :| }}
+[20-Jan-2013 22:13:13]  <Miaka_Watanabe[Barcode]> ((i forgot which brackets to use. derp))
+[20-Jan-2013 22:13:13]  <Yui> ((did I mess up?))\
+[20-Jan-2013 22:13:21]  <IllFlower> 1 Mg OC.
+[20-Jan-2013 22:13:24]  <Miaka_Watanabe[Barcode]> ((na na, it's just. how much OC - oh okay
+[20-Jan-2013 22:13:26]  <Miaka_Watanabe[Barcode]> ))
+[20-Jan-2013 22:13:34]  <IllFlower> okay, attack fails for everyone.
+[20-Jan-2013 22:13:44]  <IllFlower> Yuna's turn.
+[20-Jan-2013 22:13:47]  <Miaka_Watanabe[Barcode]> ((what form does the attack take?))
+[20-Jan-2013 22:14:00]  <Yuna> Okay, I'm holding to join up with Miaka.
+[20-Jan-2013 22:14:28]  <IllFlower> the witch attempts to drop portions of the floor in order to disorient the initiates, but they seem too swift for that...
+[20-Jan-2013 22:14:34]  <IllFlower> okay, Miaka_Watanabe[Barcode], your go.
+[20-Jan-2013 22:14:34]  <Miaka_Watanabe[Barcode]> (("A team attack gets a bonus of +2 to the result and damage on both attacks." So we both roll for attacks, then, +2 on damage and to-hit))
+[20-Jan-2013 22:14:40]  <IllFlower> right.
+[20-Jan-2013 22:14:41]  <Miaka_Watanabe[Barcode]> +roll 2m6+6
+[20-Jan-2013 22:14:41]  <rollermine> Miaka_Watanabe[Barcode]: (1+1)+6=8
+[20-Jan-2013 22:14:47]  <Miaka_Watanabe[Barcode]> taking apoint of overcharge, fuck that shit
+[20-Jan-2013 22:14:52]  <Miaka_Watanabe[Barcode]> +roll 1d6
+[20-Jan-2013 22:14:52]  <rollermine> Miaka_Watanabe[Barcode]: (2)=2
+[20-Jan-2013 22:14:56]  <Miaka_Watanabe[Barcode]> ((holy shit))
+[20-Jan-2013 22:15:00]  <Yuna> +roll 2m6+6
+[20-Jan-2013 22:15:01]  <rollermine> Yuna: (3+4)+6=13
+[20-Jan-2013 22:15:06]  <IllFlower> 12 for Miaka, 13 for Yuna.
+[20-Jan-2013 22:15:11]  <Yuna> 15.
+[20-Jan-2013 22:15:15]  <IllFlower> 15, sorry.
+[20-Jan-2013 22:15:19]  <IllFlower> +roll 2m6+6
+[20-Jan-2013 22:15:19]  <rollermine> IllFlower: (3+5)+6=14
+[20-Jan-2013 22:15:27]  <IllFlower> 14. Yuna's attack succeeds.
+[20-Jan-2013 22:15:30]  <Miaka_Watanabe[Barcode]> ((fgsfds.))
+[20-Jan-2013 22:15:43]  <Yuna> ((It happens~))
+[20-Jan-2013 22:15:45]  <Yuna> ((*patpat*))
+[20-Jan-2013 22:15:48]  <Miaka_Watanabe[Barcode]> ((aight I'll paste))
+[20-Jan-2013 22:15:52]  <Miaka_Watanabe[Barcode]> ((?))
+[20-Jan-2013 22:15:55]  <IllFlower> actually, 13, I misread, but yeah.
+[20-Jan-2013 22:15:59]  <IllFlower> same result.
+[20-Jan-2013 22:16:13]  <IllFlower> roll for damage, Yuna. d6+3.
+[20-Jan-2013 22:16:14]  <IllFlower> +2
+[20-Jan-2013 22:16:16]  <Miaka_Watanabe[Barcode]> ((actually wait, roll for damage, yeah))
+[20-Jan-2013 22:16:18]  <IllFlower> d6+3+2.
+[20-Jan-2013 22:16:26]  <IllFlower> 24 minutes!
+[20-Jan-2013 22:16:26]  <Yuna> +roll 1d6+3+2
+[20-Jan-2013 22:16:26]  <rollermine> Yuna: (1)+3+2=6
+[20-Jan-2013 22:16:29]  <Yuna> ... 1
+[20-Jan-2013 22:16:31]  <IllFlower> 6 damage.
+[20-Jan-2013 22:16:49]  <IllFlower> okay, describe attack. next round -- any attribute changes?
+[20-Jan-2013 22:17:36]  * Yuna joins Miaka for a combined attack, blasting it in the back with her flashlight while miaka goes for the other side.  Miaka misses though...
+[20-Jan-2013 22:17:51]  <Miaka_Watanabe[Barcode]> ((metahangover))
+[20-Jan-2013 22:18:08]  <Miaka_Watanabe[Barcode]> Fr attack (8), magic defense (6), heart support (4). The witch is still surrounded by hurt floor, right?
+[20-Jan-2013 22:18:11]  <Yuna> ((Yuna, do you want to do a Heart combined attack?))
+[20-Jan-2013 22:18:13]  <Yuna> er, Yui
+[20-Jan-2013 22:18:29]  <Yui> ((no changes sir, and yeah, Yuna!)(
+[20-Jan-2013 22:18:45]  <IllFlower> the statue's robe falls away, revealing... nothing. the statue has another robe. how recursive.
+[20-Jan-2013 22:18:46]  <Yuna> ((Okay, I change mine to Atk: Ht, Def: Mg, Sup: Fr))
+[20-Jan-2013 22:19:25]  <IllFlower> this one's part of the stone, though, and cracks with the force of Yuna's attack. a fissure appears through its surface, and the statue's left arm collapses.
+[20-Jan-2013 22:19:49]  <Yui> nice job, Yuna!
+[20-Jan-2013 22:19:54]  <IllFlower> Yuna's turn first.
+[20-Jan-2013 22:20:09]  <Yuna> Thanks, Yui... let's make this one count!
+[20-Jan-2013 22:20:11]  * Yuna holds for Yui.
+[20-Jan-2013 22:20:11]  <IllFlower> followed immediately by Yui's, so just do your attack stuff...
+[20-Jan-2013 22:20:32]  <Yuna> +roll 2m6+9+2
+[20-Jan-2013 22:20:32]  <rollermine> Yuna: (5+(6+6+4))+9+2=32
+[20-Jan-2013 22:20:35]  <Yui> +roll 2m6+8
+[20-Jan-2013 22:20:35]  <rollermine> Yui: (3+(6+3))+8=20
+[20-Jan-2013 22:20:35]  <Yuna> @____@
+[20-Jan-2013 22:20:46]  <IllFlower> Christ, people.
+[20-Jan-2013 22:20:57]  <IllFlower> 2 Heart OC for Yuna, 1 for Yui.
+[20-Jan-2013 22:21:07]  <Miaka_Watanabe[Barcode]> ((are those totals or just for this turn? :{ ))
+[20-Jan-2013 22:21:12]  <IllFlower> +roll 2m6+5
+[20-Jan-2013 22:21:12]  <rollermine> IllFlower: (5+3)+5=13
+[20-Jan-2013 22:21:15]  <IllFlower> just for this turn.
+[20-Jan-2013 22:21:22]  <Miaka_Watanabe[Barcode]> ((hope you all are keeping track :{ ))
+[20-Jan-2013 22:21:25]  <Yuna> I am
+[20-Jan-2013 22:21:37]  <IllFlower> both succeed.
+[20-Jan-2013 22:21:43]  <Yuna> +roll 1d6+4+3+2
+[20-Jan-2013 22:21:43]  <rollermine> Yuna: (4)+4+3+2=13
+[20-Jan-2013 22:23:02]  <IllFlower> yikes. Yui, roll for damage. d6+4+2+2.
+[20-Jan-2013 22:23:09]  <Yui> ((+4+3+2 I am thoroughly confused now @_@ I'm missing something, I think)) ah okay
+[20-Jan-2013 22:23:19]  <Yui> +roll 1d6
+[20-Jan-2013 22:23:19]  <rollermine> Yui: (5)=5
+[20-Jan-2013 22:23:20]  <IllFlower> Yuna: it's d6+4+4+2, so 14.
+[20-Jan-2013 22:23:23]  <Yui> gack
+[20-Jan-2013 22:23:39]  <IllFlower> okay, 5+4+2+2=13.
+[20-Jan-2013 22:23:42]  <Yui> ((slippy fingers, sorry))
+[20-Jan-2013 22:23:48]  <Yuna> (
+[20-Jan-2013 22:23:50]  <Yuna> ((holy crap))
+[20-Jan-2013 22:24:04]  <IllFlower> 27 damage. that's fatal.
+[20-Jan-2013 22:24:06]  <Miaka_Watanabe[Barcode]> ((lemme read some blastastic attacks))
+[20-Jan-2013 22:24:18]  <Yui> ((are we doomed? I think we're doomed.))
+[20-Jan-2013 22:24:28]  <Miaka_Watanabe[Barcode]> ((wait what is that the wtich))
+[20-Jan-2013 22:24:57]  <Miaka_Watanabe[Barcode]> ((nm))
+[20-Jan-2013 22:25:45]  <Miaka_Watanabe[Barcode]> ((oh god. wait, 2 heart OC on that one ttack))
+[20-Jan-2013 22:26:02]  <Yuna> ((Yes, I have 4 heart OC))
+[20-Jan-2013 22:26:17]  <IllFlower> 15 minutes!
+[20-Jan-2013 22:26:27]  <IllFlower> you can describe how Christel meets her doom.
+[20-Jan-2013 22:26:57]  * Yuna dives with Yui at the witch, hitting it square in the eye with her flashlight.  A bright flash blinds her for a moment, but then her vision clears -- the beam melted its way right through to the other side.
+[20-Jan-2013 22:27:02]  <Miaka_Watanabe[Barcode]> ((los los los! we need to do the afterscene too, people))
+[20-Jan-2013 22:27:58]  <Yui> ((nice!))
+[20-Jan-2013 22:28:16]  <Miaka_Watanabe[Barcode]> ((and yeah, nice one))
+[20-Jan-2013 22:28:52]  *** TOKAM <~TOKAM@107.45.128.44> has quit IRC (Remote host closed the connection)
+[20-Jan-2013 22:28:56]  <IllFlower> having large holes in one's body isn't good for structural integrity; thus, the witch's body immediately begins to collapse.
+[20-Jan-2013 22:29:31]  <IllFlower> just as with the witch's attempted attack, the floor begins to fall out from under the girls. might want to rush towards that door you came in from...
+[20-Jan-2013 22:29:54]  * Yuna looks around frantically and grabs for Yui's hand
+[20-Jan-2013 22:30:17]  * Yui grabs Yuna's outstretched hand and flees with her
+[20-Jan-2013 22:30:22]  * Miaka_Watanabe[Barcode] looks and cheers, thrusting the Kruger into the air. As she's ab out to congratulate the two girls more verbally, she notices the floor collapsing.
+[20-Jan-2013 22:30:28]  <Yuna> Miaka, quick, let's go!
+[20-Jan-2013 22:30:39]  <Miaka_Watanabe[Barcode]> Right!
+[20-Jan-2013 22:30:43]  * Miaka_Watanabe[Barcode] joins the girls towards the exit.
+[20-Jan-2013 22:30:52]  <IllFlower> the girls tumble out of the witch's barrier just as the ceiling crashes in on the maze, taking what's left of Christel and Tadashi with it.
+[20-Jan-2013 22:31:20]  <IllFlower> it blinks out of existence, yielding yet another small trinket -- but first, Yuna and Yui have to resolve Heart fallout.
+[20-Jan-2013 22:31:28]  * Miaka_Watanabe[Barcode] dives through, slides to a stop across concrete on the other side, scrabbling for purchase with her gauntlet hand.
+[20-Jan-2013 22:31:35]  <Yuna> Do I have to resolve all 4, or can I take just 3 with a Distortion, or?
+[20-Jan-2013 22:31:41]  <Yuna> the rules aren't that clear
+[20-Jan-2013 22:31:42]  <IllFlower> yes, you have to resolve all 4.
+[20-Jan-2013 22:31:49]  *** Cultist <~Glossina@mba2036d0.tmodns.net> has joined #madokamadness
+[20-Jan-2013 22:31:50]  <IllFlower> thus, a Flare. roll d6.
+[20-Jan-2013 22:31:59]  <Yuna> the rules say you can voluntarily take fallout whenever
+[20-Jan-2013 22:32:03]  <Yuna> er, in free scenes
+[20-Jan-2013 22:32:30]  <IllFlower> you have to resolve all outstanding Overcharge at once; you can't take combinations of smaller numbers.
+[20-Jan-2013 22:32:35]  <Miaka_Watanabe[Barcode]> ((I have a feeling it's gotta - yeah))
+[20-Jan-2013 22:32:37]  <Yuna> but um, if I have to, okay...
+[20-Jan-2013 22:32:49]  <Cultist> ((Everyone dead, yet?))
+[20-Jan-2013 22:32:56]  <Yuna> +roll 1d6
+[20-Jan-2013 22:32:56]  <rollermine> Yuna: (1)=1
+[20-Jan-2013 22:32:59]  <Miaka_Watanabe[Barcode]> ((miaka is afflicted with kissing fetishism for 2 hours, you just wait))
+[20-Jan-2013 22:33:03]  <Miaka_Watanabe[Barcode]> ((oh.))
+[20-Jan-2013 22:33:07]  <IllFlower> Yui: you take Tainted Affection Fallout; see the top of p. 19.
+[20-Jan-2013 22:33:23]  <Yuna> erm, I take Breakdown
+[20-Jan-2013 22:33:30]  <IllFlower> Yui: "you can remove up to 2 Overcharge points with a moderate display of intimacy to someone [you have a relationship with], such as a lingering hug, blurting out personal stuff about yourself, abruptly inviting someone on a date, etc."
+[20-Jan-2013 22:33:33]  <Yuna> oh, Yui
+[20-Jan-2013 22:33:34]  <Yuna> Gah
+[20-Jan-2013 22:33:40]  <Yui> oh nooo
+[20-Jan-2013 22:33:45]  <Miaka_Watanabe[Barcode]> ((doesn't yui have to roll for that?))
+[20-Jan-2013 22:34:02]  <IllFlower> Miaka_Watanabe[Barcode]: no, it's the default for 2 OC fallout.
+[20-Jan-2013 22:34:07]  <Miaka_Watanabe[Barcode]> ((oh whoops.misread))
+[20-Jan-2013 22:34:21]  <Yui> ((oh nooo was supposed to be enclosed but I suck))
+[20-Jan-2013 22:34:23]  <IllFlower> Yuna: okay, you take -2 to all challenges for the next episode. I'll note this down.
+[20-Jan-2013 22:34:31]  <Yuna> Okay
+[20-Jan-2013 22:34:31]  <Miaka_Watanabe[Barcode]> ((ow.))
+[20-Jan-2013 22:35:24]  <Cultist> ((Yui making out w/ everyone all over this birch))
+[20-Jan-2013 22:35:25]  * Miaka_Watanabe[Barcode] slowly stands, exhaling. She reverts back to normal. "Well, that wasn't so bad..." she starts, then quietens. "...other than Irie..." she turns to look at the two other girls, who are...
+[20-Jan-2013 22:36:05]  <Cultist> ((Frenchin'))
+[20-Jan-2013 22:36:05]  <IllFlower> just a sec -- now to deal with the trinket...
+[20-Jan-2013 22:36:06]  <Miaka_Watanabe[Barcode]> ((who are verbing. INTIMATELY))
+[20-Jan-2013 22:36:09]  <IllFlower> +roll 2d6+8
+[20-Jan-2013 22:36:09]  <rollermine> IllFlower: (2+2)+8=12
+[20-Jan-2013 22:36:20]  * Yuna looks down, her eyes open wide and her face deathly pale.  
+[20-Jan-2013 22:36:28]  <IllFlower> the Diadem can remove 12 Cr. Yuna accrued 9, Yui 7, Miaka 4.
+[20-Jan-2013 22:36:30]  * Yuna pants heavily
+[20-Jan-2013 22:36:53]  <Miaka_Watanabe[Barcode]> ((shit, where's my 4 from...? lost count. wotever))
+[20-Jan-2013 22:37:09]  <IllFlower> Miaka_Watanabe[Barcode]: just rolling against magical attributes. attacks, defense, etc.
+[20-Jan-2013 22:37:11]  * Yui wraps an arm around Yuna holding her up, or at least attempting to
+[20-Jan-2013 22:37:15]  <Miaka_Watanabe[Barcode]> ..."Yuna?" ((maybe we can resolve how the corruption was cleared later on, and just roleplay the magical collapse first))
+[20-Jan-2013 22:37:26]  <IllFlower> okay, go ahead.
+[20-Jan-2013 22:37:28]  <Miaka_Watanabe[Barcode]> (((like, when you get back)))
+[20-Jan-2013 22:37:46]  <IllFlower> I won't be back until quite late tonight, probably.
+[20-Jan-2013 22:37:51]  * Yuna shakes a bit, the image of Irie still fresh in her mind.  "Th-that... that was... a person... in our class..."
+[20-Jan-2013 22:37:56]  <Miaka_Watanabe[Barcode]> ((Oh well, I Mean, some other day even, if we need to.))
+[20-Jan-2013 22:38:12]  <IllFlower> I'll add the -12 to the -5 that Yui already has on the sheet, and you guys can work it out yourselves.
+[20-Jan-2013 22:38:20]  <IllFlower> last thing, XP assignment. each of you, pick a gift recipient.
+[20-Jan-2013 22:38:24]  * Yuna seems like the realization only quite hit her just now, as she sort of was forced to ignore it earlier
+[20-Jan-2013 22:38:26]  * Miaka_Watanabe[Barcode] kind of just looks, first dumbfounded and then quickly switching to sympathetic. "...yeah..."
+[20-Jan-2013 22:38:43]  <Yuna> ((We each get 2 XP, plus allocating one XP each, right?))
+[20-Jan-2013 22:38:52]  <Miaka_Watanabe[Barcode]> ((I give mine to yuna for unintentionally risking internal ammo explosion))
+[20-Jan-2013 22:39:04]  <IllFlower> yes.
+[20-Jan-2013 22:39:08]  <Yui> ((mine to miaka for leading the way so much))
+[20-Jan-2013 22:39:20]  <Miaka_Watanabe[Barcode]> ((heheh. thought i was overdoin' it, myself))
+[20-Jan-2013 22:39:38]  <Yuna> ((I give mine to Yui for being there to tug me out of the witch's maze))
+[20-Jan-2013 22:39:47]  <IllFlower> Miaka_Watanabe[Barcode]: oh, you also took 1 pt Overcharge, so yeah.
+[20-Jan-2013 22:39:49]  <Yuna> ((Added the XP to everyone))
+[20-Jan-2013 22:40:10]  <Miaka_Watanabe[Barcode]> ((illflower: oh right, 1 corr for each magical roll, +1 for every OC. got it))
+[20-Jan-2013 22:40:24]  *** Cultist <~Glossina@mba2036d0.tmodns.net> has quit IRC (Ping timeout: 195 seconds)
+[20-Jan-2013 22:40:35]  *** buttercupistiny <~chatzilla@cpe-76-166-155-159.socal.res.rr.com> has quit IRC (Read error: Connection reset by peer)
+[20-Jan-2013 22:40:35]  * Miaka_Watanabe[Barcode] walks over to yuna, awkwardly preparing to help, but...this seems more severe than she would have imagined.
+[20-Jan-2013 22:40:48]  <IllFlower> okay, that's all resolved. I have to go now, but you can finish RPing and resolve the Corruption removal on your own.
+[20-Jan-2013 22:40:59]  *** buttercupistiny <~chatzilla@cpe-76-166-155-159.socal.res.rr.com> has joined #madokamadness
+[20-Jan-2013 22:41:00]  <IllFlower> just make sure to reset the DD column to 0 when you're done.
+[20-Jan-2013 22:41:00]  <Yui> It was, Yuna, but like you said earlier, you could expect a witch to kill a regular person. 
+[20-Jan-2013 22:41:06]  <Miaka_Watanabe[Barcode]> ((got it. thenx for comin' out))
+[20-Jan-2013 22:41:06]  * Yuna mutters the word "needles" a few times
+[20-Jan-2013 22:41:23]  <IllFlower> oh, Yui, don't forget to randomly hug someone or something ;)
+[20-Jan-2013 22:41:30]  <Yuna> I... I could... no... but...
+[20-Jan-2013 22:41:33]  <IllFlower> thanks for playing, everyone! I'll see you during the next session.
+[20-Jan-2013 22:41:41]  *** IllFlower changes topic to https://room208.org/wiki/events | Times U.S. ET/PT | MAGICAL BURST continues Wed 96p - https://goo.gl/rdhls | MARATHON: Fri 7/4p | ADEVA: http://bit.ly/Vk7JaV
+[20-Jan-2013 22:41:45]  *** IllFlower changes topic to https://room208.org/wiki/events | Times U.S. ET/PT | MAGICAL BURST continues Wed 9/6p - https://goo.gl/rdhls | MARATHON: Fri 7/4p | ADEVA: http://bit.ly/Vk7JaV
+[20-Jan-2013 22:42:10]  *** Cultist <~Glossina@mba2036d0.tmodns.net> has joined #madokamadness
+[20-Jan-2013 22:42:11]  <SpruceZeus> http://25.media.tumblr.com/b96c09b4efc888d1e927f92f1b2c6e1e/tumblr_mgwlbjJrH41ql33s1o1_500.jpg being meguca is suffering
+[20-Jan-2013 22:42:11]  <Omnipresence> 14URL: [25.media.tumblr.com] JPEG image (500 × 281 pixels, 40.7 kilobytes)
+[20-Jan-2013 22:43:00]  <Yuna> ((Yui, maybe handle all the corruption, splitting it so we have even left?))
+[20-Jan-2013 22:43:08]  <Miaka_Watanabe[Barcode]> "I...it really bothers me too...that was horrible. If these witches do that to people...who's to know what's happened to the others..." Miaka is bad at this.
+[20-Jan-2013 22:43:21]  <Yui> ((s'what I'm thinking))
+[20-Jan-2013 22:43:25]  <Miaka_Watanabe[Barcode]> ((get you two down to 4 first,  if there's left over I'll stay with the 4))
+[20-Jan-2013 22:43:39]  <Miaka_Watanabe[Barcode]> ((iif there's 1-2 left over*))
+[20-Jan-2013 22:43:46]  <Yuna> ((24-17 is enough to get down to 3/2/2))
+[20-Jan-2013 22:44:08]  <Miaka_Watanabe[Barcode]> ((isn't it -17? the -5 ytou had originally, and the 12 from this?))
+[20-Jan-2013 22:44:21]  <Yuna> ((yes, so 24 minus 17))
+[20-Jan-2013 22:44:45]  <Miaka_Watanabe[Barcode]> ((oooh, i see))
+[20-Jan-2013 22:44:47]  <Miaka_Watanabe[Barcode]> ((misread your math))
+[20-Jan-2013 22:44:53]  <Yuna> ((sorry, 24 is the total))
+[20-Jan-2013 22:45:10]  <Miaka_Watanabe[Barcode]> ((corruption, yeh))
+[20-Jan-2013 22:45:19]  <Miaka_Watanabe[Barcode]> ((http://www.youtube.com/watch?v=rTLDvNB0uRQ victory theme))
+[20-Jan-2013 22:46:46]  <Miaka_Watanabe[Barcode]> ((alright given what illflower said yuna's basically suffering emotionally through next episode too...if you guys feel like just calling it here we can, though yui's gotta do something embarrassin' first))
+[20-Jan-2013 22:46:47]  <Yuna> ((I guess Yui is busy))
+[20-Jan-2013 22:46:58]  <Miaka_Watanabe[Barcode]> ((gah))
+[20-Jan-2013 22:47:00]  <buttercupistiny> (If I get all of us down to 4, we have 5 left to divvy up betwen us)
+[20-Jan-2013 22:47:09]  <SpruceZeus> ((she is probably busy MACKING ON YUNA))
+[20-Jan-2013 22:47:15]  <Yuna> ((Yeah, so just put us at 3/2/2, pick someone to put at 3?))
+[20-Jan-2013 22:47:25]  <Miaka_Watanabe[Barcode]> ((I'll tkae the 3))
+[20-Jan-2013 22:47:27]  <buttercupistiny> ('k)
+[20-Jan-2013 22:47:31]  <Miaka_Watanabe[Barcode]> ((I didn't do jack shit this episode, so :P))
+[20-Jan-2013 22:47:38]  <Yuna> ((pff, yes you did!))
+[20-Jan-2013 22:47:44]  <Miaka_Watanabe[Barcode]> ((failed rolls errywhere
+[20-Jan-2013 22:47:47]  <Miaka_Watanabe[Barcode]> ))
+[20-Jan-2013 22:47:53]  <Yuna> ((failed rolls are still rolls))
+[20-Jan-2013 22:48:52]  <Yuna> ((sorry buttercup do you have rl stuff invading))
+[20-Jan-2013 22:49:06]  <SpruceZeus> ((Miaka didn't 'do nothing' this episode, it's just that the things she did involved tripping and falling over and failing to hit things =P))
+[20-Jan-2013 22:49:29]  <Miaka_Watanabe[Barcode]> ((sprucezeus: I somehow metaphysically transferred my hangover to miaka))
+[20-Jan-2013 22:49:44]  <Yuna> ((... buttercup...?))
+[20-Jan-2013 22:50:10]  <Yui> ((no, not real life just kinda processing and thinking and getting distracted by cars outside because I'm a kid)_)
+[20-Jan-2013 22:50:21]  <Miaka_Watanabe[Barcode]> ((ah. buttercupistiny: fixed the spreadsheet. you two have 2, I have 3 corr, no more DD. we're good there))
+[20-Jan-2013 22:50:23]  <Yuna> ((oh okay))
+[20-Jan-2013 22:50:38]  <Yuna> ((Sorry, yuna is kind of in a freakout right now))
+[20-Jan-2013 22:50:56]  <Miaka_Watanabe[Barcode]> ((yeah, recap. I walked over, she's freakin' out about all this because magic + actual feels, you've got infatuation to clear up))
+[20-Jan-2013 22:51:46]  <Miaka_Watanabe[Barcode]> ((I failed to be useful in sympathy as well))
+[20-Jan-2013 22:52:01]  <Yuna> ((Sorry I'm just kind of waiting on yui to continue the rp))
+[20-Jan-2013 22:52:07]  <Miaka_Watanabe[Barcode]> ((yeh yeh))
+[20-Jan-2013 22:52:24]  <Yui> (yes but the infatuation thing can be cleared up by "blurting out personal stuff about yourself", which can be done since the bffl is freaking out, unless you really want me to mack on Miaka)
+[20-Jan-2013 22:52:32]  <Miaka_Watanabe[Barcode]> ((no no, your pick :| ))
+[20-Jan-2013 22:53:06]  <Yui> Yuna, do you need to sit down? Miaka, do you see a bench or something? She doesn't look alright at all...
+[20-Jan-2013 22:53:23]  <Miaka_Watanabe[Barcode]> ...Not on the roof of this construction site, no...maybe we should go down?
+[20-Jan-2013 22:53:23]  <Yuna> I... um... m-maybe...
+[20-Jan-2013 22:53:37]  <Miaka_Watanabe[Barcode]> not at the top of this*
+[20-Jan-2013 22:54:21]  <Miaka_Watanabe[Barcode]> (the crew enters the elevator, heads down)
+[20-Jan-2013 22:54:32]  *** TiredAvenue is now known as CentralAve
+[20-Jan-2013 22:54:56]  * Yui leans her head against Yuna's worriedly
+[20-Jan-2013 22:55:16]  * Yuna walks a bit irregularly into the elevator and reaches out for Yui's hand
+[20-Jan-2013 22:56:15]  * Yui grabs Yuna's hand and pulls her close
+[20-Jan-2013 22:56:40]  <Yui> It's okay, Yuna. I'm here. We've gotten through worse before.
+[20-Jan-2013 22:56:43]  <Miaka_Watanabe[Barcode]> ((pretend gm hat on)) After entering the elevator, Miaka pulls the lever downwards. The elevator shudders slightly and obliges towards the ground floor.
+[20-Jan-2013 22:56:51]  <Miaka_Watanabe[Barcode]> after the group enters the*
+[20-Jan-2013 22:57:16]  <Yuna> .... I'm ...   I'm not sure we have ...
+[20-Jan-2013 22:57:43]  <Yuna> I just ...  I just hope Irie wasn't alive when he was filled with... with those needles...
+[20-Jan-2013 22:58:33]  <Miaka_Watanabe[Barcode]> "I really don't want to play that down...I mean, that was Irie." Miaka tries to sum some resolve. "But...if we know that's what these witches do...we've just got to keep pushing harder, right?"
+[20-Jan-2013 22:59:14]  * Yuna mutters, unsure.  "Y-yeah...   I  ...   I guess ..."
+[20-Jan-2013 22:59:30]  <Miaka_Watanabe[Barcode]> The elevator reaches the bottom floor. Miaka steps out and heads to a bench on a nearby walkway, looking back worriedly at Yuna.
+[20-Jan-2013 22:59:58]  <Miaka_Watanabe[Barcode]> "I mean...that's what we're for, now. We have to stop these things, and, and save peopld...if we can..."
+[20-Jan-2013 23:00:02]  <Miaka_Watanabe[Barcode]> people*
+[20-Jan-2013 23:00:15]  * Yui gulps and runs a hand along Yuna's waist.  Even if he weren't, there's a point your body reaches when it hurts so badly it stops hurting. I've told you that before. Besides, I'm sure he's been hit with baseballs pretty hard before, so his pain tolerance had to be up there to begin with.
+[20-Jan-2013 23:00:37]  <Yui> and like Miaka said, we're here to make sure it happens to fewer people
+[20-Jan-2013 23:00:38]  <Yuna> T-that... that doesn't sound so comforting...
+[20-Jan-2013 23:00:57]  <ponicalica> 14"I'm sure he's been hit with baseballs pretty hard before"...oh wait Nitya probably isn't even paying attention to get the joke I'd make
+[20-Jan-2013 23:01:24]  <Miaka_Watanabe[Barcode]> (presumably the girls all sit on the bench. a moment of silence)
+[20-Jan-2013 23:01:46]  * Yuna leans her head against Yui's shoulder and tries to regain her composure.
+[20-Jan-2013 23:01:54]  <IllFlower> oh, one last thing before I actually leave -- well, two.
+[20-Jan-2013 23:01:59]  <Miaka_Watanabe[Barcode]> ((you're LATE))
+[20-Jan-2013 23:02:27]  <Yui> ((clearly this is the part where I suddenly grab miaka and smooch her and tell Yuna it's just like her yuri animes to try and cheer her up))
+[20-Jan-2013 23:02:30]  <IllFlower> (1) Yui, do note that the fallout effect should be such that it's (to quote the manual) "unsettling"
+[20-Jan-2013 23:03:13]  <Yuna> ((Keep in mind Yuna herself might not be unsettled since she's not quite in the state of mind to focus on that))
+[20-Jan-2013 23:03:35]  <IllFlower> (2) Yui, Miaka, and Aoi (Nitya) have each played 2 episodes, while Sumire and Yuna have each played 3 -- thus if Wednesday's episode could be the three who are short one, that'd be great.
+[20-Jan-2013 23:03:36]  <Miaka_Watanabe[Barcode]> ((I'll be double unsettled, for the both a us.))
+[20-Jan-2013 23:03:54]  <Yui> ((fair 'nuff))
+[20-Jan-2013 23:04:16]  <IllFlower> Yuna: in theory, it's something that could place some strain on the relationship.
+[20-Jan-2013 23:04:25]  <IllFlower> I'm not going to push too hard on that, though.
+[20-Jan-2013 23:04:38]  <Miaka_Watanabe[Barcode]> ((oh, I thought the "strain" thing was only for the fury breakdowns))
+[20-Jan-2013 23:04:40]  <IllFlower> considering I'm already doing enough things to break your characters. ;)
+[20-Jan-2013 23:05:13]  <IllFlower> Miaka_Watanabe[Barcode]: "Each time something happens that damages your connection to someone, you must mark off a point of Strain on the relationship. [...] Relationships between magical girls take Strain whenever one of the magical girls in the relationship feels it should. The relationship also takes a point of Strain automatically anytime the magical girls fight each other."
+[20-Jan-2013 23:05:26]  <Miaka_Watanabe[Barcode]> ((ah.))\
+[20-Jan-2013 23:07:55]  <IllFlower> okay, really going now. thanks again, guys.
+[20-Jan-2013 23:08:13]  <Yui> thank you, nemo
+[20-Jan-2013 23:08:31]  <Yuna> ((thank you <3))
+[20-Jan-2013 23:08:49]  <Miaka_Watanabe[Barcode]> ((thenx.))
+[20-Jan-2013 23:09:30]  <Yui> ((back to failed attempt at comforting Yuna and aforementioned plan to rightly disturb everybody, yes?))
+[20-Jan-2013 23:09:45]  <Miaka_Watanabe[Barcode]> ((been waitin' on you two :P just applying a new phone case))
+[20-Jan-2013 23:10:19]  <Yuna> ((yes!))
+[20-Jan-2013 23:11:10]  <Yui> Well, Yuna,  I'm sorry I can't manage comforting, but maybe I can manage distracting!
+[20-Jan-2013 23:11:22]  <Yuna> N-no... um... you're doing a good job...
+[20-Jan-2013 23:11:22]  * Miaka_Watanabe[Barcode] kind of just sits leaning forward, arms half-crossed on her lap. She looks up at Yuna and Yui.
+[20-Jan-2013 23:11:26]  <Yuna> I'm... I'm really glad you're here...
+[20-Jan-2013 23:12:31]  <Yui> But you just said it wasn't very comforting! But okay then. If I'm comforting, I'm comforting
+[20-Jan-2013 23:13:02]  <Yuna> I j-just mean... having a friend here is comforting, I guess
+[20-Jan-2013 23:13:07]  <Yuna> even if... even if they don't say anything
+[20-Jan-2013 23:13:15]  <Yuna> they're close   and warm
+[20-Jan-2013 23:14:52]  * Miaka_Watanabe[Barcode] kind of does the whole "grasping at her hair absentmindedly" thing. "I know you mostly know me from our little...inaugeration, but I'm glad if just being here helps..."
+[20-Jan-2013 23:17:01]  * Miaka_Watanabe[Barcode] gets the idea to check her cellphone. "It's nearly midnight...we should probably all head home."
+[20-Jan-2013 23:17:04]  <SpruceZeus> ((Hey I thought it was Yui who was supposed to be awkwardly flirting with Yuna, not the other way around! :V))
+[20-Jan-2013 23:17:29]  <Yui> ((It is, but I'm terrible at flirting with anyone who isn't Rig or Poni))
+[20-Jan-2013 23:17:55]  * Yui stands up
+[20-Jan-2013 23:17:59]  <Miaka_Watanabe[Barcode]> ((well hey! that's the effect you want, probably :P))
+[20-Jan-2013 23:18:05]  <Yuna> ((I don't intend to be flirting!!))
+[20-Jan-2013 23:18:17]  <Yui> You're right, Miaka, (yui offers a hand up)
+[20-Jan-2013 23:18:25]  <Yui> we should get going
+[20-Jan-2013 23:18:41]  * Miaka_Watanabe[Barcode] gets up too, looking at the two while kind of just holding her arms.
+[20-Jan-2013 23:18:50]  <Miaka_Watanabe[Barcode]> ((hugging oneself, whatever you'd call that. awkwardstance))
+[20-Jan-2013 23:19:08]  * Yuna gets up and follows Yui
+[20-Jan-2013 23:19:17]  <Yuna> Y-yeah... I think... maybe after some sleep I'll probably feel better...
+[20-Jan-2013 23:20:53]  <Miaka_Watanabe[Barcode]> ((I'm happy to call it but you yui'll have to say the weird thing by next session (or while the two of you walk alone, knowing each other non-magically) ))
+[20-Jan-2013 23:21:57]  <Yui> ((I'm trying to figure out how to do it since you're hugging yourself instead of taking my hand so now I can't randomly grab your hand, kiss it, pull you close and tongue you, dude))
+[20-Jan-2013 23:22:27]  <Miaka_Watanabe[Barcode]> ((oh. well, )) The three start walking and Miaka loosens up a bit.
+[20-Jan-2013 23:22:51]  <Yuna> ((you could do something weird to me?  I don't know))
+[20-Jan-2013 23:22:55]  <Miaka_Watanabe[Barcode]> ((Choose someone you have a Relationship with and do one of the following. --> keep this in mind))
+[20-Jan-2013 23:23:01]  <Miaka_Watanabe[Barcode]> ((don't think we have one))
+[20-Jan-2013 23:23:03]  <Yuna> ((like even in this situation a random kiss would probably be totally awkward))
+[20-Jan-2013 23:23:08]  <Yui> ((oh true))
+[20-Jan-2013 23:23:23]  <Miaka_Watanabe[Barcode]> ((You can remove up to 2 Overcharge points with a moderate display of intimacy to someone, such as a lingering hug, blurting out personal stuff about yourself, abruptly inviting someone on a date, etc. --> doesn't have to be a kiss if it's 2 OC))
+[20-Jan-2013 23:23:38]  <Miaka_Watanabe[Barcode]> ((could probably just like hug her while walking and stroke her head or something))
+[20-Jan-2013 23:23:56]  <Miaka_Watanabe[Barcode]> ((be as severe as a kiss if*))
+[20-Jan-2013 23:23:59]  <ponicalica> 14kiss Yuna, make yuri fangirls swoon :P
+[20-Jan-2013 23:24:11]  <Yuna> ((s/fangirls/fanboys/))
+[20-Jan-2013 23:24:14]  <Miaka_Watanabe[Barcode]> ((also I really need to go downstairs to eat dinner))
+[20-Jan-2013 23:24:16]  <Yui> ((yeah, I know, but Nemo was... not making you cookies))
+[20-Jan-2013 23:24:28]  <Miaka_Watanabe[Barcode]> ((cookies?))
+[20-Jan-2013 23:24:28]  <Yui> ((go down and eat, I'll walk Yuna home))
+[20-Jan-2013 23:24:33]  <Miaka_Watanabe[Barcode]> aight.
+[20-Jan-2013 23:24:36]  <Yuna> (cookies?)
+[20-Jan-2013 23:24:53]  <Miaka_Watanabe[Barcode]> At some point the girls split up; Miaka lives a few blocks down and after walking her home, Yui and Yuna head off together.
+[20-Jan-2013 23:25:01]  *** Miaka_Watanabe[Barcode] <~chatzilla@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has quit IRC (Quit: aight, GL)
+[20-Jan-2013 23:25:07]  <buttercupistiny> Hey Yuna?
+[20-Jan-2013 23:25:14]  <Yuna> nya?
+[20-Jan-2013 23:26:03]  <buttercupistiny> Are you really okay? I haven't seen you go that white since that one time I took a header into the concrete when I swung my leg too wide in my braces.
+[20-Jan-2013 23:26:50]  <Yuna> I... I don't think I am... 
+[20-Jan-2013 23:27:34]  <Yuna> I was feeling okay most of the battle but that last attack... it felt like it took all the wind out of me... and then the memories of that image, Irie filled with needles... they just came back like a tidal wave
+[20-Jan-2013 23:30:08]  <Yuna> and now I can't help but imagine what happened to the other students...
+[20-Jan-2013 23:30:13]  <buttercupistiny> Like a tidal wave that crushed you to the sand at the bottom? Are you going to be okay? Like eventually, once you get back to the metaphorical shore? I can't imagine anything keeping you down forever...
+[20-Jan-2013 23:30:17]  <Yuna> It's like... it's one thing to imagine... witches killing people abstractly...
+[20-Jan-2013 23:30:22]  <Yuna> it's another to see it so... viscerally
+[20-Jan-2013 23:30:50]  <Yuna> I... I think I'll end up okay.  At least... I have to, right?  I need to fight witches... so this doesn't happen again...
+[20-Jan-2013 23:31:50]  <buttercupistiny> You're strong Yuna. One of the strongest people I know. You'll get through this, I know you will. I've always admired your ability to trudge through whatever came your way. 
+[20-Jan-2013 23:32:30]  <Yuna> I'll... I'll try to live up to that...
+[20-Jan-2013 23:34:12]  * Yui turns to walk backwards a moment in front of Yuna, smiles,  grabs her hands, and says "I know you will"
+[20-Jan-2013 23:34:56]  * Yui pulls Yuna in for a tight hug, planting a light kiss on her cheek, and walks away
+[20-Jan-2013 23:36:28]  <Yui> as she leaves she mutters "always wanted to do that"
+[20-Jan-2013 23:37:53]  * Yuna looks a little surprised for a moment, her cheeks turning red as the color starts to come back to her face.  She gets up and walks after Yui.  "U-um... thanks... thanks for being here for me.  And Miaka too..."
+[20-Jan-2013 23:38:12]  <Yuna> "I'll... I'll see you tomorrow at school, okay?"
+[20-Jan-2013 23:38:19]  <ponicalica> 14no love for Sumire or Aoi, huh? >:|
+[20-Jan-2013 23:38:33]  <Yui> "My pleasure, see you then. Recover well."
+[20-Jan-2013 23:39:28]  <Yuna> ((They weren't here today!))
+[20-Jan-2013 23:39:46]  * Yuna wanders home as the RP ends.

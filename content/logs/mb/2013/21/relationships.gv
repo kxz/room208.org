@@ -1,0 +1,47 @@
+strict graph {
+    layout = "circo"
+
+
+    // Individual player states
+
+    "Aoi"
+    "Hikaru"
+    "Makoto" [ color = red ]
+    "Miaka"
+    "Snezana"
+    "Sumire" [ color = red ]
+    "Yui"
+    "Yuna" [ color = red, style = dotted ]
+
+
+    // Relationship states
+
+    "Aoi" -- "Hikaru"
+    "Aoi" -- "Makoto"
+    "Aoi" -- "Miaka"
+    "Aoi" -- "Snezana"
+    "Aoi" -- "Sumire" [ color = red ]
+    "Aoi" -- "Yui"
+    "Aoi" -- "Yuna"
+    "Hikaru" -- "Makoto"
+    "Hikaru" -- "Miaka"
+    "Hikaru" -- "Snezana"
+    "Hikaru" -- "Sumire"
+    "Hikaru" -- "Yui"
+    "Hikaru" -- "Yuna"
+    "Makoto" -- "Miaka"
+    "Makoto" -- "Snezana"
+    "Makoto" -- "Sumire"
+    "Makoto" -- "Yui"
+    "Makoto" -- "Yuna" [ color = red, style = dotted ]
+    "Miaka" -- "Snezana"
+    "Miaka" -- "Sumire"
+    "Miaka" -- "Yui"
+    "Miaka" -- "Yuna"
+    "Snezana" -- "Sumire"
+    "Snezana" -- "Yui"
+    "Snezana" -- "Yuna" [ color = red ]
+    "Sumire" -- "Yui"
+    "Sumire" -- "Yuna" [ color = red ]
+    "Yui" -- "Yuna"
+}

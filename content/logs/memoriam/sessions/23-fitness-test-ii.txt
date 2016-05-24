@@ -1,0 +1,671 @@
+[07-Jun-2014 20:01:48]  <IllFlower> Okay, last we left off, we were busy ensuring the high school groundskeepers had something to do the next time they came back to work.
+[07-Jun-2014 20:02:03]  *** Rig <~Iverum@147.226.88.34> has left #madokamadness
+[07-Jun-2014 20:02:08]  <IllFlower> Hikari may be dying.
+[07-Jun-2014 20:02:24]  <IllFlower> Aside from that I don't think there's much to discuss.
+[07-Jun-2014 20:02:56]  <IllFlower> Rin has the high dice, so BGTB2005 can go first.
+[07-Jun-2014 20:02:56]  <Alicia> Nope...
+[07-Jun-2014 20:03:15]  <BGTB2005> Has Michi gone yet?
+[07-Jun-2014 20:03:46]  <BGTB2005> checking logs, seems so
+[07-Jun-2014 20:03:55]  <IllFlower> Yes, all of the characters did their first raises.
+[07-Jun-2014 20:05:40]  <BGTB2005> I'd like to roll for "If it doesn't work, use more" and the "Fancy Cannon"
+[07-Jun-2014 20:06:02]  <IllFlower> Go ahead.
+[07-Jun-2014 20:06:35]  <BGTB2005> @dice add 4d6 1d4 >! Adding More and Fancy Cannon
+[07-Jun-2014 20:06:35]  <Omnipresence> 14: Rolled 1 3 3 5 6 = 18. Bank now has 1 1 1 1 1 2 3 3 3 3 3 5 5 6 = 38.
+[07-Jun-2014 20:06:54]  *** WildSeraph <~Spheraph@d67-193-23-119.home3.cgocable.net> has joined #madokamadness
+[07-Jun-2014 20:06:57]  <BGTB2005> whee
+[07-Jun-2014 20:08:04]  <Alicia> Uhm, I need to go afk real briefly. Back quickly.
+[07-Jun-2014 20:08:10]  <IllFlower> Okay.
+[07-Jun-2014 20:10:18]  <Alicia> (Back. Sorry, animals. >_>)
+[07-Jun-2014 20:10:34]  <BGTB2005> Once again in the air, Rin summons her cannon and uses it to more precisely drop fire on Michi
+[07-Jun-2014 20:10:35]  <Alicia> (Felt like mentioning anyway juuust in case.)
+[07-Jun-2014 20:10:47]  <BGTB2005> @dice use 5 5
+[07-Jun-2014 20:10:47]  <Omnipresence> 14BGTB2005: Used 5 5 = 10. Bank now has 1 1 1 1 1 2 3 3 3 3 3 6 = 28.
+[07-Jun-2014 20:11:11]  <ponicalica> now let's hope they don't pull in any d10 traits and roll 10s :p
+[07-Jun-2014 20:11:20]  <Alicia> ( D: )
+[07-Jun-2014 20:11:31]  <IllFlower> Rin's only attacking Michi here, yes?
+[07-Jun-2014 20:11:54]  <BGTB2005> yeah
+[07-Jun-2014 20:13:23]  <BGTB2005> Thought about also including the Mystery Girl as a target but I thought that might've been a bit too mean
+[07-Jun-2014 20:14:07]  <IllFlower> I'm going to assign one of the 1d10 traits to pulling a "hall of mirrors" illusion.
+[07-Jun-2014 20:14:16]  <Alicia> (Oh my.)
+[07-Jun-2014 20:14:21]  <IllFlower> @dice add 1d10
+[07-Jun-2014 20:14:21]  <Omnipresence> 14IllFlower: Rolled 5 = 5. Bank now has 1 2 2 2 3 3 5 = 18.
+[07-Jun-2014 20:14:26]  <BGTB2005> pffff
+[07-Jun-2014 20:14:29]  <IllFlower> Yeah, that's good enough.
+[07-Jun-2014 20:16:16]  <IllFlower> Michi tries to mask her location in order to avoid getting hammered by Rin's attacks, but the blast radius is so large that it's not particularly effective. The other girl jumps in to push Michi out of harm's way.
+[07-Jun-2014 20:16:22]  <IllFlower> @dice use 5 2
+[07-Jun-2014 20:16:22]  <Omnipresence> 14IllFlower: Used 2 5 = 7. Bank now has 1 2 2 3 3 = 11.
+[07-Jun-2014 20:16:35]  <IllFlower> Also throw in a 3 from the other girl, leaving 111222233.
+[07-Jun-2014 20:17:01]  <IllFlower> Alicia, you're up. ponicalica, you'll go afterward.
+[07-Jun-2014 20:17:24]  <IllFlower> My dice are pretty dismal, so the other girl will go after that, followed by Michi.
+[07-Jun-2014 20:17:27]  <ponicalica> and Alicia only gets one die?
+[07-Jun-2014 20:17:40]  <IllFlower> Yes.
+[07-Jun-2014 20:18:34]  <Alicia> I'm thinking about rolling for my costume, since we're getting pretty magical and all that. Not much you can do with one die, but...
+[07-Jun-2014 20:18:43]  <ponicalica> didn't you already roll for it?
+[07-Jun-2014 20:19:10]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[07-Jun-2014 20:19:17]  <IllFlower> No, she hasn't.
+[07-Jun-2014 20:19:24]  <Alicia> I believe we talked about it but I hadn't - okay, yeah.
+[07-Jun-2014 20:19:30]  <ponicalica> oh, you rolled but you didn't add, lol
+[07-Jun-2014 20:19:38]  <IllFlower> You have to explain how it's useful to the raise, in any case.
+[07-Jun-2014 20:21:20]  <Alicia> While Micchi focuses on Rin, Hikari takes the chance to duck out of the way, and distance herself some feet from her in case of an attack.
+[07-Jun-2014 20:21:23]  <Alicia> @dice add 1 4
+[07-Jun-2014 20:21:23]  <Omnipresence> 14Alicia: Rolled 1 4 = 5. Bank now has 1 1 2 3 3 3 4 4 = 21.
+[07-Jun-2014 20:21:46]  <Alicia> @dice use 3 3
+[07-Jun-2014 20:21:46]  <Omnipresence> 14Alicia: Used 3 3 = 6. Bank now has 1 1 2 3 4 4 = 15.
+[07-Jun-2014 20:21:52]  <IllFlower> Still need a raise here.
+[07-Jun-2014 20:22:30]  <ponicalica> also uh only one die
+[07-Jun-2014 20:22:36]  <Alicia> Gah right.
+[07-Jun-2014 20:22:40]  <IllFlower> Yeah, that too, sorry.
+[07-Jun-2014 20:22:46]  <Alicia> @dice add 3
+[07-Jun-2014 20:22:46]  <Omnipresence> 14Alicia: Rolled 3 = 3. Bank now has 1 1 2 3 3 4 4 = 18.
+[07-Jun-2014 20:23:18]  <IllFlower> I'm not sure how I'm supposed to respond.
+[07-Jun-2014 20:24:11]  <Alicia> Still shaken from the attack, Hikari shifts focus towards the mystery girl and moves to attack her instead.
+[07-Jun-2014 20:24:56]  <IllFlower> What sort of attack?
+[07-Jun-2014 20:25:01]  <Alicia> (Sorry, not used to just one die. I ifgured "well she'll prepare at least" to an attack was about equal to what one die would do.)
+[07-Jun-2014 20:25:08]  <BGTB2005> I would've used the four if you were going to try and punch someone
+[07-Jun-2014 20:25:24]  <Alicia> moves to slam her staff into the new girl*
+[07-Jun-2014 20:25:28]  <IllFlower> Even one-die raises are still raises. They're just not very good.
+[07-Jun-2014 20:25:36]  <Alicia> Mm.
+[07-Jun-2014 20:25:40]  <Alicia> Staff attack
+[07-Jun-2014 20:25:47]  <IllFlower> Okay, 3?
+[07-Jun-2014 20:26:29]  <Alicia> No I'll switch it to a 4.
+[07-Jun-2014 20:26:32]  <Alicia> @dice use 4
+[07-Jun-2014 20:26:32]  <Omnipresence> 14Alicia: Used 4 = 4. Bank now has 1 1 2 3 3 4 = 14.
+[07-Jun-2014 20:26:40]  <Alicia> Do the numbers look... right.
+[07-Jun-2014 20:26:46]  <IllFlower> Don't forget to add your 3 back.
+[07-Jun-2014 20:26:52]  <BGTB2005> thkink she did already
+[07-Jun-2014 20:26:58]  <ponicalica> her other 3
+[07-Jun-2014 20:27:04]  <BGTB2005> ah
+[07-Jun-2014 20:27:05]  <IllFlower> "Your other left!"
+[07-Jun-2014 20:27:07]  <Alicia> @dice add 3
+[07-Jun-2014 20:27:07]  <Omnipresence> 14Alicia: Rolled 3 = 3. Bank now has 1 1 2 3 3 3 4 = 17.
+[07-Jun-2014 20:27:26]  <Alicia> (Sorry, I'm not on top of it at all today, for multiple reasons.)
+[07-Jun-2014 20:28:17]  <IllFlower> Okay, I'm going to assign Girl A's 1d6 trait to "fast reflexes."
+[07-Jun-2014 20:28:22]  <IllFlower> Knowing this bot, they won't help, but...
+[07-Jun-2014 20:28:28]  <IllFlower> @dice roll 1d6
+[07-Jun-2014 20:28:28]  <Omnipresence> 14IllFlower: Rolled 2 = 2.
+[07-Jun-2014 20:28:41]  <ponicalica> kid A
+[07-Jun-2014 20:28:59]  <IllFlower> All right, then.
+[07-Jun-2014 20:29:42]  <BGTB2005> good enough
+[07-Jun-2014 20:29:44]  <IllFlower> Hikari's attack is sloppy, and even though the new girl's senses are dulled by the chaos, she's able to duck out of the way with relatively little trouble.
+[07-Jun-2014 20:29:53]  <IllFlower> See 22, leave 11122233.
+[07-Jun-2014 20:30:04]  <IllFlower> ponicalica, you're up.
+[07-Jun-2014 20:30:55]  <Alicia> (Also Rin focuses on Micchi* gaaaaaaahhh)
+[07-Jun-2014 20:31:37]  <BGTB2005> well Rin did drop some explosion on her, so...
+[07-Jun-2014 20:32:07]  <Alicia> (chi*)
+[07-Jun-2014 20:32:27]  <ponicalica> So I was considering using the "takes charge" trait somehow, but considering the whole hall of mirrors effect, I actually think the light bit might be more immediately relevant
+[07-Jun-2014 20:32:48]  <IllFlower> Turn on the giant floodlights and blind everyone.
+[07-Jun-2014 20:32:50]  <Alicia> Could add both.
+[07-Jun-2014 20:33:20]  <ponicalica> Alicia: like, yelling out which one's not the illusion?  I think I like
+[07-Jun-2014 20:33:57]  <Alicia> ponicalica: I just meant in general, haha. What I had in mind was more like just making the fakes up and disappear, but.
+[07-Jun-2014 20:33:59]  <IllFlower> I'm not really sure that's taking charge so much as just seeing things.
+[07-Jun-2014 20:34:11]  <BGTB2005> try and call out targets for Rin?
+[07-Jun-2014 20:35:23]  <BGTB2005> though yeah, using magical light to blind Michi and Mystery Girl seems like a good plan
+[07-Jun-2014 20:35:28]  <ponicalica> yeah, I like that
+[07-Jun-2014 20:35:34]  <ponicalica> @dice add 2d8 >! light elemental
+[07-Jun-2014 20:35:34]  <Omnipresence> 14: Rolled 5 6 = 11. Bank now has 1 1 1 2 2 2 2 3 4 5 6 = 29.
+[07-Jun-2014 20:35:44]  <ponicalica> @dice show IllFlower 
+[07-Jun-2014 20:35:44]  <Omnipresence> 14ponicalica: Bank has 1 2 2 3 3 = 11.
+[07-Jun-2014 20:39:36]  <IllFlower> Lots of suspense here.
+[07-Jun-2014 20:39:40]  <ponicalica> Ayako sees the hall-of-mirrors effect Michi raised, then the floodlights, and gets an idea.  "Hikari, cover your eyes!  AMPLIFICA LUX!"  as the floodlights suddenly all turn immediately to full brightness
+[07-Jun-2014 20:40:13]  <ponicalica> (Rin's up high enough that she can just avert her gaze or something, I assume)
+[07-Jun-2014 20:40:33]  <IllFlower> You spent four of those five minutes trying to figure out how to conjugate "amplifica," didn't you.
+[07-Jun-2014 20:40:51]  <ponicalica> @dice use 5 6
+[07-Jun-2014 20:40:51]  <Omnipresence> 14ponicalica: Used 5 6 = 11. Bank now has 1 1 1 2 2 2 2 3 4 = 18.
+[07-Jun-2014 20:41:01]  <BGTB2005> seems a bit excessive...
+[07-Jun-2014 20:41:34]  <BGTB2005> eh, should still work
+[07-Jun-2014 20:42:15]  <ponicalica> I figure that whatever's left of her illusion, which is presumably designed to make as many Michis as possible, will work the other way and reflect a bunch of light at Michi.  :P
+[07-Jun-2014 20:42:57]  <IllFlower> Just Michi, then?
+[07-Jun-2014 20:43:30]  <ponicalica> I was sort of thinking both but "just Michi" might also work, with that justification, lol
+[07-Jun-2014 20:44:04]  <IllFlower> Then so it is.
+[07-Jun-2014 20:45:43]  <IllFlower> Michi calls out to the girls huddled in the dugout, one of whom casts her own wall of darkness in front of Michi. It's quickly consumed by the light, but Michi uses that moment to make herself and her clones seemingly vanish into thin air.
+[07-Jun-2014 20:45:47]  <IllFlower> @dice add 1d10 2d6
+[07-Jun-2014 20:45:47]  <Omnipresence> 14IllFlower: Rolled 1 1 9 = 11. Bank now has 1 1 1 2 2 3 3 9 = 22.
+[07-Jun-2014 20:46:29]  <IllFlower> @dice use 9 2
+[07-Jun-2014 20:46:29]  <Omnipresence> 14IllFlower: Used 2 9 = 11. Bank now has 1 1 1 2 3 3 = 11.
+[07-Jun-2014 20:46:42]  <IllFlower> Michi reappears just as the last of Ayako's light magic fades.
+[07-Jun-2014 20:47:52]  <IllFlower> What did we have at stake again? Just whether Michi and the others completed the fitness test, yes?
+[07-Jun-2014 20:48:06]  <ponicalica> I think it was something like that, yeah
+[07-Jun-2014 20:48:33]  <Alicia> Yeah, to break it up.
+[07-Jun-2014 20:51:11]  <IllFlower> The other girl begins to prepare an attack, but Michi unexpectedly raises an arm to stop her.
+[07-Jun-2014 20:51:23]  <IllFlower> "Saki, that's enough."
+[07-Jun-2014 20:51:48]  <IllFlower> Michi tilts her head towards the outfield, wiping a considerable amount of dust and sweat from her forehead.
+[07-Jun-2014 20:52:22]  <IllFlower> "Endou, are you all right?" she shouts.
+[07-Jun-2014 20:52:46]  <IllFlower> There's a feeble "I'm fine" in response.
+[07-Jun-2014 20:53:56]  <BGTB2005> probably in better condition than Hikari
+[07-Jun-2014 20:53:59]  <IllFlower> Michi glares at Rin. "You're going to kill everyone here if you keep this up," she says.
+[07-Jun-2014 20:54:18]  <IllFlower> "You should attend to your partner. It seems she's not doing so well."
+[07-Jun-2014 20:54:26]  <IllFlower> Both Michi and Saki give, each keeping 3.
+[07-Jun-2014 20:54:34]  <IllFlower> Alicia: Roll 3d10 fallout.
+[07-Jun-2014 20:54:39]  <Alicia> @roll 3d10
+[07-Jun-2014 20:54:44]  <Alicia> Er.
+[07-Jun-2014 20:54:44]  <ponicalica> it's @dice roll
+[07-Jun-2014 20:54:45]  <IllFlower> "dice roll"
+[07-Jun-2014 20:54:50]  <Alicia> @dice roll 3d10
+[07-Jun-2014 20:54:50]  <Omnipresence> 14Alicia: Rolled 2 4 5 = 11.
+[07-Jun-2014 20:54:53]  <IllFlower> 9.
+[07-Jun-2014 20:55:04]  <IllFlower> One item of long-term fallout.
+[07-Jun-2014 20:55:13]  <ponicalica> Ayako runs over to Hikari.  "Hikari, are you okay?"
+[07-Jun-2014 20:55:54]  <Nitya> 14is jun dead
+[07-Jun-2014 20:56:09]  <ponicalica> jun's been dead for a while
+[07-Jun-2014 20:56:11]  <IllFlower> Still dead, like Generalissimo Franco.
+[07-Jun-2014 20:56:12]  <BGTB2005> 14Jun's been dead
+[07-Jun-2014 20:56:46]  <Nitya> 14tragic
+[07-Jun-2014 20:57:07]  <Alicia> Hikari leans over on Ayako. "I... I think I'm going to be fine."
+[07-Jun-2014 20:58:06]  <Alicia> She looks around, surveying the damage. "I'm alive, at least. What about you..?"
+[07-Jun-2014 20:58:15]  <IllFlower> ("No, I'm dead.")
+[07-Jun-2014 20:58:38]  <ponicalica> "I think I'll be fine.  Thanks for saving me from those exploding baseballs."
+[07-Jun-2014 21:00:54]  <Alicia> She smiles, and eases off of her somewhat. "Glad to hear it. Rin looks fine as well." Hikari looks up, motioning to Rin that it's safe.
+[07-Jun-2014 21:02:08]  <IllFlower> Michi silently directs Saki to attend to Minako and the rest of the girls. She alone remains standing on home plate, just as she was before the fight erupted, watching Rin and Ayako see to Hikari.
+[07-Jun-2014 21:03:47]  <Alicia> (Ack, parents are calling me away. Sorry, I'll be quick.)
+[07-Jun-2014 21:03:54]  <Alicia> (Probably like 5 minutes?)
+[07-Jun-2014 21:04:05]  <ponicalica> Presumably Hikari is now pretty tired or whatever :P
+[07-Jun-2014 21:04:27]  <IllFlower> She's too busy thinking of what fallout effect to take, obviously.
+[07-Jun-2014 21:05:38]  <IllFlower> Well, anyway, are all the characters just going to kind of awkwardly sit there in silence?
+[07-Jun-2014 21:07:16]  <ponicalica> "So Michi.  What are you doing to this girl?"
+[07-Jun-2014 21:07:26]  <ponicalica> sorry, I wasn't sure if this was a good thing to say :V
+[07-Jun-2014 21:10:03]  <IllFlower> "It's a fitness test," Michi says, as if addressing a child. "If you went to all this effort to follow us here, there's no way you don't already know that."
+[07-Jun-2014 21:11:56]  <IllFlower> She briefly glances towards the dugout where the other girls are huddled. "I have to wonder why you didn't simply tell one of us you'd be in attendance, though, rather than doing whatever it is you just did."
+[07-Jun-2014 21:12:28]  <Alicia> (Sorry for that, I didn't want them getting even angrier.)
+[07-Jun-2014 21:14:02]  <ponicalica> "Well, if we were here, you might've tried to hide the fact that your fitness tests involve endangering initiates."
+[07-Jun-2014 21:16:23]  <IllFlower> Michi closes her eyes and shakes her head. "They're tests, not torture."
+[07-Jun-2014 21:17:30]  <Alicia> (I assume Rin is busy glaring at them?)
+[07-Jun-2014 21:17:52]  <ponicalica> (Rin is probably fighting off the impulse to just throw more fire at them, I assume)
+[07-Jun-2014 21:18:26]  <BGTB2005> "Not torture? That's how it looked before we put a stop to it!"
+[07-Jun-2014 21:18:33]  <BGTB2005> (also pretty much yeah)
+[07-Jun-2014 21:20:17]  <IllFlower> "Yes, in the same way modern surgery would look like something hideous to a primitive cave dweller."
+[07-Jun-2014 21:21:08]  <IllFlower> Michi puts a rather unsubtle emphasis on the words "primitive cave dweller."
+[07-Jun-2014 21:24:13]  <Alicia> "That's... ridiculous. How is the harm you inflict beneficial in any way?" Hikari snaps back, having regained her composure.
+[07-Jun-2014 21:26:27]  <IllFlower> "We're making sure that they have the ability to withstand typical magical attacks," Michi says, calmly.
+[07-Jun-2014 21:26:56]  <IllFlower> "Not unlike the ones you just used here a moment ago."
+[07-Jun-2014 21:27:58]  <IllFlower> She stares down at Hikari. "Or would you rather their first test be losing their lives in battle?"
+[07-Jun-2014 21:28:49]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[07-Jun-2014 21:29:25]  <ponicalica> "As opposed to losing their lives to another initiate?"
+[07-Jun-2014 21:29:45]  <IllFlower> "Such as yourself?"
+[07-Jun-2014 21:30:53]  <Alicia> Hikari glares back, grinding her teeth. "It's not... at least you could fight back against us!"
+[07-Jun-2014 21:34:04]  <IllFlower> "We did this with Endou's consent. As we always do. That's another difference, I suppose?"
+[07-Jun-2014 21:34:16]  <BGTB2005> hmm...
+[07-Jun-2014 21:35:49]  <ponicalica> "And safeguards?  If Endou couldn't take it, what would have happened?  Whenever I did something like this, there were safeguards!"
+[07-Jun-2014 21:36:16]  <ponicalica> (in this session: the conservators lose an argument with Michi, hard)
+[07-Jun-2014 21:36:46]  <Alicia> (They did, uhm, just sort of jump in guns blazing. >_>)
+[07-Jun-2014 21:37:04]  <ponicalica> (yep.  lol rin)
+[07-Jun-2014 21:37:11]  <BGTB2005> "And if they didn't agree? What then? Shut them out of the group? Spread lies about them?"
+[07-Jun-2014 21:37:59]  <IllFlower> Michi gives Rin a questioning look.
+[07-Jun-2014 21:38:04]  *** Xeniera1 <~Solstace@71-222-91-59.ptld.qwest.net> has joined #madokamadness
+[07-Jun-2014 21:38:05]  *** Xeniera <~Solstace@71-222-91-59.ptld.qwest.net> has quit IRC (Killed (NickServ (GHOST command used by Xeniera1)))
+[07-Jun-2014 21:38:08]  *** Xeniera1 is now known as Xeniera
+[07-Jun-2014 21:38:09]  *** ChanServ sets mode: +o Xeniera
+[07-Jun-2014 21:38:10]  <IllFlower> "I should have known. This is about Kayano, isn't it?"
+[07-Jun-2014 21:41:42]  <ponicalica> "That's a big part of it, yes."
+[07-Jun-2014 21:41:44]  <Alicia> "Yes, this is about Kayano. We're still working on making sense of her issues."
+[07-Jun-2014 21:42:34]  <IllFlower> "You have a very peculiar way of raising those issues with me," Michi says.
+[07-Jun-2014 21:44:54]  <ponicalica> ("If only Jun were here...")
+[07-Jun-2014 21:45:31]  <Alicia> Hikari gives a slight nod. "We..." she begins, though nothing comes out.
+[07-Jun-2014 21:46:08]  <ponicalica> ("All our interactions with you were colored by what a single dude that Hikari wants to tie down said")
+[07-Jun-2014 21:46:34]  <BGTB2005> pfff
+[07-Jun-2014 21:46:36]  <Alicia> ("We're not good at talking without out fists.")
+[07-Jun-2014 21:46:51]  <Alicia> our*
+[07-Jun-2014 21:47:01]  <Alicia> ( ponicalica: pffft.)
+[07-Jun-2014 21:47:04]  <BGTB2005> ("I just wanted to kick your teeth in.")
+[07-Jun-2014 21:47:08]  <IllFlower> The conversation is briefly interrupted by Saki calling out to Michi, who nods in response.
+[07-Jun-2014 21:48:00]  <IllFlower> Saki says something quietly to the girls assembled underneath the dugout, who begin to trickle out of the place. Most of them make for the exit from the school grounds. Saki, Minako, and another girl stay behind.
+[07-Jun-2014 21:48:49]  <IllFlower> The numerous cuts on Minako's face are still visible, though the blood is no longer fresh.
+[07-Jun-2014 21:49:23]  <IllFlower> Michi turns back to address the Conservators.
+[07-Jun-2014 21:50:14]  <IllFlower> "Well, as I'm sure Kayano's already told you, it's true that we haven't conducted a test with her yet.
+[07-Jun-2014 21:51:34]  <IllFlower> "She's refused every time I've asked, but she hasn't been willing to tell me why.
+[07-Jun-2014 21:52:59]  <IllFlower> "As for 'lies,' well... we're certainly not doing it deliberately, but when you don't speak up for yourself, it's hard to set the record straight."
+[07-Jun-2014 21:57:41]  <IllFlower> Anybody?
+[07-Jun-2014 21:58:10]  <Alicia> "She did say that she didn't talk much... from the little we got from her." Hikari says despondently, processing all that Michi's said so far.
+[07-Jun-2014 22:00:30]  <IllFlower> I'm surprised you guys aren't pressing her more.
+[07-Jun-2014 22:00:35]  <IllFlower> She did just lose the last conflict, haha.
+[07-Jun-2014 22:00:41]  <ponicalica> we're all shocked, clearly :P
+[07-Jun-2014 22:01:03]  <Alicia> (Hikari dun messed up, also I'm not good at that.)
+[07-Jun-2014 22:02:23]  <IllFlower> ("I DON'T FUCKING CARE, EITHER YOU STOP OR I TIE YOU TO A CONSTRUCTION CRANE")
+[07-Jun-2014 22:03:21]  <Alicia> (Now that's just wrong. She's not so violent.)
+[07-Jun-2014 22:03:48]  <IllFlower> Maybe it's because Rin hasn't been talking much.
+[07-Jun-2014 22:03:57]  <BGTB2005> (Rin might be, but in her case it would be "I WILL REDUCE YOU TO ASH")
+[07-Jun-2014 22:04:15]  <BGTB2005> ("AND THEN SET THOSE ASHES ON FIRE")
+[07-Jun-2014 22:04:27]  <IllFlower> She sets fire to flames.
+[07-Jun-2014 22:04:28]  <ponicalica> IllFlower: Yeah, I think that's a big thing.  Rin should probably get angry at them some more.
+[07-Jun-2014 22:04:53]  <Alicia> (Use your anger for justice.)
+[07-Jun-2014 22:06:24]  <IllFlower> "Paging angry Rin to the white courtesy phone. Paging angry Rin..."
+[07-Jun-2014 22:06:29]  <ponicalica> "And what happens when an initiate fails this test, anyways?"
+[07-Jun-2014 22:07:26]  <IllFlower> "They're given some time to train, and then tested again."
+[07-Jun-2014 22:09:07]  <ponicalica> but yeah, I don't think Ayako can really say much.  She might even be getting convinced.  So we need Rin. :P
+[07-Jun-2014 22:09:54]  <Alicia> (Just let it out.)
+[07-Jun-2014 22:11:04]  <BGTB2005> Rin turns to Ayako. "You won't get in my way this time, will you?"
+[07-Jun-2014 22:11:52]  <ponicalica> "You probably shouldn't hurt them, but...I'll...trust your judgment."
+[07-Jun-2014 22:12:19]  <BGTB2005> (>shouldn't hurt them >Rin)
+[07-Jun-2014 22:12:36]  *** SF_Sorrow <SF_Sorrow@eduroam-253-63.ucsc.edu> has joined #madokamadness
+[07-Jun-2014 22:12:55]  <IllFlower> If you're going to try to wail on Michi you'll need to have some objective in mind, mind you.
+[07-Jun-2014 22:13:09]  <ponicalica> I think her objective might just be wailing on Michi tbh
+[07-Jun-2014 22:13:18]  <BGTB2005> I'm not sure if "Getting Michi to shut up" would be a sufficient stake
+[07-Jun-2014 22:13:50]  <IllFlower> She's really only answering your questions at this point. It'd be enough to stop asking her. ;)
+[07-Jun-2014 22:15:20]  <Alicia> ("Just stop acting sassy and spill it out or I'll punch you, harder this time.")
+[07-Jun-2014 22:15:36]  <Alicia> (I don't actually know for sure though. all out*)
+[07-Jun-2014 22:16:53]  <IllFlower> Well, Rin could always start with spiteful yelling.
+[07-Jun-2014 22:18:58]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has joined #madokamadness
+[07-Jun-2014 22:19:24]  <BGTB2005> I was thinking of having Rin just go up and punch Michi in the face, but now I'm not sure if that would involve rolling conflict dice (again)
+[07-Jun-2014 22:20:15]  <ponicalica> It definitely would
+[07-Jun-2014 22:20:17]  <IllFlower> Well, I mean, you could. I'm not sure what the purpose would be, though.
+[07-Jun-2014 22:21:11]  <IllFlower> Better to ask forgiveness than permission, I suppose.
+[07-Jun-2014 22:22:19]  <Alicia> Yeah that'd definitely initiate another conflict. You can always tell her off on your way out, if that's Rin's style. Or tell her off while apologizing, if that's her style.
+[07-Jun-2014 22:22:37]  <ponicalica> Pretty sure apologizing is never Rin's style
+[07-Jun-2014 22:23:01]  <Alicia> Point.
+[07-Jun-2014 22:23:03]  <BGTB2005> alternatively we could just reshoot the scene starting from about 15 minutes ago
+[07-Jun-2014 22:26:15]  <Alicia> If poni's cool I guess. But at this point I imagine Hikari's not sure how to press on for info from Michi, so...
+[07-Jun-2014 22:26:49]  <ponicalica> yeah, I think neither of us know what to really say to her
+[07-Jun-2014 22:27:07]  <ponicalica> oh
+[07-Jun-2014 22:27:15]  <ponicalica> maybe one of us should notice the other girls' nervousness?
+[07-Jun-2014 22:27:40]  <IllFlower> They've mostly just been staring at Michi and the Conservators for a little while now.
+[07-Jun-2014 22:27:41]  <BGTB2005> I've thought of something but I'm not sure of how to fit it after asking for Ayako's non-interefence
+[07-Jun-2014 22:27:47]  <Alicia> (Rin: "You goddamn think that is how you treat others!?")
+[07-Jun-2014 22:28:14]  <Alicia> ("others/is successful"* etc.)
+[07-Jun-2014 22:29:21]  <ponicalica> IllFlower: I meant their nervousness during the test itself, etc.
+[07-Jun-2014 22:29:57]  <IllFlower> Well, they're mostly gone now. `_`
+[07-Jun-2014 22:32:41]  <IllFlower> The last remaining option may be to clear out and regroup.
+[07-Jun-2014 22:33:03]  <IllFlower> Although, well, there's still *something* going on with poor Yumiko.
+[07-Jun-2014 22:33:30]  <ponicalica> "One last thing about Yumiko: Did she actually show herself vulnerable to these attacks?"
+[07-Jun-2014 22:34:43]  <ponicalica> "You only ever mentioned her own striking being erratic.  And this test doesn't cover this."
+[07-Jun-2014 22:34:49]  <ponicalica> but yeah I think we may have gotten all we can out of her
+[07-Jun-2014 22:35:44]  <IllFlower> Michi shakes her head. "I don't know. She mostly fights alone."
+[07-Jun-2014 22:40:38]  <BGTB2005> "I don't care what you hope to accomplish with these 'tests'. I won't let you and Tsubaki continue to force others to suffer what I've been through."
+[07-Jun-2014 22:41:56]  <IllFlower> Tsubaki's not here?
+[07-Jun-2014 22:42:25]  <BGTB2005> but Rin's still referring to her
+[07-Jun-2014 22:42:31]  <ponicalica> IllFlower: maybe she should've said "people like you and Tsubaki" or something.  Rin's obviously not the best with words :P
+[07-Jun-2014 22:43:09]  <IllFlower> The look on Michi's face is perhaps best expressed as "Rin be crazy."
+[07-Jun-2014 22:45:42]  <IllFlower> Hm, why don't we start a conflict?
+[07-Jun-2014 22:46:06]  <IllFlower> The stakes will be approximately either Rin backing off, or Michi giving in to Rin's demands.
+[07-Jun-2014 22:46:26]  <IllFlower> Those demands are approximately "no more fitness tests," from what I can gather.
+[07-Jun-2014 22:46:37]  <Alicia> So is this 1v1?
+[07-Jun-2014 22:46:39]  <IllFlower> Lot of approximate things going on here, apparently.
+[07-Jun-2014 22:46:46]  <IllFlower> Unless you want to make it something else.
+[07-Jun-2014 22:46:51]  <Alicia> ("Approximately 1v1.")
+[07-Jun-2014 22:46:55]  <IllFlower> lol
+[07-Jun-2014 22:46:56]  <Alicia> Yeah just checking.
+[07-Jun-2014 22:47:00]  <BGTB2005> some help would be nice
+[07-Jun-2014 22:47:02]  <IllFlower> I'm going to start off in talking.
+[07-Jun-2014 22:47:13]  <IllFlower> We don't have nearly enough talky conflicts.
+[07-Jun-2014 22:47:33]  <ponicalica> BGTB2005: well Ayako and Hikari are kind of unsure.  Michi's friends might be too?
+[07-Jun-2014 22:47:58]  <IllFlower> I have a feeling Michi wouldn't want them to get involved.
+[07-Jun-2014 22:48:03]  <Alicia> BGTB2005: Ayako's middling, and Hikari's trying to find a way to bow out gracefully, presumably.
+[07-Jun-2014 22:48:41]  <BGTB2005> well, unless you want it to escalate into physical violence when Rin inevitably ends up on the losing end or the argument...
+[07-Jun-2014 22:49:13]  <Alicia> I think IF intends to keep it talky? And if she gets violent/loses/whatever, then she folds and the others pull her back.
+[07-Jun-2014 22:49:24]  <Alicia> Unless uh IF has Stuff in mind in which case vOv
+[07-Jun-2014 22:50:37]  <IllFlower> I mean, if you think the conflict is worth escalating, you can when appropriate.
+[07-Jun-2014 22:52:26]  <IllFlower> I'll go ahead and raise, if there aren't any objections.
+[07-Jun-2014 22:52:32]  <Alicia> I do want to see Rin tell someone off though. Channel all of the violent inpulses into violent words.
+[07-Jun-2014 22:54:01]  <Alicia> BGTB2005: :?
+[07-Jun-2014 22:54:03]  <BGTB2005> so, who all's involved? Rin, Michi, anyone else?
+[07-Jun-2014 22:54:43]  <ponicalica> Rin and Michi
+[07-Jun-2014 22:55:05]  <IllFlower> Looks to be about it.
+[07-Jun-2014 22:55:48]  <BGTB2005> and yeah, getting the 'fitness tests' to stop is pretty much Rin's demand
+[07-Jun-2014 22:56:36]  <BGTB2005> @dice
+[07-Jun-2014 22:56:36]  <Omnipresence> 14BGTB2005: Bank has 1 1 1 1 1 2 3 3 3 3 3 6 = 28.
+[07-Jun-2014 22:56:49]  <BGTB2005> @dice new 6d6
+[07-Jun-2014 22:56:49]  <Omnipresence> 14BGTB2005: Rolled 1 3 3 4 4 5 = 20. Bank now has 1 3 3 4 4 5 = 20.
+[07-Jun-2014 22:56:55]  <BGTB2005> :|
+[07-Jun-2014 22:57:33]  <IllFlower> @dice new 8d6 3
+[07-Jun-2014 22:57:33]  <Omnipresence> 14IllFlower: Rolled 1 3 3 3 3 4 6 6 6 = 35. Bank now has 1 3 3 3 3 4 6 6 6 = 35.
+[07-Jun-2014 22:57:45]  <BGTB2005> uys halp
+[07-Jun-2014 22:57:49]  <BGTB2005> *guys
+[07-Jun-2014 22:58:32]  <Alicia> Uhhh.
+[07-Jun-2014 22:58:39]  <ponicalica> this should be interesting
+[07-Jun-2014 22:58:41]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has joined #madokamadness
+[07-Jun-2014 22:58:42]  *** ChanServ sets mode: +o Rig
+[07-Jun-2014 22:58:43]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has quit IRC (Remote host closed the connection)
+[07-Jun-2014 22:58:53]  <ponicalica> (though remember: d4 fallout isn't that bad, feel free to take it)
+[07-Jun-2014 22:59:20]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has joined #madokamadness
+[07-Jun-2014 22:59:52]  <Alicia> (Related to what ponicalica says, one of the things I can do for fallout is add, like, "1d4 hates fire/fireballs" or something, if memory serves. So.)
+[07-Jun-2014 22:59:54]  <IllFlower> Michi addresses Rin with a sharp tone. "I have no idea what you've been through, but the fitness tests have nothing to do with you. I have no reason to accommodate the wishes of someone as reckless as you."
+[07-Jun-2014 23:00:02]  <IllFlower> @dice use 6 4
+[07-Jun-2014 23:00:02]  <Omnipresence> 14IllFlower: Used 4 6 = 10. Bank now has 1 3 3 3 3 6 6 = 25.
+[07-Jun-2014 23:00:50]  <IllFlower> Might want to think of a way to use that 1d6 for bluntness. ;)
+[07-Jun-2014 23:01:53]  <Alicia> (Does "telling off others" count as sticking to a strength?)
+[07-Jun-2014 23:02:33]  <ponicalica> I think Rin might have to save that for escalation tbh
+[07-Jun-2014 23:02:56]  <Alicia> (Fair point.)
+[07-Jun-2014 23:02:58]  *** WildSeraph <~Spheraph@d67-193-23-119.home3.cgocable.net> has quit IRC (Quit: Leaving)
+[07-Jun-2014 23:03:03]  <BGTB2005> (I've never actually used it for anything, but I'm interpreting her 'strengths' as 'inflicting violence upon others')
+[07-Jun-2014 23:03:48]  <IllFlower> Yeah, that's approximately correct.
+[07-Jun-2014 23:04:07]  <ponicalica> this is a very approximate conflict
+[07-Jun-2014 23:04:12]  <IllFlower> Were this a d4 trait you could interpret it as "sticks to her strengths so completely that it cripples her in other situations."
+[07-Jun-2014 23:04:53]  <IllFlower> I'm planning to wrap up by the top of the next hour, just so you all know.
+[07-Jun-2014 23:08:51]  <Alicia> Mm.
+[07-Jun-2014 23:09:02]  <IllFlower> Bueller?
+[07-Jun-2014 23:09:04]  <ponicalica> BGTB2005: are you going to See?
+[07-Jun-2014 23:09:24]  <ponicalica> I think if you can't think of a way to use bluntness, or want to use it for your next Raise, you should just Take the Blow with three dice
+[07-Jun-2014 23:11:31]  <Alicia> (Which isn't so bad. It's livable.)
+[07-Jun-2014 23:11:53]  <BGTB2005> it's not the fallout I'm worried about
+[07-Jun-2014 23:12:38]  <ponicalica> just go fast, since IllFlower doesn't have much time
+[07-Jun-2014 23:13:07]  <IllFlower> I'm Jeff Goldblum. Gotta go faster.
+[07-Jun-2014 23:14:45]  <ponicalica> @yt gotta go fast
+[07-Jun-2014 23:14:45]  <Omnipresence> 14ponicalica: YouTube: (1/25) http://www.youtube.com/watch?v=A4VsdfdZfyc — Sonic X Theme Song (Opening) - Gotta Go Fast (Looped) — 107835 views (+2732 more characters)
+[07-Jun-2014 23:15:30]  <IllFlower> BGTB2005: Hung up on coming up with a response, or?
+[07-Jun-2014 23:15:34]  <BGTB2005> yeah
+[07-Jun-2014 23:15:43]  <ponicalica> done is better than good
+[07-Jun-2014 23:16:49]  <IllFlower> We can polish it up. Doesn't have to be perfect.
+[07-Jun-2014 23:16:56]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has quit IRC (Quit: MobileAvenue)
+[07-Jun-2014 23:20:33]  <Alicia> (But yeah, don't worry just say.)
+[07-Jun-2014 23:21:22]  <ponicalica> don't say no, just See more
+[07-Jun-2014 23:21:30]  <BGTB2005> trying to translate disorganised thoughts into an IC reply
+[07-Jun-2014 23:21:56]  <ponicalica> transcribe 'em.  we can help
+[07-Jun-2014 23:22:17]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has joined #madokamadness
+[07-Jun-2014 23:23:44]  <BGTB2005> basically the most coherent thought, probably to use later, has to do with her dislike of water
+[07-Jun-2014 23:24:44]  <IllFlower> If you're going to take the blow you don't really have to respond with words so much as just kind of acknowledge them, as well.
+[07-Jun-2014 23:24:45]  <BGTB2005> most likely stemming from getting thrown into a river many times
+[07-Jun-2014 23:25:03]  <BGTB2005> yeah I guess i'll just get the mechanics part out of the way...
+[07-Jun-2014 23:25:17]  <IllFlower> She winces or something.
+[07-Jun-2014 23:25:36]  <BGTB2005> @dice use 3 3 4
+[07-Jun-2014 23:25:36]  <Omnipresence> 14BGTB2005: Used 3 3 4 = 10. Bank now has 1 4 5 = 10.
+[07-Jun-2014 23:25:38]  <IllFlower> Does Rin wince? I thought she was mostly anger.
+[07-Jun-2014 23:25:43]  <IllFlower> 3d4 fallout.
+[07-Jun-2014 23:27:00]  <IllFlower> Okay, now it's your turn to raise.
+[07-Jun-2014 23:27:58]  <ponicalica> IllFlower: Maybe she winces, and then reflexively growls under her breath or something
+[07-Jun-2014 23:27:59]  <BGTB2005> resuming spilling of thoughts: anyways, I was thinking Rin getting thrown into a river was part of her own 'fitness test' she endured
+[07-Jun-2014 23:29:18]  <IllFlower> Surprised she had the courage to jump into a river during her initiation.
+[07-Jun-2014 23:30:28]  <BGTB2005> she thought the life of the drowning boy was important enough to voluntarily jump into a river is my justification
+[07-Jun-2014 23:30:36]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has quit IRC (Remote host closed the connection)
+[07-Jun-2014 23:30:53]  <IllFlower> Fair enough.
+[07-Jun-2014 23:31:52]  <IllFlower> Just gotta figure out how to get all that out in a raise...
+[07-Jun-2014 23:33:16]  <ponicalica> maybe something like "I've seen what this kind of «fitness test» does.  I nearly drowned"
+[07-Jun-2014 23:34:15]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has joined #madokamadness
+[07-Jun-2014 23:34:35]  <Alicia> "You don't know what it's like to be on their side" sort of stuff?
+[07-Jun-2014 23:37:12]  <BGTB2005> Rin recalls the fitness tests she was put through. <insert essentially what poni suggested here>
+[07-Jun-2014 23:38:22]  <IllFlower> /nodnod
+[07-Jun-2014 23:38:24]  <IllFlower> Dice?
+[07-Jun-2014 23:38:30]  <BGTB2005> could her "Hates being wet 2d6 " be relevant here or no?
+[07-Jun-2014 23:40:01]  <IllFlower> She's not actually wet.
+[07-Jun-2014 23:40:45]  <IllFlower> Alas, perhaps if it were "hates being reminded of being wet."
+[07-Jun-2014 23:40:57]  <BGTB2005> @dice use 4 5
+[07-Jun-2014 23:40:57]  <Omnipresence> 14BGTB2005: Used 4 5 = 9. Bank now has 1 = 1.
+[07-Jun-2014 23:41:18]  <IllFlower> @dice
+[07-Jun-2014 23:41:18]  <Omnipresence> 14IllFlower: Bank has 1 3 3 3 3 6 6 = 25.
+[07-Jun-2014 23:41:55]  <IllFlower> "I'm sorry for what you've been through," Michi says, "but it's not my responsibility."
+[07-Jun-2014 23:41:58]  <IllFlower> @dice use 3 6
+[07-Jun-2014 23:41:58]  <Omnipresence> 14IllFlower: Used 3 6 = 9. Bank now has 1 3 3 3 6 = 16.
+[07-Jun-2014 23:43:16]  <IllFlower> "Surely you ought to know better than to take the anger of your past out on unrelated people? You're a Conservator, aren't you?"
+[07-Jun-2014 23:43:22]  <IllFlower> @dice use 1 6
+[07-Jun-2014 23:43:22]  <Omnipresence> 14IllFlower: Used 1 6 = 7. Bank now has 3 3 3 = 9.
+[07-Jun-2014 23:43:24]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:b1d1:d029:d72c:da60> has quit IRC (Quit: ChatZilla 0.9.90.1 [Firefox 29.0.1/20140506152807])
+[07-Jun-2014 23:43:31]  <IllFlower> Raise 7.
+[07-Jun-2014 23:44:21]  <ponicalica> sudden flashback to Shii and Ayako
+[07-Jun-2014 23:45:03]  <BGTB2005> "Tsubaki wasn't unrelated."
+[07-Jun-2014 23:45:37]  <IllFlower> Going to have to back that up with some dice...
+[07-Jun-2014 23:45:45]  <BGTB2005> I know
+[07-Jun-2014 23:45:58]  <BGTB2005> I had the reply, I just don't have the dice D:
+[07-Jun-2014 23:46:31]  <BGTB2005> could I roll her d10 or 2d4 relationship?
+[07-Jun-2014 23:46:31]  <IllFlower> Can't have one without the other.
+[07-Jun-2014 23:46:40]  <IllFlower> Perhaps it's time for her to add some fists.
+[07-Jun-2014 23:46:54]  <IllFlower> Did you roll the 1d6 for bluntness earlier?
+[07-Jun-2014 23:46:56]  *** Lin_Chong <~Lin_Chong@182.55.189.100> has joined #madokamadness
+[07-Jun-2014 23:47:05]  <BGTB2005> no...
+[07-Jun-2014 23:47:13]  <BGTB2005> should I?
+[07-Jun-2014 23:47:20]  <ponicalica> probably
+[07-Jun-2014 23:47:20]  <IllFlower> Don't see why not. That was pretty blunt.
+[07-Jun-2014 23:47:28]  <BGTB2005> @dice add d6
+[07-Jun-2014 23:47:28]  <Omnipresence> 14BGTB2005: Rolled 3 = 3. Bank now has 1 3 = 4.
+[07-Jun-2014 23:47:34]  <BGTB2005> fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+[07-Jun-2014 23:47:47]  <BGTB2005> talking done punching now
+[07-Jun-2014 23:48:03]  <IllFlower> kk, roll Bd+Wl.
+[07-Jun-2014 23:48:11]  <BGTB2005> @dice add 10d6
+[07-Jun-2014 23:48:11]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 3 3 3 4 4 4 6 = 31. Bank now has 1 1 1 2 3 3 3 3 4 4 4 6 = 35.
+[07-Jun-2014 23:48:28]  <IllFlower> @dice add 9d6
+[07-Jun-2014 23:48:28]  <Omnipresence> 14IllFlower: Rolled 1 1 3 4 4 5 6 6 6 = 36. Bank now has 1 1 3 3 3 3 4 4 5 6 6 6 = 45.
+[07-Jun-2014 23:49:50]  <IllFlower> Hm, I probably could have waited to do that, haha. Oh, well.
+[07-Jun-2014 23:49:56]  <BGTB2005> @dice use 3 4 >! see
+[07-Jun-2014 23:49:56]  <Omnipresence> 14: Used 3 4 = 7. Bank now has 1 1 1 2 3 3 3 4 4 6 = 28.
+[07-Jun-2014 23:50:38]  <BGTB2005> could I throw in her "Sticks to her strengths 1d6" since she's now escalating to physical violence?
+[07-Jun-2014 23:50:52]  <IllFlower> It looks like different parties can be at different arenas in the same conflict. Hm.
+[07-Jun-2014 23:51:03]  <IllFlower> BGTB2005: Go ahead.
+[07-Jun-2014 23:51:11]  <BGTB2005> @dice add d6
+[07-Jun-2014 23:51:11]  <Omnipresence> 14BGTB2005: Rolled 4 = 4. Bank now has 1 1 1 2 3 3 3 4 4 4 6 = 32.
+[07-Jun-2014 23:53:17]  <IllFlower> I presume the upcoming raise involves some fisticuffs.
+[07-Jun-2014 23:53:22]  <BGTB2005> yep
+[07-Jun-2014 23:54:05]  <BGTB2005> Rin lunges at Michi, an arm drawn back to deliver a punch
+[07-Jun-2014 23:54:18]  <BGTB2005> @dice use 4 6
+[07-Jun-2014 23:54:18]  <Omnipresence> 14BGTB2005: Used 4 6 = 10. Bank now has 1 1 1 2 3 3 3 4 4 = 22.
+[07-Jun-2014 23:55:06]  <IllFlower> Michi calmly dodges backward and out of reach.
+[07-Jun-2014 23:55:19]  <IllFlower> @dice use 4 6
+[07-Jun-2014 23:55:19]  <Omnipresence> 14IllFlower: Used 4 6 = 10. Bank now has 1 1 3 3 3 3 4 5 6 6 = 35.
+[07-Jun-2014 23:56:02]  <IllFlower> Standing next to home plate, she lets Rin stumble past and brings her elbow down hard on Rin's back.
+[07-Jun-2014 23:56:07]  <IllFlower> @dice use 5 6
+[07-Jun-2014 23:56:07]  <Omnipresence> 14IllFlower: Used 5 6 = 11. Bank now has 1 1 3 3 3 3 4 6 = 24.
+[07-Jun-2014 23:56:10]  <IllFlower> Raise 11.
+[07-Jun-2014 23:58:08]  <IllFlower> Running close to time. We'll finish up this conflict and continue from there next time.
+[07-Jun-2014 23:58:47]  <BGTB2005> bah wrong window was focused again
+[07-Jun-2014 23:59:01]  <BGTB2005> @dice use 3 4 4
+[07-Jun-2014 23:59:01]  <Omnipresence> 14BGTB2005: Used 3 4 4 = 11. Bank now has 1 1 1 2 3 3 = 11.
+[08-Jun-2014 00:00:08]  <BGTB2005> Taking the blow, Rin tumbled to the ground
+[08-Jun-2014 00:00:22]  <IllFlower> +3d8 fallout.
+[08-Jun-2014 00:00:31]  <BGTB2005> things are not going well for Rin
+[08-Jun-2014 00:00:35]  <IllFlower> Total of 3d4 3d8 so far.
+[08-Jun-2014 00:01:19]  <Alicia> Meanwhile, Hikari and Ayako alternate between sighing and cringing.
+[08-Jun-2014 00:01:42]  <IllFlower> lol
+[08-Jun-2014 00:03:16]  <ponicalica> Ayako possibly repeating to herself "the elders trust her judgment"
+[08-Jun-2014 00:04:30]  <Alicia> "I doubt Michi will rough her up too bad, at least, Ayako."
+[08-Jun-2014 00:04:37]  <Alicia> (mentally: "I think...")
+[08-Jun-2014 00:06:41]  <IllFlower> Anything for a raise?
+[08-Jun-2014 00:07:15]  <ponicalica> remember that you have dice, and you can bring in things like your cannon (though escalating to magic again won't net you more dice I think)
+[08-Jun-2014 00:07:54]  <IllFlower> Yeah, we've used all of our stat dice.
+[08-Jun-2014 00:08:28]  <ponicalica> which means the main effect of pulling out the cannon and fire would mean d10 fallout, lol
+[08-Jun-2014 00:08:29]  <BGTB2005> Could she use her cannon as a blunt instrument?
+[08-Jun-2014 00:09:00]  <IllFlower> That's not really what it's designed for...
+[08-Jun-2014 00:09:16]  <Alicia> Hikari sighs. "That's not how you use it, even with something like that..."
+[08-Jun-2014 00:09:25]  <Alicia> (Ayako reprimands her. "Not the point!")
+[08-Jun-2014 00:09:25]  <ponicalica> She could possibly improvise a weapon too
+[08-Jun-2014 00:10:20]  <BGTB2005> I was thinking using the cannon /as/ the improvised weapon
+[08-Jun-2014 00:11:31]  <BGTB2005> or would I not get the normal dice for it as well?
+[08-Jun-2014 00:11:39]  <IllFlower> You'd get 1d6 maximum, since that's not its intended use. Really, might be 1d4 considering it's "dumb, desperate, or dangerous."
+[08-Jun-2014 00:11:54]  <ponicalica> I'd just grab a baseball bat, myself
+[08-Jun-2014 00:12:05]  <Alicia> Runs over, steals Hikari's staff.
+[08-Jun-2014 00:12:12]  <IllFlower> Someone finally thinks of baseball bats, lol.
+[08-Jun-2014 00:12:29]  <ponicalica> save the cannon for when you're desperate enough to want to inflict d10 fallout on Michi
+[08-Jun-2014 00:12:29]  <IllFlower> I was going to use one last time, but I just gave that conflict up instead.
+[08-Jun-2014 00:15:12]  <IllFlower> At least I got baseball grenades in. Those were fun.
+[08-Jun-2014 00:15:29]  <Alicia> Ow.
+[08-Jun-2014 00:15:37]  <BGTB2005> searching for something to use, Rin grabs a baseball bat conveniently lying in arm's reach and swings it at Michi
+[08-Jun-2014 00:15:53]  <BGTB2005> would the bat be a 1d6 or 1d4 improvised weapon?
+[08-Jun-2014 00:16:09]  <ponicalica> probably 1d6.  baseball bats are decent at being weapons
+[08-Jun-2014 00:16:12]  <IllFlower> Yeah.
+[08-Jun-2014 00:16:25]  <BGTB2005> @dice add d6
+[08-Jun-2014 00:16:25]  <Omnipresence> 14BGTB2005: Rolled 1 = 1. Bank now has 1 1 1 1 2 3 3 = 12.
+[08-Jun-2014 00:16:32]  <BGTB2005> well fuck
+[08-Jun-2014 00:16:32]  <IllFlower> Welp.
+[08-Jun-2014 00:16:54]  <ponicalica> @dice show IllFlower 
+[08-Jun-2014 00:16:54]  <Omnipresence> 14ponicalica: Bank has 1 1 3 3 3 3 4 6 = 24.
+[08-Jun-2014 00:17:03]  <IllFlower> :D
+[08-Jun-2014 00:17:05]  <BGTB2005> yeah this is going to hurt
+[08-Jun-2014 00:17:14]  <ponicalica> I still say escalate to magic and bring in the cannon :P
+[08-Jun-2014 00:17:24]  <BGTB2005> @dice use 3 3
+[08-Jun-2014 00:17:24]  <Omnipresence> 14BGTB2005: Used 3 3 = 6. Bank now has 1 1 1 1 2 = 6.
+[08-Jun-2014 00:17:50]  <BGTB2005> and if Rin feels it's desperate enough, she'll do so to win :V
+[08-Jun-2014 00:18:09]  <ponicalica> well Michi can Reverse which means welp
+[08-Jun-2014 00:18:14]  <BGTB2005> yeah
+[08-Jun-2014 00:19:13]  <Alicia> Hikari steams, figuring she could have taken Michi on, had it been one on one.
+[08-Jun-2014 00:19:21]  <Alicia> ("No, get over it.")
+[08-Jun-2014 00:19:22]  <BGTB2005> anyways, going to go get ice cream
+[08-Jun-2014 00:19:30]  <ponicalica> oh, you could actually bring in Hikari as dice
+[08-Jun-2014 00:19:41]  <Alicia> :?
+[08-Jun-2014 00:19:50]  <IllFlower> Michi easily avoids Rin's swing, the poor follow-through allowing her to grab onto the bat. She uses the momentum to swing Rin around, and delivers a kick to her stomach.
+[08-Jun-2014 00:19:56]  <IllFlower> @dice use 6
+[08-Jun-2014 00:19:56]  <Omnipresence> 14IllFlower: Used 6 = 6. Bank now has 1 1 3 3 3 3 4 = 18.
+[08-Jun-2014 00:20:02]  <IllFlower> @dice use 3
+[08-Jun-2014 00:20:02]  <Omnipresence> 14IllFlower: Used 3 = 3. Bank now has 1 1 3 3 3 4 = 15.
+[08-Jun-2014 00:20:15]  <IllFlower> See 6, raise (6)+3 = 9.
+[08-Jun-2014 00:20:29]  <ponicalica> Alicia: non-participants can do things if they want, but they have to be used effectively as improvised weapons
+[08-Jun-2014 00:20:37]  <ponicalica> you might even be able to be 2d6 because you're awesome :P
+[08-Jun-2014 00:20:47]  <ponicalica> and since Rin doesn't have dice for you
+[08-Jun-2014 00:20:59]  <ponicalica> (if she brought in Ayako, it'd have to be with her relationship dice, so d4, lol)
+[08-Jun-2014 00:21:03]  <IllFlower> Hikari's a Conservator.
+[08-Jun-2014 00:21:04]  <BGTB2005> yeah
+[08-Jun-2014 00:21:13]  <IllFlower> That'd be 1d10.
+[08-Jun-2014 00:21:15]  <ponicalica> IllFlower: Oh, so it'd get those dice?  Makes sense
+[08-Jun-2014 00:21:38]  <IllFlower> Yeah.
+[08-Jun-2014 00:21:41]  <Alicia> ponicalica, IllFlower: Oh, right. Yeah I was just curious how Hikari'd be flung in, since it was 1v1 and such.
+[08-Jun-2014 00:21:49]  <IllFlower> For once we're using the Conservator relationship the way it was intended to be used!
+[08-Jun-2014 00:22:16]  <BGTB2005> huzzah
+[08-Jun-2014 00:23:01]  <Alicia> "Help me, I helped you!" "I thought you wanted to -" "- HELP, damn it!"
+[08-Jun-2014 00:23:02]  <IllFlower> You'll have to describe what the other two girls do to help before you bring in that die, though.
+[08-Jun-2014 00:26:39]  <BGTB2005> guys help?
+[08-Jun-2014 00:28:29]  <ponicalica> Probably Hikari runs in to grab the kick or something?
+[08-Jun-2014 00:29:06]  <BGTB2005> Or pulls Rin out of the way?
+[08-Jun-2014 00:29:39]  <ponicalica> yeah, that might work
+[08-Jun-2014 00:31:30]  <Alicia> Yeah, that seems pretty her.
+[08-Jun-2014 00:31:41]  <Alicia> So do I describe, or.
+[08-Jun-2014 00:31:51]  <BGTB2005> yeah how does this work
+[08-Jun-2014 00:32:09]  <IllFlower> BGTB2005 should feel free to make something up.
+[08-Jun-2014 00:32:37]  <Alicia> Mkay. However you feel Hikari would help, then, BGTB2005.
+[08-Jun-2014 00:33:08]  <BGTB2005> Running quickly to help, Hikari pulls Rin out of range
+[08-Jun-2014 00:33:35]  <BGTB2005> @dice add d10
+[08-Jun-2014 00:33:35]  <Omnipresence> 14BGTB2005: Rolled 7 = 7. Bank now has 1 1 1 1 2 7 = 13.
+[08-Jun-2014 00:33:41]  <ponicalica> not bad
+[08-Jun-2014 00:33:46]  <BGTB2005> yes thank you
+[08-Jun-2014 00:34:46]  <BGTB2005> do I need to describe anything else or will that work as the see?
+[08-Jun-2014 00:34:57]  <ponicalica> you need to pick which dice to use
+[08-Jun-2014 00:34:57]  <Alicia> Go Hikari.
+[08-Jun-2014 00:35:01]  <ponicalica> either 117 or 27
+[08-Jun-2014 00:35:07]  <BGTB2005> @dice use 2 7
+[08-Jun-2014 00:35:07]  <Omnipresence> 14BGTB2005: Used 2 7 = 9. Bank now has 1 1 1 1 = 4.
+[08-Jun-2014 00:35:20]  <ponicalica> and now you'll probably want to bring in something else for your raise
+[08-Jun-2014 00:35:29]  <ponicalica> like fire or a cannon
+[08-Jun-2014 00:36:08]  <BGTB2005> really tempted to do that
+[08-Jun-2014 00:36:45]  <BGTB2005> because the stakes apparently mean that much to Rin
+[08-Jun-2014 00:36:52]  <ponicalica> If they do, then bring 'em out
+[08-Jun-2014 00:37:22]  * IllFlower waits expectantly
+[08-Jun-2014 00:37:23]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has quit IRC (Remote host closed the connection)
+[08-Jun-2014 00:38:53]  <BGTB2005> Backing off to create some distance, Rin summons and readies her cannon
+[08-Jun-2014 00:39:21]  <BGTB2005> ...should I have declared an intent to escalate?
+[08-Jun-2014 00:39:28]  <ponicalica> nah, escalation isn't relevant anymore
+[08-Jun-2014 00:39:34]  <ponicalica> since fallout depends on what sort of damage the raise would cause
+[08-Jun-2014 00:39:46]  <BGTB2005> even though it would have brought in no additional stat dice?
+[08-Jun-2014 00:40:13]  <BGTB2005> @dice add 2d6 1d4 >! cannon
+[08-Jun-2014 00:40:13]  <Omnipresence> 14: Rolled 1 4 4 = 9. Bank now has 1 1 1 1 1 4 4 = 13.
+[08-Jun-2014 00:40:44]  <IllFlower> Yeah, essentially what ponicalica said.
+[08-Jun-2014 00:41:40]  <IllFlower> Hm, at least the dice aren't all 1s now.
+[08-Jun-2014 00:42:05]  <BGTB2005> Taking aim, Rin fires a single shot at Michi
+[08-Jun-2014 00:42:17]  <BGTB2005> @dice use 4 4
+[08-Jun-2014 00:42:17]  <Omnipresence> 14BGTB2005: Used 4 4 = 8. Bank now has 1 1 1 1 1 = 5.
+[08-Jun-2014 00:42:30]  <BGTB2005> ...and now they are again
+[08-Jun-2014 00:42:33]  <IllFlower> This seems like a good time to use some barrier magic.
+[08-Jun-2014 00:42:36]  <IllFlower> @dice add 2d10
+[08-Jun-2014 00:42:36]  <Omnipresence> 14IllFlower: Rolled 1 3 = 4. Bank now has 1 1 1 3 3 3 3 4 = 19.
+[08-Jun-2014 00:42:41]  <ponicalica> :D
+[08-Jun-2014 00:42:49]  <BGTB2005> brb, getting ice cream
+[08-Jun-2014 00:42:56]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has joined #madokamadness
+[08-Jun-2014 00:43:33]  <IllFlower> Hm, right.
+[08-Jun-2014 00:45:03]  <IllFlower> Not willing to take any chances, Michi pulls out as many of the stops as she can.
+[08-Jun-2014 00:45:49]  <IllFlower> She calls out to Saki, who attempts to deflect the cannonball with her explosive magic, before casting a barrier and vanishing into thin air.
+[08-Jun-2014 00:45:59]  <IllFlower> @dice add 2d8 1d10
+[08-Jun-2014 00:45:59]  <Omnipresence> 14IllFlower: Rolled 2 6 7 = 15. Bank now has 1 1 1 2 3 3 3 3 4 6 7 = 34.
+[08-Jun-2014 00:47:30]  <ponicalica> welp
+[08-Jun-2014 00:47:38]  <IllFlower> The cannonball smashes directly into the spot where Michi was standing not a moment before, leaving a crater where home plate was.
+[08-Jun-2014 00:47:45]  <IllFlower> @dice use 2 6
+[08-Jun-2014 00:47:45]  <Omnipresence> 14IllFlower: Used 2 6 = 8. Bank now has 1 1 1 3 3 3 3 4 7 = 26.
+[08-Jun-2014 00:48:14]  <ponicalica> there's basically no way Rin is winning this
+[08-Jun-2014 00:50:33]  <IllFlower> Suddenly, several copies of Michi appear around Rin. All of them brandish a wand and, with a brief incantation, simultaneously lunge towards Rin at the center of the circle.
+[08-Jun-2014 00:50:37]  <IllFlower> @dice add 1d10
+[08-Jun-2014 00:50:37]  <Omnipresence> 14IllFlower: Rolled 9 = 9. Bank now has 1 1 1 3 3 3 3 4 7 9 = 35.
+[08-Jun-2014 00:50:42]  <IllFlower> @dice use 7 9
+[08-Jun-2014 00:50:42]  <Omnipresence> 14IllFlower: Used 7 9 = 16. Bank now has 1 1 1 3 3 3 3 4 = 19.
+[08-Jun-2014 00:51:19]  <Alicia> Damn.
+[08-Jun-2014 00:51:27]  <ponicalica> She's not holding back.
+[08-Jun-2014 00:51:55]  <IllFlower> "Can I assign my remaining 1d10 relationship to death? Seems pretty relevant." ;)
+[08-Jun-2014 00:55:03]  <Alicia> Ow.
+[08-Jun-2014 00:55:12]  <Buttercupistiny> D:
+[08-Jun-2014 00:55:45]  <Alicia> I uhm think Hikari and Ayako will need to help Rin afterwards.
+[08-Jun-2014 00:56:18]  <IllFlower> Given that everything else Rin has maxes out at d8, the only way to get out of this without taking fallout is to roll 8 8. I try not to be too pushy, but Rin might want to reconsider her position!
+[08-Jun-2014 00:59:21]  <ponicalica> IllFlower: of course, Rin would probably take the fallout.
+[08-Jun-2014 01:02:07]  <Alicia> And thus Ayako and Hikari carry Rin to the nearest hospital/place to rest.
+[08-Jun-2014 01:04:55]  <Alicia> But yeah I think Rin might want to just... take it.
+[08-Jun-2014 01:17:42]  <Alicia> ping pong
+[08-Jun-2014 01:17:56]  <BGTB2005> yeah
+[08-Jun-2014 01:18:37]  <Alicia> Fold, or..?
+[08-Jun-2014 01:20:03]  <BGTB2005> let's see where these next dice go...
+[08-Jun-2014 01:20:19]  * IllFlower makes a scheming smile
+[08-Jun-2014 01:23:15]  <BGTB2005> Rin responds with an incantation of her own, surrounding herself with a barrier of fire
+[08-Jun-2014 01:23:25]  <BGTB2005> @dice add 2d8 >! fire elemental
+[08-Jun-2014 01:23:25]  <Omnipresence> 14: Rolled 4 5 = 9. Bank now has 1 1 1 1 1 4 5 = 14.
+[08-Jun-2014 01:23:34]  <BGTB2005> god damnit
+[08-Jun-2014 01:23:50]  <ponicalica> if it doesn't work, use more fire? :P
+[08-Jun-2014 01:24:09]  <ponicalica> that is, if you really want to take 8d10 fallout
+[08-Jun-2014 01:24:17]  <BGTB2005> hahahahahano
+[08-Jun-2014 01:24:21]  <BGTB2005> Fold
+[08-Jun-2014 01:24:35]  <IllFlower> That's that, then.
+[08-Jun-2014 01:24:37]  <IllFlower> @dice clear
+[08-Jun-2014 01:24:37]  <Omnipresence> 14IllFlower: Bank cleared.
+[08-Jun-2014 01:24:43]  <ponicalica> Fallout was 3d4 3d8, right?
+[08-Jun-2014 01:24:56]  <BGTB2005> I believe so
+[08-Jun-2014 01:25:01]  <IllFlower> Indeed it was.
+[08-Jun-2014 01:25:14]  <IllFlower> Go ahead and roll for that, if you please.
+[08-Jun-2014 01:25:18]  <BGTB2005> @dice roll 3d4 3d8
+[08-Jun-2014 01:25:18]  <Omnipresence> 14BGTB2005: Rolled 1 2 3 4 4 7 = 21.
+[08-Jun-2014 01:25:21]  <IllFlower> 11.
+[08-Jun-2014 01:25:36]  <Alicia> The important cutoff is 12 though, right?
+[08-Jun-2014 01:25:43]  <ponicalica> yeah
+[08-Jun-2014 01:25:43]  <IllFlower> That's one off the long-term list, and an experience fallout item.
+[08-Jun-2014 01:25:52]  <IllFlower> No risk of death.
+[08-Jun-2014 01:26:19]  <IllFlower> @dice roll 4d6 >! just for the hell of it, though
+[08-Jun-2014 01:26:19]  <Omnipresence> 14: Rolled 1 1 4 6 = 12.
+[08-Jun-2014 01:26:35]  <IllFlower> 11 again. lol.
+[08-Jun-2014 01:26:52]  <IllFlower> Okay, might as well take the opportunity to work on everyone's outstanding fallout.
+[08-Jun-2014 01:27:03]  <IllFlower> Alicia, you have a long-term item as well.
+[08-Jun-2014 01:27:18]  <Alicia> Is that one long-term experience fallout, you mean.
+[08-Jun-2014 01:27:31]  <IllFlower> ponicalica, you get to pantomime brushing dirt off your shoulder like this was nothing.
+[08-Jun-2014 01:27:50]  <IllFlower> Alicia: No, experience and long-term fallout are two separate things.
+[08-Jun-2014 01:28:01]  <BGTB2005> one long term (11) plus one experience (rolled a 1)
+[08-Jun-2014 01:28:17]  <IllFlower> You can look at page 82 of the manual for the list.
+[08-Jun-2014 01:29:13]  <Alicia> IllFlower: I was thinking 1d4 ~~~> 2d4 cracks under conflict?
+[08-Jun-2014 01:29:44]  <IllFlower> Hm, she took the fallout trying to defend Ayako, right?
+[08-Jun-2014 01:29:51]  <Alicia> Yes.
+[08-Jun-2014 01:30:11]  <Alicia> Hm. So probably "1d4 reckless"?
+[08-Jun-2014 01:30:11]  <IllFlower> Yeah, that's reasonable.
+[08-Jun-2014 01:30:16]  <IllFlower> Or that as well.
+[08-Jun-2014 01:30:35]  <Alicia> I'll just add 1d4 reckless, then. It fits, especially given her follow up response to Michi.
+[08-Jun-2014 01:30:47]  <Alicia> Not to say she eas particularly convincing, but that's something else.
+[08-Jun-2014 01:31:05]  <IllFlower> Hahaha.
+[08-Jun-2014 01:31:06]  <IllFlower> Done.
+[08-Jun-2014 01:31:28]  <Alicia> was*
+[08-Jun-2014 01:31:59]  <ponicalica> Alicia: I don't think anyone was particularly convincing arguing with Michi :p
+[08-Jun-2014 01:32:03]  <IllFlower> BGTB2005?
+[08-Jun-2014 01:32:37]  <IllFlower> I'd take a look at that overkill trait for the long-term fallout. But that's just me.
+[08-Jun-2014 01:33:44]  <Alicia> ponicalica: Fair point.
+[08-Jun-2014 01:34:47]  <BGTB2005> for the 1d4 trait, "Willing to go to extreme lengths to accomplish her goals (at the expense of all else)"?
+[08-Jun-2014 01:35:13]  <IllFlower> That sounds like the existing trait.
+[08-Jun-2014 01:35:33]  <IllFlower> You might just change that to a d4 trait from d6.
+[08-Jun-2014 01:39:36]  * Alicia has spent this time primarily going over situations in her head of how this would be afterwards. Hikari would be a combination of agitated and sad, buuut leading the way to a healing spot so no one sees. Alt: making sure Rin is fine, with Ayako.
+[08-Jun-2014 01:39:45]  * Alicia also think Ayako's probably just sighing.
+[08-Jun-2014 01:39:50]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has left #madokamadness
+[08-Jun-2014 01:44:37]  <IllFlower> You should take a look at what to do for your experience item as well.
+[08-Jun-2014 01:45:00]  <ponicalica> what did Rin learn from this battle with Michi
+[08-Jun-2014 01:45:10]  <BGTB2005> Bring backup
+[08-Jun-2014 01:45:31]  <Alicia> Sometimes you'll get owned? :p
+[08-Jun-2014 01:47:20]  <BGTB2005> "Sticks to her strengths" 1d6 -> 1d4 for long-term?
+[08-Jun-2014 01:48:59]  <IllFlower> Sounds good.
+[08-Jun-2014 01:52:48]  <IllFlower> Something relationship-related seems apropos for the experience.
+[08-Jun-2014 02:00:02]  <IllFlower> Anybody?
+[08-Jun-2014 02:00:51]  <Alicia> Adding something related to Hikari or Ayako makes sense to me, since she actually worked like a team with them. Kind of.
+[08-Jun-2014 02:02:39]  <IllFlower> She tried.
+[08-Jun-2014 02:02:56]  <BGTB2005> she provided air support
+[08-Jun-2014 02:03:39]  <IllFlower> That 1d4 with Ayako looks like a ripe target.
+[08-Jun-2014 02:03:56]  <Alicia> Ayako's just helping everyone today, isn't she.
+[08-Jun-2014 02:04:30]  <IllFlower> Or you could add an (n+1)d6 relationship with Hikari or something.
+[08-Jun-2014 02:07:43]  <Alicia> Reminds me, Hikari actually doesn't have many relationship dice, heh.
+[08-Jun-2014 02:11:08]  <BGTB2005> A 2d6 relationship with Hikari, perhaps? (assigning one of two unassigned d6 and adding a d6 to it)
+[08-Jun-2014 02:11:59]  <IllFlower> Sold.
+[08-Jun-2014 02:12:33]  <Alicia> Rin made a friend!
+[08-Jun-2014 02:12:44]  <BGTB2005> yay
+[08-Jun-2014 02:12:59]  <IllFlower> Okay, we've gotta clear the scene, and we'll be all done.
+[08-Jun-2014 02:13:38]  <Alicia> Cool.
+[08-Jun-2014 02:15:23]  <IllFlower> In the instant before her attack is to connect, Michi sees a look of panic flash across Rin's face. Her wand stops mere inches from the tip of Rin's nose.
+[08-Jun-2014 02:16:09]  <IllFlower> She stares into Rin's eyes, her breathing labored, as her mirror illusion collapses.
+[08-Jun-2014 02:17:37]  <IllFlower> Finally, Michi dematerializes the wand with a flick of her wrist.
+[08-Jun-2014 02:18:15]  <IllFlower> "Please leave," she says, her gaze not once straying.
+[08-Jun-2014 02:21:51]  <IllFlower> **
+[08-Jun-2014 02:21:59]  <Alicia> Hikari rests a hand on Rin's shoulder. "We've done enough, staying here won't change anything."
+[08-Jun-2014 02:27:28]  <IllFlower> I'll go ahead and close this out, for the sake of time.
+[08-Jun-2014 02:27:45]  <Alicia> Okay.
+[08-Jun-2014 02:28:25]  <IllFlower> Rin simply stares at Michi for a while, before eventually turning to join the other Conservators.
+[08-Jun-2014 02:29:41]  <IllFlower> Michi goes back to the dugout, from where the remainder of Nyoma's initiates emerge.
+[08-Jun-2014 02:30:03]  <IllFlower> Cue aerial tracking shot showing the damage done to the baseball field.
+[08-Jun-2014 02:30:17]  *** MobileAvenue <~CentralAv@cpe-65-24-229-198.insight.res.rr.com> has quit IRC (Quit: MobileAvenue)
+[08-Jun-2014 02:30:19]  <Alicia> ("No, really, we've done enough.")
+[08-Jun-2014 02:30:23]  <IllFlower> And cut. We'll pick up again next week. Thanks for playing, all of you.

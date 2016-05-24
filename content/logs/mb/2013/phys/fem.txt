@@ -1,0 +1,12 @@
+#wt ht name
+72 185 Snezana
+66 181 Kaede
+56 166 Namie
+59 164 Kei
+47 162 Yuna
+55 161 Miaka
+53 159 Haruka
+49 155 Sumire
+46 153 Hikaru
+48 151 Makoto
+68 150 Yui

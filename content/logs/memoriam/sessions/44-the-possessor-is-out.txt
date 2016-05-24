@@ -1,0 +1,430 @@
+[21-Jun-2015 19:59:08]  <IllFlower> Okay, so when we left our heroes, one of them was dying.
+[21-Jun-2015 19:59:09]  <IllFlower> Heroically.
+[21-Jun-2015 19:59:46]  *** IllFlower changes topic to https://room208.org/wiki/events | RIGHT NOW: "I'm not dead yet!"
+[21-Jun-2015 19:59:54]  <Calica> rip ayako
+[21-Jun-2015 20:00:01]  <Rig> We need someone to save Ayako then?
+[21-Jun-2015 20:00:06]  <IllFlower> Who's going to try and keep her from dying?
+[21-Jun-2015 20:00:11]  <Icon> I think Rin was going to try?
+[21-Jun-2015 20:00:16]  <Icon> Rin2005
+[21-Jun-2015 20:00:19]  <Calica> yeah, Rin was going to try I think
+[21-Jun-2015 20:00:23]  <BGTB2005> yeah
+[21-Jun-2015 20:01:05]  <Nitya> 1,1i hear nitroglycerin is useful for restarting hearts.
+[21-Jun-2015 20:01:19]  <IllFlower> Okay. It'll be Rin's Ac plus Ayako's Bd for you.
+[21-Jun-2015 20:01:42]  <IllFlower> Oh, and the 2d4 relationship, I suppose.
+[21-Jun-2015 20:02:00]  <BGTB2005> @dice new 9d6 2d4
+[21-Jun-2015 20:02:00]  <Omnipresence> 14BGTB2005: Rolled 1 2 2 2 2 3 4 4 4 5 5 = 34. Bank now has 1 2 2 2 2 3 4 4 4 5 5 = 34.
+[21-Jun-2015 20:02:06]  <IllFlower> @dice new 3d4 3d10 5d10
+[21-Jun-2015 20:02:06]  <Omnipresence> 14IllFlower: Rolled 1 4 4 4 4 4 5 6 8 9 9 = 58. Bank now has 1 4 4 4 4 4 5 6 8 9 9 = 58.
+[21-Jun-2015 20:02:12]  <BGTB2005> :|
+[21-Jun-2015 20:02:13]  <Rig> Gross.
+[21-Jun-2015 20:02:17]  <Calica> rip
+[21-Jun-2015 20:02:21]  <BGTB2005> :<
+[21-Jun-2015 20:02:28]  <Rig> I guess we're having a funeral
+[21-Jun-2015 20:02:37]  <Icon> Ow.
+[21-Jun-2015 20:03:10]  <IllFlower> I'll raise first. Ayako is bleeding from the ears.
+[21-Jun-2015 20:03:20]  <IllFlower> @dice use 9 4
+[21-Jun-2015 20:03:20]  <Omnipresence> 14IllFlower: Used 4 9 = 13. Bank now has 1 4 4 4 4 5 6 8 9 = 45.
+[21-Jun-2015 20:03:37]  <BGTB2005> D:
+[21-Jun-2015 20:04:26]  <IllFlower> Rig: You have 1 1 2 fallout from last session, so can you work out what you're doing for that while we run this conflict?
+[21-Jun-2015 20:04:34]  <Rig> Sure.
+[21-Jun-2015 20:05:01]  <Calica> BGTB2005: use your fire powers, cauterize the ear wounds </terribleideas>
+[21-Jun-2015 20:06:30]  <IllFlower> This is only d6 fallout.
+[21-Jun-2015 20:06:59]  <IllFlower> You can also ask one of the other Conservators with thom you have a relationship for help.
+[21-Jun-2015 20:07:23]  <Calica> i.e. 2d6 for Hikari and 1d6 for Kazuki
+[21-Jun-2015 20:07:48]  *** Medicine <~Vick@d67-193-23-119.home3.cgocable.net> has quit IRC (Ping timeout: 206 seconds)
+[21-Jun-2015 20:07:50]  <Rig> Kazuki turns away from Murata, who is still grappling with her own pain and heads over to check on Ayako.
+[21-Jun-2015 20:08:08]  <BGTB2005> asking Hikari for help looks like a good option
+[21-Jun-2015 20:08:22]  <Calica> also it's only d6 fallout so taking this blow isn't a bad idea
+[21-Jun-2015 20:08:32]  <BGTB2005> true
+[21-Jun-2015 20:08:51]  *** SpruceZeus <~chatzilla@232.166-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[21-Jun-2015 20:08:52]  <Icon> I don't see why Hikari wouldn't offer to help.
+[21-Jun-2015 20:09:12]  <Icon> But, I'm not big teebee
+[21-Jun-2015 20:09:23]  <BGTB2005> is flailing about in a minor panic a valid see?
+[21-Jun-2015 20:09:35]  <IllFlower> Yes. Especially if you're taking the blow.
+[21-Jun-2015 20:09:37]  <Rig> For taking a blow I would think so.
+[21-Jun-2015 20:11:03]  <BGTB2005> Seeing the state Ayako's in, Rin panics briefly
+[21-Jun-2015 20:11:31]  <BGTB2005> @dice use 4 4 5
+[21-Jun-2015 20:11:31]  <Omnipresence> 14BGTB2005: Used 4 4 5 = 13. Bank now has 1 2 2 2 2 3 4 5 = 21.
+[21-Jun-2015 20:12:54]  <IllFlower> 3d6 fallout.
+[21-Jun-2015 20:12:59]  <IllFlower> Your raise.
+[21-Jun-2015 20:13:59]  <BGTB2005> Taking a few moments to compose herself, she begins reciting a healing chant.
+[21-Jun-2015 20:14:19]  <Rig> I wonder if you can pull in the helping people w/o violence trait.
+[21-Jun-2015 20:14:37]  <BGTB2005> I think so?
+[21-Jun-2015 20:14:38]  <IllFlower> Is it just me, or do we spend a lot of time healing our healer?
+[21-Jun-2015 20:14:39]  <Calica> Rig: only if she doesn't start punching the witches out of ayako
+[21-Jun-2015 20:15:06]  <Icon> IllFlower: We would not function well in a raid.
+[21-Jun-2015 20:15:06]  <Nitya> 14,14that's how a tank works, illflower-kun.
+[21-Jun-2015 20:15:11]  <BGTB2005> I don't think anyone knows about Ayako's witch
+[21-Jun-2015 20:16:14]  <Rig> I find it pretty weird that the character built specifically to not do well in actual fights is the only one who didn't take any blows during the magic fight.
+[21-Jun-2015 20:16:28]  <BGTB2005> but can i roll the d6 for that trait?
+[21-Jun-2015 20:16:50]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:6048:ccc0:1e1b:de10> has quit IRC (Read error: Connection reset by peer)
+[21-Jun-2015 20:17:02]  <IllFlower> BGTB2005: Sure.
+[21-Jun-2015 20:17:15]  <IllFlower> Rig: This group is full of irony.
+[21-Jun-2015 20:17:19]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:6048:ccc0:1e1b:de10> has joined #madokamadness
+[21-Jun-2015 20:17:22]  *** Rig_ <~Iverum@2601:805:0:4652:1cb3:b048:2a7d:4dd7> has joined #madokamadness
+[21-Jun-2015 20:17:29]  *** Rig <~Iverum@2601:805:0:4652:594:6c6e:b69b:d85b> has quit IRC (Killed (NickServ (GHOST command used by Rig_!~Iverum@2601:805:0:4652:1cb3:b048:2a7d:4dd7)))
+[21-Jun-2015 20:17:32]  *** Rig_ is now known as Rig
+[21-Jun-2015 20:17:38]  *** ChanServ sets mode: +o Rig
+[21-Jun-2015 20:17:45]  <BGTB2005> @dice add d6 >! non-violent aid
+[21-Jun-2015 20:17:45]  <Omnipresence> 14: Rolled 3 = 3. Bank now has 1 2 2 2 2 3 3 4 5 = 24.
+[21-Jun-2015 20:18:44]  *** Rig_ <~Iverum@2601:805:0:4652:ec00:7121:647e:9305> has joined #madokamadness
+[21-Jun-2015 20:18:44]  <BGTB2005> ...i wonder how well the witch is going to like someone using magic on its host?
+[21-Jun-2015 20:18:58]  <Calica> we'll see, won't we
+[21-Jun-2015 20:19:10]  <IllFlower> BGTB2005: What are you thinking of?
+[21-Jun-2015 20:19:53]  <BGTB2005> @dice use 3 4
+[21-Jun-2015 20:19:53]  <Omnipresence> 14BGTB2005: Used 3 4 = 7. Bank now has 1 2 2 2 2 3 5 = 17.
+[21-Jun-2015 20:20:32]  <BGTB2005> IllFlower: nothing really, just thinking aloud
+[21-Jun-2015 20:21:20]  *** Rig <~Iverum@2601:805:0:4652:1cb3:b048:2a7d:4dd7> has quit IRC (Ping timeout: 206 seconds)
+[21-Jun-2015 20:21:32]  <IllFlower> Oh dear.
+[21-Jun-2015 20:23:02]  *** Rig_ is now known as Rig
+[21-Jun-2015 20:23:08]  *** ChanServ sets mode: +o Rig
+[21-Jun-2015 20:24:38]  <Rig> Hopefully whatever is causing my disconnects will wait a bit.
+[21-Jun-2015 20:25:34]  <Calica> BGTB2005: was that 3 4 for a healing chant?
+[21-Jun-2015 20:25:38]  <BGTB2005> yes
+[21-Jun-2015 20:26:21]  <IllFlower> Rin's healing energy begins to coalesce as a sparkling cloud, but something goes wrong and it quickly begins to darken as it descends on Ayako.
+[21-Jun-2015 20:26:24]  <IllFlower> @dice use 8
+[21-Jun-2015 20:26:24]  <Omnipresence> 14IllFlower: Used 8 = 8. Bank now has 1 4 4 4 4 5 6 9 = 37.
+[21-Jun-2015 20:28:06]  <IllFlower> The cloud convulses with electricity, shocking the two girls.
+[21-Jun-2015 20:28:09]  <IllFlower> @dice use 4
+[21-Jun-2015 20:28:09]  <Omnipresence> 14IllFlower: Used 4 = 4. Bank now has 1 4 4 4 5 6 9 = 33.
+[21-Jun-2015 20:28:12]  <IllFlower> Raise 12.
+[21-Jun-2015 20:28:50]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:6048:ccc0:1e1b:de10> has quit IRC (Read error: Connection reset by peer)
+[21-Jun-2015 20:29:18]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:6048:ccc0:1e1b:de10> has joined #madokamadness
+[21-Jun-2015 20:29:18]  <Calica> time to bring in Hikari or Kazuki to deflect the electricity?
+[21-Jun-2015 20:29:21]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:6048:ccc0:1e1b:de10> has quit IRC (Client Quit)
+[21-Jun-2015 20:29:53]  <Icon> Kazuki seems more adept at deflection. Hikari'd probably just, like, shoot it away somehow.
+[21-Jun-2015 20:30:35]  <Rig> I'd agree with that.
+[21-Jun-2015 20:31:42]  <Icon> Or punch it away.
+[21-Jun-2015 20:32:02]  <Calica> use the staff as a lightning rod
+[21-Jun-2015 20:32:22]  <Icon> Yes~
+[21-Jun-2015 20:33:26]  <BGTB2005> hmm...
+[21-Jun-2015 20:35:03]  <Rig> Ideas?
+[21-Jun-2015 20:36:00]  <BGTB2005> maybe Rin could use either her wings or her costume to absorb the worst of the blow?
+[21-Jun-2015 20:36:31]  <BGTB2005> I think that was part of the reasoning I used to get Rin her wings back in character creation?
+[21-Jun-2015 20:36:38]  <Rig> Costume wouldn't be a bad idea. You could also pull in Hikari.
+[21-Jun-2015 20:36:55]  <Icon> Probably literally too, if Hikari wasn't already close by.
+[21-Jun-2015 20:37:16]  <BGTB2005> throw Hikari between Rin and the magic?
+[21-Jun-2015 20:37:22]  <Icon> D:
+[21-Jun-2015 20:38:08]  <IllFlower> The idea of using Hikari's staff isn't a bad one. I'd be willing to let you use it as a belonging in addition to rolling her relationship.
+[21-Jun-2015 20:39:17]  <BGTB2005> sounds good
+[21-Jun-2015 20:39:27]  <BGTB2005> i think i'll try that
+[21-Jun-2015 20:43:32]  <IllFlower> COME ON BIG MONEY
+[21-Jun-2015 20:44:40]  <Calica> no whammy (too late.  IllFlower's dice are the whammy)
+[21-Jun-2015 20:45:12]  <BGTB2005> I'm checking the book, would I get the item's dice for such a roll, or would I roll it as an improvised thing?
+[21-Jun-2015 20:45:32]  <IllFlower> Let's say item's dice.
+[21-Jun-2015 20:47:25]  <BGTB2005> also this is probably overthinking things about something that probably doesn't matter but does Hikari carry the staff in miniature form in her Great Big Bag of Everything or does she just summon it out of thin air?
+[21-Jun-2015 20:47:53]  <BGTB2005> either way
+[21-Jun-2015 20:48:14]  <Icon> I assumed the latter, all classy-like.
+[21-Jun-2015 20:48:26]  <Icon> Also it's dramatic and this is Hikari
+[21-Jun-2015 20:50:17]  <IllFlower> BGTB2005: How are you seeing?
+[21-Jun-2015 20:50:26]  <BGTB2005> Reacting quickly, Hikari summons and throws her staff to Rin, who catches it and tries to block the electric bolt
+[21-Jun-2015 20:51:03]  <BGTB2005> roll for the relationship and the belonging, right?
+[21-Jun-2015 20:51:59]  <IllFlower> YEs.
+[21-Jun-2015 20:52:01]  <BGTB2005> @dice add 3d6 1d4 >! Hikari and her staff
+[21-Jun-2015 20:52:01]  <Omnipresence> 14: Rolled 1 2 3 6 = 12. Bank now has 1 1 2 2 2 2 2 3 3 5 6 = 29.
+[21-Jun-2015 20:52:16]  <Icon> :I
+[21-Jun-2015 20:52:23]  <BGTB2005> so close :<
+[21-Jun-2015 20:52:52]  <Calica> don't kill yourself trying to save ayako
+[21-Jun-2015 20:55:40]  <BGTB2005> @dice use 3 3 6
+[21-Jun-2015 20:55:40]  <Omnipresence> 14BGTB2005: Used 3 3 6 = 12. Bank now has 1 1 2 2 2 2 2 5 = 17.
+[21-Jun-2015 20:55:53]  <IllFlower> Up to 6d6 fallout. Go ahead and raise.
+[21-Jun-2015 20:56:38]  <Rig> Gonna just call an ambulance now.
+[21-Jun-2015 20:57:05]  <Calica> rip ayako, probably rip rin too
+[21-Jun-2015 20:57:41]  <Rig> Hikari and Kazuki will handle the rest of this case.
+[21-Jun-2015 20:58:31]  <Calica> BGTB2005: remember giving is always an option
+[21-Jun-2015 20:59:28]  <BGTB2005> no
+[21-Jun-2015 21:00:11]  <BGTB2005> would bringing in Kazuki at this point be a good idea?
+[21-Jun-2015 21:01:30]  <IllFlower> Maybe you can use her wings to fan the cloud away.
+[21-Jun-2015 21:02:24]  *** SpruceZeus <~chatzilla@232.166-62-69.ftth.swbr.surewest.net> has joined #madokamadness
+[21-Jun-2015 21:03:38]  <BGTB2005> i was thinking maybe Kazuki could use the whistle to try and contain the witch while Rin attempts the healing chant again?
+[21-Jun-2015 21:03:43]  <BGTB2005> but that sounds like it's worth a try
+[21-Jun-2015 21:03:54]  <IllFlower> Well, the wings are d8 too.
+[21-Jun-2015 21:05:37]  <BGTB2005> i think  the cloud's also the more immediate threat, so the d8 aside that sounds like a good course of action
+[21-Jun-2015 21:08:30]  <BGTB2005> Summoning her wings, Rin gently flaps them to try and disperse the magic cloud
+[21-Jun-2015 21:08:44]  <Icon> Rin, gentle?
+[21-Jun-2015 21:08:49]  <BGTB2005> @dice add d8 >! wings
+[21-Jun-2015 21:08:49]  <Omnipresence> 14: Rolled 7 = 7. Bank now has 1 1 2 2 2 2 2 5 7 = 24.
+[21-Jun-2015 21:09:00]  <BGTB2005> well she doesn't want to actually generate lift
+[21-Jun-2015 21:09:38]  <BGTB2005> just move enough air around to get the cloud away
+[21-Jun-2015 21:10:13]  <BGTB2005> @dice use 5 7
+[21-Jun-2015 21:10:13]  <Omnipresence> 14BGTB2005: Used 5 7 = 12. Bank now has 1 1 2 2 2 2 2 = 12.
+[21-Jun-2015 21:10:50]  <IllFlower> @dice
+[21-Jun-2015 21:10:50]  <Omnipresence> 14IllFlower: Bank has 1 4 4 4 5 6 9 = 33.
+[21-Jun-2015 21:11:36]  <IllFlower> The cloud quickly disintegrates against the wind.
+[21-Jun-2015 21:11:41]  <IllFlower> @dice use 9 4
+[21-Jun-2015 21:11:41]  <Omnipresence> 14IllFlower: Used 4 9 = 13. Bank now has 1 4 4 5 6 = 20.
+[21-Jun-2015 21:13:12]  <IllFlower> Ayako's body, though, is still convulsing from the maleffects of Murata's magic. The last thing she needs is physical injury on top of the existing magical damage.
+[21-Jun-2015 21:13:17]  <IllFlower> @dice use 6 4
+[21-Jun-2015 21:13:17]  <Omnipresence> 14IllFlower: Used 4 6 = 10. Bank now has 1 4 5 = 10.
+[21-Jun-2015 21:13:21]  <IllFlower> Raise 10.
+[21-Jun-2015 21:14:14]  *** Rig_ <~Iverum@2601:805:0:4652:11ad:4c74:ede:9414> has joined #madokamadness
+[21-Jun-2015 21:14:16]  <Calica> BGTB2005: remember you can still give, it's probably better to just have ayako die than ayako and rin :p
+[21-Jun-2015 21:14:20]  *** Rig <~Iverum@2601:805:0:4652:ec00:7121:647e:9305> has quit IRC (Killed (NickServ (GHOST command used by Rig_!~Iverum@2601:805:0:4652:11ad:4c74:ede:9414)))
+[21-Jun-2015 21:14:26]  *** Rig_ is now known as Rig
+[21-Jun-2015 21:14:32]  *** ChanServ sets mode: +o Rig
+[21-Jun-2015 21:15:07]  <Icon> Yeah.
+[21-Jun-2015 21:15:11]  <BGTB2005> but Rin doesn't want Ayako to die
+[21-Jun-2015 21:16:15]  <BGTB2005> plus she thinks Hikari and Kazuki will hate her (more) if she just gives up in this situation
+[21-Jun-2015 21:16:41]  <Icon> Hikari doesn't hate! Well, rarely anyway.
+[21-Jun-2015 21:17:46]  <Rig> No promises from Kazuki.
+[21-Jun-2015 21:17:55]  <Calica> cold
+[21-Jun-2015 21:17:59]  <BGTB2005> Could I bring in 2d4 'Sticks to her strengths' if Rin attempts to physically restrain Ayako?
+[21-Jun-2015 21:20:11]  <Calica> you're just going to attack ayako now? :p
+[21-Jun-2015 21:21:07]  <BGTB2005> well i don't know what else to do :<
+[21-Jun-2015 21:21:22]  <Calica> give :P
+[21-Jun-2015 21:21:31]  <BGTB2005> no :<
+[21-Jun-2015 21:23:01]  <Rig> Yeah, there really isn't much you can do that I can see. Maybe try the healing chant again and pull in the "use more" trait.
+[21-Jun-2015 21:23:20]  <BGTB2005> yeah that's probably the better idea?
+[21-Jun-2015 21:23:21]  <Rig> Or try pulling in Kazuki's relationship to do something.
+[21-Jun-2015 21:25:47]  <BGTB2005> maybe he could help Rin keep Ayako from hurting herself more?
+[21-Jun-2015 21:27:04]  <Rig> Kazuki could probably use his magic sense to try to find out what the magic is doing to Ayako.
+[21-Jun-2015 21:28:13]  <BGTB2005> I think that would work better as a raise?
+[21-Jun-2015 21:28:21]  <Rig> Probably.
+[21-Jun-2015 21:28:59]  <IllFlower> I'm not sure if you can use other characters' traits like that, either.
+[21-Jun-2015 21:30:26]  <Rig> Well, I wasn't saying so much as rolling his trait.
+[21-Jun-2015 21:30:32]  <Rig> Just that's how he'd help.
+[21-Jun-2015 21:32:04]  <BGTB2005> for the see though, I think Kazuki's familiarity with Aikido might give him a better idea on how to safely restrain Ayako
+[21-Jun-2015 21:32:11]  <BGTB2005> ?
+[21-Jun-2015 21:32:47]  <Rig> Probably a reasonable way to help.
+[21-Jun-2015 21:35:20]  <Icon> Makes sense to me.
+[21-Jun-2015 21:35:24]  <BGTB2005> I'm trying to work out how to word such a see, but that is the course of action i'd like to take
+[21-Jun-2015 21:36:18]  <IllFlower> You don't need to word it too much, just trying to keep her from flailing about should be sufficient.
+[21-Jun-2015 21:37:10]  <BGTB2005> with Kazuki's help, Rin keeps Ayako from injuring herself further
+[21-Jun-2015 21:37:22]  <BGTB2005> @dice add d6 >! Kazuki
+[21-Jun-2015 21:37:22]  <Omnipresence> 14: Rolled 3 = 3. Bank now has 1 1 2 2 2 2 2 3 = 15.
+[21-Jun-2015 21:37:32]  <Calica> rip
+[21-Jun-2015 21:38:46]  <Rig> Good try.
+[21-Jun-2015 21:38:50]  <BGTB2005> @dice use 1 2 2 2 3
+[21-Jun-2015 21:38:50]  <Omnipresence> 14BGTB2005: Used 1 2 2 2 3 = 10. Bank now has 1 2 2 = 5.
+[21-Jun-2015 21:39:24]  <Calica> now you're up to what, 11d6 fallout?
+[21-Jun-2015 21:39:26]  <Rig> Can I give in advance for Rin's eventual attempt to not die?
+[21-Jun-2015 21:39:38]  <IllFlower> Your raise.
+[21-Jun-2015 21:41:02]  <Rig> Raise that 1 2
+[21-Jun-2015 21:41:08]  <BGTB2005> With Ayako secure, Rin attempts to use healing chants again
+[21-Jun-2015 21:41:34]  <Rig> Kazuki gives Rin a look. She's clearly pushing herself too far.
+[21-Jun-2015 21:42:01]  <BGTB2005> @dice add 2d6 >! didn't work the first time, using more
+[21-Jun-2015 21:42:01]  <Omnipresence> 14: Rolled 3 4 = 7. Bank now has 1 2 2 3 4 = 12.
+[21-Jun-2015 21:42:59]  <BGTB2005> @dice use 3 4
+[21-Jun-2015 21:42:59]  <Omnipresence> 14BGTB2005: Used 3 4 = 7. Bank now has 1 2 2 = 5.
+[21-Jun-2015 21:43:58]  <IllFlower> Hm, doesn't look like I can win this one. I give.
+[21-Jun-2015 21:44:04]  <Calica> ayako lives, barely
+[21-Jun-2015 21:44:06]  <Rig> @dice show IllFlower
+[21-Jun-2015 21:44:06]  <Omnipresence> 14Rig: Bank has 1 4 5 = 10.
+[21-Jun-2015 21:44:13]  <IllFlower> Roll fallout.
+[21-Jun-2015 21:44:18]  <Rig> 11d6, right?
+[21-Jun-2015 21:44:21]  <IllFlower> Yes.
+[21-Jun-2015 21:44:25]  <Rig> ;-;
+[21-Jun-2015 21:44:29]  <Calica> rip rin
+[21-Jun-2015 21:44:30]  <BGTB2005> @dice roll 11d6
+[21-Jun-2015 21:44:30]  <Omnipresence> 14BGTB2005: Rolled 1 2 3 3 3 4 5 6 6 6 6 = 45.
+[21-Jun-2015 21:44:35]  <Rig> Yeah, you're dead.
+[21-Jun-2015 21:44:50]  <Icon> Rest in peace Rin.
+[21-Jun-2015 21:44:54]  <Rig> Roll body.
+[21-Jun-2015 21:44:56]  <IllFlower> Roll Bd.
+[21-Jun-2015 21:45:47]  <BGTB2005> I just need to beat 12 in three dice, right?
+[21-Jun-2015 21:45:53]  <IllFlower> Yeah.
+[21-Jun-2015 21:45:59]  * BGTB2005 checks character sheet
+[21-Jun-2015 21:46:01]  <Calica> but you only have 3 dice
+[21-Jun-2015 21:46:08]  <BGTB2005> whelp here goes
+[21-Jun-2015 21:46:12]  <BGTB2005> @dice roll 3d6
+[21-Jun-2015 21:46:12]  <Omnipresence> 14BGTB2005: Rolled 1 6 6 = 13.
+[21-Jun-2015 21:46:17]  <IllFlower> Good work.
+[21-Jun-2015 21:46:20]  <Rig> Amazing!
+[21-Jun-2015 21:46:26]  <Icon> Haha, nice.
+[21-Jun-2015 21:46:28]  <BGTB2005> AHahahahahahahahaaaa
+[21-Jun-2015 21:46:59]  <IllFlower> Okay, let's settle the remaining fallout that we didn't settle last time.
+[21-Jun-2015 21:47:14]  <Rig> I did my stuff.
+[21-Jun-2015 21:47:25]  <Icon> I forget what I had to do
+[21-Jun-2015 21:47:33]  <IllFlower> Icon: You have one short-term and one experience.
+[21-Jun-2015 21:47:39]  <Calica> I forget, do you still do fallout when you need medical help
+[21-Jun-2015 21:47:40]  <Icon> Ah, yes.
+[21-Jun-2015 21:47:50]  <IllFlower> BGTB2005: You have two experience and three long-term.
+[21-Jun-2015 21:47:55]  <BGTB2005> whee
+[21-Jun-2015 21:48:07]  <IllFlower> Calica: You have one experience and two long-term.
+[21-Jun-2015 21:48:09]  <Icon> Good Job Rin.
+[21-Jun-2015 21:48:43]  <Calica> hmmm
+[21-Jun-2015 21:48:48]  <BGTB2005> for one XP, I'd like to bump up Rin's relationship with Ayako to 2d6?
+[21-Jun-2015 21:48:56]  <IllFlower> Rig: What'd you do for your experience item?
+[21-Jun-2015 21:49:12]  <IllFlower> BGTB2005: Okay, done.
+[21-Jun-2015 21:49:20]  <Calica> I should probably add a relationship with Rin?
+[21-Jun-2015 21:49:27]  <Rig> IllFlower: Bumped Will up by 1 because he managed to force his way out of the witch's magic.
+[21-Jun-2015 21:49:51]  <IllFlower> Rig: Oh, that's a good one.
+[21-Jun-2015 21:50:23]  <IllFlower> Calica: Okay.
+[21-Jun-2015 21:50:32]  <IllFlower> Let's all spread the love.
+[21-Jun-2015 21:51:14]  <Calica> Also for one of the long-term, probably drop Bd by one, or maybe healing chants by a die because her musical sense was knocked off a bit by the bleeding from her ears
+[21-Jun-2015 21:51:49]  <IllFlower> Well, you do need two long-term.
+[21-Jun-2015 21:52:10]  <BGTB2005> not sure yet what to do with the other XP, but i think for one long term Bd minus one?
+[21-Jun-2015 21:52:31]  <Rig> Gonna drop your body to 2?
+[21-Jun-2015 21:52:38]  <Rig> Just really want to die from fallout.
+[21-Jun-2015 21:52:41]  <BGTB2005> well she did kinda take a beating saving ayako
+[21-Jun-2015 21:52:56]  <Icon> I'm not really sure what to do since Hikari wasn't on the frontlines recently.
+[21-Jun-2015 21:53:13]  <IllFlower> BGTB2005, Rig: It makes sense, but God knows she shouldn't get anywhere near fallout from now on.
+[21-Jun-2015 21:53:23]  <Calica> where's the XP fallout listed again?
+[21-Jun-2015 21:53:24]  <Rig> Pretty much.
+[21-Jun-2015 21:53:31]  <Rig> The bruiser of the team can't get bruised.
+[21-Jun-2015 21:53:45]  <Icon> We say, as she continues getting bruised.
+[21-Jun-2015 21:53:45]  <Rig> Calica: pg82
+[21-Jun-2015 21:54:28]  <Calica> Okay, did the three fallouts I described previously
+[21-Jun-2015 21:54:36]  <IllFlower> Icon: You could bump down "believes she's the law" as she took the fallout being ignored.
+[21-Jun-2015 21:55:08]  <IllFlower> Calica: Already changed the sheet, yeah?
+[21-Jun-2015 21:55:12]  <Calica> IllFlower: yeah
+[21-Jun-2015 21:55:29]  <IllFlower> Cool, thanks.
+[21-Jun-2015 21:55:37]  <Icon> So 1d4?
+[21-Jun-2015 21:55:44]  <IllFlower> Yeah.
+[21-Jun-2015 21:56:32]  <Icon> Makes sense to me.
+[21-Jun-2015 21:58:05]  <IllFlower> BGTB2005: Do you want to drop Bd, then?
+[21-Jun-2015 21:58:19]  <BGTB2005> IllFlower: yeah
+[21-Jun-2015 21:58:47]  <IllFlower> Hikari's going to have to administer any beatings.
+[21-Jun-2015 21:59:22]  <IllFlower> You still have one XP and two long-term left.
+[21-Jun-2015 22:00:45]  <IllFlower> Might I suggest adding a die to helping people without violence for the former?
+[21-Jun-2015 22:00:46]  <Icon> Hm. I'm thinking about bumping Allies considering how (much more) broken every - Rin and Ayako are getting
+[21-Jun-2015 22:01:01]  <Icon> I can't see a reason to raise stats.
+[21-Jun-2015 22:01:13]  <IllFlower> BGTB2005: And maybe a d4 "suicidal effort" trait for the latter.
+[21-Jun-2015 22:01:39]  <BGTB2005> IllFlower: that sounds good. I'll go with that. for both
+[21-Jun-2015 22:02:21]  <IllFlower> Still another long-term, but that's all.
+[21-Jun-2015 22:02:47]  <BGTB2005> not quite sure what to do...
+[21-Jun-2015 22:02:54]  <IllFlower> Maybe -1 Wl if the experience burned Rin out.
+[21-Jun-2015 22:03:20]  <IllFlower> Icon: d6 -> d8 "not afraid of hurting feelings"?
+[21-Jun-2015 22:05:21]  <Icon> I'm not sure she really insulted anyone much during this session?
+[21-Jun-2015 22:05:34]  <Icon> Least comparatively
+[21-Jun-2015 22:06:32]  <BGTB2005> maybe do something with 'Fear of magical attacks'?
+[21-Jun-2015 22:06:43]  <IllFlower> Icon: It's not necessarily about insults, just not caring.
+[21-Jun-2015 22:07:12]  <Icon> Good point. Yeah I think I'll bump that.
+[21-Jun-2015 22:08:13]  <Icon> And I add a note for that?
+[21-Jun-2015 22:08:40]  <IllFlower> It's a permanent change, so no.
+[21-Jun-2015 22:08:49]  <Icon> Duh, right
+[21-Jun-2015 22:09:06]  <Calica> IllFlower: I think Icon means the "not necessarily about insults" bit
+[21-Jun-2015 22:09:27]  <Icon> Nah I meant die-wise because I'm slow
+[21-Jun-2015 22:10:12]  <BGTB2005> I'm not sure if I could add a 1d4 relationship with Prophets, due to Rin's experiences with Yuuya and Murata, and maybe also the guy trying to get initiates recruited to get them killed?
+[21-Jun-2015 22:10:30]  <Calica> that's a precarious position for a conservator to be in, i think
+[21-Jun-2015 22:11:05]  <Icon> Heh.
+[21-Jun-2015 22:11:21]  <IllFlower> Precarious, but not inexplicable.
+[21-Jun-2015 22:11:25]  <BGTB2005> ...hadn't thought about that, but this is rin we're talking about...
+[21-Jun-2015 22:11:39]  <IllFlower> Rig, thoughts?
+[21-Jun-2015 22:12:33]  <Rig> For Rin's fallout?
+[21-Jun-2015 22:13:05]  <Rig> I think burnout on Will might be interesting, but I also kind of like the idea that she blames the Prophets on some level.
+[21-Jun-2015 22:13:14]  <Calica> yeah, I think I like the idea
+[21-Jun-2015 22:13:49]  <Icon> The idea of Rin forcing the Propets into these things is an entertaining prospect.
+[21-Jun-2015 22:13:49]  <Rig> I'd probably go for the relationship more than another stat hit.
+[21-Jun-2015 22:14:16]  <Calica> end the campaign with Ayako on the road to witchification, Rin shooting fireballs at the Prophets' headquarters, and Hikari wondering where it all went wrong
+[21-Jun-2015 22:14:56]  <Icon> What about Kazuki. Do they wonder together?
+[21-Jun-2015 22:16:04]  <IllFlower> BGTB2005: Relationship, then?
+[21-Jun-2015 22:16:09]  <BGTB2005> yeah
+[21-Jun-2015 22:16:31]  <IllFlower> Great, we're all settled, then.
+[21-Jun-2015 22:16:33]  <IllFlower> Let's move on.
+[21-Jun-2015 22:18:04]  <Rig> Kazuki is glad that no one died in this fiasco of an ambush.
+[21-Jun-2015 22:18:41]  <IllFlower> Well, Murata is still lying semi-conscious on the ground.
+[21-Jun-2015 22:18:56]  <Calica> is Ayako waking up yet or
+[21-Jun-2015 22:19:39]  <IllFlower> Let's say Yurika takes Ayako elsewhere to recover.
+[21-Jun-2015 22:20:38]  <IllFlower> Shall we skip forward to when Murata is lucid enough to answer questions?
+[21-Jun-2015 22:20:50]  <Rig> I think that would be good.
+[21-Jun-2015 22:20:54]  <Icon> Indeed.
+[21-Jun-2015 22:21:19]  <Calica> yeah
+[21-Jun-2015 22:22:41]  <IllFlower> The remaining Conservators arrive at the Library, where they hand off the forged records to the Librarian and explain what happened. They then head down to the carrels for a round of interrogation.
+[21-Jun-2015 22:23:50]  <IllFlower> Murata is awake, but says very little and seems more confused and afraid than anything else.
+[21-Jun-2015 22:23:55]  <Rig> Hopefully we get some answers this time.
+[21-Jun-2015 22:25:08]  <Calica> Ayako's ears are still ringing from the attack, so she's distracted, but determined for answers.
+[21-Jun-2015 22:25:22]  <Rig> Should we jump in now, IllFlower?
+[21-Jun-2015 22:25:25]  <IllFlower> Yes.
+[21-Jun-2015 22:26:20]  <Rig> Kazuki sits down in a chair across from Murata and takes a look at the girl. Her eyes are more alert now, showing confusion and panic. "Murata, what do you remember last?"
+[21-Jun-2015 22:28:12]  <IllFlower> "What do I remember," Murata says. Her uninflected voice hasn't changed.
+[21-Jun-2015 22:28:31]  <IllFlower> "Arriving at the council. Picking up documents."
+[21-Jun-2015 22:28:31]  <BGTB2005> Rin's a bit too sore and exhausted to really ask any questions, so she just sits in a corner and glares at Murata
+[21-Jun-2015 22:29:20]  <Rig> "You don't remember meeting us?"
+[21-Jun-2015 22:30:10]  <IllFlower> "I don't remember."
+[21-Jun-2015 22:30:53]  <Calica> "Do you remember a Naoki Miyama?"
+[21-Jun-2015 22:31:14]  <IllFlower> "Yes. He was my mentor."
+[21-Jun-2015 22:31:44]  <IllFlower> I'd like to wrap up by the top of the hour, if we can.
+[21-Jun-2015 22:32:11]  <Rig> "Do you know anything about Naoki Miyama forging documents for you to pass on to the Librarian?
+[21-Jun-2015 22:32:13]  <Rig> "
+[21-Jun-2015 22:32:21]  *** Juan <~Juan_Carl@CPEbc4dfb91a083-CMbc4dfb91a080.cpe.net.cable.rogers.com> has quit IRC (Quit: Leaving.)
+[21-Jun-2015 22:33:13]  *** SpruceZeus <~chatzilla@232.166-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[21-Jun-2015 22:33:13]  *** Rig_ <~Iverum@2601:805:0:4652:60a4:6bb3:24f:dcbc> has joined #madokamadness
+[21-Jun-2015 22:33:17]  <IllFlower> "Forging documents."
+[21-Jun-2015 22:33:22]  *** Rig <~Iverum@2601:805:0:4652:11ad:4c74:ede:9414> has quit IRC (Killed (NickServ (GHOST command used by Rig_!~Iverum@2601:805:0:4652:60a4:6bb3:24f:dcbc)))
+[21-Jun-2015 22:33:25]  *** Rig_ is now known as Rig
+[21-Jun-2015 22:33:31]  *** ChanServ sets mode: +o Rig
+[21-Jun-2015 22:33:37]  <IllFlower> One assumes there was supposed to be a question mark.
+[21-Jun-2015 22:33:41]  <Rig> Yeah.
+[21-Jun-2015 22:33:52]  <Rig> Sorry about my disconnects again.
+[21-Jun-2015 22:34:43]  <Rig> Kazuki sighs. It seems that Murata's memories have been tampered with in addition to her possession. "When was the last time you saw your mentor?"
+[21-Jun-2015 22:36:28]  <IllFlower> "Two months ago. He said he was going on," and then a long pause.
+[21-Jun-2015 22:36:39]  <IllFlower> Murata appears to be trying to think of the right word.
+[21-Jun-2015 22:36:55]  <IllFlower> Finally, she arrives at "sabbatical."
+[21-Jun-2015 22:38:05]  <Rig> It seems that Murata isn't really capable of answering our questions in a useful way. Anyone have any ideas? Maybe a conflict to like magically piece together her mind?
+[21-Jun-2015 22:38:24]  <Calica> yeah, that could make sense
+[21-Jun-2015 22:39:05]  <IllFlower> What are you looking for?
+[21-Jun-2015 22:39:10]  <Icon> I'm up for playing Magical Brain Doctor
+[21-Jun-2015 22:39:57]  <Rig> Indications of who or what gave her the forged documents and posessed her?
+[21-Jun-2015 22:41:51]  <IllFlower> How could she have gotten the forged documents? She was under surveillance the whole time.
+[21-Jun-2015 22:42:05]  <IllFlower> Presumably it was something she did herself.
+[21-Jun-2015 22:42:22]  <Calica> it'd be nice to get her just not stonewall us tbh then
+[21-Jun-2015 22:42:53]  <IllFlower> Well, she was also possessed.
+[21-Jun-2015 22:43:06]  <Calica> track her possession?
+[21-Jun-2015 22:43:23]  <BGTB2005> I guess finding out who was behind the possession would be nice?
+[21-Jun-2015 22:43:25]  <Rig> Do like a reverse IP lookup.
+[21-Jun-2015 22:43:32]  <Rig> Or rather PP.
+[21-Jun-2015 22:43:35]  <Rig> Posession Protocol.
+[21-Jun-2015 22:46:10]  <IllFlower> Let me think for a second.
+[21-Jun-2015 22:48:07]  <IllFlower> "The last courier quit. So he recommended me as the new one. Right before he left."
+[21-Jun-2015 22:48:07]  <Calica> then again, given how much time we have left, maybe save it for next week if we're doing a conflict?
+[21-Jun-2015 22:49:18]  <Rig> Hm.
+[21-Jun-2015 22:49:57]  <Rig> "He recommended you and then quit? That's odd. Do you know why he'd recommend you?"
+[21-Jun-2015 22:49:59]  <IllFlower> I didn't think you all would spend so much time not jumping to conclusions.
+[21-Jun-2015 22:50:17]  <Calica> i'm not sure which conclusion you want us to jump to
+[21-Jun-2015 22:50:27]  *** Juan <~Juan_Carl@CPEbc4dfb91a083-CMbc4dfb91a080.cpe.net.cable.rogers.com> has joined #madokamadness
+[21-Jun-2015 22:50:28]  <Icon> All of them, naturally.
+[21-Jun-2015 22:50:57]  <Rig> Ah, I got it. She's totally killed Miyama and his spirit has possessed her.
+[21-Jun-2015 22:51:48]  <IllFlower> I was thinking you'd be like, "WE KNOW MIYAMA SENT YOU SO WHERE IS HE"
+[21-Jun-2015 22:51:52]  <IllFlower> Well, anyway.
+[21-Jun-2015 22:51:55]  <BGTB2005> ...was Miyama the guy spotted at the school, and has he been there recently?
+[21-Jun-2015 22:52:38]  <IllFlower> Rig: "He" being Miyama. I should have clarified.
+[21-Jun-2015 22:52:49]  <Calica> BGTB2005: yes
+[21-Jun-2015 22:53:14]  <BGTB2005> I mean, have we actually confirmed that it was him?
+[21-Jun-2015 22:53:53]  <Rig> "Look, we just need to know where Miyama is and why he's having you forge documents for him."
+[21-Jun-2015 22:56:04]  *** Rig_ <~Iverum@2601:805:0:4652:c5a6:1bdd:f73d:fc5e> has joined #madokamadness
+[21-Jun-2015 22:56:26]  <IllFlower> "Went to the country. An inn. In a village called Shioiri.
+[21-Jun-2015 22:56:32]  *** Rig <~Iverum@2601:805:0:4652:60a4:6bb3:24f:dcbc> has quit IRC (Killed (NickServ (GHOST command used by Rig_!~Iverum@2601:805:0:4652:c5a6:1bdd:f73d:fc5e)))
+[21-Jun-2015 22:56:36]  <IllFlower> "He likes the weather there."
+[21-Jun-2015 22:56:54]  *** Rig_ is now known as Rig
+[21-Jun-2015 22:57:02]  *** ChanServ sets mode: +o Rig
+[21-Jun-2015 22:57:27]  <Rig> "How has he been communicating with you?"
+[21-Jun-2015 22:57:51]  <IllFlower> What do you mean?
+[21-Jun-2015 22:58:38]  <Calica> "Do you know how to find his inn in Shioiri?"
+[21-Jun-2015 22:58:51]  <Rig> Kazuki believes that Miyama has some way of giving her orders, but I guess possession would do that neatly.
+[21-Jun-2015 22:59:02]  <IllFlower> Calica: There are probably like two, and one is closed for the winter.
+[21-Jun-2015 22:59:30]  <IllFlower> I'm assuming that information is enough to find him.
+[21-Jun-2015 22:59:37]  <IllFlower> Rig: Yeah, that would do it.
+[21-Jun-2015 23:00:10]  <Rig> I guess our next move is to go find him.
+[21-Jun-2015 23:00:54]  <IllFlower> It's interesting that Murata's possessed, considering that possession can only happen to believers in false doctrine. But anyway.
+[21-Jun-2015 23:01:08]  <Rig> Hm.
+[21-Jun-2015 23:02:50]  <IllFlower> "Be gentle with him," Murata says. "He still misses her."
+[21-Jun-2015 23:03:21]  <Calica> "And that justifies killing other initiates?"
+[21-Jun-2015 23:03:26]  <Rig> Kazuki gives Murata a confused look as he stands up.
+[21-Jun-2015 23:04:06]  <IllFlower> Murata looks quizzically at Ayako.
+[21-Jun-2015 23:04:30]  <IllFlower> "I don't know what you mean."
+[21-Jun-2015 23:07:35]  <Rig> Kazuki looks to Ayako to explain.
+[21-Jun-2015 23:08:16]  <Calica> "Two initates recruited under his possession of you were found dead recently."
+[21-Jun-2015 23:09:48]  <IllFlower> The air seems to go out from Murata's body. She limply slides backward in her chair.
+[21-Jun-2015 23:10:12]  <Calica> "Their recruitment papers were forged into 1-0 votes...with your name on them."
+[21-Jun-2015 23:11:14]  <IllFlower> "I thought the verdict was wrong. Sena would be alive.
+[21-Jun-2015 23:11:25]  <IllFlower> "But not like this. Now no one lives."
+[21-Jun-2015 23:14:06]  <IllFlower> Murata closes her eyes. "Why would he do this?"
+[21-Jun-2015 23:15:06]  <Rig> "He wants revenge," Kazuki says flatly.
+[21-Jun-2015 23:15:59]  <IllFlower> Silence.
+[21-Jun-2015 23:17:45]  <Rig> Kazuki looks down at the girl, pondering what he can say to her. He can't find anything valuable and turns to the door.
+[21-Jun-2015 23:18:34]  <Icon> Hikari stands up with a sigh. "I don't see this going anywhere Ayako, Rin."
+[21-Jun-2015 23:19:05]  <BGTB2005> dinner time
+[21-Jun-2015 23:19:06]  <IllFlower> I mean, you found out where Miyama's likely to be, that's gotta count for something.
+[21-Jun-2015 23:19:21]  <Calica> yeah, that's probably all we're getting out of this.  wrap up?
+[21-Jun-2015 23:19:22]  <Icon> True.
+[21-Jun-2015 23:19:30]  <Calica> and then next session possibly the final confrontation?
+[21-Jun-2015 23:19:53]  <IllFlower> Calica: Well, there was already enough circumstantial evidence to justify magicking him to death.
+[21-Jun-2015 23:20:02]  <IllFlower> At least for some of the player characters. :p
+[21-Jun-2015 23:20:04]  <Rig> Hopefully we can maybe avoid that.
+[21-Jun-2015 23:20:37]  <IllFlower> Especially because it carries a substantial risk of death for the Conservators too.
+[21-Jun-2015 23:20:58]  <Rig> I mean, we've been pretty lucky this arc with regards to death by magic.
+[21-Jun-2015 23:21:00]  <IllFlower> Anyway, I think we can close here. Rejoice, for everyone's alive!
+[21-Jun-2015 23:21:05]  <Icon> \:D/
+[21-Jun-2015 23:21:21]  <IllFlower> We'll pick up on Saturday. Until then.
+[21-Jun-2015 23:21:27]  <IllFlower> Thanks for playing, everyone.

@@ -1,0 +1,60 @@
+html {
+    background: #ddd;
+    color: #444;
+    font-family: sans-serif;
+}
+
+h1 {
+    position: relative;
+    margin: 70px auto;
+    width: 717px;
+    height: 459px;
+    text-indent: -999px;
+    background: url(memwall.png);
+    font-size: 100%;
+}
+
+h1 a {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+section {
+    width: 717px;
+    margin: 70px auto;
+    border-top: 1px solid #888;
+}
+
+h2 {
+    margin: 0.5em 0;
+    float: right;
+    font-size: 100%;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    color: #888;
+}
+
+table {
+    margin: 0.5em 0;
+    border-spacing: 0;
+}
+
+th, td {
+    vertical-align: top;
+}
+
+th {
+    padding-right: 1em;
+}
+
+.secondary {
+    font-style: italic;
+}
+
+a:link, a:visited {
+    color: inherit;
+}

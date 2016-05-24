@@ -1,0 +1,575 @@
+[26-Apr-2014 20:05:58]  *** IllFlower changes topic to https://room208.org/wiki/events | RIGHT NOW: Despair. Sure. | PMMM REBELLION: Sat May 3, 8/5p | HAWKEN: Sun afternoons | UA: Nag Nitya
+[26-Apr-2014 20:06:20]  <IllFlower> We'll get Rin's initiation down first.
+[26-Apr-2014 20:06:36]  <IllFlower> Rules start on page 28 of the book as always.
+[26-Apr-2014 20:07:10]  <IllFlower> BGTB2005, you said you had a few ideas for Rin's accomplishment?
+[26-Apr-2014 20:07:30]  <Barken> iOS 7.1.1 --> sorry, i'm leaving, but lol
+[26-Apr-2014 20:07:36]  *** Barken <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has left #madokamadness
+[26-Apr-2014 20:08:09]  <IllFlower> Oh, that reminds me, I need to update my phone.
+[26-Apr-2014 20:09:29]  <Alicia> Foneflower.
+[26-Apr-2014 20:09:31]  <ponicalica> oh yeah I still need to do my experience fallout too, lol
+[26-Apr-2014 20:10:34]  <BGTB2005> Rin's accomplishment...
+[26-Apr-2014 20:10:44]  <IllFlower> Right, if you have anything left over from last branch, it'd be a good idea to get it out of the way now.
+[26-Apr-2014 20:10:54]  <ponicalica> 2d8→2d10 for "can handle dangerous magic" maybe, since while Ayako suffered some for not running from violence, she did pretty well megucally...
+[26-Apr-2014 20:11:13]  <IllFlower> Fallout, post-town reflection on pp. 121-22, etc.
+[26-Apr-2014 20:11:25]  <BGTB2005> I've still not really thought about what she hopes to achieve in her initiation
+[26-Apr-2014 20:11:42]  <ponicalica> IllFlower: I did the fallout, so it's only post-town reflection.  For both Alicia/Hikari and myself/Ayako, I believe
+[26-Apr-2014 20:12:15]  <IllFlower> Okay.
+[26-Apr-2014 20:13:37]  <IllFlower> BGTB2005: You can always springboard off of existing aspects of Rin's character.
+[26-Apr-2014 20:13:46]  <IllFlower> Something to do with her relationships, perhaps.
+[26-Apr-2014 20:14:17]  <BGTB2005> I thought about a scenario, but not what she aims to get out of it
+[26-Apr-2014 20:14:26]  <IllFlower> Let's hear it.
+[26-Apr-2014 20:15:30]  <Alicia> Also IllFlower, thinking about adding a stat point to Bd.
+[26-Apr-2014 20:15:53]  <IllFlower> Alicia: Works for me. Hikari is a rather physical character.
+[26-Apr-2014 20:16:02]  <Alicia> Whee.
+[26-Apr-2014 20:16:03]  <Alicia> :3
+[26-Apr-2014 20:16:20]  <IllFlower> We do still have a bit of a Ht deficit, but what can you do about that.
+[26-Apr-2014 20:16:50]  <Alicia> Well, I considered raising Ht, but it didn't make as much sense as Bd or Wl.
+[26-Apr-2014 20:16:51]  <BGTB2005> the most bare bones: she encounters someone being tormented and decides to intervene
+[26-Apr-2014 20:17:05]  <Alicia> Considering how she is and how she acted in the arc.
+[26-Apr-2014 20:17:24]  <ponicalica> BGTB2005: Rin hopes to intervene in the situation of someone being tormented?
+[26-Apr-2014 20:17:24]  <Alicia> Also, just added it. 3434.
+[26-Apr-2014 20:17:26]  <IllFlower> "raising heart," hm?
+[26-Apr-2014 20:17:42]  <ponicalica> @g raising heart >! this is something in an anime isn't it
+[26-Apr-2014 20:17:42]  <Omnipresence> 14: Google: (1/4) http://nanoha.wikia.com/wiki/Raising_Heart — Raising Heart - Magical Girl Lyrical Nanoha Wiki: Raising Heart (レイジングハート Reijingu Hāto) is Nanoha Takamachi's Intelligent Device, and is upgraded to Raising Heart (+912 more characters)
+[26-Apr-2014 20:17:44]  <Alicia> IllFlower: Re having a Ht deficit.
+[26-Apr-2014 20:18:14]  <Alicia> But I added to Bd since it makes the most snese.
+[26-Apr-2014 20:18:22]  <Alicia> sense*
+[26-Apr-2014 20:20:12]  <IllFlower> BGTB2005: I like the idea.
+[26-Apr-2014 20:20:19]  <IllFlower> My concern is that I'm not sure how well it'd gel with the rest of her character, which has a bit of a "take it or leave it" quality.
+[26-Apr-2014 20:20:41]  <IllFlower> I get the sense she'd step in and do it anyway. Whether or not she succeeds, now, that might be an interesting way to play it.
+[26-Apr-2014 20:20:45]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[26-Apr-2014 20:20:58]  <IllFlower> If she fails to defend whoever she's tried to stand up for, that might have an impact on her confidence.
+[26-Apr-2014 20:22:34]  <IllFlower> Ultimately, the resulting trait would be something like "I can intervene on behalf of others" or "I should avoid putting myself in the way."
+[26-Apr-2014 20:22:42]  *** Saladofstones <~Saladofst@pool-173-51-83-42.lsanca.fios.verizon.net> has quit IRC (Read error: Connection reset by peer)
+[26-Apr-2014 20:26:28]  <BGTB2005> ffffff I dunno, she hopes she can protect others?
+[26-Apr-2014 20:26:57]  <IllFlower> Cool. Let's roll with that.
+[26-Apr-2014 20:27:03]  <IllFlower> Why don't we set up a scenario, then?
+[26-Apr-2014 20:27:11]  <IllFlower> Who's Rin trying to protect? From whom?
+[26-Apr-2014 20:28:12]  <ponicalica> "Despair.  Sure." just noticed this.  you're slipping, IllFlower 
+[26-Apr-2014 20:30:29]  *** IllFlower changes topic to https://room208.org/wiki/events | RIGHT NOW: Despair. Sure. (a ponicalica company) | PMMM REBELLION: Sat May 3, 8/5p | HAWKEN: Sun afternoons | UA: Nag Nitya
+[26-Apr-2014 20:31:30]  <ponicalica> BGTB2005: you still there btw?
+[26-Apr-2014 20:31:32]  <BGTB2005> Protect: some elementary school kid? Culprit: some douchehat probably close to Rin's age?
+[26-Apr-2014 20:31:48]  <BGTB2005> ponicalica: yeah, trying to get my thoughts in order
+[26-Apr-2014 20:31:54]  <ponicalica> BGTB2005: right, sorry
+[26-Apr-2014 20:31:55]  <ponicalica> >_>
+[26-Apr-2014 20:33:14]  <IllFlower> It's better if you give us a little stream of consciousness.
+[26-Apr-2014 20:33:27]  <IllFlower> Just so we all know that you're alive. And what you're thinking.
+[26-Apr-2014 20:33:57]  <Alicia> HI I'm alive I liekd [REDACTED].
+[26-Apr-2014 20:34:32]  <IllFlower> Hm, I'm going to see if I can put a finger on this setting, then.
+[26-Apr-2014 20:34:44]  <IllFlower> I have to play the aggressor here, after all.
+[26-Apr-2014 20:35:14]  <IllFlower> I'm not sure what would be motivating our douchehat here.
+[26-Apr-2014 20:37:38]  <IllFlower> I have an idea, though it'd require a bit of finesse. Say the kid stole something small and our aggressor flips out, not being much for proportionate retribution.
+[26-Apr-2014 20:38:15]  *** Alicia <~alicia@s-169-232-191-183.resnet.ucla.edu> has quit IRC (Quit: Lost terminal)
+[26-Apr-2014 20:38:52]  *** Alicia <~alicia@s-169-232-191-183.resnet.ucla.edu> has joined #madokamadness
+[26-Apr-2014 20:39:10]  <Alicia> Sorry, froze up a bit.
+[26-Apr-2014 20:39:23]  <ponicalica> Alicia: yeah that was something on my end
+[26-Apr-2014 20:39:29]  <Alicia> Ah, 'kay.
+[26-Apr-2014 20:41:54]  <IllFlower> sonar_ping.wav
+[26-Apr-2014 20:42:08]  <BGTB2005> or, i dunno, all involved parties could be within the same age group?
+[26-Apr-2014 20:44:02]  <IllFlower> That works too, but we should pick a single idea and run with it.
+[26-Apr-2014 20:45:02]  <IllFlower> I just need a motivation for my side of the conflict and we're basically set.
+[26-Apr-2014 20:45:05]  <ponicalica> hmm, I still have one reflection left.  what all'd I do this last branch.  exorcise akiko, chase after minami, the weird barrier thing, watched jun die, the other weird barrier thing, fighting satsuki's followers, the footsteps, fighting satsuki.  If I hadn't bumped up the "dangerous magic" thing I think bumping up Ac would be suitable but as it is that feels a bit like double-dipping
+[26-Apr-2014 20:46:06]  <ponicalica> The most obvious thing would be to have it mirror the situations Rin's bullies put her in, but then the question is what are those
+[26-Apr-2014 20:47:13]  <Alicia> ponicalica: I'm all done with mine, right.
+[26-Apr-2014 20:47:39]  <IllFlower> ponicalica: You might consider adding new relationship dice.
+[26-Apr-2014 20:47:41]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has joined #madokamadness
+[26-Apr-2014 20:47:41]  *** ChanServ sets mode: +o Rig
+[26-Apr-2014 20:47:42]  <ponicalica> Alicia: what did you do for it?  You have two things you can do
+[26-Apr-2014 20:47:49]  <Alicia> ponicalica: Raised Bd.
+[26-Apr-2014 20:47:54]  <ponicalica> Alicia: you can do a second thing
+[26-Apr-2014 20:47:58]  <Alicia> Oh.
+[26-Apr-2014 20:48:14]  <Alicia> Hmm.
+[26-Apr-2014 20:48:25]  <IllFlower> ponicalica: "That kid stole my car! I'M GONNA KILL HIM"
+[26-Apr-2014 20:48:30]  <ponicalica> IllFlower: yeah.  dunno how to justify it, though, lol
+[26-Apr-2014 20:48:44]  <BGTB2005> Rin's experiences? possibly related to her dislike of water?
+[26-Apr-2014 20:49:37]  <IllFlower> ponicalica: I could see adding 2d4+another as a statement of how she's seen the dark side of humanity.
+[26-Apr-2014 20:49:53]  <ponicalica> IllFlower: hmm, that could fit
+[26-Apr-2014 20:50:16]  <IllFlower> BGTB2005: Two kids her age fighting, one of them gets thrown in a river...
+[26-Apr-2014 20:50:48]  <IllFlower> Maybe she doesn't like being wet, but can still swim. That's not totally unreasonable.
+[26-Apr-2014 20:51:30]  <Alicia> I'm considering simply buffing up another stat.
+[26-Apr-2014 20:51:37]  <Alicia> Not sure how good that is though...
+[26-Apr-2014 20:51:52]  <ponicalica> IllFlower: "got mocked during swim class for not being able to swim"
+[26-Apr-2014 20:51:54]  <IllFlower> We do need to pick something. Any one option is as good as any other, so doing it arbitrarily is fine.
+[26-Apr-2014 20:52:01]  <ponicalica> or "for being poor at swimming"
+[26-Apr-2014 20:52:02]  <IllFlower> ponicalica: Hahaha, not bad.
+[26-Apr-2014 20:55:53]  <IllFlower> sonar_ping.wav
+[26-Apr-2014 20:56:03]  <ponicalica> sonar_pong.wav
+[26-Apr-2014 20:56:14]  <IllFlower> BGTB2005?
+[26-Apr-2014 20:56:22]  <BGTB2005> yeah I'm here
+[26-Apr-2014 20:56:48]  <Alicia> ponicalica: What'd you add.
+[26-Apr-2014 20:56:54]  <Alicia> sonarPang.gif.
+[26-Apr-2014 20:56:56]  <Alicia> _*
+[26-Apr-2014 20:57:10]  <ponicalica> Alicia: bumped up "can handle dangerous magic" and added 2d4 1d8 in relationship dice
+[26-Apr-2014 20:57:20]  <IllFlower> BGTB2005: We haven't settled on a scenario yet...
+[26-Apr-2014 20:57:29]  <BGTB2005> your scenario seems good
+[26-Apr-2014 20:57:35]  <ponicalica> which one
+[26-Apr-2014 20:57:42]  <IllFlower> Which one? I proposed two or three. :p
+[26-Apr-2014 20:57:48]  <BGTB2005> the kid getting thrown in a river
+[26-Apr-2014 20:58:03]  <IllFlower> How violent.
+[26-Apr-2014 20:58:17]  <Alicia> ponicalica: Ah.
+[26-Apr-2014 20:58:29]  <IllFlower> Okay, so the accomplishment would be intervening on someone else's behalf, yeah?
+[26-Apr-2014 20:58:30]  <BGTB2005> and maybe Rin herself got thrown into a river a few times
+[26-Apr-2014 20:58:35]  <BGTB2005> yeah
+[26-Apr-2014 20:59:23]  <IllFlower> All right. This is a physical-level conflict, so you should roll Bd+Ht.
+[26-Apr-2014 20:59:29]  <IllFlower> I'll roll 4d6 4d10 as usual.
+[26-Apr-2014 20:59:32]  <IllFlower> @dice new 4d6 4d10
+[26-Apr-2014 20:59:33]  <Omnipresence> 14IllFlower: Rolled 1 1 2 5 5 6 9 10 = 39. Bank now has 1 1 2 5 5 6 9 10 = 39.
+[26-Apr-2014 20:59:57]  <BGTB2005> @dice new 6d6
+[26-Apr-2014 20:59:57]  <Omnipresence> 14BGTB2005: Rolled 2 3 4 4 5 6 = 24. Bank now has 2 3 4 4 5 6 = 24.
+[26-Apr-2014 21:00:41]  <IllFlower> Okay, I'll go ahead and raise first.
+[26-Apr-2014 21:00:45]  <BGTB2005> this can't go badly at all
+[26-Apr-2014 21:01:33]  <IllFlower> Our victim has tumbled off an embankment and into the water. It looks like he was pushed, though perhaps not intentionally. Or at least not with the intent of almost drowning him.
+[26-Apr-2014 21:01:56]  <IllFlower> He flails about a few meters from the riverbank. It looks like he doesn't know how to swim.
+[26-Apr-2014 21:02:03]  <ponicalica> it would suck if you ended up needing medical attention from an initiation conflict
+[26-Apr-2014 21:02:14]  <IllFlower> Fortunately, the water's not moving too fast, but unless someone helps him, he's going to be in trouble.
+[26-Apr-2014 21:02:27]  <IllFlower> @dice use 6 1
+[26-Apr-2014 21:02:27]  <Omnipresence> 14IllFlower: Used 1 6 = 7. Bank now has 1 2 5 5 9 10 = 32.
+[26-Apr-2014 21:02:35]  <IllFlower> Raise 7, "still could drown."
+[26-Apr-2014 21:04:14]  <IllFlower> All right, go ahead and see.
+[26-Apr-2014 21:04:29]  <IllFlower> The immediate threat is probably Rin's fear of water, so you should respond to that first.
+[26-Apr-2014 21:04:38]  <IllFlower> You can save any upfront action for your raise.
+[26-Apr-2014 21:04:53]  <BGTB2005> roll 2d6 Hates being wet?
+[26-Apr-2014 21:05:08]  <IllFlower> Well, she's not wet yet.
+[26-Apr-2014 21:06:17]  <BGTB2005> @dice use 3 4
+[26-Apr-2014 21:06:17]  <Omnipresence> 14BGTB2005: Used 3 4 = 7. Bank now has 2 4 5 6 = 17.
+[26-Apr-2014 21:06:46]  <IllFlower> What's the action?
+[26-Apr-2014 21:13:18]  <IllFlower> Alicia: Considering Hikari's behavior in the previous arc, if you want to change a core stat, I'd go Wl.
+[26-Apr-2014 21:14:21]  <ponicalica> BGTB2005?
+[26-Apr-2014 21:14:30]  <Alicia> Yeah, I think just core stats.
+[26-Apr-2014 21:14:52]  <Alicia> Thx.
+[26-Apr-2014 21:15:10]  <Alicia> Buffed Bd + Wl.
+[26-Apr-2014 21:15:41]  <ponicalica> and now all that's left is watching BGTB2005 do his actions.
+[26-Apr-2014 21:16:10]  <Alicia> BGTB2005: She's seeing just enough to meet the action, so something along the lines of her cautiously but forcibly getting in there makes sense.
+[26-Apr-2014 21:16:15]  <BGTB2005> fighting her desire to remain dry, Rin dives in after
+[26-Apr-2014 21:17:16]  <ponicalica> BGTB2005: i dunno, that might be more of a raise
+[26-Apr-2014 21:17:35]  <IllFlower> No, I think that's fine for now.
+[26-Apr-2014 21:17:47]  <IllFlower> There's nothing in that see that compels me to react.
+[26-Apr-2014 21:17:57]  <IllFlower> So Rin's in the water.
+[26-Apr-2014 21:18:13]  <IllFlower> Now it's time for an unignorable raise.
+[26-Apr-2014 21:22:23]  <ponicalica> BGTB2005?
+[26-Apr-2014 21:22:42]  <BGTB2005> given that rin's now swimming, when she'd much rather not be, i think I could roll her 2d6 now?
+[26-Apr-2014 21:22:56]  <IllFlower> Go right ahead.
+[26-Apr-2014 21:23:06]  <BGTB2005> @dice add 2d6
+[26-Apr-2014 21:23:06]  <Omnipresence> 14BGTB2005: Rolled 1 1 = 2. Bank now has 1 1 2 4 5 6 = 19.
+[26-Apr-2014 21:23:17]  <IllFlower> Ouch.
+[26-Apr-2014 21:23:19]  <BGTB2005> well fuck
+[26-Apr-2014 21:23:30]  <ponicalica> the dice really do not like you
+[26-Apr-2014 21:23:32]  <Alicia> Oww.
+[26-Apr-2014 21:25:35]  <IllFlower> Well, I was going to say something like "her trait motivates her to finish whatever the hell it is she's doing so she can get out of the water faster," but, uh, yeah.
+[26-Apr-2014 21:26:06]  <ponicalica> @dice show IllFlower 
+[26-Apr-2014 21:26:06]  <Omnipresence> 14ponicalica: Bank has 1 2 5 5 9 10 = 32.
+[26-Apr-2014 21:26:29]  <IllFlower> Anyway, might I suggest acting to arrest our victim's submersion?
+[26-Apr-2014 21:28:08]  <ponicalica> perhaps trying to swim towards her
+[26-Apr-2014 21:28:16]  <BGTB2005> think the victim was male
+[26-Apr-2014 21:28:18]  <ponicalica> maybe wings could help, though there's the whole "there's a person there", lol
+[26-Apr-2014 21:28:21]  <ponicalica> oh, him?
+[26-Apr-2014 21:28:22]  <ponicalica> whatever
+[26-Apr-2014 21:28:25]  <ponicalica> yeah, a him, whoops, lol
+[26-Apr-2014 21:29:11]  <IllFlower> You could always try to get a hold of him. Might be hard, what with him flailing and everything.
+[26-Apr-2014 21:29:48]  <BGTB2005> and she isn't exactly trained to do this sort of thing
+[26-Apr-2014 21:30:05]  <IllFlower> She's not, but 100% success probability is boring.
+[26-Apr-2014 21:30:29]  <IllFlower> We wouldn't need dice if we were all superheroes!
+[26-Apr-2014 21:30:51]  <ponicalica> fwiw don't worry about failing.  a failure-based trait can be as interesting as a success-based one
+[26-Apr-2014 21:31:58]  <BGTB2005> describe action then raise, or can i raise then type out what she attempts to do?
+[26-Apr-2014 21:32:44]  <ponicalica> describe action then raise is the usual way to do it
+[26-Apr-2014 21:34:21]  <IllFlower> Yeah, what ponicalica said.
+[26-Apr-2014 21:39:52]  <IllFlower> Anyone?
+[26-Apr-2014 21:40:06]  <BGTB2005> thinking of what to type
+[26-Apr-2014 21:40:42]  <BGTB2005> I can raise with her just approaching him, yes?
+[26-Apr-2014 21:41:38]  <IllFlower> That's not enough. You need to actively do something to change the situation.
+[26-Apr-2014 21:41:45]  <IllFlower> Otherwise I have nothing to respond to in my see.
+[26-Apr-2014 21:42:21]  <IllFlower> Beyond something pedestrian like, "Oh, he just floats further away. Sorry!"
+[26-Apr-2014 21:42:21]  <ponicalica> perhaps grab a hold of him?
+[26-Apr-2014 21:42:26]  <IllFlower> Yeah, that would work.
+[26-Apr-2014 21:44:05]  <IllFlower> You don't need to do the thinking all on your own. It's easier if ideas are out in the open.
+[26-Apr-2014 21:44:23]  <IllFlower> That way, even if they're not fully formed, the rest of us can build on it.
+[26-Apr-2014 21:45:05]  <Alicia> I could see Rin making a break for it, albeit awkwardly since she's not used to swimming.
+[26-Apr-2014 21:45:13]  <Alicia> And shouting to the kid (?).
+[26-Apr-2014 21:45:38]  <IllFlower> A break for what?
+[26-Apr-2014 21:45:46]  <ponicalica> for the kid, I think?
+[26-Apr-2014 21:46:07]  <IllFlower> Sure, but just moving closer isn't enough to make a good raise.
+[26-Apr-2014 21:46:31]  <Alicia> Yeah, bad phrasing there.
+[26-Apr-2014 21:46:46]  <ponicalica> well I think Alicia was trying to use the shout as a raise.  Maybe "Try to swim closer to me!" or something
+[26-Apr-2014 21:46:47]  <BGTB2005> I have the wiki page for drowning open, and i'm pretty much trying to formulate an action someone with no clue for the proper response might possibly attempt
+[26-Apr-2014 21:47:07]  <IllFlower> You don't need to be accurate, just dramatic.
+[26-Apr-2014 21:47:14]  <Alicia> ponicalica: Or like "I'm coming, don't worry kid!"
+[26-Apr-2014 21:47:44]  <IllFlower> Alicia: Still wouldn't give me much to see against. We're past a talky conflict!
+[26-Apr-2014 21:47:48]  <BGTB2005> Rin approaches the drowning boy, grabbing one of his arms
+[26-Apr-2014 21:47:54]  <Alicia> IllFlower: Point.
+[26-Apr-2014 21:48:11]  <IllFlower> BGTB2005: That works. Dice?
+[26-Apr-2014 21:48:15]  <BGTB2005> ...and this is going to hurt
+[26-Apr-2014 21:48:25]  <BGTB2005> @dice use 1 1
+[26-Apr-2014 21:48:25]  <Omnipresence> 14BGTB2005: Used 1 1 = 2. Bank now has 2 4 5 6 = 17.
+[26-Apr-2014 21:49:57]  <BGTB2005> only out i can think of would probably involve escalating if possible
+[26-Apr-2014 21:50:25]  <IllFlower> You sure you want to raise 2?
+[26-Apr-2014 21:50:38]  <IllFlower> I mean, she may not know what she's doing, but 2?
+[26-Apr-2014 21:50:47]  <ponicalica> yeah 2 is a bit low
+[26-Apr-2014 21:51:11]  <IllFlower> I'm not a good swimmer, but I could probably raise at least a 5. ;)
+[26-Apr-2014 21:51:21]  <Alicia> 4 and 1 might be good, so you still have 2, 5, and 6.
+[26-Apr-2014 21:51:29]  <Alicia> 62, 51...
+[26-Apr-2014 21:51:31]  <IllFlower> @dice
+[26-Apr-2014 21:51:31]  <Omnipresence> 14IllFlower: Bank has 1 2 5 5 9 10 = 32.
+[26-Apr-2014 21:52:23]  <BGTB2005> hmm....
+[26-Apr-2014 21:52:36]  <BGTB2005> yeah i think i'll go with 1 4
+[26-Apr-2014 21:53:02]  <IllFlower> Okay. You can add 1 back and use 4.
+[26-Apr-2014 21:53:10]  <BGTB2005> @dice add 1
+[26-Apr-2014 21:53:10]  <Omnipresence> 14BGTB2005: Rolled 1 = 1. Bank now has 1 2 4 5 6 = 18.
+[26-Apr-2014 21:53:15]  <BGTB2005> @dice use 4
+[26-Apr-2014 21:53:15]  <Omnipresence> 14BGTB2005: Used 4 = 4. Bank now has 1 2 5 6 = 14.
+[26-Apr-2014 21:53:25]  <IllFlower> Raising 5.
+[26-Apr-2014 21:54:17]  <IllFlower> Rin tries to grab a hold of the boy's arms, but instead gets her own arm tangled in the process.
+[26-Apr-2014 21:54:20]  <IllFlower> @dice use 5
+[26-Apr-2014 21:54:20]  <Omnipresence> 14IllFlower: Used 5 = 5. Bank now has 1 2 5 9 10 = 27.
+[26-Apr-2014 21:54:49]  <IllFlower> Unable to free herself, Rin finds that the boy's weight is beginning to drag her down as well.
+[26-Apr-2014 21:55:00]  <IllFlower> Hm, should I use 5 or 9...
+[26-Apr-2014 21:55:03]  <BGTB2005> good job rin
+[26-Apr-2014 21:55:18]  <IllFlower> HEY GUYS ANY SUGGESTIONS
+[26-Apr-2014 21:55:39]  <ponicalica> heh
+[26-Apr-2014 21:56:24]  <Alicia> 5? xD
+[26-Apr-2014 21:56:38]  <IllFlower> Thinking about this realistically...
+[26-Apr-2014 21:56:44]  <BGTB2005> the one that doesn't leave me completely out of dice would be nice
+[26-Apr-2014 21:57:11]  <IllFlower> This would be a pretty dire situation.
+[26-Apr-2014 21:57:23]  <IllFlower> Well, whatever, let's be nice.
+[26-Apr-2014 21:57:25]  <IllFlower> @dice use 5
+[26-Apr-2014 21:57:25]  <Omnipresence> 14IllFlower: Used 5 = 5. Bank now has 1 2 9 10 = 22.
+[26-Apr-2014 21:57:30]  <IllFlower> Raise 10.
+[26-Apr-2014 22:00:51]  * IllFlower knocks on wood
+[26-Apr-2014 22:00:57]  * ponicalica knocks on BGTB2005 
+[26-Apr-2014 22:01:06]  * IllFlower knocks on ponicalica
+[26-Apr-2014 22:01:18]  <ponicalica> :O
+[26-Apr-2014 22:01:31]  * Alicia knocks out Alicia.
+[26-Apr-2014 22:02:13]  <ponicalica> @dice show BGTB2005 
+[26-Apr-2014 22:02:13]  <Omnipresence> 14ponicalica: Bank has 1 2 5 6 = 14.
+[26-Apr-2014 22:02:24]  <ponicalica> you could pull out your wings ;)
+[26-Apr-2014 22:03:16]  <Alicia> And if those don't work, use more of them.
+[26-Apr-2014 22:03:22]  <IllFlower> I'm only raising 10. It's not terrible.
+[26-Apr-2014 22:03:40]  <IllFlower> And to be honest, this is the kind of scenario where you could expect someone to get overwhelmed.
+[26-Apr-2014 22:04:42]  <ponicalica> Mostly it's that Rin kinda got screwed over dicewise
+[26-Apr-2014 22:04:52]  <IllFlower> That happens sometimes.
+[26-Apr-2014 22:05:00]  <ponicalica> yeah
+[26-Apr-2014 22:05:01]  <BGTB2005> yeah she kinda sucks at anything that doesn't involve violence
+[26-Apr-2014 22:05:02]  <ponicalica> sometimes you fail
+[26-Apr-2014 22:05:40]  <Alicia> We shall learn...
+[26-Apr-2014 22:06:09]  <IllFlower> BGTB2005: You can give here if you don't want to escalate.
+[26-Apr-2014 22:06:28]  *** Saladofstones <~Saladofst@pool-173-51-83-42.lsanca.fios.verizon.net> has joined #madokamadness
+[26-Apr-2014 22:11:20]  <BGTB2005> trying to decide between a desperate gulp of air or a desperate summoning of her wings
+[26-Apr-2014 22:12:05]  <IllFlower> Gotta make that decision quick. She is drowning.
+[26-Apr-2014 22:12:17]  <ponicalica> I thought it was a he, or do you mean Rin's also drowning
+[26-Apr-2014 22:12:23]  <IllFlower> Rin is now, too.
+[26-Apr-2014 22:12:52]  <IllFlower> Even taking into account IRC time dilation, it's already been about 30 seconds. That's a lot of thinking!
+[26-Apr-2014 22:13:40]  <BGTB2005> Realising what's happening, Rin takes in as much air as she can manage before getting dragged under
+[26-Apr-2014 22:13:47]  <BGTB2005> @dice use 5 6
+[26-Apr-2014 22:13:47]  <Omnipresence> 14BGTB2005: Used 5 6 = 11. Bank now has 1 2 = 3.
+[26-Apr-2014 22:14:27]  <IllFlower> All right, your turn to raise.
+[26-Apr-2014 22:18:11]  <IllFlower> Rin's underwater and still tangled up. If she wasn't on the clock then, she definitely is now.
+[26-Apr-2014 22:18:36]  *** Barcode_ <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has joined #madokamadness
+[26-Apr-2014 22:18:36]  *** ChanServ sets mode: +o Barcode_
+[26-Apr-2014 22:18:37]  <BGTB2005> I'm not really seeing much possibility for her to escape without say flailing about and kneeing the guy in the nads or something
+[26-Apr-2014 22:19:04]  <ponicalica> yeah, your options are probably either pull out wings or fold and let him drown tbh
+[26-Apr-2014 22:19:10]  *** Barcode_ <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has left #madokamadness
+[26-Apr-2014 22:19:25]  <IllFlower> If she gives, she'll just surrender on trying to save him.
+[26-Apr-2014 22:19:45]  <IllFlower> That doesn't mean she's going to drown - it just means she can focus on something else.
+[26-Apr-2014 22:21:00]  <IllFlower> If we can finish within the next ten minutes or so, I think we'll have time to get started on a new branch, by the way.
+[26-Apr-2014 22:22:24]  <BGTB2005> yeah I don't really see much in terms of options
+[26-Apr-2014 22:23:12]  <BGTB2005> save escalating to physical violence to break his grip but i'm not sure how well that will end
+[26-Apr-2014 22:23:31]  <ponicalica> yeah then you should probably give which would basically mean letting go
+[26-Apr-2014 22:24:04]  <BGTB2005> yeah i think i'll Fold
+[26-Apr-2014 22:24:52]  <Alicia> Aw...
+[26-Apr-2014 22:25:28]  <BGTB2005> Rin really sucks at problems that can't be solved by whacking them or setting them on fire
+[26-Apr-2014 22:25:38]  <IllFlower> @dice clear
+[26-Apr-2014 22:25:38]  <Omnipresence> 14IllFlower: Bank cleared.
+[26-Apr-2014 22:25:51]  <BGTB2005> @dice clear
+[26-Apr-2014 22:25:51]  <Omnipresence> 14BGTB2005: Bank cleared.
+[26-Apr-2014 22:26:10]  <IllFlower> Rin realizes that the situation is growing dire, and that if she doesn't try to extricate herself all that's going to happen is that she'll go down with the boy.
+[26-Apr-2014 22:26:37]  <ponicalica> 15:25:28 < BGTB2005> Rin really sucks at problems that can't be solved by whacking them or setting them on fire <---yeah, something along these lines might make a good trait choice: "1d6 I should probably stick to my strengths (violence)"
+[26-Apr-2014 22:26:56]  <IllFlower> She steels herself and focuses simply on letting go. Her arms find freedom, and she pushes herself away from the boy's body...
+[26-Apr-2014 22:27:27]  <IllFlower> After a few moments of free-floating underwater, Rin's head breaks the surface. She takes a gasp of air as she tries to steady herself in the water.
+[26-Apr-2014 22:28:01]  <IllFlower> Through bleary eyes, she sees another figure swim past her, becoming one with the blurry form of the boy.
+[26-Apr-2014 22:28:49]  <IllFlower> "I've got him! Are you all right?" a man's voice calls in somewhat panicked concern.
+[26-Apr-2014 22:29:19]  <IllFlower> Okay, so we need a new 1d6 trait for Rin.
+[26-Apr-2014 22:31:26]  <IllFlower> ponicalica's suggestion is a good one. Or even something like "I shouldn't try to save people."
+[26-Apr-2014 22:33:35]  <IllFlower> BGTB2005?
+[26-Apr-2014 22:33:38]  <BGTB2005> I think maybe "Lacks non-violent solutions 1d6"?
+[26-Apr-2014 22:34:14]  <IllFlower> That might be a bit too similar to the "if it doesn't work, use more" trait, now that I think about it.
+[26-Apr-2014 22:35:16]  <BGTB2005> plan b: "Shouldn't try to save drowning people"
+[26-Apr-2014 22:35:36]  <IllFlower> Yeah, or even just "people in trouble" in general.
+[26-Apr-2014 22:35:37]  <Alicia> I like 1d6 sticking to my strengths.
+[26-Apr-2014 22:35:56]  <IllFlower> Hm, that might be better.
+[26-Apr-2014 22:37:27]  <IllFlower> Either one of the last two would be fine in my book.
+[26-Apr-2014 22:38:04]  <BGTB2005> "Sticks to her strengths 1d6"?
+[26-Apr-2014 22:38:19]  <IllFlower> Sold.
+[26-Apr-2014 22:38:39]  <Alicia> Woo.
+[26-Apr-2014 22:39:08]  <IllFlower> Congratulations. Rin's now a fully initiated Conservator.
+[26-Apr-2014 22:39:30]  <BGTB2005> woohoo
+[26-Apr-2014 22:39:36]  <ponicalica> congratulations rinji
+[26-Apr-2014 22:40:12]  <Alicia> Rinji?
+[26-Apr-2014 22:40:18]  <Alicia> Oh. Shinji.
+[26-Apr-2014 22:40:31]  *** Xeniera1 <~Solstace@75-175-50-188.ptld.qwest.net> has joined #madokamadness
+[26-Apr-2014 22:40:31]  *** Xeniera <~Solstace@75-175-50-188.ptld.qwest.net> has quit IRC (Killed (NickServ (GHOST command used by Xeniera1)))
+[26-Apr-2014 22:40:35]  *** Xeniera1 is now known as Xeniera
+[26-Apr-2014 22:40:35]  *** ChanServ sets mode: +o Xeniera
+[26-Apr-2014 22:40:44]  <BGTB2005> I don't think I've ever seen that scene
+[26-Apr-2014 22:40:46]  <BGTB2005> to youtube
+[26-Apr-2014 22:40:51]  <IllFlower> If there are no objections, I'll go ahead and get us started on ze plot.
+[26-Apr-2014 22:41:13]  <ponicalica> no objections in this direction
+[26-Apr-2014 22:41:21]  <BGTB2005> none here
+[26-Apr-2014 22:41:59]  <IllFlower> Then let's get started.
+[26-Apr-2014 22:43:09]  <IllFlower> The Conservators push open the rooftop door to find a lone girl standing near the edge, staring down at the busy streets below.
+[26-Apr-2014 22:43:21]  <IllFlower> Hikari clenches her staff. She seems to be almost raring for a fight.
+[26-Apr-2014 22:44:30]  <IllFlower> <<REW
+[26-Apr-2014 22:44:38]  <BGTB2005> 14brb
+[26-Apr-2014 22:44:50]  <IllFlower> Thirty minutes ago, inside the church that Shii calls home.
+[26-Apr-2014 22:45:26]  <IllFlower> The familiar picks up a photograph with her mouth and lays it on the table in front of the girls.
+[26-Apr-2014 22:45:45]  <ponicalica> ("It reads: «beware the friendly stranger»")
+[26-Apr-2014 22:45:57]  <IllFlower> "I've gotten a call from this girl's familiar. Her name's Yumiko Kayano. 17.
+[26-Apr-2014 22:46:22]  <IllFlower> "As far as I know, he's worried about her becoming increasingly unstable over the past few weeks.
+[26-Apr-2014 22:46:57]  <ponicalica> "Unstable?  Do we know anything more?"
+[26-Apr-2014 22:47:12]  <IllFlower> "She's had uncontrolled flares of magic in a couple of recent fights.
+[26-Apr-2014 22:47:40]  <IllFlower> "Kayano's familiar worries that she might take to attacking civilians if this keeps up."
+[26-Apr-2014 22:48:13]  <IllFlower> Shii looks at Ayako.
+[26-Apr-2014 22:48:24]  <IllFlower> "Needless to say, that'd be a disaster for all involved. Consider this an emergency."
+[26-Apr-2014 22:51:04]  <ponicalica> "Of course.  Do you know where we can contact her?"
+[26-Apr-2014 22:52:27]  <IllFlower> "She lives in an apartment block near Inokashira Park."
+[26-Apr-2014 22:52:28]  <Alicia> "It sounds like we're far past the point of talking it out, then. How do you wish us to handle her?"
+[26-Apr-2014 22:53:00]  <IllFlower> Shii takes a piece of paper and waves a paw around to burn a rune map into it.
+[26-Apr-2014 22:53:06]  <IllFlower> "You should start looking there."
+[26-Apr-2014 22:53:13]  <BGTB2005> 14I'm assuming Rin's also present?
+[26-Apr-2014 22:53:26]  <IllFlower> Sure.
+[26-Apr-2014 22:54:42]  <IllFlower> Alicia: "I leave that judgment up to you. You'll know the situation better once you're there than I could ever inform you in advance."
+[26-Apr-2014 22:55:13]  <ponicalica> "Also.  Since we're dealing with an unstable initiate, this is important.  What are her magical capabilities and favored strategies?"
+[26-Apr-2014 22:55:20]  <Alicia> Hikari nods lightly. "Understood, Shii."
+[26-Apr-2014 22:56:04]  <IllFlower> "She's a sound mage. Vibrations in air, that sort of thing."
+[26-Apr-2014 22:58:20]  <IllFlower> If there aren't any other questions, I can go ahead and jump out of this flashback.
+[26-Apr-2014 22:58:36]  <ponicalica> I don't have any more
+[26-Apr-2014 22:59:11]  <IllFlower> Anyone else?
+[26-Apr-2014 22:59:30]  <BGTB2005> I got none
+[26-Apr-2014 22:59:37]  <Alicia> I'm fine.
+[26-Apr-2014 23:00:04]  *** Saladofstones <~Saladofst@pool-173-51-83-42.lsanca.fios.verizon.net> has quit IRC (Quit: Stones Has It)
+[26-Apr-2014 23:01:49]  <IllFlower> FFWD>>
+[26-Apr-2014 23:02:06]  <Alicia> (Oh. Forward, Rewind.)
+[26-Apr-2014 23:02:11]  <IllFlower> Anyone want to be the first to call out to Miss Kayano on the roof, then?
+[26-Apr-2014 23:02:12]  <ponicalica> (fast forward, in particular)
+[26-Apr-2014 23:02:14]  <Alicia> Fast Forward*
+[26-Apr-2014 23:02:17]  <Alicia> (Yeah.)
+[26-Apr-2014 23:03:20]  <ponicalica> IllFlower: I think Rin's or Hikari's bluntness should be tested now ;)
+[26-Apr-2014 23:03:46]  <IllFlower> Haha, fair enough.
+[26-Apr-2014 23:05:02]  <IllFlower> Either one of Alicia or BGTB2005 want to take this up?
+[26-Apr-2014 23:06:17]  <Alicia> "Yumiko Kayano, rececently you've been causing no minor amount of stress for other Conservators due to your magical outbursts over the past few weeks. We ask that you stop, by force if we must find out what the issue."
+[26-Apr-2014 23:06:45]  <Alicia> to find*
+[26-Apr-2014 23:07:44]  <Alicia> Hikari glances aside at Ayako and Rin, gauging their readiness.
+[26-Apr-2014 23:08:38]  <IllFlower> Yumiko turns. It's immediately apparent that she's not in costume. She appears to be out in her school uniform -- strange, considering it's a Sunday and there's no school.
+[26-Apr-2014 23:09:08]  <IllFlower> Her eyes go wide as she sees the three Conservators in front of the door.
+[26-Apr-2014 23:09:34]  <IllFlower> "Don't move!" she shouts. The words sound like an order, but there's something off about her tone...
+[26-Apr-2014 23:10:03]  <ponicalica> ("Don't move! I've got a bomb!" "A bomb's a bad choice for close-range combat...")
+[26-Apr-2014 23:11:40]  <ponicalica> actually what even is the Conservator protocol for magical flares
+[26-Apr-2014 23:11:51]  <ponicalica> if they're like the emburst ones, then they're presumably involuntary
+[26-Apr-2014 23:11:52]  <IllFlower> "Don't move!" she says again.
+[26-Apr-2014 23:12:07]  <IllFlower> Ah, that's what was off. That tinge of desperation.
+[26-Apr-2014 23:12:41]  <IllFlower> ponicalica: Yes, they're involuntary, hence "uncontrolled."
+[26-Apr-2014 23:12:54]  <BGTB2005> "Or what?"
+[26-Apr-2014 23:13:49]  <Alicia> Hikari clutches her staff, sighing. Hopefully she isn't too far gone, but... she can be brought back, even so. "Kayano, we're here under orders. We do not wish to harm you. What is the matter?"
+[26-Apr-2014 23:13:49]  <IllFlower> Yumiko says nothing, merely staring a little longer at the Conservators.
+[26-Apr-2014 23:13:56]  <ponicalica> "We've had reports of you as the source of magical flares.  We're to take you to the Library of the Ancients for an examination."
+[26-Apr-2014 23:15:21]  <IllFlower> "So even the Conservators think I'm gone," Yumiko says.
+[26-Apr-2014 23:15:43]  <IllFlower> Her voice sounds like a whisper, but it carries far enough for the other girls to hear.
+[26-Apr-2014 23:16:36]  <IllFlower> "It's fine," she says, louder this time. "You won't need to take me anywhere once I've finished."
+[26-Apr-2014 23:17:27]  <IllFlower> She glances over her shoulder at the street below.
+[26-Apr-2014 23:19:46]  <ponicalica> "Finished?  Don't.  We're here to help."
+[26-Apr-2014 23:20:50]  <Alicia> "You won't be finishing anything. Please, come in peacefully."
+[26-Apr-2014 23:21:47]  <IllFlower> Yumiko looks into Hikari's eyes.
+[26-Apr-2014 23:22:01]  <IllFlower> "I beg to differ," she says.
+[26-Apr-2014 23:22:04]  <BGTB2005> (how far down is the street? or is this something that should've been asked at briefing?)
+[26-Apr-2014 23:22:13]  <Alicia> Hikari turns her head somewhat, trying to see what she's looking at.
+[26-Apr-2014 23:22:25]  <ponicalica> BGTB2005: I think we tracked her down onto some tall office building or something
+[26-Apr-2014 23:22:51]  <IllFlower> With that, she begins to take a step backwards, not even looking behind her, knowing that there's nothing there but a five-story fall to the ground below.
+[26-Apr-2014 23:24:00]  <ponicalica> man it's too bad that the player we have with wings is a bit skittish about saving people ;p
+[26-Apr-2014 23:24:19]  <BGTB2005> at least there's no risk of drowning
+[26-Apr-2014 23:24:24]  <Alicia> "Ayako, you think any light could help? Disorient her perhaps, so she's away from the edge?"
+[26-Apr-2014 23:24:48]  <IllFlower> If you want to do something to keep her from leaping off the edge, you'd better do it now.
+[26-Apr-2014 23:24:51]  <IllFlower> And I mean *now*.
+[26-Apr-2014 23:24:53]  <ponicalica> "I think disorienting her would just hasten the fall.  One of us should try to grab her."
+[26-Apr-2014 23:25:01]  <BGTB2005> "on it"
+[26-Apr-2014 23:25:15]  <Alicia> (Gettin' out the wings eh?)
+[26-Apr-2014 23:25:54]  <IllFlower> Shall we start a conflict, then?
+[26-Apr-2014 23:26:10]  <Alicia> I think so.
+[26-Apr-2014 23:26:18]  <BGTB2005> Rin v. Gravity?
+[26-Apr-2014 23:26:28]  <ponicalica> Rin v. Yumiko, probably
+[26-Apr-2014 23:26:30]  <IllFlower> It doesn't have to be just Rin, but sure.
+[26-Apr-2014 23:26:39]  <IllFlower> Let me put together some dice.
+[26-Apr-2014 23:26:45]  <ponicalica> oh, true, we could run after them too
+[26-Apr-2014 23:27:01]  <ponicalica> Not sure what raises or &c I'd be able to actually make though, is the problem
+[26-Apr-2014 23:28:19]  <IllFlower> Look at page 85 of the manual. It might give you some ideas.
+[26-Apr-2014 23:29:30]  <Alicia> So would Yumiko's mental health be at stake here? Or would it also be the welfare of others?
+[26-Apr-2014 23:30:21]  <IllFlower> I think the stakes are just keeping her from ending up Yumiko pâté.
+[26-Apr-2014 23:30:22]  <ponicalica> I kind of assume it'd be whether or not her body makes contact with the floor
+[26-Apr-2014 23:30:26]  <ponicalica> er, ground
+[26-Apr-2014 23:30:29]  <BGTB2005> street
+[26-Apr-2014 23:30:35]  <ponicalica> @w pâté
+[26-Apr-2014 23:30:35]  <Omnipresence> 14ponicalica: Wikipedia: https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9 — Pâté (UK /ˈpæteɪ/ or US /pɑːˈteɪ/; French pronunciation: ​[pɑte]) is a mixture of cooked ground meat and fat minced into a spreadable paste. Common additions include vegetables, (+18 more characters)
+[26-Apr-2014 23:30:37]  <BGTB2005> sidewalk too, probably
+[26-Apr-2014 23:31:02]  <IllFlower> This is, of course, a physical conflict. So let's roll Bd+Ht.
+[26-Apr-2014 23:31:10]  <IllFlower> @dice new 8d6
+[26-Apr-2014 23:31:10]  <Omnipresence> 14IllFlower: Rolled 1 1 3 4 4 4 5 5 = 27. Bank now has 1 1 3 4 4 4 5 5 = 27.
+[26-Apr-2014 23:31:28]  <BGTB2005> @dice new 6d6
+[26-Apr-2014 23:31:28]  <Omnipresence> 14BGTB2005: Rolled 2 2 4 4 6 6 = 24. Bank now has 2 2 4 4 6 6 = 24.
+[26-Apr-2014 23:31:30]  <ponicalica> @dice new 4d6 3d6
+[26-Apr-2014 23:31:30]  <Omnipresence> 14ponicalica: Rolled 1 2 3 3 4 5 6 = 24. Bank now has 1 2 3 3 4 5 6 = 24.
+[26-Apr-2014 23:32:02]  <IllFlower> One of you should raise first.
+[26-Apr-2014 23:32:09]  <Alicia> @dice new 4d6 3d6
+[26-Apr-2014 23:32:09]  <Omnipresence> 14Alicia: Rolled 1 2 2 2 4 4 6 = 21. Bank now has 1 2 2 2 4 4 6 = 21.
+[26-Apr-2014 23:33:00]  *** SF_Sorrow <SF_Sorrow@college8-33-220.resnet.ucsc.edu> has quit IRC (Ping timeout: 190 seconds)
+[26-Apr-2014 23:33:13]  *** SF_Sorrow <SF_Sorrow@college8-33-220.resnet.ucsc.edu> has joined #madokamadness
+[26-Apr-2014 23:33:56]  <IllFlower> And like the manual mentions, I am liable to raise and see with environmental effects as much as with anything Yumiko does herself.
+[26-Apr-2014 23:35:36]  <IllFlower> Anyone up for a raise? If not, I'll let BGTB2005 go first as he has two 6s.
+[26-Apr-2014 23:36:16]  <ponicalica> I think BGTB2005 should raise, considering Rin's the one who started running after her
+[26-Apr-2014 23:36:41]  <Alicia> Mhm.
+[26-Apr-2014 23:37:45]  <IllFlower> Running works as a raise for me here.
+[26-Apr-2014 23:39:29]  <ponicalica> BGTB2005: okay, you don't need to be fancy, just say a few words about running towards Yumiko and pick your dice
+[26-Apr-2014 23:39:39]  <BGTB2005> k
+[26-Apr-2014 23:40:00]  *** SF_Sorrow <SF_Sorrow@college8-33-220.resnet.ucsc.edu> has quit IRC (Ping timeout: 190 seconds)
+[26-Apr-2014 23:40:30]  *** SF_Sorrow <SF_Sorrow@college8-33-220.resnet.ucsc.edu> has joined #madokamadness
+[26-Apr-2014 23:41:13]  *** CentralAve <~CentralAv@cpe-65-24-227-116.insight.res.rr.com> has joined #madokamadness
+[26-Apr-2014 23:41:49]  <BGTB2005> yeah can't really get something fancy done quickly so
+[26-Apr-2014 23:42:13]  <BGTB2005> Rin starts running towards Yumiko
+[26-Apr-2014 23:42:45]  <BGTB2005> @dice use 6 4
+[26-Apr-2014 23:42:45]  <Omnipresence> 14BGTB2005: Used 4 6 = 10. Bank now has 2 2 4 6 = 14.
+[26-Apr-2014 23:45:40]  <IllFlower> Rin wasn't expecting to have to run so quickly. She's still not sure what's happening, and her footing is a bit shaky for this reason. She pushes off, but who knows if it's fast enough.
+[26-Apr-2014 23:45:49]  <IllFlower> @dice use 5 5
+[26-Apr-2014 23:45:49]  <Omnipresence> 14IllFlower: Used 5 5 = 10. Bank now has 1 1 3 4 4 4 = 17.
+[26-Apr-2014 23:46:11]  <IllFlower> ponicalica: You have 5 6. I'd say you go next.
+[26-Apr-2014 23:47:09]  <IllFlower> @wa time to free fall 15 meters
+[26-Apr-2014 23:47:10]  <Omnipresence> 14IllFlower: Wolfram|Alpha: Input information: object falling vertically |  ; fall distance | 15 meters — Result: time to fall | 1.7 seconds; final speed | 17 m/s  (meters per second);  =  920 miles per day;  =  38 mph  (miles per hour); (assuming point mass)
+[26-Apr-2014 23:47:28]  <IllFlower> Better hurry.
+[26-Apr-2014 23:47:38]  <Alicia> Oh.
+[26-Apr-2014 23:48:01]  <ponicalica> hmm... Ayako could run after but I doubt she'd catch up to Rin.  Maybe some magic with the wind, even if it's not exactly her strong suit...
+[26-Apr-2014 23:48:31]  <Alicia> Use magical wind to shove her back our way.
+[26-Apr-2014 23:48:37]  <Alicia> Not her strong suit, but something.
+[26-Apr-2014 23:49:36]  <ponicalica> Ayako, thinking fast, realizes that she'll soon be pushed off and jump off the wall.  She quickly incants something to make a breeze pushing against the direction Yumiko's running near the edge of the building
+[26-Apr-2014 23:49:40]  <ponicalica> @dice
+[26-Apr-2014 23:49:40]  <Omnipresence> 14ponicalica: Bank has 1 2 3 3 4 5 6 = 24.
+[26-Apr-2014 23:49:52]  <ponicalica> @dice use 3 5
+[26-Apr-2014 23:49:52]  <Omnipresence> 14ponicalica: Used 3 5 = 8. Bank now has 1 2 3 4 6 = 16.
+[26-Apr-2014 23:52:13]  <IllFlower> A powerful gust of wind pushes Yumiko towards the roof. She twists around unnaturally on the foot she still has on the edge. For a second, it looks as if she might be safe, but then her ankle gives way and she begins to fall again.
+[26-Apr-2014 23:52:18]  <IllFlower> @dice use 4 3 1
+[26-Apr-2014 23:52:18]  <Omnipresence> 14IllFlower: Used 1 3 4 = 8. Bank now has 1 4 4 = 9.
+[26-Apr-2014 23:52:22]  <IllFlower> 3d6 fallout.
+[26-Apr-2014 23:52:35]  <IllFlower> Alicia: You're up.
+[26-Apr-2014 23:53:07]  <Alicia> Eeeaak. @_@
+[26-Apr-2014 23:53:32]  <ponicalica> @dice see Alicia 
+[26-Apr-2014 23:53:32]  <Omnipresence> 14ponicalica: Unrecognized subcommand see.
+[26-Apr-2014 23:53:36]  <ponicalica> @dice show Alicia 
+[26-Apr-2014 23:53:36]  <Omnipresence> 14ponicalica: Bank has 1 2 2 2 4 4 6 = 21.
+[26-Apr-2014 23:53:40]  <Alicia> (@ description for the record.)
+[26-Apr-2014 23:55:13]  <Alicia> Hmm. Could throw it perhaps, but pretty sure she weighs more than the staff, however magical. Maybe throw it to Rin to use (like, ot push her back up), and rush up to her?
+[26-Apr-2014 23:56:02]  <BGTB2005> Rin's got wings (probably not summoned yet, planning on doing so for my next turn) so she'll be fine
+[26-Apr-2014 23:56:20]  <Alicia> to*, hum, yeah.
+[26-Apr-2014 23:56:52]  <IllFlower> You could always try to kick Yumiko's self-preservation instinct back on.
+[26-Apr-2014 23:57:04]  <Alicia> By what, whackin' her?
+[26-Apr-2014 23:57:18]  <IllFlower> "You have so much to live for!" Except less cliché.
+[26-Apr-2014 23:57:52]  <Alicia> Or that, I just thought we were past talking now.
+[26-Apr-2014 23:58:12]  <IllFlower> Not here.
+[26-Apr-2014 23:58:51]  <IllFlower> Last time shouting wouldn't do much to keep a drowning kid from drowning.
+[26-Apr-2014 23:59:01]  <IllFlower> This time, who knows, maybe she snaps out of it and grasps for the ledge.
+[27-Apr-2014 00:00:21]  <Alicia> Hikari rushes to catch up with Rin. "Yumiko, death is not the answer and it never will be! Listen to us, we will help you!"
+[27-Apr-2014 00:00:29]  <Alicia> @dice use 4 4
+[27-Apr-2014 00:00:29]  <Omnipresence> 14Alicia: Used 4 4 = 8. Bank now has 1 2 2 2 6 = 13.
+[27-Apr-2014 00:01:28]  <IllFlower> Turns out the wind's still blowing from Ayako's maneuver. A particularly ill-timed gust swallows Hikari's words whole, making their efficacy a moot question.
+[27-Apr-2014 00:01:31]  <IllFlower> @dice use 4 4
+[27-Apr-2014 00:01:31]  <Omnipresence> 14IllFlower: Used 4 4 = 8. Bank now has 1 = 1.
+[27-Apr-2014 00:02:05]  <IllFlower> I figure now's as good a time as any to assign an open 1d8 to her sound magic.
+[27-Apr-2014 00:02:08]  <BGTB2005> @dice show
+[27-Apr-2014 00:02:08]  <Omnipresence> 14BGTB2005: Bank has 2 2 4 6 = 14.
+[27-Apr-2014 00:02:32]  <ponicalica> @dice show
+[27-Apr-2014 00:02:32]  <Omnipresence> 14ponicalica: Bank has 1 2 3 4 6 = 16.
+[27-Apr-2014 00:02:38]  <BGTB2005> oh good I was waiting for more dice to be thrown at us
+[27-Apr-2014 00:02:43]  <Alicia> @dicee show
+[27-Apr-2014 00:02:47]  <Alicia> @dice show
+[27-Apr-2014 00:02:47]  <Omnipresence> 14Alicia: Bank has 1 2 2 2 6 = 13.
+[27-Apr-2014 00:02:49]  <IllFlower> @dice add 1d8
+[27-Apr-2014 00:02:49]  <Omnipresence> 14IllFlower: Rolled 2 = 2. Bank now has 1 2 = 3.
+[27-Apr-2014 00:02:55]  <BGTB2005> pffffffffffffffffffff
+[27-Apr-2014 00:02:59]  <IllFlower> Ha. Well, at least I can raise.
+[27-Apr-2014 00:04:34]  <IllFlower> Yumiko tries to use one last burst of magic to set off a screeching sound, like loud feedback at a badly-wired concert.
+[27-Apr-2014 00:04:37]  <IllFlower> @dice use 1 2
+[27-Apr-2014 00:04:37]  <Omnipresence> 14IllFlower: Used 1 2 = 3. Bank now has no rolls.
+[27-Apr-2014 00:04:45]  <IllFlower> All of you should see.
+[27-Apr-2014 00:07:30]  <ponicalica> Ayako hears the loud screech even through whatever wind is still blowing from her previous spell.  She covers her ears long enough to set up a short-range counterspell, perhaps comparable to finely-tuned noise-cancelling headphones.
+[27-Apr-2014 00:07:34]  <ponicalica> @dice use 3
+[27-Apr-2014 00:07:34]  <Omnipresence> 14ponicalica: Used 3 = 3. Bank now has 1 2 4 6 = 13.
+[27-Apr-2014 00:08:22]  <BGTB2005> Grimacing at the sound, Rin does her best to ignore it and focus on reaching Yumiko
+[27-Apr-2014 00:08:32]  <BGTB2005> @dice use 2 2
+[27-Apr-2014 00:08:32]  <Omnipresence> 14BGTB2005: Used 2 2 = 4. Bank now has 4 6 = 10.
+[27-Apr-2014 00:08:43]  <Alicia> Just as quickly, Hikari drops her staff and stops, covering her ears.
+[27-Apr-2014 00:08:47]  <Alicia> @dice use 1 2
+[27-Apr-2014 00:08:47]  <Omnipresence> 14Alicia: Used 1 2 = 3. Bank now has 2 2 6 = 10.
+[27-Apr-2014 00:09:10]  <IllFlower> Stopping to cover your ears sounds a bit like taking the blow.
+[27-Apr-2014 00:09:22]  <IllFlower> That is kind of exactly what Yumiko wants.
+[27-Apr-2014 00:09:40]  <Alicia> Hmm.
+[27-Apr-2014 00:09:44]  <Alicia> @dice give 1
+[27-Apr-2014 00:09:44]  <Omnipresence> 14Alicia: Unrecognized subcommand give.
+[27-Apr-2014 00:09:50]  <Alicia> @dice use 2
+[27-Apr-2014 00:09:50]  <Omnipresence> 14Alicia: Used 2 = 2. Bank now has 2 6 = 8.
+[27-Apr-2014 00:09:57]  <ponicalica> Alicia: add
+[27-Apr-2014 00:10:01]  <Alicia> @dice add 2
+[27-Apr-2014 00:10:01]  <Omnipresence> 14Alicia: Rolled 2 = 2. Bank now has 2 2 6 = 10.
+[27-Apr-2014 00:10:04]  <Alicia> Right, sorry.
+[27-Apr-2014 00:10:10]  <ponicalica> Perhaps cut the covering from mine then, and just run it as a very short counterspell
+[27-Apr-2014 00:10:35]  <IllFlower> Well, in any case, it looks like everyone's generally unfazed.
+[27-Apr-2014 00:10:44]  <IllFlower> We can move on to the next round. ponicalica has the high dice.
+[27-Apr-2014 00:10:48]  <Alicia> Quickly, she grabs the staff back and forces her way up to Yumiko.
+[27-Apr-2014 00:12:33]  <ponicalica> I think BGTB2005 might have something he wants Rin to do first, so I'll let him raise first if he wishes
+[27-Apr-2014 00:12:46]  <BGTB2005> yeah
+[27-Apr-2014 00:12:57]  <IllFlower> Gp ahead.
+[27-Apr-2014 00:15:47]  <BGTB2005> Closing the distance, twin bursts of flame erupt from Rin's back, spreading and dissipating to reveal a pair of black-feathered wings
+[27-Apr-2014 00:15:52]  <BGTB2005> @dice add d8
+[27-Apr-2014 00:15:52]  <Omnipresence> 14BGTB2005: Rolled 3 = 3. Bank now has 3 4 6 = 13.
+[27-Apr-2014 00:16:22]  <IllFlower> Black feathers, hm?
+[27-Apr-2014 00:16:28]  <BGTB2005> >.>
+[27-Apr-2014 00:16:32]  <Alicia> :3
+[27-Apr-2014 00:16:33]  <ponicalica> lol
+[27-Apr-2014 00:16:44]  <Alicia> (Dolls are better for catching people though tbh.)
+[27-Apr-2014 00:18:34]  *** Lin_Chong <~Lin_Chong@182.55.189.100> has joined #madokamadness
+[27-Apr-2014 00:19:23]  <IllFlower> Still need a raise here.
+[27-Apr-2014 00:20:04]  <BGTB2005> Rin lunges to dive-tackle yumiko
+[27-Apr-2014 00:20:14]  *** Barcode <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has joined #madokamadness
+[27-Apr-2014 00:20:14]  *** ChanServ sets mode: +o Barcode
+[27-Apr-2014 00:20:15]  <BGTB2005> 14sod it whatever
+[27-Apr-2014 00:20:21]  <BGTB2005> @dice use 4 6
+[27-Apr-2014 00:20:21]  <Omnipresence> 14BGTB2005: Used 4 6 = 10. Bank now has 3 = 3.
+[27-Apr-2014 00:20:41]  <IllFlower> That's an unusual way of catching someone, but I have no dice, so it has to work!
+[27-Apr-2014 00:20:47]  <Alicia> Hahah.
+[27-Apr-2014 00:20:55]  <Alicia> I like how she thinks.
+[27-Apr-2014 00:20:58]  *** Barcode <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has left #madokamadness
+[27-Apr-2014 00:21:11]  <ponicalica> Presumably it looks like she pushed her over the edge, but then a few seconds later she pulls up
+[27-Apr-2014 00:21:32]  <BGTB2005> yumiko's on a ledge, Rin's running, i'm trying to give some sort of consideration to momentum
+[27-Apr-2014 00:22:03]  <BGTB2005> also yeah sure what poni said
+[27-Apr-2014 00:22:06]  <ponicalica> ("It's a bird!" "It's a plane!" "It's...a magical girl!")
+[27-Apr-2014 00:22:07]  <IllFlower> Rin swoops around behind Yumiko and catches her just in time to tip her back over the edge.
+[27-Apr-2014 00:22:24]  <IllFlower> Yumiko stumbles and collapses into the gravel covering the roof.
+[27-Apr-2014 00:22:28]  <IllFlower> @dice roll 3d6
+[27-Apr-2014 00:22:28]  <Omnipresence> 14IllFlower: Rolled 3 4 5 = 12.
+[27-Apr-2014 00:22:35]  <IllFlower> 9 fallout, okay.
+[27-Apr-2014 00:22:45]  <ponicalica> that's a long term, right?
+[27-Apr-2014 00:23:07]  <IllFlower> Yup. Done.
+[27-Apr-2014 00:23:40]  <IllFlower> Guess she didn't actually twist her ankle too badly.
+[27-Apr-2014 00:23:51]  <Alicia> Wheee.
+[27-Apr-2014 00:24:04]  <BGTB2005> i'm a bird, caw caw!
+[27-Apr-2014 00:24:13]  <ponicalica> caw caw motherfuckers
+[27-Apr-2014 00:24:15]  <IllFlower> She's in a heap on the ground, though. Someone want to break the silence here?
+[27-Apr-2014 00:24:39]  <ponicalica> "...As we said.  We're here to help.  We don't want you to die."
+[27-Apr-2014 00:25:31]  <IllFlower> Yumiko coughs. She has a few cuts on her arms from her rough landing.
+[27-Apr-2014 00:25:51]  <IllFlower> "You could have let me," she says through a dry throat.
+[27-Apr-2014 00:28:26]  <ponicalica> "There are a lot of times when Conservators could just stand back and let bad things happen.  But that's not how it's supposed to be."
+[27-Apr-2014 00:29:29]  <IllFlower> Ayako reaches an arm around Yumiko's shoulders and slowly lifts her from the ground.
+[27-Apr-2014 00:30:07]  <IllFlower> So, what are we going to do with her? She's alive, for now.
+[27-Apr-2014 00:31:03]  <ponicalica> "So what's been going on recently?  All we were really told was that you were flaring..."
+[27-Apr-2014 00:31:04]  <BGTB2005> restrain her?
+[27-Apr-2014 00:31:58]  <IllFlower> Now might not be the best time to talk, but let's say you want to later on?
+[27-Apr-2014 00:32:11]  <Alicia> Take her to the medical side part of the whole Conservator business?
+[27-Apr-2014 00:32:36]  <ponicalica> IllFlower: true
+[27-Apr-2014 00:32:49]  <IllFlower> Sure. I take it we'll be having a little heart-to-heart next time.
+[27-Apr-2014 00:35:01]  <Alicia> Hikari reaches an arm around Yumiko's other shoulder and helps support her. "We came to help you, and we will. So if you'd please come cordially..."
+[27-Apr-2014 00:35:02]  *** AttObl is now known as AttObl|DS2Stream
+[27-Apr-2014 00:35:06]  <Alicia> And... yes
+[27-Apr-2014 00:36:42]  <IllFlower> All right, then we'll go ahead and wrap this session up with the girls bringing Yumiko back to base.
+[27-Apr-2014 00:36:55]  <IllFlower> That's all I've got for today. Thanks for playing, everyone.

@@ -1,0 +1,940 @@
+[29-Mar-2014 20:05:17]  *** IllFlower changes topic to https://room208.org/wiki/events | RIGHT NOW: Förtvivlan AB | UNKNOWN ARMIES: Nag Nitya
+[29-Mar-2014 20:05:29]  <ponicalica> @g förtvivlan
+[29-Mar-2014 20:05:30]  <Omnipresence> 14ponicalica: Google: (1/4) http://www.metal-archives.com/bands/F%C3%B6rtvivlan/3540307061 — Förtvivlan - Encyclopaedia Metallum: The Metal Archives: May 16, 2010 ... Förtvivlan is Swedish for "despair". Compilation appearances: Zwaert compilation ; (+866 more characters)
+[29-Mar-2014 20:05:37]  <ponicalica> aha, swedish
+[29-Mar-2014 20:05:38]  <IllFlower> ponicalica: We can start off with picking those fallout items.
+[29-Mar-2014 20:06:08]  <IllFlower> It's a depressing Scandinavian word. Of course there'd be a metal band named after it.
+[29-Mar-2014 20:07:25]  <ponicalica> I guess first let's recap what I did to get the fallout
+[29-Mar-2014 20:07:38]  <IllFlower> You took it when the counterspell tried to drown you.
+[29-Mar-2014 20:08:04]  <IllFlower> Or, well, Ayako did.
+[29-Mar-2014 20:08:12]  <IllFlower> She was also separated from Hikari then.
+[29-Mar-2014 20:08:27]  <ponicalica> oh boy, I'm even getting player/character confusion.  I don't think this has happened to me.
+[29-Mar-2014 20:08:40]  <Alicia> Heh.
+[29-Mar-2014 20:10:40]  <IllFlower> So you might have something going on with fear of separation, or of water...
+[29-Mar-2014 20:11:04]  <IllFlower> Or of counterspells, for that matter!
+[29-Mar-2014 20:11:36]  *** SF_Sorrow <~SF_Sorrow@99-67-18-70.lightspeed.sntcca.sbcglobal.net> has joined #madokamadness
+[29-Mar-2014 20:12:33]  <ponicalica> Yeah, that's a possibility.  Making a water-based one mostly makes me think of the existing fire one, lol
+[29-Mar-2014 20:13:21]  <IllFlower> "fear of the elements"
+[29-Mar-2014 20:13:28]  <ponicalica> and I don't know if that's a good or bad thing.  pretty much, lol
+[29-Mar-2014 20:13:49]  <IllFlower> You could change the flavor text and bump it up to 2d4.
+[29-Mar-2014 20:14:07]  <ponicalica> yeah, I didn't know how kosher that was, though I guess it really fits in with how fallout works
+[29-Mar-2014 20:14:20]  <IllFlower> Or bump down the "handling dangerous magic" one to 1d8.
+[29-Mar-2014 20:15:36]  <IllFlower> Either way, you don't need to think about it too much.
+[29-Mar-2014 20:16:39]  <ponicalica> yeah, I might just do the change flavor text and bump to 2d4, lol.  though now I have an xp fallout to decide
+[29-Mar-2014 20:16:49]  <IllFlower> For experience fallout, I think it wouldn't be a bad idea to bump a stat.
+[29-Mar-2014 20:17:26]  <IllFlower> Putting aside the narrative, it might be good for game purposes, haha.
+[29-Mar-2014 20:17:39]  <ponicalica> haha
+[29-Mar-2014 20:18:32]  <ponicalica> yeah, so which one?  Bd because of resisting drowning, or Ac because of magical methods and lol even more unbalanced
+[29-Mar-2014 20:19:43]  <IllFlower> Up to you, but I'm leaning towards the former.
+[29-Mar-2014 20:19:48]  <ponicalica> yeah
+[29-Mar-2014 20:20:08]  <ponicalica> done
+[29-Mar-2014 20:20:37]  <ponicalica> Bd 3→4, 1d4 fear of fire→2d4 fear of the elements
+[29-Mar-2014 20:21:04]  <IllFlower> Awesome. Let's pick up where we left off last time, then.
+[29-Mar-2014 20:21:46]  <IllFlower> Ayako and Hikari had just dispelled the charm in Emi's room and laid a tracking spell.
+[29-Mar-2014 20:22:00]  <IllFlower> With this, now, they have a good idea of where the main players in this whole commotion are.
+[29-Mar-2014 20:22:14]  <IllFlower> I recall you two wanted to go after Satsuki.
+[29-Mar-2014 20:23:09]  <Alicia>  Yeah, pretty sure we settled on that.
+[29-Mar-2014 20:23:34]  <ponicalica> yeah
+[29-Mar-2014 20:24:55]  <IllFlower> Satsuki's trails are numerous, much like everyone else's, but there are a couple that are clearly newer than the rest.
+[29-Mar-2014 20:27:17]  <IllFlower> After following the path on foot for some time through the labyrinthine city streets, the Conservators stop in front of a park tucked away between some apartment towers, into which the traces diverge like the branches of a tree.
+[29-Mar-2014 20:27:53]  <IllFlower> A little too easily discovered, almost, if you ignore the hour and a half of walking.
+[29-Mar-2014 20:27:54]  *** SpruceZeus is now known as SpruceZeus|away
+[29-Mar-2014 20:28:59]  <ponicalica> ("Good thing I got this sudden boost in bodily strength from nearly drowning!")
+[29-Mar-2014 20:29:08]  <IllFlower> The neighborhood streetlamps flicker to life as the sun begins to set.
+[29-Mar-2014 20:29:33]  *** SpruceZeus|away <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[29-Mar-2014 20:31:02]  <IllFlower> For better or worse, the area is essentially devoid of people at the moment.
+[29-Mar-2014 20:31:59]  <IllFlower> The only signs of human life are the vague glows of lights in some of the high-rises' windows.
+[29-Mar-2014 20:31:59]  *** WildSeraph <~Spheraph@d67-193-23-119.home3.cgocable.net> has quit IRC (Quit: Leaving)
+[29-Mar-2014 20:32:17]  <IllFlower> Okay, now what?
+[29-Mar-2014 20:32:53]  <ponicalica> So there are a few paths?
+[29-Mar-2014 20:33:30]  <IllFlower> Some of them wend into the park, others into the entrances of the nearby buildings.
+[29-Mar-2014 20:34:08]  <ponicalica> Alicia?
+[29-Mar-2014 20:34:16]  <Alicia> I'm up for the buildings, personally.
+[29-Mar-2014 20:36:21]  <Alicia> You?
+[29-Mar-2014 20:36:35]  <IllFlower> Hikari arbitrarily stomps up to the lobby door of one building. The sliding glass panels part automatically for her as she walks in.
+[29-Mar-2014 20:36:40]  *** SF_Sorrow <~SF_Sorrow@99-67-18-70.lightspeed.sntcca.sbcglobal.net> has quit IRC
+[29-Mar-2014 20:36:49]  <IllFlower> She gives Ayako a look, as if to ask "You coming?"
+[29-Mar-2014 20:37:12]  <ponicalica> Ayako follows behind Hikari.
+[29-Mar-2014 20:37:35]  <ponicalica> "Sorry.  Spaced out there for a second."
+[29-Mar-2014 20:38:38]  <Alicia> ("Hikari arbitrarily stomps up to the lobby door of one building." Accurate as hell.)
+[29-Mar-2014 20:40:29]  <IllFlower> Hikari follows the glowing trail along the floor. Strangely, it doesn't go towards the elevator or stairs, but straight into an unmarked door next to them.
+[29-Mar-2014 20:41:38]  <ponicalica> ("What are these girls doing and why are they dressed as cosplayers?")
+[29-Mar-2014 20:42:18]  <IllFlower> She tries the doorknob. It's definitely physically locked, but that's it.
+[29-Mar-2014 20:43:15]  <IllFlower> The elevator bell dings next to the girls. A middle-aged couple and their two children step out into the lobby, probably having dinner out tonight. As usual, the civilians pay Ayako and Hikari no heed.
+[29-Mar-2014 20:43:36]  <ponicalica> Ayako looks at her key, and at the lock.
+[29-Mar-2014 20:44:02]  <ponicalica> "I wonder if this'll fit..."
+[29-Mar-2014 20:44:52]  <IllFlower> Something about the repsective dimensions of the key and lock looks wrong, but she tries it anyway.
+[29-Mar-2014 20:46:19]  <IllFlower> She twists the key counterclockwise, at which the mechanism pops open with a snapping sound. The door swings slightly ajar, letting a shaft of light from the lobby fall into the darkened interior. It reveals a concrete hallway lined with pipes.
+[29-Mar-2014 20:47:46]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:35ea:221e:4f96:e6ce> has joined #madokamadness
+[29-Mar-2014 20:48:13]  <IllFlower> On the wall perhaps a meter away from the door is a panel with lots of lights and gauges. It's too dark to see any further down the hall, though.
+[29-Mar-2014 20:48:37]  <IllFlower> The only thing the girls can see is the blue cord showing Satsuki's footsteps.
+[29-Mar-2014 20:48:56]  <IllFlower> s/can see/can see in the distance/
+[29-Mar-2014 20:49:29]  <Alicia> "We can't see much, but they key worked at least. Think you could light this up any, Ayako?"
+[29-Mar-2014 20:50:31]  <ponicalica> "Yeah.  The wand can double as a sort of torch.  Let me get this key out of the hole first, though, it's struggling a bit."
+[29-Mar-2014 20:52:11]  <IllFlower> After some work, Ayako finally frees the key from the hole. She notices something amiss when she takes it out, though. The number on it is no longer 99, but... 85? Or maybe it's 58?
+[29-Mar-2014 20:54:21]  <IllFlower> "Um, Ayako, the light?"
+[29-Mar-2014 20:55:21]  *** Barcode <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has joined #madokamadness
+[29-Mar-2014 20:55:22]  *** ChanServ sets mode: +o Barcode
+[29-Mar-2014 20:55:31]  <IllFlower> At Hikari's gentle reminder, Ayako snaps out of her spell, apologizing. She closes the door, then pulls out her wand and gives it a shake to light the hallway ahead.
+[29-Mar-2014 20:55:52]  *** Barcode <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has left #madokamadness
+[29-Mar-2014 20:58:17]  <IllFlower> At this, the blue line indicating Satsuki's path is suddenly joined by a whole array of colored traces, most with names that neither Ayako nor Hikari recognize. At the end of the hallway, they descend down a ladder that presumably leads to the building's subterranean levels.
+[29-Mar-2014 20:58:43]  <IllFlower> What disturbs the two girls is the presence of a familiar mark on the gray wall above the ladder...
+[29-Mar-2014 20:58:59]  <ponicalica> the hand holding the torch?
+[29-Mar-2014 20:59:10]  <IllFlower> Bingo.
+[29-Mar-2014 21:02:19]  <IllFlower> No reaction? Maybe this was too obvious.
+[29-Mar-2014 21:02:41]  <IllFlower> ("I mean, we *did* follow her tracks, so it's not totally unexpected...")
+[29-Mar-2014 21:02:41]  <ponicalica> Well, we are tracking down Satsuki, so
+[29-Mar-2014 21:03:21]  <IllFlower> Not even knowing nods at each other?
+[29-Mar-2014 21:04:40]  <Alicia> Heh. Nah. ;p
+[29-Mar-2014 21:05:18]  <IllFlower> Hikari runs ahead, taking a peek down the vertical shaft where the ladder runs.
+[29-Mar-2014 21:06:00]  <IllFlower> She can't see much, but she thinks she recognizes the wheel handle of some kind of hatch.
+[29-Mar-2014 21:06:12]  <IllFlower> It looks a bit like it belongs on a submarine.
+[29-Mar-2014 21:08:16]  <Alicia> "Ayako, mind coming over here please? There's... something of interest here, for sure."
+[29-Mar-2014 21:08:47]  <ponicalica> Ayako follows over, and points her wand closer to get a better look.
+[29-Mar-2014 21:09:49]  <IllFlower> The hatch door is red, and has the words "TOWER B UNDERGROUND MAINTENANCE ACCESS" stenciled on it in white.
+[29-Mar-2014 21:11:03]  <IllFlower> Next to it is a sticker of a winking magical girl character from a popular cartoon. She's decked out in pink, carrying a wand capped by a small golden star.
+[29-Mar-2014 21:11:47]  <ponicalica> what a contrast in signs: the hand holding a torch, and a magical girl sticker
+[29-Mar-2014 21:12:30]  <IllFlower> Ayako sees no actual indication that this door is magically protected, though, just as with the first one.
+[29-Mar-2014 21:13:02]  <ponicalica> "Try to open it up, Hikari?"
+[29-Mar-2014 21:13:12]  <IllFlower> It's a little unnerving how there are all of these traces on the one hand, and virtually no defensive enchantments or indeed any real signs of magic on the other...
+[29-Mar-2014 21:14:25]  <Alicia> Hikari bites her lip, puzzling over the situation. "Yeah, let's see where this goes." She says, opening the hatch.
+[29-Mar-2014 21:15:15]  <IllFlower> There's a muffled "ka-chunk" as the lock is released. Hikari almost expects a cloudy vapor to begin streaming from inside, as if she were popping open a cryogenic chamber.
+[29-Mar-2014 21:15:56]  <IllFlower> Nothing of the sort happens, though. In fact, Hikari is puzzled by the fact that the hatch doesn't even open until she notices another handle on the door, and realizes that it opens upwards and not downwards.
+[29-Mar-2014 21:18:00]  <IllFlower> Hikari slowly slides down the ladder. After descending for some time, she lands in another short hallway.
+[29-Mar-2014 21:18:17]  <IllFlower> This one is lit, and appears to open up on a much larger space around a nearby corner.
+[29-Mar-2014 21:21:20]  <ponicalica> Ayako gulps a bit, knowing Satsuki is probably nearby, and her previous experience with a sorceror
+[29-Mar-2014 21:21:27]  <Alicia> Hikari peeks around, taking in the new scenery.
+[29-Mar-2014 21:23:13]  <IllFlower> Hikari pokes her head around the wall, and is shocked to find that the "larger space" appears to be about the size of a school gymnasium.
+[29-Mar-2014 21:23:51]  <IllFlower> Old furniture in motley colors and varied shapes seems to be strewn here and there in little clusters.
+[29-Mar-2014 21:25:09]  <IllFlower> There are a couple of rolling whiteboards mixed in amongst the armchairs, couches, and coffee tables. One appears to be taken up with names and pictures.
+[29-Mar-2014 21:25:41]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[29-Mar-2014 21:25:57]  <IllFlower> One line is crossed out in red marker. Hikari's eyesight isn't that great, but she can make out the characters of Sanae Tanimura's name even from several meters away.
+[29-Mar-2014 21:26:47]  <Alicia> "This place looks like an out of use bunker, or meeting area, or both." Hikari begins, scanning the area. "And there's... Tanimura."
+[29-Mar-2014 21:26:56]  <IllFlower> The traces the girls had followed all the way from Emi's house scatter everywhere.
+[29-Mar-2014 21:27:08]  <ponicalica> "I suppose this is her hideout."
+[29-Mar-2014 21:28:40]  <IllFlower> Not a bad guess.
+[29-Mar-2014 21:29:12]  <IllFlower> Ayako and Hikari still see no signs of life, however.
+[29-Mar-2014 21:29:37]  <IllFlower> In this state, the place looks like it was just up and abandoned.
+[29-Mar-2014 21:30:04]  <IllFlower> Ayako spots a board game on one of the tables, pieces left in the middle of a round.
+[29-Mar-2014 21:30:57]  <IllFlower> Hikari goes to look at the whiteboard. There are at least fifteen names on it besides Sanae's. At the top is Emi Fukuda's, circled. Not far down the list is Akiko Yanase's as well.
+[29-Mar-2014 21:31:56]  *** BGTB2005 <~BGT@pool-71-180-144-151.tampfl.fios.verizon.net> has joined #madokamadness
+[29-Mar-2014 21:32:02]  <IllFlower> Suddenly realizing its importance, Hikari pulls out her cell phone and takes a picture of the board.
+[29-Mar-2014 21:33:06]  <IllFlower> Still, after searching every nook and cranny of the place, including the bathroom, neither of the girls find a soul, nor any indication of where Satsuki may have gone.
+[29-Mar-2014 21:33:51]  <ponicalica> I assume Mai's name is also on the board?
+[29-Mar-2014 21:35:15]  <Alicia> "Ayako, you see anything else of importance around here? There's this board with the names of targets, for one thing." Hikari lets her question hang in the air for a few moments, before continuing. "I think it's best that we don't stay here too long. At least we know this is here, though."
+[29-Mar-2014 21:35:54]  <IllFlower> ponicalica: It is, but in different handwriting, strangely.
+[29-Mar-2014 21:36:43]  <IllFlower> Must have been a later addition.
+[29-Mar-2014 21:37:45]  <ponicalica> "There's this board game, abandoned halfway through a round.  They must have evacuated quickly.  I'm wondering if they were suspecting an attack.  By us, or by whatever Emi Fukuda's collected."
+[29-Mar-2014 21:40:09]  <Alicia> What else does the room look like? Aside from the target board and the chess set, is it pretty much barren?
+[29-Mar-2014 21:40:37]  <IllFlower> It looks like someone took a whole bunch of college dorm rooms and smashed them together.
+[29-Mar-2014 21:40:50]  <IllFlower> Someone left a sweater hanging off of one of the couches.
+[29-Mar-2014 21:41:22]  <IllFlower> There's a portable DVD player lying on the table next to a stack of discs.
+[29-Mar-2014 21:42:15]  <IllFlower> Also a notebook with someone's math homework in it. No name written on it, though.
+[29-Mar-2014 21:42:55]  <Alicia> ("I know, let's snatch some things, they might be useful.")
+[29-Mar-2014 21:43:39]  <BGTB2005> 'borrow' everything you physically can
+[29-Mar-2014 21:43:48]  <ponicalica> BGTB2005: we're not marisa, come on
+[29-Mar-2014 21:45:17]  <BGTB2005> :<
+[29-Mar-2014 21:45:52]  <IllFlower> Well, what's the plan?
+[29-Mar-2014 21:46:23]  <ponicalica> Look around for anything with info beyond the names, maybe clues as to where they dispersed
+[29-Mar-2014 21:47:21]  <IllFlower> Nothing. It's a little eerie, really. The traces shouldn't have been wrong.
+[29-Mar-2014 21:48:18]  <ponicalica> And they don't double back?  Hmm.
+[29-Mar-2014 21:49:31]  <Alicia> "Maybe we could gain something from looking at these discs? Could you see if there're any magical defenses setup, please, Ayako?"
+[29-Mar-2014 21:50:43]  <IllFlower> Things go on like this for about half an hour, the girls trying everything they can think of, but none of it amounts to anything.
+[29-Mar-2014 21:51:14]  <IllFlower> Hikari hangs her head in frustration.
+[29-Mar-2014 21:51:20]  <IllFlower> "What are we supposed to do, just go back?"
+[29-Mar-2014 21:51:54]  <ponicalica> "Maybe.  I think there were other paths, but then they have just as much a chance of ending up dead ends, realyl."
+[29-Mar-2014 21:53:19]  <Alicia> "Do you think they're still worth checking out anyway?"
+[29-Mar-2014 21:54:26]  <ponicalica> "They might.  At the very least, this trip wasn't completely fruitless, since we now know who they're targeting, and maybe can protect those who aren't already in hiding..."
+[29-Mar-2014 21:55:31]  <Alicia> Hikari nods. "That's something. Now let's just get out of here," she responds, going back towards the entrance.
+[29-Mar-2014 21:56:29]  <IllFlower> Just as soon as Hikari says this, however, she's interrupted by footsteps coming down the hallway from which the girls originally came.
+[29-Mar-2014 21:56:59]  <IllFlower> A figure about Hikari's height emerges from the shadows.
+[29-Mar-2014 21:57:54]  <IllFlower> She can't be much older than 17 or 18. Her black hair is tied back in a bun, and she wears a strangely out-of-season kimono decked with a floral pattern.
+[29-Mar-2014 21:58:13]  <IllFlower> The girl looks at Ayako and Hikari. "Who might you be?" she asks, in a cordial voice.
+[29-Mar-2014 21:59:48]  <ponicalica> "Um, I'm Ayako..." She's taken a bit aback.
+[29-Mar-2014 22:01:20]  <Alicia> Hikari flashes a smile. "My name is Hikari. Who might you be?"
+[29-Mar-2014 22:03:24]  <IllFlower> "Osada," the girl says pleasantly, returning Hikari's smile. "Satsuki Osada."
+[29-Mar-2014 22:04:28]  *** arpeiggoofthebluesalad is now known as saladofstones
+[29-Mar-2014 22:05:36]  <Alicia> (Thinking of a response. `-`)
+[29-Mar-2014 22:06:13]  <ponicalica> "So you're the one who ordered all the deaths..."
+[29-Mar-2014 22:08:23]  <IllFlower> "After a manner of speaking," Satsuki says, the smile lingering on her face as if she were talking about having a pleasant afternoon tea. "Are you friends of...?" She trails off in search of a name, but never finds one.
+[29-Mar-2014 22:10:38]  <ponicalica> "We're Conservators.  And you're responsible for murder."
+[29-Mar-2014 22:11:28]  <Alicia> Hikari keeps her smile, mirroring Osada. "I see. Well, good to know."
+[29-Mar-2014 22:12:52]  <IllFlower> Satsuki nods. "Then what brings you here of all places?"
+[29-Mar-2014 22:13:19]  <IllFlower> It's hard to tell whether she's dodging the subject or just a little airheaded.
+[29-Mar-2014 22:16:29]  <Nitya> 1,1barcode: by the way, ready any time for that biothing you were tlkin bout
+[29-Mar-2014 22:16:46]  <IllFlower> Nitya: He's not in here.
+[29-Mar-2014 22:16:47]  <Alicia> "We're Conservators." Hikari reiterates. "And we have a job to do, as you would expect."
+[29-Mar-2014 22:16:52]  <Nitya> 1,1oops
+[29-Mar-2014 22:18:09]  <IllFlower> "I'm sorry. I'm still not entirely sure what you're here to do."
+[29-Mar-2014 22:18:47]  <IllFlower> She folds her hands in front of her and takes a few steps towards the girls.
+[29-Mar-2014 22:22:55]  <ponicalica> "Bring you to justice."
+[29-Mar-2014 22:23:10]  <ponicalica> "Stop anyone else from dying."
+[29-Mar-2014 22:24:38]  <IllFlower> "I thought as much," Satsuki says.
+[29-Mar-2014 22:24:51]  <IllFlower> "I was always taught never to jump to conclusions, you see.
+[29-Mar-2014 22:25:14]  <IllFlower> "But now that I know what you're here for, I can't let you do it."
+[29-Mar-2014 22:25:31]  <IllFlower> The smile quickly evaporates from Satsuki's face.
+[29-Mar-2014 22:26:35]  <IllFlower> "You went after me and not Fukuda. Fine.
+[29-Mar-2014 22:27:07]  <IllFlower> "At least I have the backbone not to throw away my responsibilities."
+[29-Mar-2014 22:28:11]  <ponicalica> "Fukuda has yet to commit murder."
+[29-Mar-2014 22:28:49]  <Alicia> "A criminal is a criminal, Osada. Fukuda is important as well, however..." she trails off, Ayako having finished her thought.
+[29-Mar-2014 22:29:56]  <IllFlower> "I haven't, either, but I suppose Minami and Shouko's little altercations are on my hands.
+[29-Mar-2014 22:30:02]  <IllFlower> "So be it.
+[29-Mar-2014 22:30:23]  <IllFlower> "We can stand here and talk all day, but that won't change a thing."
+[29-Mar-2014 22:32:25]  <ponicalica> hardest part of this RP: when I don't have a good response
+[29-Mar-2014 22:32:53]  <IllFlower> Always an option: "FUUUUUCK YOOOOOOUUUUU"
+[29-Mar-2014 22:33:29]  <ponicalica> dunno if I can see Ayako saying that though
+[29-Mar-2014 22:33:58]  <IllFlower> Conflict?
+[29-Mar-2014 22:33:59]  <IllFlower> Conflict.
+[29-Mar-2014 22:34:11]  <ponicalica> yeah I think so
+[29-Mar-2014 22:34:22]  <Alicia> Figure so.
+[29-Mar-2014 22:34:39]  <IllFlower> Stakes?
+[29-Mar-2014 22:35:23]  <Alicia> I want to know what Osada means by these little altercations, and what her role in this is... not sure how you'd put that.
+[29-Mar-2014 22:36:41]  <IllFlower> Well, those are pretty well laid out already, unless there's something you want an answer to that I've missed previously.
+[29-Mar-2014 22:36:53]  <Alicia> Point.
+[29-Mar-2014 22:37:11]  <IllFlower> The "little altercations" are the ones that ended up killing four people, of course.
+[29-Mar-2014 22:37:49]  <Alicia> ponicalica?
+[29-Mar-2014 22:38:13]  <ponicalica> I'm kind of assuming it'll be the sort of thing that escalates quickly.
+[29-Mar-2014 22:38:33]  <ponicalica> the "bring her to justice" thing.  But I dunno if I wanna go that far?
+[29-Mar-2014 22:38:33]  *** SF_Sorrow <~SF_Sorrow@99-67-18-70.lightspeed.sntcca.sbcglobal.net> has joined #madokamadness
+[29-Mar-2014 22:38:45]  <IllFlower> I still need to know what the stakes would be...
+[29-Mar-2014 22:39:29]  <IllFlower> It's clear Satsuki's being obstinate, but I need something more concrete.
+[29-Mar-2014 22:40:12]  <ponicalica> I suspect "get her to come in" is too strong but I don't know what a weaker thing would be.
+[29-Mar-2014 22:40:36]  <IllFlower> I mean, just subduing her is fine if that's what you actually want to do.
+[29-Mar-2014 22:40:58]  <IllFlower> I suspect it's a bit late to be playing the "let's talk" game, after all.
+[29-Mar-2014 22:41:39]  <Alicia> I'd be fine with just subduing her.
+[29-Mar-2014 22:42:55]  <IllFlower> Then let's go with that. Rolling up some numbers now.
+[29-Mar-2014 22:43:05]  <IllFlower> One of you can raise first once that's done.
+[29-Mar-2014 22:45:31]  <IllFlower> Right, here we go. What level are we starting at?
+[29-Mar-2014 22:46:24]  <IllFlower> I think it'd be hilarious if Hikari were to go "so let's quit talking" and punch Satsuki in the face.
+[29-Mar-2014 22:46:36]  <ponicalica> It would.
+[29-Mar-2014 22:46:50]  <Alicia> Hah, that would certainly be something, can't disagree.
+[29-Mar-2014 22:47:18]  <Alicia> Oh gosh, her stats are terrifying. And she's a sorcerer.
+[29-Mar-2014 22:47:35]  <ponicalica> sorcerer = we're fucked, yeah
+[29-Mar-2014 22:48:46]  <Alicia> ;_;
+[29-Mar-2014 22:49:06]  <ponicalica> And she's got 4d10 in traits, lol
+[29-Mar-2014 22:51:52]  <Alicia> Ahaha, ow.
+[29-Mar-2014 22:53:47]  <IllFlower> Well, you can't just stand there in fright. Someone's gotta raise!
+[29-Mar-2014 22:55:04]  <Alicia> So Bd+Ht.
+[29-Mar-2014 22:56:04]  <ponicalica> well, fighting hand-to-hand is listed as Bd+Wl.
+[29-Mar-2014 22:56:13]  <IllFlower> Yeah, ponicalica's right.
+[29-Mar-2014 22:56:34]  <ponicalica> honestly I think the terminology is a bit muddled tbh
+[29-Mar-2014 22:56:39]  <ponicalica> in the book itself
+[29-Mar-2014 22:56:44]  <Alicia> Oh, whoops.
+[29-Mar-2014 22:57:13]  <ponicalica> @dice
+[29-Mar-2014 22:57:13]  <Omnipresence> 14ponicalica: Bank has 2 3 5 5 6 = 21.
+[29-Mar-2014 22:57:28]  <Alicia> @dice
+[29-Mar-2014 22:57:28]  <Omnipresence> 14Alicia: Bank has 1 2 2 3 3 3 5 6 = 25.
+[29-Mar-2014 22:57:32]  <IllFlower> Non-physical hand-to-hand conflict might be running a race or something.
+[29-Mar-2014 22:58:06]  <ponicalica> @dice new 4d6 3d6 >! Bd, Wl (I think)
+[29-Mar-2014 22:58:06]  <Omnipresence> 14: Rolled 1 2 3 3 4 5 6 = 24. Bank now has 1 2 3 3 4 5 6 = 24.
+[29-Mar-2014 22:58:48]  <IllFlower> Er, sorry, non-hand-to-hand physical conflict.
+[29-Mar-2014 22:58:55]  <IllFlower> Anyway, let's roll with the punches. Literal punches.
+[29-Mar-2014 22:59:08]  <IllFlower> @dice new 10d6
+[29-Mar-2014 22:59:08]  <Omnipresence> 14IllFlower: Rolled 1 1 1 2 2 2 4 4 6 6 = 29. Bank now has 1 1 1 2 2 2 4 4 6 6 = 29.
+[29-Mar-2014 22:59:12]  <Alicia> @dice new 3d6 4d6
+[29-Mar-2014 22:59:12]  <Omnipresence> 14Alicia: Rolled 1 2 3 3 4 5 6 = 24. Bank now has 1 2 3 3 4 5 6 = 24.
+[29-Mar-2014 23:00:28]  * BGTB2005 prepares popcorn
+[29-Mar-2014 23:01:39]  <ponicalica> lol, we both have 1233456
+[29-Mar-2014 23:02:13]  <Alicia> Lol, I know right.
+[29-Mar-2014 23:02:56]  <ponicalica> but yeah I think Alicia should raise first?
+[29-Mar-2014 23:03:55]  <IllFlower> If Hikari's going to go Rocky all up in this underground cavern then yes.
+[29-Mar-2014 23:04:39]  <Alicia> Could I add 1d6 ("justice") and costume up? Seems reasonable to me.
+[29-Mar-2014 23:05:04]  <IllFlower> Yes, I think that works here.
+[29-Mar-2014 23:05:23]  <Alicia> +dice add 1d6 2d6
+[29-Mar-2014 23:05:27]  <Alicia> Er.
+[29-Mar-2014 23:05:33]  <Alicia> Oh right.
+[29-Mar-2014 23:05:35]  <BGTB2005> good job
+[29-Mar-2014 23:05:39]  <Alicia> @dice add 1d6 2d6
+[29-Mar-2014 23:05:39]  <Omnipresence> 14Alicia: Rolled 5 5 6 = 16. Bank now has 1 2 3 3 4 5 5 5 6 6 = 40.
+[29-Mar-2014 23:06:02]  <BGTB2005> nice
+[29-Mar-2014 23:06:04]  <IllFlower> Ha, your dice are substantially better than my dice.
+[29-Mar-2014 23:06:07]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:35ea:221e:4f96:e6ce> has quit IRC (Quit: ChatZilla 0.9.90.1 [Firefox 28.0/20140314220517])
+[29-Mar-2014 23:06:38]  <Alicia> Honestly, IllFlower, I'd add my staff to for stafficuffs except it doesn't feel *right*. ;p
+[29-Mar-2014 23:06:39]  <ponicalica> wow Alicia's getting good dice
+[29-Mar-2014 23:07:03]  <ponicalica> IllFlower: watch as you then end up getting Xs when you pull in the 2d10s
+[29-Mar-2014 23:07:13]  <Alicia> Xs?
+[29-Mar-2014 23:07:23]  <ponicalica> roman numeral for 10
+[29-Mar-2014 23:07:29]  <Alicia> Oh, derp.
+[29-Mar-2014 23:07:32]  <Alicia> >_>;
+[29-Mar-2014 23:07:36]  <ponicalica> before Omni's dice functions we used an X because we listed dice as 1233455566 etc
+[29-Mar-2014 23:07:37]  <IllFlower> I'm actually thinking about retconning the 4d8 demonic relationship to a 4d10. Kotomi had 4d8 and even she wasn't all about murdering people.
+[29-Mar-2014 23:08:19]  <IllFlower> Well, anyway, Alicia, you still need to raise!
+[29-Mar-2014 23:08:31]  <IllFlower> Gotta keep things moving now that we're in conflict.
+[29-Mar-2014 23:08:32]  <Alicia> Right, sorry! Thinking about what ones to use.
+[29-Mar-2014 23:08:39]  <ponicalica> come out strong, use 66
+[29-Mar-2014 23:08:48]  <BGTB2005> the big'uns
+[29-Mar-2014 23:09:09]  <Alicia> ... oh, I have two 6s.
+[29-Mar-2014 23:09:14]  <Alicia> I forgot to add that. ._.
+[29-Mar-2014 23:09:59]  <Alicia> +dice use 5 6
+[29-Mar-2014 23:10:03]  <Alicia> @dice use 5 6
+[29-Mar-2014 23:10:03]  <Omnipresence> 14Alicia: Used 5 6 = 11. Bank now has 1 2 3 3 4 5 5 6 = 29.
+[29-Mar-2014 23:10:04]  <Alicia> SORRY
+[29-Mar-2014 23:12:10]  <ponicalica> don't be sorry
+[29-Mar-2014 23:12:15]  <IllFlower> Hikari runs at Satsuki with her fist aimed straight for the face, but there's still a considerable amount of distance between them, and Satsuki easily avoids Hikari's attack. Though doing so by performing a flip off the back of a nearby couch might have been a bit showy.
+[29-Mar-2014 23:12:17]  <ponicalica> everyone makes bot mistakes
+[29-Mar-2014 23:12:21]  <IllFlower> @dice use 6 6
+[29-Mar-2014 23:12:21]  <Omnipresence> 14IllFlower: Used 6 6 = 12. Bank now has 1 1 1 2 2 2 4 4 = 17.
+[29-Mar-2014 23:12:25]  <Alicia> Hikari grits her teeth, sighing quietly. "Unfortunately, *no*." She reels back her arm and promptly smashes her fist into the middle of Osada's face.
+[29-Mar-2014 23:12:37]  <ponicalica> time paradox
+[29-Mar-2014 23:13:20]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has quit IRC (Ping timeout: 190 seconds)
+[29-Mar-2014 23:13:22]  <IllFlower> I'm out of 6s so I think it would make sense for ponicalica to raise next.
+[29-Mar-2014 23:13:34]  <Alicia> For now. `-`
+[29-Mar-2014 23:13:50]  <ponicalica> @dice
+[29-Mar-2014 23:13:50]  <Omnipresence> 14ponicalica: Bank has 1 2 3 3 4 5 6 = 24.
+[29-Mar-2014 23:14:08]  *** Section42L <~sectionl@24.114.52.129> has joined #madokamadness
+[29-Mar-2014 23:14:40]  <ponicalica> Ayako sees an opening, and starts running toward the nearby couch, and winds back her arm to try to land a punch of her own.
+[29-Mar-2014 23:15:02]  <ponicalica> @dice use 4 5
+[29-Mar-2014 23:15:02]  <Omnipresence> 14ponicalica: Used 4 5 = 9. Bank now has 1 2 3 3 6 = 15.
+[29-Mar-2014 23:16:29]  <IllFlower> The punch connects, knocking Satsuki back a fair distance. She straightens herself out and spits a small wad of blood from her mouth.
+[29-Mar-2014 23:16:37]  <IllFlower> @dice use 4 4 1
+[29-Mar-2014 23:16:37]  <Omnipresence> 14IllFlower: Used 1 4 4 = 9. Bank now has 1 1 2 2 2 = 8.
+[29-Mar-2014 23:16:54]  <IllFlower> She makes a disapproving noise.
+[29-Mar-2014 23:17:44]  <IllFlower> "Not bad. I didn't think you'd be much of a fighter, compared to your friend here. I suppose I was wrong."
+[29-Mar-2014 23:18:31]  <IllFlower> A vague crimson glow appears around the fringes of her body.
+[29-Mar-2014 23:18:41]  <IllFlower> "I guess that means I don't need to go easy on either of you."
+[29-Mar-2014 23:18:52]  <Alicia> (Oh dear.)
+[29-Mar-2014 23:18:54]  <IllFlower> Rolling in the demonic influence... now.
+[29-Mar-2014 23:18:58]  <IllFlower> @dice add 5d10
+[29-Mar-2014 23:18:58]  <Omnipresence> 14IllFlower: Rolled 2 3 5 8 9 = 27. Bank now has 1 1 2 2 2 2 3 5 8 9 = 35.
+[29-Mar-2014 23:19:18]  <Alicia> ( ._. )
+[29-Mar-2014 23:19:32]  <ponicalica> oshit
+[29-Mar-2014 23:21:00]  <IllFlower> Satsuki grabs a nearby floor lamp to use as a bludgeon and rushes towards Ayako.
+[29-Mar-2014 23:21:08]  <IllFlower> @dice add d6 >! improvised weapon
+[29-Mar-2014 23:21:08]  <Omnipresence> 14: Rolled 1 = 1. Bank now has 1 1 1 2 2 2 2 3 5 8 9 = 36.
+[29-Mar-2014 23:21:14]  <IllFlower> Haha, serves me right.
+[29-Mar-2014 23:21:30]  <IllFlower> @dice use 5 9
+[29-Mar-2014 23:21:30]  <Omnipresence> 14IllFlower: Used 5 9 = 14. Bank now has 1 1 1 2 2 2 2 3 8 = 22.
+[29-Mar-2014 23:23:05]  <ponicalica> would the "dangerous magic" be linked to her invocation of the demons?
+[29-Mar-2014 23:23:15]  <IllFlower> I won't call on the demonic possession powers for now, since things are pretty unbalanced as they are already.
+[29-Mar-2014 23:23:19]  <ponicalica> i'm divided on the appropriateness
+[29-Mar-2014 23:23:24]  <IllFlower> ponicalica: Yeah, that's perfectly legit to me.
+[29-Mar-2014 23:23:43]  <ponicalica> @dice use 2d8 2d6 >! dangerous magic, transform
+[29-Mar-2014 23:23:43]  <Omnipresence> 14ponicalica: invalid literal for int() with base 10: '2d8' is not a valid roll.
+[29-Mar-2014 23:23:52]  <ponicalica> @dice add 2d8 2d6 >! dangerous magic, transform
+[29-Mar-2014 23:23:52]  <Omnipresence> 14: Rolled 2 3 4 8 = 17. Bank now has 1 2 2 3 3 3 4 6 8 = 32.
+[29-Mar-2014 23:25:19]  <IllFlower> 6 8 would do nicely.
+[29-Mar-2014 23:27:03]  <ponicalica> Ayako quickly pulls out her costume as the lamp descends onto her; the blue flash pushes back against the lamp and it breaks in two, the pieces narrowly avoiding Ayako's body as Satsuki is briefly thrown off balance.
+[29-Mar-2014 23:27:07]  <ponicalica> @dice use 6 8
+[29-Mar-2014 23:27:07]  <Omnipresence> 14ponicalica: Used 6 8 = 14. Bank now has 1 2 2 3 3 3 4 = 18.
+[29-Mar-2014 23:28:01]  *** Section42L <~sectionl@24.114.52.129> has quit IRC (Quit: Colloquy for iPhone - http://colloquy.mobi)
+[29-Mar-2014 23:28:09]  <IllFlower> So it is. Next round, then. It looks like Satsuki has the high dice, so...
+[29-Mar-2014 23:28:25]  *** Section42L <~Section@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[29-Mar-2014 23:28:28]  <IllFlower> @dice show Alicia
+[29-Mar-2014 23:28:28]  <Omnipresence> 14IllFlower: Bank has 1 2 3 3 4 5 5 6 = 29.
+[29-Mar-2014 23:30:08]  <Alicia> This gonna be not good.
+[29-Mar-2014 23:31:28]  <IllFlower> Satsuki ditches the part of the lamp that remains in her hand and simply aims a kick at Ayako's midsection, using the momentum from her run to propel her.
+[29-Mar-2014 23:31:31]  <IllFlower> @dice use 2 8
+[29-Mar-2014 23:31:31]  <Omnipresence> 14IllFlower: Used 2 8 = 10. Bank now has 1 1 1 2 2 2 3 = 12.
+[29-Mar-2014 23:31:40]  <IllFlower> Actually, no, let me change that.
+[29-Mar-2014 23:31:43]  <IllFlower> @dice use 1
+[29-Mar-2014 23:31:43]  <Omnipresence> 14IllFlower: Used 1 = 1. Bank now has 1 1 2 2 2 3 = 11.
+[29-Mar-2014 23:31:45]  <IllFlower> @dice add 2
+[29-Mar-2014 23:31:45]  <Omnipresence> 14IllFlower: Rolled 2 = 2. Bank now has 1 1 2 2 2 2 3 = 13.
+[29-Mar-2014 23:31:48]  <IllFlower> Raise 9.
+[29-Mar-2014 23:32:32]  <ponicalica> @dice
+[29-Mar-2014 23:32:32]  <Omnipresence> 14ponicalica: Bank has 1 2 2 3 3 3 4 = 18.
+[29-Mar-2014 23:32:44]  <ponicalica> ouch
+[29-Mar-2014 23:33:08]  <Alicia> Yeah.
+[29-Mar-2014 23:34:40]  <ponicalica> and we're still in hand-to-hand combat, right?
+[29-Mar-2014 23:34:50]  <IllFlower> Yeah. d8 fallout.
+[29-Mar-2014 23:36:17]  <IllFlower> Remember that there's always the option of Hikari helping out.
+[29-Mar-2014 23:36:20]  <ponicalica> so my options are to take the fallout, pull something else in, or yell at Alicia to provide help and then she can only raise with a single die
+[29-Mar-2014 23:37:06]  <IllFlower> Well, she has a 6.
+[29-Mar-2014 23:37:09]  <Alicia> 2d8 takes charge?
+[29-Mar-2014 23:37:21]  <IllFlower> My highest remaining pair of dice totals to 5.
+[29-Mar-2014 23:37:44]  <ponicalica> Alicia: maybe, though I'm not sure how I'd work that into a see
+[29-Mar-2014 23:37:48]  <IllFlower> So if she tosses you a 2 she can still fend for herself.
+[29-Mar-2014 23:37:52]  <Alicia> @dice show Illflower
+[29-Mar-2014 23:37:52]  <Omnipresence> 14Alicia: Bank has 1 1 2 2 2 2 3 = 13.
+[29-Mar-2014 23:38:42]  <IllFlower> Barring, of course, my doing something crazy like rolling more dice...
+[29-Mar-2014 23:38:50]  <Alicia> >_>
+[29-Mar-2014 23:39:04]  <IllFlower> There's no right answer here, though. Gotta do something and live with the consequences!
+[29-Mar-2014 23:41:27]  <ponicalica> does Hikari want to go for it?
+[29-Mar-2014 23:41:53]  <Alicia> I think so.
+[29-Mar-2014 23:42:29]  <Alicia> So 2, right?
+[29-Mar-2014 23:42:46]  <IllFlower> If ponicalica were to see with 3 4, yes.
+[29-Mar-2014 23:43:45]  <Alicia> Also could the 2d10 be worked in, maybe? Have Ayako fire some spells back in retaliation.
+[29-Mar-2014 23:43:51]  <ponicalica> That'd be a raise
+[29-Mar-2014 23:43:59]  <Alicia> Oh, mm.
+[29-Mar-2014 23:44:05]  <ponicalica> which is a different thing from the see.
+[29-Mar-2014 23:44:14]  <Alicia> Yeah, okay.
+[29-Mar-2014 23:44:28]  <IllFlower> That'd also be an escalation.
+[29-Mar-2014 23:44:41]  <Alicia> Ohh right fists ~~~> magic...
+[29-Mar-2014 23:45:03]  <IllFlower> And, well, I dunno about you guys, but Satsuki's got 5d6 Ac...
+[29-Mar-2014 23:45:33]  <ponicalica> Ayako sees the kick aiming toward her, and stumbles a bit: "A little help, Hikari?"
+[29-Mar-2014 23:45:33]  <Alicia> 3d6 and 5d6. >_>;
+[29-Mar-2014 23:45:39]  <ponicalica> @dice use 3 5
+[29-Mar-2014 23:45:39]  <Omnipresence> 14ponicalica: You do not have enough 5s in your die bank to use those rolls.
+[29-Mar-2014 23:45:42]  <ponicalica> @dice
+[29-Mar-2014 23:45:42]  <Omnipresence> 14ponicalica: Bank has 1 2 2 3 3 3 4 = 18.
+[29-Mar-2014 23:45:43]  <IllFlower> 3 4
+[29-Mar-2014 23:45:45]  <ponicalica> @dice use 3 4
+[29-Mar-2014 23:45:45]  <Omnipresence> 14ponicalica: Used 3 4 = 7. Bank now has 1 2 2 3 3 = 11.
+[29-Mar-2014 23:45:46]  <ponicalica> yeah
+[29-Mar-2014 23:46:17]  <IllFlower> Alicia?
+[29-Mar-2014 23:46:22]  <Alicia> Yeah, sorry.
+[29-Mar-2014 23:47:00]  <IllFlower> Sorry, but I would really like to keep things moving.
+[29-Mar-2014 23:47:07]  <Alicia> Hikari rushes over, taking the kick, standing her ground.
+[29-Mar-2014 23:47:32]  <Alicia> What do we have to see again. 8?
+[29-Mar-2014 23:47:35]  <IllFlower> 9.
+[29-Mar-2014 23:47:41]  <Alicia> 2 + 45 is what I was - okay.
+[29-Mar-2014 23:47:46]  <Alicia> @dice use 2 4 5
+[29-Mar-2014 23:47:46]  <Omnipresence> 14Alicia: Used 2 4 5 = 11. Bank now has 1 3 3 5 6 = 18.
+[29-Mar-2014 23:47:49]  <Alicia> Oh wait.
+[29-Mar-2014 23:47:50]  <IllFlower> And that description's taking the blow.
+[29-Mar-2014 23:48:10]  <Alicia> Oh, er...
+[29-Mar-2014 23:48:16]  <IllFlower> Hikari's helping Ayako here, so just getting her out of Satsuki's way is sufficient.
+[29-Mar-2014 23:48:19]  <ponicalica> Also you only needed to use a 2.
+[29-Mar-2014 23:48:21]  <IllFlower> Just add your 4 5 back.
+[29-Mar-2014 23:48:23]  <Alicia> Okay.
+[29-Mar-2014 23:48:26]  <Alicia> @dice add 4 5
+[29-Mar-2014 23:48:26]  <Omnipresence> 14Alicia: Rolled 4 5 = 9. Bank now has 1 3 3 4 5 5 6 = 27.
+[29-Mar-2014 23:48:50]  <IllFlower> Then one of you should raise, probably Alicia.
+[29-Mar-2014 23:49:26]  <Alicia> Yeah.
+[29-Mar-2014 23:49:38]  <IllFlower> Remember that you can only raise with one die now.
+[29-Mar-2014 23:50:18]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has joined #madokamadness
+[29-Mar-2014 23:50:31]  <Alicia> Repositioning herself, Hikari throws a punch in Osada's direction, hoping to connect.
+[29-Mar-2014 23:50:36]  <Alicia> @dice use 4
+[29-Mar-2014 23:50:36]  <Omnipresence> 14Alicia: Used 4 = 4. Bank now has 1 3 3 5 5 6 = 23.
+[29-Mar-2014 23:50:44]  <IllFlower> @dice
+[29-Mar-2014 23:50:44]  <Omnipresence> 14IllFlower: Bank has 1 1 2 2 2 2 3 = 13.
+[29-Mar-2014 23:50:49]  <IllFlower> Not a bad strategy.
+[29-Mar-2014 23:51:04]  <Alicia> `-`
+[29-Mar-2014 23:51:51]  <IllFlower> Satsuki is momentarily surprised by Hikari's sudden appearance, but she manages to duck underneath her attack all the same. To Hikari, it looks as if Satsuki's body kind of... warped out of the way...
+[29-Mar-2014 23:51:55]  <IllFlower> @dice use 2 2
+[29-Mar-2014 23:51:55]  <Omnipresence> 14IllFlower: Used 2 2 = 4. Bank now has 1 1 2 2 3 = 9.
+[29-Mar-2014 23:52:04]  <IllFlower> ponicalica: Your raise.
+[29-Mar-2014 23:52:23]  <ponicalica> @dice
+[29-Mar-2014 23:52:23]  <Omnipresence> 14ponicalica: Bank has 1 2 2 3 3 = 11.
+[29-Mar-2014 23:52:52]  <IllFlower> Alicia's the only one with non-crap dice, haha.
+[29-Mar-2014 23:53:51]  <Alicia> I feel like if it wasn't for that, we'd already be piles of blood and meat.
+[29-Mar-2014 23:53:57]  <Alicia> ("Just wait.")
+[29-Mar-2014 23:54:35]  <ponicalica> Ayako, her bearings (mostly) regained, now tries to throw a punch in Satsuki's general direction.
+[29-Mar-2014 23:54:45]  <IllFlower> Lots of punches here, eh?
+[29-Mar-2014 23:54:49]  <ponicalica> @dice use 2 3
+[29-Mar-2014 23:54:49]  <Omnipresence> 14ponicalica: Used 2 3 = 5. Bank now has 1 2 3 = 6.
+[29-Mar-2014 23:54:53]  <Alicia> FISTICUFFS YO.
+[29-Mar-2014 23:54:56]  <ponicalica> yeah, sorry for not being creative I guess :V
+[29-Mar-2014 23:55:20]  <Alicia> To me, a simple punch seemed the only reasonable response given the die.
+[29-Mar-2014 23:55:46]  <IllFlower> Ayako notices it too - Satsuki's body doesn't appear to follow the laws of physics any more. There's no other explanation for how she manages to dodge point-blank attacks.
+[29-Mar-2014 23:55:50]  <IllFlower> @dice use 2 3
+[29-Mar-2014 23:55:50]  <Omnipresence> 14IllFlower: Used 2 3 = 5. Bank now has 1 1 2 = 4.
+[29-Mar-2014 23:55:52]  <Alicia> Trust me if my dice were even better, I'd be much more creative.
+[29-Mar-2014 23:56:10]  <IllFlower> And we enter another round. Alicia has the high dice.
+[29-Mar-2014 23:57:22]  <Alicia> Would bringing in the staff be escalating, considering it's part of our magical equipment?
+[29-Mar-2014 23:57:33]  <IllFlower> Only if you use it for a magical attack.
+[29-Mar-2014 23:57:44]  <Alicia> I'm not.
+[29-Mar-2014 23:57:47]  <IllFlower> You could just try to beat Satsukiover the head with it.
+[29-Mar-2014 23:58:04]  <IllFlower> Though you already have 133556. I don't think it's all that necessary. ;)
+[29-Mar-2014 23:58:04]  <Alicia> @dice add 1d6 1d4 
+[29-Mar-2014 23:58:04]  <Omnipresence> 14Alicia: Rolled 1 2 = 3. Bank now has 1 1 2 3 3 5 5 6 = 26.
+[29-Mar-2014 23:58:59]  <Alicia> Serves me right I guess?
+[30-Mar-2014 00:00:02]  <IllFlower> nelson_haha.jpg
+[30-Mar-2014 00:00:12]  <Alicia> ...??
+[30-Mar-2014 00:00:18]  <Alicia> What is that.
+[30-Mar-2014 00:00:58]  *** Lin_Chong <~Lin_Chong@182.55.188.37> has joined #madokamadness
+[30-Mar-2014 00:01:28]  <ponicalica> @g nelson haha > Alicia 
+[30-Mar-2014 00:01:30]  <Omnipresence> 14Alicia: Google: (1/4) http://www.nelson-haha.com/ — HA-HA!: by Julien Verhaeghe · Tweeter. (+574 more characters)
+[30-Mar-2014 00:01:30]  <Alicia> Hikari generates her staff, as evidently fists aren't enough to subdue Osada. Quickly, she slams it to the side in front of her, hoping to catch Osada as she moves.
+[30-Mar-2014 00:01:50]  <Alicia> @dice use 5 2
+[30-Mar-2014 00:01:50]  <Omnipresence> 14Alicia: Used 2 5 = 7. Bank now has 1 1 3 3 5 6 = 19.
+[30-Mar-2014 00:01:54]  <IllFlower> @dice
+[30-Mar-2014 00:01:54]  <Omnipresence> 14IllFlower: Bank has 1 1 2 = 4.
+[30-Mar-2014 00:02:07]  <IllFlower> Well, I don't like that. Seems like it's time to escalate!
+[30-Mar-2014 00:02:17]  <Alicia> Oh no.
+[30-Mar-2014 00:02:20]  <ponicalica> hoshit
+[30-Mar-2014 00:02:25]  <IllFlower> And let's roll for those possession effects while we're at it.
+[30-Mar-2014 00:02:27]  <Alicia> Ah, Simpsons. That explains it.
+[30-Mar-2014 00:02:30]  <IllFlower> @dice add 5d6 4d10
+[30-Mar-2014 00:02:30]  <Omnipresence> 14IllFlower: Rolled 1 3 3 3 4 5 5 5 10 = 39. Bank now has 1 1 1 2 3 3 3 4 5 5 5 10 = 43.
+[30-Mar-2014 00:02:42]  <IllFlower> Wow, you're kidding.
+[30-Mar-2014 00:03:01]  <IllFlower> @wa 3.5*5+5.5*4
+[30-Mar-2014 00:03:01]  <Omnipresence> 14IllFlower: Wolfram|Alpha: Input: 3.5×5+5.5×4 — Result: 39.5 — Rational approximation: 79/2 = 39 + 1/2
+[30-Mar-2014 00:03:29]  <Alicia> o_o
+[30-Mar-2014 00:03:50]  <IllFlower> Didn't even hit the expected value! What a rip.
+[30-Mar-2014 00:03:58]  <ponicalica> .........
+[30-Mar-2014 00:04:08]  *** Barcode_ <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has joined #madokamadness
+[30-Mar-2014 00:04:09]  *** ChanServ sets mode: +o Barcode_
+[30-Mar-2014 00:04:09]  <Alicia> ^
+[30-Mar-2014 00:04:11]  <ponicalica> @dice add 5d6
+[30-Mar-2014 00:04:11]  <Omnipresence> 14ponicalica: Rolled 2 2 4 5 6 = 19. Bank now has 1 2 2 2 3 4 5 6 = 25.
+[30-Mar-2014 00:04:21]  *** Barcode_ <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has left #madokamadness
+[30-Mar-2014 00:04:27]  <JBridge> @dice add 1d100
+[30-Mar-2014 00:04:27]  <Omnipresence> 14JBridge: Rolled 72 = 72. Bank now has 72 = 72.
+[30-Mar-2014 00:04:42]  <ponicalica> go away JBridge 
+[30-Mar-2014 00:04:44]  <IllFlower> Alicia: Still need to roll your additional dice.
+[30-Mar-2014 00:04:51]  <JBridge> Hey, I'm just stress-testing.
+[30-Mar-2014 00:04:59]  <ponicalica> your...3d6 Ac.
+[30-Mar-2014 00:05:01]  <Alicia> Wait, what two. Ac+Bd?
+[30-Mar-2014 00:05:04]  *** IllFlower sets mode: +q JBridge!*@*
+[30-Mar-2014 00:05:05]  <ponicalica> Alicia: just Ac.
+[30-Mar-2014 00:05:08]  <Alicia> Oh, just Ax.
+[30-Mar-2014 00:05:08]  <ponicalica> You already rolled Bd.
+[30-Mar-2014 00:05:10]  <Alicia> Ac*
+[30-Mar-2014 00:05:13]  <IllFlower> BWAHAHAHAHA JBRIDGE
+[30-Mar-2014 00:05:16]  <Alicia> @dice add 3d6
+[30-Mar-2014 00:05:16]  <Omnipresence> 14Alicia: Rolled 4 5 6 = 15. Bank now has 1 1 3 3 4 5 5 6 6 = 34.
+[30-Mar-2014 00:05:33]  <IllFlower> It's Ac+Wl, actually, but we *also* already rolled Wl.
+[30-Mar-2014 00:05:46]  <ponicalica> right
+[30-Mar-2014 00:05:58]  *** IllFlower sets mode: -q JBridge!*@*
+[30-Mar-2014 00:06:26]  <Alicia> Aah, okay. I keep wanting to read that as W1.
+[30-Mar-2014 00:06:29]  <IllFlower> "Rolled 4 5 6" // oh, *come* on
+[30-Mar-2014 00:06:34]  <Alicia> 1 and l look very similar on my screen.
+[30-Mar-2014 00:06:46]  <Alicia> IllFlower: Hey, don't hate the player, hate Jackerel.
+[30-Mar-2014 00:06:55]  <JBridge> IllFlower: Should I continue?
+[30-Mar-2014 00:06:56]  <IllFlower> Whatever. Where was I...
+[30-Mar-2014 00:07:09]  <JBridge> I could @dice 9999d9999
+[30-Mar-2014 00:07:10]  *** JBridge was kicked by IllFlower (MWAHAHAHAHAHAHAHAHA)
+[30-Mar-2014 00:07:11]  *** JBridge <~JBridge@c-67-180-107-210.hsd1.ca.comcast.net> has joined #madokamadness
+[30-Mar-2014 00:07:19]  <JBridge> Hey, I didn't actually do it.
+[30-Mar-2014 00:07:23]  <IllFlower> If you're going to do it, do it in PM.
+[30-Mar-2014 00:07:27]  <Alicia> Hey uhm guys can I stop real quick.
+[30-Mar-2014 00:07:34]  <Alicia> My mom's demanding I do something *right* now.
+[30-Mar-2014 00:07:34]  <Alicia> ._.
+[30-Mar-2014 00:07:41]  <Alicia> Like literally now.
+[30-Mar-2014 00:07:43]  <JBridge> IllFlower: hott
+[30-Mar-2014 00:07:48]  <Alicia> SORRY
+[30-Mar-2014 00:07:51]  <IllFlower> Alicia: Yeah, go ahead.
+[30-Mar-2014 00:07:57]  <IllFlower> I've gotta do some typing anyway.
+[30-Mar-2014 00:07:59]  <IllFlower> So, see 7...
+[30-Mar-2014 00:09:34]  <IllFlower> Hikari's advance on Satsuki is interrupted by the sound of shattering glass, after which the overhead lights go dark. A shower of fragments from the destroyed fixtures falls over Ayako and Hikari.
+[30-Mar-2014 00:09:44]  <IllFlower> @dice use 3 4
+[30-Mar-2014 00:09:44]  <Omnipresence> 14IllFlower: Used 3 4 = 7. Bank now has 1 1 1 2 3 3 5 5 5 10 = 36.
+[30-Mar-2014 00:09:54]  <ponicalica> shattering glass, huh :p
+[30-Mar-2014 00:10:09]  <IllFlower> What can I say? Glass is everywhere in modern life.
+[30-Mar-2014 00:10:51]  <IllFlower> With her opponent unable to see, Satsuki easily dodges Hikari's assault.
+[30-Mar-2014 00:11:39]  <IllFlower> Okay, we'll break until Alicia comes back. I'll prepare to raise next. Since I do have a 10 and everything.
+[30-Mar-2014 00:13:25]  *** Zia <~Christine@108.60.46.62> has joined #madokamadness
+[30-Mar-2014 00:14:09]  <Alicia> Okay back, I'm sorry about that. Some errands slipped my mind today (I was unable to do them last night due to NyQuil).
+[30-Mar-2014 00:14:24]  <Zia> Oh no, are you sick? 
+[30-Mar-2014 00:14:36]  <Alicia> Allergies are a near-constant some months. >_>
+[30-Mar-2014 00:14:56]  <Zia> Ahh, gotcha :/ I get pretty bad ones too, but they're fairly controllable as I get prescriptions. 
+[30-Mar-2014 00:15:00]  <IllFlower> @dice show ponicalica 
+[30-Mar-2014 00:15:00]  <Omnipresence> 14IllFlower: Bank has 1 2 2 2 3 4 5 6 = 25.
+[30-Mar-2014 00:15:18]  <Zia> Mostly in my eyes, too, so I can wear glasses and be pretty okay. Contacts really exacerbated the issue. 
+[30-Mar-2014 00:15:31]  <Alicia> I do get sick pretty easily, but yeah. Eyes've been bugging out, exhausted, etc.
+[30-Mar-2014 00:15:40]  <Alicia> more exhausted than usual*
+[30-Mar-2014 00:16:00]  <Zia> I've been pretty exhausted the past few days, but mostly due to being far too busy to sleep. 
+[30-Mar-2014 00:16:06]  <IllFlower> Can I ask you to pull this over to #yackfest?
+[30-Mar-2014 00:16:16]  <Alicia> Yeah.
+[30-Mar-2014 00:16:17]  <Zia> Oh, sure. Sorry!
+[30-Mar-2014 00:16:23]  <IllFlower> Thanks.
+[30-Mar-2014 00:16:41]  <IllFlower> Okay, where was I...
+[30-Mar-2014 00:16:57]  <ponicalica> checking my dice
+[30-Mar-2014 00:17:05]  <ponicalica> you're planning something evil, I can tell
+[30-Mar-2014 00:18:32]  <IllFlower> A sword drops out of the void that was the ceiling not moments ago and embeds itself in a nearby couch, bathed in an unnatural glow.
+[30-Mar-2014 00:18:48]  <IllFlower> Satsuki walks over and plucks it from the proverbial stone.
+[30-Mar-2014 00:19:35]  <Alicia> Oh my goodness.
+[30-Mar-2014 00:20:06]  <IllFlower> She whispers something to herself. A ritual chant? It sounds like there's more than one voice, though...
+[30-Mar-2014 00:20:09]  <IllFlower> I'm going to assign one of those 2d10 traits to "good with swords" now.
+[30-Mar-2014 00:20:13]  <ponicalica> oh shit
+[30-Mar-2014 00:20:21]  <IllFlower> @dice add 2d10
+[30-Mar-2014 00:20:21]  <Omnipresence> 14IllFlower: Rolled 2 7 = 9. Bank now has 1 1 1 2 2 3 3 5 5 5 7 10 = 45.
+[30-Mar-2014 00:20:27]  <ponicalica> we're fuuuuuuuuuucked
+[30-Mar-2014 00:20:43]  <ponicalica> @dice show Alicia 
+[30-Mar-2014 00:20:43]  <Omnipresence> 14ponicalica: Bank has 1 1 3 3 4 5 5 6 6 = 34.
+[30-Mar-2014 00:20:58]  <Alicia> Fffffffantastic for IF.
+[30-Mar-2014 00:22:15]  <Alicia> @dice show ponicalica
+[30-Mar-2014 00:22:15]  <Omnipresence> 14Alicia: Bank has 1 2 2 2 3 4 5 6 = 25.
+[30-Mar-2014 00:22:15]  <IllFlower> Two points make a line. So let's say Ayako and Hikari are those two points.
+[30-Mar-2014 00:22:24]  <IllFlower> Satsuki drives a single, hard slash down that imaginary line...
+[30-Mar-2014 00:22:27]  <IllFlower> @dice use 5 10
+[30-Mar-2014 00:22:27]  <Omnipresence> 14IllFlower: Used 5 10 = 15. Bank now has 1 1 1 2 2 3 3 5 5 7 = 30.
+[30-Mar-2014 00:22:35]  <IllFlower> Raise 15 against both of you.
+[30-Mar-2014 00:22:58]  <Alicia> o_o
+[30-Mar-2014 00:23:03]  <ponicalica> what is this, mystic eyes of death perception?
+[30-Mar-2014 00:23:14]  <IllFlower> If you don't get out of the way, it might be!
+[30-Mar-2014 00:24:02]  <Alicia> Uh. Crap.
+[30-Mar-2014 00:24:05]  <ponicalica> I'm gonna bring in my light powers.
+[30-Mar-2014 00:24:11]  <ponicalica> @dice add 2d8
+[30-Mar-2014 00:24:11]  <Omnipresence> 14ponicalica: Rolled 2 6 = 8. Bank now has 1 2 2 2 2 3 4 5 6 6 = 33.
+[30-Mar-2014 00:24:17]  <ponicalica> well then
+[30-Mar-2014 00:25:20]  <IllFlower> If this were a shounen anime, this would be the part where one of them dives in front of the blade and takes the blow for the other.
+[30-Mar-2014 00:25:30]  <IllFlower> "HIIIKAAARIIIIIIIII"
+[30-Mar-2014 00:25:56]  <Alicia> D:
+[30-Mar-2014 00:26:46]  <ponicalica> should I pull in one of my magical knowledge traits, lol (sometimes I feel like I pull in too many traits :V)
+[30-Mar-2014 00:26:59]  <Alicia> Yeaah.
+[30-Mar-2014 00:27:14]  <IllFlower> Actually, if one of you helps the other, you might be able to escape some fallout.
+[30-Mar-2014 00:27:27]  <ponicalica> true
+[30-Mar-2014 00:27:30]  <Alicia> There's also your wand. Which is. A thing.
+[30-Mar-2014 00:27:35]  <IllFlower> One of you is probably stuck taking fallout no matter what, but it won't be any *worse* per se.
+[30-Mar-2014 00:27:49]  <IllFlower> The die you toss to your partner won't count against you for fallout.
+[30-Mar-2014 00:28:51]  <ponicalica> I assume it'd be grave abuse of the system to have each of us toss the other a die, lol.
+[30-Mar-2014 00:29:53]  <IllFlower> Well, you'd both suffer on your next raise.
+[30-Mar-2014 00:30:04]  <ponicalica> right, lol reversing the blow
+[30-Mar-2014 00:30:13]  <IllFlower> Given that Satsuki has a 7 that seems like a woefully bad idea.
+[30-Mar-2014 00:30:22]  <Alicia> Pretty much.
+[30-Mar-2014 00:30:56]  <IllFlower> It also lacks the dramatic impact of one of your characters diving to take the attack for her comrade!
+[30-Mar-2014 00:31:27]  <ponicalica> that too
+[30-Mar-2014 00:31:40]  <ponicalica> but which of us is it more in-character for :P
+[30-Mar-2014 00:32:05]  <IllFlower> Hikari's the newbie. I think the rule is that the newbie always gets saved.
+[30-Mar-2014 00:32:46]  *** jseblan_ <~jseblan@CPEbcc81007908e-CMbcc81007908b.cpe.net.cable.rogers.com> has joined #madokamadness
+[30-Mar-2014 00:33:15]  *** jseblan <~jseblan@CPEbcc81007908e-CMbcc81007908b.cpe.net.cable.rogers.com> has quit IRC (Ping timeout: 186 seconds)
+[30-Mar-2014 00:34:14]  <ponicalica> heh, true
+[30-Mar-2014 00:34:25]  <ponicalica> @dice show Alicia
+[30-Mar-2014 00:34:25]  <Omnipresence> 14ponicalica: Bank has 1 1 3 3 4 5 5 6 6 = 34.
+[30-Mar-2014 00:34:55]  <IllFlower> The magic number's 15.
+[30-Mar-2014 00:35:53]  <ponicalica> yeah.  I can probably do 456 or something, and then pull out a die for Hikari, but then Alicia has to choose for that die total
+[30-Mar-2014 00:36:19]  <IllFlower> If Alicia sees 6 6 you can pass her a 3.
+[30-Mar-2014 00:36:29]  <ponicalica> yeah
+[30-Mar-2014 00:36:49]  <ponicalica> is Alicia okay with this?
+[30-Mar-2014 00:37:00]  <Alicia> Yes.
+[30-Mar-2014 00:38:17]  <ponicalica> Ayako throws herself in front of Hikari, the blade between them.  She throws up a light shield, but it only seems to slow the sword down.
+[30-Mar-2014 00:38:21]  <ponicalica> @dice use 4 5 6
+[30-Mar-2014 00:38:21]  <Omnipresence> 14ponicalica: Used 4 5 6 = 15. Bank now has 1 2 2 2 2 3 6 = 18.
+[30-Mar-2014 00:38:25]  *** jseblan_ is now known as jseblan
+[30-Mar-2014 00:38:30]  <IllFlower> 3d10 fallout.
+[30-Mar-2014 00:39:35]  <Alicia> ._>
+[30-Mar-2014 00:39:36]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[30-Mar-2014 00:39:38]  <Alicia> ._.*
+[30-Mar-2014 00:39:50]  <IllFlower> Alicia: You still need to see.
+[30-Mar-2014 00:39:58]  <ponicalica> you can see with 66 and I'll throw a 3
+[30-Mar-2014 00:40:02]  <Alicia> @dice use 6 6
+[30-Mar-2014 00:40:02]  <Omnipresence> 14Alicia: Used 6 6 = 12. Bank now has 1 1 3 3 4 5 5 = 22.
+[30-Mar-2014 00:40:07]  <ponicalica> @dice use 3
+[30-Mar-2014 00:40:07]  <Omnipresence> 14ponicalica: Used 3 = 3. Bank now has 1 2 2 2 2 6 = 15.
+[30-Mar-2014 00:40:15]  <IllFlower> @dice
+[30-Mar-2014 00:40:15]  <Omnipresence> 14IllFlower: Bank has 1 1 1 2 2 3 3 5 5 7 = 30.
+[30-Mar-2014 00:40:39]  <IllFlower> Okay, I think ponicalica can raise next.
+[30-Mar-2014 00:40:50]  <Alicia> Hikari holds her staff as she would a shield, between both her and Ayako.
+[30-Mar-2014 00:41:21]  <ponicalica> @dice add 2d8 >! taking charge
+[30-Mar-2014 00:41:21]  <Omnipresence> 14: Rolled 2 8 = 10. Bank now has 1 2 2 2 2 2 6 8 = 25.
+[30-Mar-2014 00:41:47]  <IllFlower> That 8 looks good.
+[30-Mar-2014 00:41:59]  <ponicalica> it does
+[30-Mar-2014 00:42:28]  <IllFlower> I'm thinking a doubled-over Ayako tells Hikari to stand back and pulls out some magical C-4.
+[30-Mar-2014 00:42:43]  <Alicia> It really does.
+[30-Mar-2014 00:45:38]  <IllFlower> ponicalica?
+[30-Mar-2014 00:45:52]  <ponicalica> I'm working!
+[30-Mar-2014 00:46:08]  <Alicia> Working!!
+[30-Mar-2014 00:46:09]  <IllFlower> Just making sure you're still alive.
+[30-Mar-2014 00:47:49]  <ponicalica> Ayako, doubled over with blood running down her face, pulls out a reserve of courage she's not even sure she had.  "I have some tricks.  Stand back, then go after her."  She motions towards the glowing sword, then towards the now-broken fluorescent lights, then towards Satsuki again, and the room is engulfed in a flash of light.
+[30-Mar-2014 00:47:54]  <ponicalica> @dice use 8
+[30-Mar-2014 00:47:54]  <Omnipresence> 14ponicalica: Used 8 = 8. Bank now has 1 2 2 2 2 2 6 = 17.
+[30-Mar-2014 00:49:08]  <IllFlower> Satsuki staggers backward for a moment, stunned by the light, but a curtain of violet and black descends upon her soon enough to shield her from Ayako's attack.
+[30-Mar-2014 00:49:11]  <IllFlower> @dice use 3 5
+[30-Mar-2014 00:49:11]  <Omnipresence> 14IllFlower: Used 3 5 = 8. Bank now has 1 1 1 2 2 3 5 7 = 22.
+[30-Mar-2014 00:49:12]  *** Barcode <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has joined #madokamadness
+[30-Mar-2014 00:49:12]  *** ChanServ sets mode: +o Barcode
+[30-Mar-2014 00:49:47]  <IllFlower> Alicia, I believe it's your go.
+[30-Mar-2014 00:49:51]  *** Barcode <~Barcode@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has left #madokamadness
+[30-Mar-2014 00:50:00]  <IllFlower> @dice show Alicia
+[30-Mar-2014 00:50:00]  <Omnipresence> 14IllFlower: Bank has 1 1 3 3 4 5 5 = 22.
+[30-Mar-2014 00:51:12]  <Alicia> Right, yeah.
+[30-Mar-2014 00:52:40]  <Alicia> Hikari nods, heeding Ayako's words as she charges after Osada. Once face-to-face, she brings the staff down on her head.
+[30-Mar-2014 00:52:45]  <Alicia> @dice use 5 5
+[30-Mar-2014 00:52:45]  <Omnipresence> 14Alicia: Used 5 5 = 10. Bank now has 1 1 3 3 4 = 12.
+[30-Mar-2014 00:53:05]  <IllFlower> This is basically an MMA match with magic.
+[30-Mar-2014 00:54:05]  <IllFlower> Satsuki parries Hikari's attack with her sword, leading the staff harmlessly to her side.
+[30-Mar-2014 00:54:08]  <IllFlower> @dice use 3 7
+[30-Mar-2014 00:54:08]  <Omnipresence> 14IllFlower: Used 3 7 = 10. Bank now has 1 1 1 2 2 5 = 12.
+[30-Mar-2014 00:54:23]  <IllFlower> New round. ponicalica, you have the high dice.
+[30-Mar-2014 00:54:29]  <Alicia> I have never actually seen an MMA match.
+[30-Mar-2014 00:54:46]  <IllFlower> Well, nobody's tried to break a folding chair over someone else's head yet, so I guess there's that.
+[30-Mar-2014 00:54:54]  <ponicalica> @dice add 1d6 1d4 >! let's pull in the wand
+[30-Mar-2014 00:54:54]  <Omnipresence> 14: Rolled 2 3 = 5. Bank now has 1 2 2 2 2 2 2 3 6 = 22.
+[30-Mar-2014 00:55:04]  <ponicalica> more twos :v
+[30-Mar-2014 00:55:29]  <Alicia> :V
+[30-Mar-2014 00:57:36]  <ponicalica> Ayako draws her wand again, still slightly glowing from its earlier use as a sort of magical torch.  She coughs up something that sounds like "conveni lux" and a beam of light arcs out.
+[30-Mar-2014 00:57:45]  <ponicalica> @dice use 1 6
+[30-Mar-2014 00:57:45]  <Omnipresence> 14ponicalica: Used 1 6 = 7. Bank now has 2 2 2 2 2 2 3 = 15.
+[30-Mar-2014 00:58:19]  <IllFlower> I thought you were going to go for 3 6 myself.
+[30-Mar-2014 00:58:20]  <IllFlower> Not that you should go back and do that!
+[30-Mar-2014 00:58:29]  <Alicia> (Go back ponny.)
+[30-Mar-2014 00:58:40]  <Alicia> (O don't. :p)
+[30-Mar-2014 00:59:01]  <ponicalica> lol
+[30-Mar-2014 00:59:09]  <Alicia> Or* (Also let's bring in 3d6 good at singing, have her magically screech at Osada.)
+[30-Mar-2014 00:59:14]  <Alicia> (I am kidding.)
+[30-Mar-2014 01:00:47]  <IllFlower> The shroud pulls back, creating a hole for Ayako's light attack to pass through it without incident. The disconcerting part is that Satsuki's body should have been visible through the gap, but it's like those girl-in-a-box magic tricks instead...
+[30-Mar-2014 01:00:48]  <IllFlower> @dice use 2 5
+[30-Mar-2014 01:00:48]  <Omnipresence> 14IllFlower: Used 2 5 = 7. Bank now has 1 1 1 2 = 5.
+[30-Mar-2014 01:01:07]  <IllFlower> I've got crap, so Alicia can raise next.
+[30-Mar-2014 01:02:07]  <Alicia> @dice see Alicia
+[30-Mar-2014 01:02:07]  <Omnipresence> 14Alicia: Unrecognized subcommand see.
+[30-Mar-2014 01:02:13]  <IllFlower> @dice show Alicia
+[30-Mar-2014 01:02:13]  <Omnipresence> 14IllFlower: Bank has 1 1 3 3 4 = 12.
+[30-Mar-2014 01:02:15]  <Alicia> Er.
+[30-Mar-2014 01:02:18]  <Alicia> @dice show Alicia
+[30-Mar-2014 01:02:18]  <Omnipresence> 14Alicia: Bank has 1 1 3 3 4 = 12.
+[30-Mar-2014 01:04:27]  <Alicia> Hikari brings her staff back up, swinging it against Osada's sides.
+[30-Mar-2014 01:04:31]  <Alicia> @dice use 3 1
+[30-Mar-2014 01:04:31]  <Omnipresence> 14Alicia: Used 1 3 = 4. Bank now has 1 3 4 = 8.
+[30-Mar-2014 01:05:05]  <IllFlower> Wow, I can't even see 4. Time to pull in some more dice, eh?
+[30-Mar-2014 01:05:12]  <Alicia> >:(
+[30-Mar-2014 01:05:27]  <ponicalica> oh hey we also have a 5 between us from the last conflict don't we
+[30-Mar-2014 01:05:40]  <IllFlower> I misread the manual. That only applies to follow-ups.
+[30-Mar-2014 01:05:44]  <ponicalica> oh
+[30-Mar-2014 01:06:02]  <IllFlower> Wasn't going to mention it since I figured you'd all forgotten anyway.
+[30-Mar-2014 01:06:03]  <Alicia> Oh. :c
+[30-Mar-2014 01:06:10]  <Alicia> I remembered.
+[30-Mar-2014 01:06:15]  <IllFlower> I'll assign her outstanding 1d8 to "apparition," because why not.
+[30-Mar-2014 01:06:24]  <IllFlower> @dice add d8
+[30-Mar-2014 01:06:25]  <Omnipresence> 14IllFlower: Rolled 7 = 7. Bank now has 1 1 1 2 7 = 12.
+[30-Mar-2014 01:06:47]  <IllFlower> That's perfect, actually.
+[30-Mar-2014 01:06:50]  * Alicia winces.
+[30-Mar-2014 01:07:21]  <IllFlower> As Hikari brings her staff down, the cloud that had been concealing Satsuki vanishes.
+[30-Mar-2014 01:07:24]  <IllFlower> @dice use 7
+[30-Mar-2014 01:07:24]  <Omnipresence> 14IllFlower: Used 7 = 7. Bank now has 1 1 1 2 = 5.
+[30-Mar-2014 01:08:24]  <IllFlower> The next thing Hikari knows, there's the sound of metal whooshing through the air behind her, as Satsuki appears a few steps to her rear and takes a calculated swing.
+[30-Mar-2014 01:08:27]  <IllFlower> @dice use 1
+[30-Mar-2014 01:08:27]  <Omnipresence> 14IllFlower: Used 1 = 1. Bank now has 1 1 2 = 4.
+[30-Mar-2014 01:08:29]  <IllFlower> Raise 8.
+[30-Mar-2014 01:08:41]  <IllFlower> @dice show ponicalica
+[30-Mar-2014 01:08:41]  <Omnipresence> 14IllFlower: Bank has 2 2 2 2 2 2 3 = 15.
+[30-Mar-2014 01:09:39]  <IllFlower> Alicia, you need to see.
+[30-Mar-2014 01:10:01]  <Alicia> My highest is 7...
+[30-Mar-2014 01:10:42]  <ponicalica> @dice show Alicia 
+[30-Mar-2014 01:10:42]  <Omnipresence> 14ponicalica: Bank has 1 3 4 = 8.
+[30-Mar-2014 01:10:51]  <ponicalica> you could take the fallout
+[30-Mar-2014 01:11:01]  <ponicalica> or I think I could donate a 2 or even the 3
+[30-Mar-2014 01:11:18]  <Alicia> Wouldn't a 2 be better? You've got two 3s.
+[30-Mar-2014 01:11:26]  <IllFlower> One 3, actually.
+[30-Mar-2014 01:11:32]  <Alicia> Wait, yeah. My bad.
+[30-Mar-2014 01:11:46]  <ponicalica> the thing about the 2 is that you'd have to use the 3 and 4
+[30-Mar-2014 01:12:10]  <Alicia> Oh, yeah...
+[30-Mar-2014 01:12:31]  <ponicalica> and you also have dice you could pull in though none of 'em seem particularly relevant tbh
+[30-Mar-2014 01:13:43]  <IllFlower> Well, if you could figure out some way to make the knife a defensive weapon that'd be cool.
+[30-Mar-2014 01:13:56]  <IllFlower> Dunno how you'd do that without just getting your arm lopped off, though.
+[30-Mar-2014 01:14:07]  <Alicia> And the diamond ring was used offensively before.
+[30-Mar-2014 01:14:10]  <Alicia> Yeah. >_>
+[30-Mar-2014 01:14:57]  <ponicalica> use the knife to parry the sword
+[30-Mar-2014 01:15:26]  <IllFlower> That's the thing I was thinking would get Hikari's arm lopped off.
+[30-Mar-2014 01:15:30]  <Alicia> :v
+[30-Mar-2014 01:15:32]  <IllFlower> You know, lever principle and all that.
+[30-Mar-2014 01:16:11]  <ponicalica> right
+[30-Mar-2014 01:17:24]  <IllFlower> If she had the option of reversing with the knife, she could do something awesome like throw the knife behind her, but as it stands that's not really an option.
+[30-Mar-2014 01:17:45]  <Alicia> Yeah we're totally on the defensive.
+[30-Mar-2014 01:18:02]  <ponicalica> sword hits diamond ring, is incapable of going further because magic :p
+[30-Mar-2014 01:18:17]  <IllFlower> Unless you do something like pull in a desperate d4 improvised object roll, Hikari will either have to get Ayako's help or take the blow herself.
+[30-Mar-2014 01:19:11]  <Alicia> Which would be taking fallout?
+[30-Mar-2014 01:19:14]  <ponicalica> yeah
+[30-Mar-2014 01:19:16]  <ponicalica> at d10 level
+[30-Mar-2014 01:19:20]  <Alicia> Yikes.
+[30-Mar-2014 01:19:23]  <ponicalica> so it'd probably be better to get Ayahelp
+[30-Mar-2014 01:19:31]  <ponicalica> is that portmanteau valid
+[30-Mar-2014 01:19:36]  <Alicia> Ayahelp sounds good, if you're fine with that.
+[30-Mar-2014 01:19:40]  <Alicia> ponicalica: Ask Barcode.
+[30-Mar-2014 01:19:58]  <ponicalica> yeah i'm fine
+[30-Mar-2014 01:20:10]  <IllFlower> He's the barchitect, after all.
+[30-Mar-2014 01:20:49]  <IllFlower> All right, so which dice are you guys using?
+[30-Mar-2014 01:21:08]  <Alicia> 4 3.
+[30-Mar-2014 01:21:27]  <ponicalica> and then I'll throw in a 2
+[30-Mar-2014 01:21:36]  <Alicia> @dice use 4 3
+[30-Mar-2014 01:21:36]  <Omnipresence> 14Alicia: Used 3 4 = 7. Bank now has 1 = 1.
+[30-Mar-2014 01:21:40]  <ponicalica> @dice use 2
+[30-Mar-2014 01:21:40]  <Omnipresence> 14ponicalica: Used 2 = 2. Bank now has 2 2 2 2 2 3 = 13.
+[30-Mar-2014 01:21:45]  <Alicia> ;-;
+[30-Mar-2014 01:21:57]  *** Zia <~Christine@108.60.46.62> has quit IRC (Ping timeout: 186 seconds)
+[30-Mar-2014 01:22:19]  <Alicia> Ah, could I roll the knife too?
+[30-Mar-2014 01:22:34]  <Alicia> To bring it out defensively.
+[30-Mar-2014 01:22:35]  <ponicalica> you can roll it on your raise turn I think
+[30-Mar-2014 01:22:36]  <IllFlower> Not unless you use it for defense somehow.
+[30-Mar-2014 01:23:15]  <Alicia> Right.
+[30-Mar-2014 01:23:34]  <ponicalica> also you just used dice so :V
+[30-Mar-2014 01:24:02]  <IllFlower> We need a brief description of how Hikari avoids the attack with Ayako's help, then we can move on to the next round of raises.
+[30-Mar-2014 01:24:10]  <Alicia> Hearing the metal behind her, Hikari ducks and backs out of the way as fast as she can.
+[30-Mar-2014 01:24:20]  <Alicia> Oh right wirth Ayassistance.
+[30-Mar-2014 01:24:21]  <Alicia> with*
+[30-Mar-2014 01:24:44]  <IllFlower> Backing out of the way would just get her closer to the sword, wouldn't it? It's coming from behind her. :p
+[30-Mar-2014 01:25:15]  <ponicalica> Ayako sees Hikari in the path, trying to duck away, and dives to push her to the side.
+[30-Mar-2014 01:25:27]  <Alicia> I meant, like. The opposite direction. >_> So turning around and such, rather.
+[30-Mar-2014 01:25:38]  <IllFlower> That works too.
+[30-Mar-2014 01:25:50]  <IllFlower> Okay, new round. ponicalica has the high 3.
+[30-Mar-2014 01:26:01]  <Alicia> "high 3"
+[30-Mar-2014 01:26:04]  <IllFlower> Things are getting pretty desperate, eh?
+[30-Mar-2014 01:26:11]  <ponicalica> they are
+[30-Mar-2014 01:26:14]  <Alicia> Yes.
+[30-Mar-2014 01:26:52]  <ponicalica> @dice show Alicia 
+[30-Mar-2014 01:26:52]  <Omnipresence> 14ponicalica: Bank has 1 = 1.
+[30-Mar-2014 01:26:53]  <IllFlower> I'm a little surprised Hikari hasn't cracked yet under the conflict, d4.
+[30-Mar-2014 01:26:58]  <ponicalica> @dice show IllFlower
+[30-Mar-2014 01:26:58]  <Omnipresence> 14ponicalica: Bank has 1 1 2 = 4.
+[30-Mar-2014 01:27:30]  <Alicia> IllFlower: That's been in my mind as I've glanced at the page... yeah.
+[30-Mar-2014 01:29:35]  <Alicia> I think I'll add in the knife and cracking under pressure.
+[30-Mar-2014 01:29:44]  <IllFlower> You'll have to wait for your raise.
+[30-Mar-2014 01:29:52]  <Alicia> Yeah, when it rolls around.
+[30-Mar-2014 01:30:00]  <Alicia> conflict*
+[30-Mar-2014 01:30:08]  <ponicalica> I think I'll let Alicia go first, actually.
+[30-Mar-2014 01:30:08]  <IllFlower> Good, good.
+[30-Mar-2014 01:30:23]  <IllFlower> No objections from me. Go ahead, Alicia.
+[30-Mar-2014 01:31:45]  <Alicia> @dice add 1d4 1d6
+[30-Mar-2014 01:31:45]  <Omnipresence> 14Alicia: Rolled 2 6 = 8. Bank now has 1 2 6 = 9.
+[30-Mar-2014 01:32:15]  <Alicia> Well.
+[30-Mar-2014 01:32:27]  <IllFlower> Certainly better than a 1.
+[30-Mar-2014 01:32:27]  <ponicalica> not bad, probably
+[30-Mar-2014 01:32:47]  <Alicia> @dice see IllFlower
+[30-Mar-2014 01:32:47]  <Omnipresence> 14Alicia: Unrecognized subcommand see.
+[30-Mar-2014 01:32:54]  <Alicia> NO SELF STOP.
+[30-Mar-2014 01:32:55]  <IllFlower> @dice
+[30-Mar-2014 01:32:55]  <Omnipresence> 14IllFlower: Bank has 1 1 2 = 4.
+[30-Mar-2014 01:32:55]  <ponicalica> @dice show IllFlower 
+[30-Mar-2014 01:32:55]  <Omnipresence> 14ponicalica: Bank has 1 1 2 = 4.
+[30-Mar-2014 01:33:43]  <Alicia> Hum. 12 or 26. 12 sounds like a bad idea.
+[30-Mar-2014 01:34:33]  <ponicalica> or 16
+[30-Mar-2014 01:34:35]  <IllFlower> Well, 1 2 is the best I can see at the moment...
+[30-Mar-2014 01:35:37]  <Alicia> Well, yeah. Eck.
+[30-Mar-2014 01:37:20]  <Alicia> Hikari regains her bearings, at least as much as she can, before taking a swing at Osada once more.
+[30-Mar-2014 01:37:24]  <Alicia> @dice use 1 2
+[30-Mar-2014 01:37:24]  <Omnipresence> 14Alicia: Used 1 2 = 3. Bank now has 6 = 6.
+[30-Mar-2014 01:38:10]  <IllFlower> Hikari's swing is feeble, and Satsuki has gotten used to the rhythm of dodging her attacks. The staff makes contact with nothing but air.
+[30-Mar-2014 01:38:14]  <IllFlower> @dice use 1 2
+[30-Mar-2014 01:38:14]  <Omnipresence> 14IllFlower: Used 1 2 = 3. Bank now has 1 = 1.
+[30-Mar-2014 01:38:20]  <IllFlower> ponicalica?
+[30-Mar-2014 01:39:13]  <IllFlower> You have six dice higher than 1, which is six more than I have.
+[30-Mar-2014 01:39:46]  <ponicalica> Ayako slowly stands up, her body clearly worn down by the protracted battle.  She powers up her wand yet again, her balance shaky, and fires.
+[30-Mar-2014 01:39:51]  <ponicalica> @dice use 3
+[30-Mar-2014 01:39:51]  <Omnipresence> 14ponicalica: Used 3 = 3. Bank now has 2 2 2 2 2 = 10.
+[30-Mar-2014 01:42:44]  <IllFlower> I'll assign the d4 to panic mode.
+[30-Mar-2014 01:42:48]  <IllFlower> @dice add d4
+[30-Mar-2014 01:42:48]  <Omnipresence> 14IllFlower: Rolled 3 = 3. Bank now has 1 3 = 4.
+[30-Mar-2014 01:43:25]  <Alicia> Exactly 3.
+[30-Mar-2014 01:43:31]  <ponicalica> welp
+[30-Mar-2014 01:45:31]  <IllFlower> Satsuki starts to panic as she realizes the odds are likely against her. Her mind racing, she simply stops thinking and rushes, berserk, past the beam and towards Ayako.
+[30-Mar-2014 01:45:47]  <IllFlower> @dice use 3
+[30-Mar-2014 01:45:47]  <Omnipresence> 14IllFlower: Used 3 = 3. Bank now has 1 = 1.
+[30-Mar-2014 01:46:44]  <IllFlower> Hm, let me think for a second.
+[30-Mar-2014 01:47:28]  <IllFlower> I'll assign the last 2d10 to disarming opponents.
+[30-Mar-2014 01:47:52]  <IllFlower> @dice add 2d10
+[30-Mar-2014 01:47:52]  <Omnipresence> 14IllFlower: Rolled 5 10 = 15. Bank now has 1 5 10 = 16.
+[30-Mar-2014 01:47:58]  <ponicalica> D:
+[30-Mar-2014 01:48:05]  <Alicia> D:
+[30-Mar-2014 01:48:28]  <ponicalica> fricken X
+[30-Mar-2014 01:48:55]  <IllFlower> She grabs Ayako's outstretched arm and takes a swipe at the wand.
+[30-Mar-2014 01:48:58]  <IllFlower> @dice use 5
+[30-Mar-2014 01:48:58]  <Omnipresence> 14IllFlower: Used 5 = 5. Bank now has 1 10 = 11.
+[30-Mar-2014 01:49:00]  <IllFlower> Raise 8.
+[30-Mar-2014 01:49:19]  <ponicalica> I think I'm probably going to give.
+[30-Mar-2014 01:49:53]  <Alicia> I want to bring in the diamond ring for added punchery. Rings hurt.
+[30-Mar-2014 01:50:07]  <ponicalica> except you raised in a way that I don't know if I can
+[30-Mar-2014 01:50:10]  <IllFlower> You should just s/diamond ring/brass knuckles/ already.
+[30-Mar-2014 01:50:27]  <Alicia> I don't get the joke of ///. >__>;
+[30-Mar-2014 01:50:29]  <Alicia> Sorry.
+[30-Mar-2014 01:50:35]  <ponicalica> and you raised in a way that I can't pull in dice
+[30-Mar-2014 01:50:59]  <IllFlower> You still haven't rolled for "doesn't run from violence."
+[30-Mar-2014 01:50:59]  *** MobileAvenue <~CentralAv@cpe-65-24-227-116.insight.res.rr.com> has quit IRC (Read error: Connection reset by peer)
+[30-Mar-2014 01:51:03]  *** MobileAvenue <~CentralAv@cpe-65-24-227-116.insight.res.rr.com> has joined #madokamadness
+[30-Mar-2014 01:51:16]  <ponicalica> @dice add 1d6
+[30-Mar-2014 01:51:16]  <Omnipresence> 14ponicalica: Rolled 5 = 5. Bank now has 2 2 2 2 2 5 = 15.
+[30-Mar-2014 01:51:41]  <Nitya> 1,1Alicia: s/foo/bar/ means "replace foo with bar in this text"
+[30-Mar-2014 01:52:49]  <ponicalica> hmm
+[30-Mar-2014 01:54:34]  <ponicalica> rig'd tell me fuck it take 3d10 more fallout for sure
+[30-Mar-2014 01:54:50]  <ponicalica> except there's still the 10 which is welp
+[30-Mar-2014 01:55:07]  <ponicalica> I'm not sure if there's a way we can win this
+[30-Mar-2014 01:55:41]  <ponicalica> Alicia?
+[30-Mar-2014 01:56:17]  <IllFlower> Satsuki has 3d8 fallout, so if you get lucky and she ends up needing medical attention, she'll be at the mercy of whoever's left standing. At the moment, that looks like definitely Hikari and possibly Ayako.
+[30-Mar-2014 01:56:21]  <Alicia> I'm not sure too, yeah. That 10.
+[30-Mar-2014 01:56:40]  <Alicia> I can't bring anything in aside from the 2d6, can I?
+[30-Mar-2014 01:57:09]  <IllFlower> You can use the knife for a raise.
+[30-Mar-2014 01:58:03]  <Alicia> Hum.
+[30-Mar-2014 01:58:47]  <IllFlower> ponicalica hasn't decided on whether to see or give yet, though.
+[30-Mar-2014 01:59:19]  <ponicalica> @dice show Alicia >! he checks as if taking a die when there's a 10 involved is a rometoly good idea
+[30-Mar-2014 01:59:19]  <Omnipresence> 14: Bank has 6 = 6.
+[30-Mar-2014 02:00:10]  <ponicalica> i guess if I grabbed the 6 I could avoid further fallout but then ALicia'd be fucked :V
+[30-Mar-2014 02:00:37]  <ponicalica> Alicia: what'd you think
+[30-Mar-2014 02:01:44]  <Alicia> Uhm, well, either way it's going to be bad. Folding sounds preferable..?
+[30-Mar-2014 02:01:52]  <Alicia> Having just a 6, though a 6, is bluh.
+[30-Mar-2014 02:02:36]  <IllFlower> Well, I just took my raise, so Alicia, you'd go next.
+[30-Mar-2014 02:02:55]  <ponicalica> Yeah, I think I'm going to give.  Let me write something up.
+[30-Mar-2014 02:02:59]  <IllFlower> If you're lucky with your belonging rolls you might be able to get a 5 or 6.
+[30-Mar-2014 02:02:59]  <Alicia> WHat'd you raise?
+[30-Mar-2014 02:03:10]  <Alicia> And if I'm unlucky? >_>
+[30-Mar-2014 02:03:16]  <IllFlower> It doesn't matter. It was against ponicalica and therefore doesn't affect your character.
+[30-Mar-2014 02:03:23]  <Alicia> Ah, mm.
+[30-Mar-2014 02:03:30]  <IllFlower> If you're unlucky then you lose. It's not any worse than what we're already looking at, no?
+[30-Mar-2014 02:03:42]  <ponicalica> Ayako sees Satsuki and rolls out of the way...except she stumbles, and collapses to the ground, unconscious at least for now.
+[30-Mar-2014 02:03:56]  <Alicia> "Lose" being what, folding, presumably?
+[30-Mar-2014 02:04:15]  <IllFlower> Ayako's wand clatters to the ground, inert.
+[30-Mar-2014 02:04:44]  <IllFlower> Satisfied, a more collected Satsuki turns to gauge Hikari's stance.
+[30-Mar-2014 02:04:49]  <IllFlower> Alicia: Well, yes.
+[30-Mar-2014 02:05:13]  <ponicalica> Also apologies for using "fold"(the poker term) and "give" interchangeably :V
+[30-Mar-2014 02:05:39]  <IllFlower> Eh, we all know what you mean.
+[30-Mar-2014 02:05:52]  <ponicalica> actually the first time I did, Alicia had trouble with the terminology, so
+[30-Mar-2014 02:05:58]  <Alicia> @dice add 2d6
+[30-Mar-2014 02:05:58]  <Omnipresence> 14Alicia: Rolled 3 4 = 7. Bank now has 3 4 6 = 13.
+[30-Mar-2014 02:06:31]  <ponicalica> you still have the uh knife i guess
+[30-Mar-2014 02:06:34]  <IllFlower> Struck the ring.
+[30-Mar-2014 02:06:52]  <IllFlower> Seriously thinking you should just retcon it to brass knuckles, haha.
+[30-Mar-2014 02:07:24]  <Alicia> ponicalica: I think I already rolled for that.
+[30-Mar-2014 02:07:31]  <Alicia> IllFlower: I likely will.
+[30-Mar-2014 02:07:41]  <ponicalica> did you?  It's unstruck on the page
+[30-Mar-2014 02:07:44]  <ponicalica> so unless IllFlower forgot
+[30-Mar-2014 02:07:46]  <IllFlower> Oh, no, yes, she did.
+[30-Mar-2014 02:07:57]  <Alicia> Eheh.
+[30-Mar-2014 02:08:26]  <IllFlower> Sorry, I missed that.
+[30-Mar-2014 02:08:57]  <IllFlower> You have 1d8 for "big scene" as well.
+[30-Mar-2014 02:09:11]  <ponicalica> that'll give you a fifty-fifty chance
+[30-Mar-2014 02:09:25]  <Alicia> I was thinking about asking way earlier if that was relevant, but in retrospect it really is.
+[30-Mar-2014 02:09:31]  <Alicia> @dice add 1d8
+[30-Mar-2014 02:09:31]  <Omnipresence> 14Alicia: Rolled 7 = 7. Bank now has 3 4 6 7 = 20.
+[30-Mar-2014 02:09:36]  <IllFlower> Bam.
+[30-Mar-2014 02:09:57]  <Alicia> I'm thinking 4 7.
+[30-Mar-2014 02:10:14]  <IllFlower> Not a bad choice.
+[30-Mar-2014 02:11:28]  <IllFlower> So that 10 won't help me, huh. I think it's time for me to give.
+[30-Mar-2014 02:11:34]  <IllFlower> @dice clear
+[30-Mar-2014 02:11:34]  <Omnipresence> 14IllFlower: Bank cleared.
+[30-Mar-2014 02:12:53]  <Alicia> Hikari looks at the Ayako's unconscious body, then at the satisfied smile on Osada's face, anger pulsing through her veins. "I can't believe you, you..." Hikari clears the path to Osada, slamming her staff down on top of her.
+[30-Mar-2014 02:13:38]  <ponicalica> So Hikari avoided fallout, right?
+[30-Mar-2014 02:14:03]  <IllFlower> Satsuki rolls out of the way, I guess. There go my last dice.
+[30-Mar-2014 02:14:49]  <ponicalica> And now let's see how bad Ayako's gonna end up?
+[30-Mar-2014 02:14:55]  <IllFlower> She raises her hands in the air. "I know when I've been outmatched."
+[30-Mar-2014 02:14:59]  <IllFlower> Roll fallout.
+[30-Mar-2014 02:15:02]  <IllFlower> @dice roll 3d8
+[30-Mar-2014 02:15:02]  <Omnipresence> 14IllFlower: Rolled 2 3 7 = 12.
+[30-Mar-2014 02:15:11]  <IllFlower> 10 here.
+[30-Mar-2014 02:15:31]  <ponicalica> @dice roll 3d10
+[30-Mar-2014 02:15:31]  <Omnipresence> 14ponicalica: Rolled 3 3 7 = 13.
+[30-Mar-2014 02:15:36]  <ponicalica> 10 here.
+[30-Mar-2014 02:15:37]  <IllFlower> 10 there.
+[30-Mar-2014 02:15:51]  <ponicalica> So is that one long-term item?
+[30-Mar-2014 02:15:56]  <IllFlower> Here's a 10, there's a 10, everywhere a 10, 10.
+[30-Mar-2014 02:16:08]  <ponicalica> lotsa tens in this here place
+[30-Mar-2014 02:16:09]  <IllFlower> Old MacDonald had some dice, E-I-E-I-O.
+[30-Mar-2014 02:16:18]  <IllFlower> That's one long-term item.
+[30-Mar-2014 02:17:01]  <IllFlower> Gonna knock down Satsuki's Bd stat, not that it's likely to ever be relevant again...
+[30-Mar-2014 02:18:07]  <IllFlower> I could see Ayako having some issues with taking charge in the future. Got her pretty beat up here.
+[30-Mar-2014 02:18:50]  <Alicia> Hikari swallows, looking daggers down at Osada. She searches for what to say to her, though nothing comes to mind.
+[30-Mar-2014 02:19:19]  <ponicalica> That makes sense.  Either that or bump her "doesn't run from violence" from a d6 to a d4, considering its effects on her this time around.  But I think I'm going to give myself a little time to think about it, at least
+[30-Mar-2014 02:19:28]  <Alicia> s/foo/bar/ means "replace foo with bar in this text" <~~~ Thanks, Nitya.
+[30-Mar-2014 02:21:35]  *** saladofstones <~Saladofst@pool-173-51-83-42.lsanca.fios.verizon.net> has quit IRC (Quit: Stones Has It)
+[30-Mar-2014 02:23:19]  <IllFlower> Okay, we'll close out this scene for now, then.
+[30-Mar-2014 02:23:31]  *** Juan <~Juan_Carl@198.13.219.231> has quit IRC (Ping timeout: 194 seconds)
+[30-Mar-2014 02:23:47]  *** Juan <~Juan_Carl@198.13.219.231> has joined #madokamadness
+[30-Mar-2014 02:24:33]  <IllFlower> "I underestimated you," Satsuki says through bloodied lips.
+[30-Mar-2014 02:25:21]  <IllFlower> She smiles that same enigmatic smile.
+[30-Mar-2014 02:26:03]  <IllFlower> "The worst part is that I can tell I was only a hair's breadth away from victory."
+[30-Mar-2014 02:27:44]  <IllFlower> Satsuki sighs. "Let your justice have its way with me. There's nothing else I can do."
+[30-Mar-2014 02:30:00]  <IllFlower> Any parting shots?
+[30-Mar-2014 02:30:55]  <ponicalica> Not from this direction.
+[30-Mar-2014 02:30:57]  <Alicia> Hikari sighs, the energy leaving her system. "We will." She mutters quietly, before knocking her out with the staff. 
+[30-Mar-2014 02:31:57]  <IllFlower> You might not want to do that. Ayako's injured and Satsuki's not exactly portable...
+[30-Mar-2014 02:32:10]  <ponicalica> I'm imagining, like, Hikari dragging a pair of girls out of the place
+[30-Mar-2014 02:32:36]  <IllFlower> Well, admittedly, it does fit Hikari's character.
+[30-Mar-2014 02:32:37]  <Alicia> I figured, like, she's out of action until Hikari knows Ayako can at least function after passing out.
+[30-Mar-2014 02:32:54]  <Alicia> Although that too. ;p
+[30-Mar-2014 02:32:59]  <IllFlower> I was thinking Ayako might even have to hold her back from just killing Satsuki.
+[30-Mar-2014 02:33:26]  <IllFlower> But just knocking her unconscious seems like a bad idea. It's not like she has the strength to put up much of a struggle anyway.
+[30-Mar-2014 02:33:44]  <Alicia> Hikari wants to, but has principles. These principles are being strained as it is, granted.
+[30-Mar-2014 02:33:47]  <Alicia> Point.
+[30-Mar-2014 02:34:24]  <IllFlower> And remember how you got in here? By ladder!
+[30-Mar-2014 02:34:54]  <IllFlower> Well, anyway, I think this is a nice place to close.
+[30-Mar-2014 02:35:03]  <IllFlower> Shall we consider this branch's problems solved for now?
+[30-Mar-2014 02:35:05]  <Alicia> Yeah. Details will be dealt with after.
+[30-Mar-2014 02:35:17]  <Alicia> Either way, a certain someone is getting cuffed just in case. `-`
+[30-Mar-2014 02:35:26]  <IllFlower> What is it with you and your handcuffs?
+[30-Mar-2014 02:35:39]  <Alicia> Angrily cuffed, because she can't killllll blargh.
+[30-Mar-2014 02:35:46]  <Alicia> I HAVE NO SUCH THING, DARN IT.
+[30-Mar-2014 02:35:49]  <ponicalica> she keeps 'em just in case of a bondage emergency, I thought we already went over this
+[30-Mar-2014 02:36:11]  <Alicia> It's proper procedure with criminals!
+[30-Mar-2014 02:36:16]  <IllFlower> You don't have to keep talking about it, though. It's like you're trying to show off.
+[30-Mar-2014 02:36:18]  <IllFlower> ;)
+[30-Mar-2014 02:36:25]  <Alicia> Illllllllfloweeeeeeerrrrrrrrrrrrrrr.
+[30-Mar-2014 02:36:29]  <Alicia> Noooooo. >:(
+[30-Mar-2014 02:36:35]  <ponicalica> But yeah I think this branch is pretty much over.  Maybe some other conservator team will have to deal with Emi Fukuda but...
+[30-Mar-2014 02:36:51]  <Alicia> Implying is dumb. I'd rather [action] just be done, even if repetitive, etc.
+[30-Mar-2014 02:36:59]  <ponicalica> 3>implying
+[30-Mar-2014 02:37:06]  * Alicia doesn't get the joke.
+[30-Mar-2014 02:37:09]  <IllFlower> Isn't it nice that something got solved without lots of people dying for once?
+[30-Mar-2014 02:37:15]  <Alicia> Yes. ;-;
+[30-Mar-2014 02:37:59]  <IllFlower> Nice work. Thanks for playing again.
+[30-Mar-2014 02:38:18]  <IllFlower> Next time we'll have an exciting new story! Maybe without so much despair.
+[30-Mar-2014 02:38:30]  * IllFlower snickers
+[30-Mar-2014 02:38:36]  <ponicalica> 3>without so much despair >IllFlower >laughingurobuchis.png

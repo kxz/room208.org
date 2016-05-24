@@ -1,0 +1,26 @@
+strict graph {
+    rankdir = "LR"
+    node [ shape = point ]
+
+    subgraph cluster_strain {
+        color = invis
+        label = "Strain"
+        fontname = "Times-Bold"
+
+        "A" -- "B" [ style = bold, label = "0" ]
+        "C" -- "D" [ style = solid, label = "1" ]
+        "E" -- "F" [ style = dashed, label = "2" ]
+        "G" -- "H" [ style = dotted, label = "3" ]
+    }
+
+    subgraph cluster_attr {
+        color = invis
+        label = "Attribute"
+        fontname = "Times-Bold"
+        edge [ style = bold ]
+
+        "I" -- "J" [ color = purple, label = "Magic" ]
+        "K" -- "L" [ color = deeppink, label = "Heart" ]
+        "M" -- "N" [ color = red, label = "Fury" ]
+    }
+}

@@ -1,0 +1,376 @@
+[13-Aug-2013 20:26:33]  <IllFlower> Okay, let's get this party started.
+[13-Aug-2013 20:26:36]  <Barcode[YANO_Hitomi]> "Get to a place in your life where you're comfortable with the prospect of looking truth in the face."
+[13-Aug-2013 20:28:30]  <IllFlower> It's near 6:00 on a weekday, and the streets downtown are choked with pedestrians and cars as people leave work for home.
+[13-Aug-2013 20:29:29]  *** Nitya <~Glossina@wl-nat100.it.wsu.edu> has left #madokamadness
+[13-Aug-2013 20:30:06]  <Barcode[YANO_Hitomi]> This hits close to home.
+[13-Aug-2013 20:30:07]  <IllFlower> One couldn't ask for more perfect conditions to lose pursuers in, and that is in fact what one particularly determined boy is trying to do at this very moment.
+[13-Aug-2013 20:30:24]  <Barcode[YANO_Hitomi]> (i /knew/ it was too late to make a comment)
+[13-Aug-2013 20:31:23]  <IllFlower> Draped in a light cloak, he weaves in and out of crowds effortlessly as if somehow guided through them, clutching a stolen book to his chest.
+[13-Aug-2013 20:34:20]  <IllFlower> This is Kazuto Nishimori, 17, and if there's anything that'll attract the attention of the Conservators, it's theft from the Library of the Ancients.
+[13-Aug-2013 20:34:37]  <IllFlower> I'm going to open conflict, unless you guys don't feel particularly motivated to chase some kid down first thing. **
+[13-Aug-2013 20:35:13]  <Ayako> 14what level?
+[13-Aug-2013 20:35:16]  <Rig> Physical.
+[13-Aug-2013 20:35:29]  <Barcode[YANO_Hitomi]> Oh, I thought we were gonna be pointed out in the scene somewhere.
+[13-Aug-2013 20:35:37]  <Barcode[YANO_Hitomi]> Yeah, I'm up for a chase.
+[13-Aug-2013 20:36:07]  <Rig> +roll 9d6
+[13-Aug-2013 20:36:07]  <rollermine> Rig: (1+1+2+1+1+2+2+2+6)=18
+[13-Aug-2013 20:36:13]  <Barcode[YANO_Hitomi]> Woudl thsi be a group thing?
+[13-Aug-2013 20:36:14]  <Rig> All those 1s and 2s.
+[13-Aug-2013 20:36:50]  <IllFlower> Barcode[YANO_Hitomi]: Yes, but you all still roll individually. Bd+Ht.
+[13-Aug-2013 20:36:56]  <Barcode[YANO_Hitomi]> Right.
+[13-Aug-2013 20:37:14]  <Barcode[YANO_Hitomi]> +roll 6d6
+[13-Aug-2013 20:37:14]  <rollermine> Barcode[YANO_Hitomi]: (4+4+4+1+2+6)=21
+[13-Aug-2013 20:37:28]  <Barcode[YANO_Hitomi]> BTW, what are the rules, if any, for using traits in multiple conflicts?
+[13-Aug-2013 20:37:30]  <Ayako> +roll 3d6+2d6+2d6 >! Bd+Ht+relationship with the conservators
+[13-Aug-2013 20:37:31]  <rollermine> (4+1+6)+(2+6)+(3+2)=24
+[13-Aug-2013 20:37:55]  <Rig> I'm also gonna pull in my trait with the Conservators.
+[13-Aug-2013 20:38:05]  <Rig> +roll 1d8
+[13-Aug-2013 20:38:05]  <rollermine> Rig: (7)=7
+[13-Aug-2013 20:38:12]  <IllFlower> +roll 9d6
+[13-Aug-2013 20:38:12]  <rollermine> IllFlower: (4+4+3+4+4+5+3+1+6)=34
+[13-Aug-2013 20:38:23]  <IllFlower> Bottom of the sheet for details of the dice I'm rolling.
+[13-Aug-2013 20:38:29]  <Barcode[YANO_Hitomi]> (what i mean to say is. what stops me from going "well i'm a conservator" in every single conflict?)
+[13-Aug-2013 20:38:41]  <Rig> Roleplaying.
+[13-Aug-2013 20:38:48]  <IllFlower> +roll 2d10+2d6
+[13-Aug-2013 20:38:49]  <rollermine> IllFlower: (1+8)+(6+5)=20
+[13-Aug-2013 20:38:51]  <Barcode[YANO_Hitomi]> That's it, huh. k...
+[13-Aug-2013 20:39:13]  <Rig> I think IllFlower has the highest roll so he raises first.
+[13-Aug-2013 20:39:16]  <IllFlower> Barcode[YANO_Hitomi]: Basically, it only comes up if Hitomi's status as a Conservator is directly relevant to the conflict.
+[13-Aug-2013 20:39:34]  <IllFlower> 1133444455668 here.
+[13-Aug-2013 20:39:34]  <Barcode[YANO_Hitomi]> IllFlower: I guess "directly" wouldn't be "she's chasing thsi guy because that's her job".
+[13-Aug-2013 20:39:56]  <Ayako> 1223466 here
+[13-Aug-2013 20:40:12]  <Barcode[YANO_Hitomi]> 124446...think I'm confident enough for now.
+[13-Aug-2013 20:40:20]  <Rig> 1111222267
+[13-Aug-2013 20:40:29]  <Barcode[YANO_Hitomi]> unless i /need/ to throw in traits at the start of a conflict...
+[13-Aug-2013 20:40:33]  <IllFlower> Barcode[YANO_Hitomi]: Right, something like that.
+[13-Aug-2013 20:41:08]  <IllFlower> You can bring traits in later, yeah. You just have to mention which trait it is.
+[13-Aug-2013 20:41:12]  <Ayako> Well, in my case, I pulled in the relationship because theft from the Library is the sort of disruption that Ayako would not look fondly upon.
+[13-Aug-2013 20:42:02]  <Barcode[YANO_Hitomi]> Yeah, it makes sense.
+[13-Aug-2013 20:42:08]  <Barcode[YANO_Hitomi]> They're your books, dammit!
+[13-Aug-2013 20:42:19]  <IllFlower> Did you roll the 1d4 for being nervous in large crowds, Ayako?
+[13-Aug-2013 20:42:25]  <Ayako> no I did not.  Right.
+[13-Aug-2013 20:42:26]  <Ayako> +roll d4
+[13-Aug-2013 20:42:26]  <rollermine> Ayako: 2=2
+[13-Aug-2013 20:42:34]  <Ayako> 12223466.
+[13-Aug-2013 20:42:52]  <Rig> Oh, I'll probably pull that in from my sheet in the future.
+[13-Aug-2013 20:45:16]  <IllFlower> Kazuto peels off from the sidewalk and runs straight across several lanes of moving traffic on the busy street, trying to lose the three girls behind him. Raise 44, leave 11334455668.
+[13-Aug-2013 20:45:30]  <Ayako> 14so who should see?  all of us or just one?
+[13-Aug-2013 20:45:43]  <Rig> Everyone affected.
+[13-Aug-2013 20:45:55]  <IllFlower> I'd say all three of you.
+[13-Aug-2013 20:45:56]  <Rig> So all of us.
+[13-Aug-2013 20:46:12]  <IllFlower> Since he's trying to drop all three of you, after all.
+[13-Aug-2013 20:46:33]  <Barcode[YANO_Hitomi]> i'm half tempted to be like "I take the blow, get hit by a car, and then try to c ontinue pursuit", lol
+[13-Aug-2013 20:46:41]  <Barcode[YANO_Hitomi]> but nah, i'll see. one second.
+[13-Aug-2013 20:46:45]  <Barcode[YANO_Hitomi]> see normally*
+[13-Aug-2013 20:46:46]  <IllFlower> That's an option, really.
+[13-Aug-2013 20:46:54]  <Barcode[YANO_Hitomi]> well, yeah, i assumed hta was the idea behind the huge raise.
+[13-Aug-2013 20:47:36]  <IllFlower> It'd be a bad idea to raise 7 or lower, as that means one of you can reverse the blow.
+[13-Aug-2013 20:47:48]  <Barcode[YANO_Hitomi]> ?
+[13-Aug-2013 20:47:55]  <IllFlower> See with a single die.
+[13-Aug-2013 20:48:05]  <Ayako> If you see with a single die you can use it in your next raise
+[13-Aug-2013 20:48:11]  <Barcode[YANO_Hitomi]> oh, right. not me, I guess. :P
+[13-Aug-2013 20:48:11]  <IllFlower> Rig has a 7, all of you have 6s.
+[13-Aug-2013 20:49:30]  <Rig> Jun steps out into traffic, trying to dodge between cars as she keeps her eyes on the boy with the book. She only barely manages to dodge a taxi as she jumps back onto the sidewalk on the other side. See 62; leave 11112227.
+[13-Aug-2013 20:50:26]  <Rig> Literall dodges for a conflict!
+[13-Aug-2013 20:50:31]  <Rig> *literal
+[13-Aug-2013 20:51:11]  <Barcode[YANO_Hitomi]> Hitomi sighs. Traffic's an old trick, but it works. She monitors the passing cars for a moment and jumps through a smaller gap than Jun did, though not much farther behind her. This promps some screeching and honking. See 44; left 1246.
+[13-Aug-2013 20:51:15]  * Ayako , clumsily but with an eye for gaps, rolls and weaves through the traffic.  Some lucky brakes save her from danger as she follows onto the sidewalk behind Jun and restarts pursuit.  See 62, leave 122346.
+[13-Aug-2013 20:52:09]  <IllFlower> Okay, I think the order of highest rolls goes Rig, Ayako, Barcode[YANO_Hitomi] from here.
+[13-Aug-2013 20:52:42]  <IllFlower> So I guess that means Rig will See next.
+[13-Aug-2013 20:52:48]  <IllFlower> Sorry, Raise.
+[13-Aug-2013 20:53:21]  <Barcode[YANO_Hitomi]> Based on gratuitous extrapolation I predict Hitomi's gonna suffer the Worf effect.
+[13-Aug-2013 20:53:26]  <Barcode[YANO_Hitomi]> Effect*
+[13-Aug-2013 20:54:00]  <Ayako> there's always escalation
+[13-Aug-2013 20:54:05]  <Barcode[YANO_Hitomi]> Well yeah, but I can't hit what ain't there.
+[13-Aug-2013 20:54:49]  <Barcode[YANO_Hitomi]> (Don't worry, I'll find some way to make good on my description sooner or later. :P Gratuitous extrapolation's the key.)
+[13-Aug-2013 20:55:13]  <Rig> Trying to figure out how to raise in a chase.
+[13-Aug-2013 20:55:15]  <Ayako> well, "a devious, physical character"
+[13-Aug-2013 20:55:17]  <Rig> "I run harder."
+[13-Aug-2013 20:55:33]  <IllFlower> You can try to cut him off, force him into an enclosed space, etc.
+[13-Aug-2013 20:55:34]  <Barcode[YANO_Hitomi]> Rig: Alleys, ducking in a way that makes him think he lost /you/...
+[13-Aug-2013 20:55:36]  <Ayako> so an escalation to physical violence wouldn't be out-of-character
+[13-Aug-2013 20:55:51]  <Barcode[YANO_Hitomi]> Ayako: Yeah I know. I still gotta catch up, unless I literally toss my baton at him through a throng of people.
+[13-Aug-2013 20:56:15]  <Ayako> get a good angle, Hitomi
+[13-Aug-2013 20:56:33]  <Barcode[YANO_Hitomi]> hitomi looks down the iron sights of her throwing baton.
+[13-Aug-2013 20:56:42]  <Rig> Jun focuses her breathing and charges after the boy. She knows this area and she knows how crowds work. She weaves through the crowd, and tries to keep out of his sight while keeping on him. Raise: 72; leave 111122. Rolling for crowds trait.
+[13-Aug-2013 20:57:04]  <Rig> +roll 1d6
+[13-Aug-2013 20:57:04]  <rollermine> Rig: (4)=4
+[13-Aug-2013 20:57:12]  <Ayako> I think you're actually supposed to roll first but it doesn't matter
+[13-Aug-2013 20:57:23]  <Rig> 1111224
+[13-Aug-2013 20:57:42]  <Rig> Yeah.
+[13-Aug-2013 20:58:41]  <IllFlower> Kazuto sees Jun gaining on him, and ducks into a nearby pedestrian underpass in order to get himself out of her line of sight. See 45, leave 11334668.
+[13-Aug-2013 20:59:47]  <IllFlower> Ayako, I think you're up.
+[13-Aug-2013 21:00:14]  <Ayako> @w underpass >! let me make sure I know what this is
+[13-Aug-2013 21:00:14]  <Omnipresence> 14: Wikipedia: https://en.wikipedia.org/wiki/Tunnel — A tunnel is an underground passageway, completely enclosed except for openings for entrance and exit, commonly at each end.
+[13-Aug-2013 21:00:18]  <Ayako> ...right.
+[13-Aug-2013 21:00:29]  * Barcode[YANO_Hitomi] @w'd too
+[13-Aug-2013 21:00:46]  <Rig> Fun fact: Lots of Tokyo is practically built for foot chases.
+[13-Aug-2013 21:00:46]  <Barcode[YANO_Hitomi]> in the grim darkness of suburbia, the only overpasses are highway overpasses.
+[13-Aug-2013 21:01:03]  *** Xeniera <~Solstace@67-5-174-154.ptld.qwest.net> has quit IRC (Read error: Connection reset by peer)
+[13-Aug-2013 21:01:06]  <Barcode[YANO_Hitomi]> Rig: But are there parkour opportunities?
+[13-Aug-2013 21:01:13]  <Rig> So many.
+[13-Aug-2013 21:01:20]  <Barcode[YANO_Hitomi]> nice.
+[13-Aug-2013 21:03:12]  <IllFlower> (In case it's not clear, I'm thinking the stakes for this conflict are whether or not you guys catch Kazuto. Getting him to give up the book may be another ordeal entirely...)
+[13-Aug-2013 21:03:40]  *** Xeniera <~Solstace@67-5-174-154.ptld.qwest.net> has joined #madokamadness
+[13-Aug-2013 21:03:40]  *** ChanServ sets mode: +o Xeniera
+[13-Aug-2013 21:03:50]  <Barcode[YANO_Hitomi]> ah, okay. yeah i was gonna say i think that had to be defined first >_>
+[13-Aug-2013 21:04:18]  *** Saladofstones <~Saladofst@pool-70-104-149-221.lsanca.fios.verizon.net> has quit IRC (Quit: Row, row your boat sneak down the stream. Lock'n'load in Tactical mode. UNITED STATES MARINES)
+[13-Aug-2013 21:05:25]  <Barcode[YANO_Hitomi]> writin', Ayako?
+[13-Aug-2013 21:05:30]  <Ayako> yeah
+[13-Aug-2013 21:05:37]  <Ayako> and trying to think of what would be plausible
+[13-Aug-2013 21:06:03]  <Barcode[YANO_Hitomi]> chasing, finding another entry to the underpass, perhaps even going along the underpass to try to meet him on the other side
+[13-Aug-2013 21:06:09]  <IllFlower> You don't have to think too much. We can just tweak it after the fact.
+[13-Aug-2013 21:06:13]  <Barcode[YANO_Hitomi]> and yeah, there's that too.
+[13-Aug-2013 21:07:32]  <Ayako> Ayako makes chase, running down an adjacent underpass to surround him with the other girls once he emerges.  There's nervousness in her heart, but she knows her cause is just.  Raise 64, leave 1223.
+[13-Aug-2013 21:08:07]  <Barcode[YANO_Hitomi]> woiks.
+[13-Aug-2013 21:10:18]  <Barcode[YANO_Hitomi]> Hitomi seems to display a fair bit less tact than the other girls. She runs into the pass with Kazuto, shoving her way through the crowds in an attempt to maintain a running pace. Raise 14, left 26.
+[13-Aug-2013 21:10:26]  <IllFlower> Hold on a sec.
+[13-Aug-2013 21:10:29]  <Barcode[YANO_Hitomi]> ?
+[13-Aug-2013 21:10:38]  <IllFlower> I haven't responded to Ayako's Raise yet.
+[13-Aug-2013 21:10:41]  <Barcode[YANO_Hitomi]> oh, shit.
+[13-Aug-2013 21:10:45]  <Barcode[YANO_Hitomi]> okay, redact that.
+[13-Aug-2013 21:10:46]  <Rig> He just got so excited.
+[13-Aug-2013 21:10:55]  <Barcode[YANO_Hitomi]> I forgot that we had to do Sees after every Raise. L_L
+[13-Aug-2013 21:11:29]  <Ayako> also not sure you want to do a raise that'd let him reverse the blow jsyk
+[13-Aug-2013 21:11:54]  <IllFlower> Kazuto doesn't notice that Ayako's coming to intercept him from the other side until it's too late, and in dodging her grasp knocks himself against a nearby wall. See 136, leave 13468.
+[13-Aug-2013 21:12:11]  <IllFlower> Take 3d6 fallout.
+[13-Aug-2013 21:14:25]  <IllFlower> Barcode[YANO_Hitomi]: Okay, now you can go.
+[13-Aug-2013 21:14:33]  <Barcode[YANO_Hitomi]> Right right. >_<
+[13-Aug-2013 21:16:22]  <Barcode[YANO_Hitomi]> Ayako: iunno, what i had in mind didn't seem very condusive to being Unseen, but.
+[13-Aug-2013 21:16:49]  <Ayako> all they see are a bunch of girls chasing a dude with a book, at least right now.
+[13-Aug-2013 21:17:04]  <Barcode[YANO_Hitomi]> er, unseen as in not gettingcalled on the "bet"
+[13-Aug-2013 21:17:17]  <Barcode[YANO_Hitomi]> i'm screwed for any raise right now anyway, i think.
+[13-Aug-2013 21:17:19]  <Ayako> ah, well, true
+[13-Aug-2013 21:17:23]  <IllFlower> Just try it. /shrug
+[13-Aug-2013 21:17:46]  <Barcode[YANO_Hitomi]> Hitomi seems to display a fair bit less tact than the other girls. She had run into the pass with Kazuto, shoving her way through the crowds in an attempt to maintain a running pace, but the crowd seems to have thickened behind him. Raise 26, left 14.
+[13-Aug-2013 21:18:09]  <Barcode[YANO_Hitomi]> She runs into the pass with Kazuto as the other girls weave elsewhere* or what not.
+[13-Aug-2013 21:18:15]  <Barcode[YANO_Hitomi]> straight into*
+[13-Aug-2013 21:20:18]  <IllFlower> I'm not sure how to See something like that, since she's not making a move that Kazuto has to immediately respond to.
+[13-Aug-2013 21:20:48]  <IllFlower> Low-die Raises can be weak, but they have to be threatening.
+[13-Aug-2013 21:20:51]  <Barcode[YANO_Hitomi]> well, she could be gaining on him. Straight line, he ran into a wall. I guess you wouldn't necessarily be responding specifically to that...
+[13-Aug-2013 21:21:11]  <Barcode[YANO_Hitomi]> straight line's fastest, and*
+[13-Aug-2013 21:21:29]  <Ayako> Also remember that there's the option of escalation.
+[13-Aug-2013 21:21:44]  <IllFlower> 26 is a pretty strong Raise, in my opinion.
+[13-Aug-2013 21:22:33]  <Rig> How about you insult him or something. He looks pretty easy to frighten. He's wearing a cloak.
+[13-Aug-2013 21:22:44]  <Barcode[YANO_Hitomi]> WOuldn't that be Acuity?
+[13-Aug-2013 21:23:07]  <Barcode[YANO_Hitomi]> hold on, I've got some vaulting ideas, then.
+[13-Aug-2013 21:23:41]  <Barcode[YANO_Hitomi]> or not. this whole place is flat.
+[13-Aug-2013 21:23:45]  <Rig> Also, I like that we started in my characters best arena and I'm still doing shitty in terms of dice.
+[13-Aug-2013 21:23:58]  <Rig> You ran over the underpass and tackle him from above.
+[13-Aug-2013 21:24:11]  <Ayako> Wouldn't that be escalation, since it's violent?
+[13-Aug-2013 21:24:22]  <Rig> Doesn't have to be, but it can be.
+[13-Aug-2013 21:24:24]  <Barcode[YANO_Hitomi]> Well, it's violent if I try to run him into a post or something.
+[13-Aug-2013 21:25:15]  <IllFlower> I'd say that if you try to tackle him, that'd count as an escalation.
+[13-Aug-2013 21:26:23]  <Barcode[YANO_Hitomi]> Well, alright then. Description change: Approaching the underpass, Hitomi takes to building some vertical momentum on a ridge lining the edge of the underpass. She vaults onto the overpass, clearing the crowd underneath and jumping down on the other side into a roll.
+[13-Aug-2013 21:26:24]  <IllFlower> Hm, actually, maybe not. Tackling isn't really hand-to-hand, blow-to-blow conflict.
+[13-Aug-2013 21:26:56]  <Barcode[YANO_Hitomi]> Excuse the delays. the result of the roll can be changed by what goes on with the See, I guess.
+[13-Aug-2013 21:27:04]  <IllFlower> So you've basically jumped over the crowd, then?
+[13-Aug-2013 21:27:17]  <Barcode[YANO_Hitomi]> NOt literally. But like, running along the top of the overpass.
+[13-Aug-2013 21:27:44]  <Barcode[YANO_Hitomi]> Using the ledges and stuff lining the path into the overpass to build jump momentum.
+[13-Aug-2013 21:27:47]  <IllFlower> Still 26?
+[13-Aug-2013 21:27:51]  <Barcode[YANO_Hitomi]> Yeah.
+[13-Aug-2013 21:28:11]  <Barcode[YANO_Hitomi]> well, let's go 24, the roll would slow her down. i'm screwed either way, i think, but.
+[13-Aug-2013 21:28:16]  <Barcode[YANO_Hitomi]> no, okay, 26.
+[13-Aug-2013 21:28:25]  * Barcode[YANO_Hitomi] puts his palms flat on the table.
+[13-Aug-2013 21:30:30]  <Barcode[YANO_Hitomi]> Rig: basically was thinking of Faith's thing where she runs up improvised stairs to make longer/higher jumps.
+[13-Aug-2013 21:34:23]  <IllFlower> Kazuto ducks out of Hitomi's path, and comes up behind her as she approaches the ground. See 8. He pushes her into the crowd, toppling over some passers-by and upsetting a nearby cleaning cart. Buckets and bottles spill into the girls' path. Raise (8)1. **
+[13-Aug-2013 21:35:24]  <IllFlower> Leave 36.
+[13-Aug-2013 21:35:25]  <Ayako> so now I have to either give or bring some more in
+[13-Aug-2013 21:35:34]  <Barcode[YANO_Hitomi]> Raise is for me or everyone?
+[13-Aug-2013 21:36:10]  <Ayako> I think for everyone, since stuff's spilling into all our path
+[13-Aug-2013 21:36:22]  <IllFlower> Everyone, since Ayako and Jun will end up in a giant mop fluid slip 'n' slide if they don't watch out.
+[13-Aug-2013 21:37:04]  <Rig> Jun jogs to a stop at the mess and offers a hand to Hitomi. "I think he's got us," she says. "Let's go back and find out what he took." Give, keeping 4.
+[13-Aug-2013 21:37:08]  *** Zia <~Zia@76.178.155.186> has joined #madokamadness
+[13-Aug-2013 21:37:22]  <Ayako> does Give automatically do it for all of us
+[13-Aug-2013 21:37:28]  <Rig> No.
+[13-Aug-2013 21:37:28]  <Barcode[YANO_Hitomi]> Nah, individuals give, I think.
+[13-Aug-2013 21:37:34]  *** SF_Sorrow <~SF_Sorrow@99-67-18-70.lightspeed.sntcca.sbcglobal.net> has joined #madokamadness
+[13-Aug-2013 21:37:36]  <IllFlower> No, the rest of you can keep chasing if you wish.
+[13-Aug-2013 21:38:10]  <IllFlower> I could see Hitomi doggedly running after him, for instance.
+[13-Aug-2013 21:38:46]  <Barcode[YANO_Hitomi]> I can't physically beat up soap. I could bring in Conservator but I don't know how I could do that without it being a cop-out.
+[13-Aug-2013 21:39:50]  <Barcode[YANO_Hitomi]> (I could be like "Hitomi can totally detect the book" but again, cop-out)
+[13-Aug-2013 21:39:50]  <Ayako> you can throw batons or mops though
+[13-Aug-2013 21:39:55]  <Rig> Well, it's not like you have to give. You can take fallout.
+[13-Aug-2013 21:40:05]  <Barcode[YANO_Hitomi]> Yeah, but I can't Raise, just see.
+[13-Aug-2013 21:40:07]  <IllFlower> The way it's described, it seems like you'd only really bring it in if the conflict allows her to make a display of her power as a Conservator.
+[13-Aug-2013 21:40:15]  <IllFlower> You can Raise if you escalate the conflict.
+[13-Aug-2013 21:40:36]  <Rig> You jump straight to magic and chase her using powers.
+[13-Aug-2013 21:40:39]  <Rig> *him
+[13-Aug-2013 21:40:43]  <Barcode[YANO_Hitomi]> Well, public magic, though.
+[13-Aug-2013 21:41:04]  <IllFlower> We can just pretend people are totally oblivious. Wouldn't be the first time!
+[13-Aug-2013 21:41:08]  <Barcode[YANO_Hitomi]> would it be okay if I like, scrambled for a still-full soap thing and swung it across the ground into his path?
+[13-Aug-2013 21:41:21]  <Barcode[YANO_Hitomi]> Which would sort of count as combat, i guess.
+[13-Aug-2013 21:41:42]  <Ayako> Ayako comes to a stop next to Jun, panting from the unexpected physical exertion.  "Yeah, I don't think we'll be able to get him."  Give, keeping 3 for follow-up.
+[13-Aug-2013 21:42:32]  <IllFlower> Barcode[YANO_Hitomi]: You could do something like that, or you could just catch up with him and swing a fist at him.
+[13-Aug-2013 21:42:35]  <Ayako> "And I suppose it's just...one book.", she says, in that way that you know she's trying to convince herself more than anybody else.
+[13-Aug-2013 21:43:40]  <Barcode[YANO_Hitomi]> hmm, alright, mind if I roll for Body? I'm going to assume that if he pushed her over into carts he's not too far that I couldn't tackle or something.
+[13-Aug-2013 21:43:59]  <Barcode[YANO_Hitomi]> er, for Will, I guess. unless, again, that seems cheesy to the rest of you.
+[13-Aug-2013 21:44:03]  <IllFlower> You'd roll for Will, actually.
+[13-Aug-2013 21:44:14]  <Barcode[YANO_Hitomi]> (since the rest Gave and wrote up stuff...)
+[13-Aug-2013 21:44:40]  <IllFlower> And it seems entirely plausible to me that Hitomi would be the most stubborn in chasing him. She'd probably only give up with some persuasion.
+[13-Aug-2013 21:45:04]  <Rig> ((Enter into sub conflict to persuade her to give))
+[13-Aug-2013 21:45:22]  <IllFlower> Hahaha.
+[13-Aug-2013 21:45:39]  <Barcode[YANO_Hitomi]> okay, let's roll for Body. we'll say the push got her mad enough to get motivated again.
+[13-Aug-2013 21:45:41]  <Barcode[YANO_Hitomi]> Will* fuck
+[13-Aug-2013 21:45:53]  <IllFlower> Ayako, Rig: That cool with you guys?
+[13-Aug-2013 21:45:57]  <Rig> Yeah.
+[13-Aug-2013 21:46:02]  <Rig> It's in character.
+[13-Aug-2013 21:46:04]  <Ayako> totally fine with me.
+[13-Aug-2013 21:46:06]  <Barcode[YANO_Hitomi]> +roll 5d6
+[13-Aug-2013 21:46:07]  <rollermine> Barcode[YANO_Hitomi]: (3+3+4+4+6)=20
+[13-Aug-2013 21:46:22]  <Barcode[YANO_Hitomi]> so, 81, i need nine tom atch.
+[13-Aug-2013 21:46:39]  <Ayako> Don't forget the dice you still had.
+[13-Aug-2013 21:47:03]  <Barcode[YANO_Hitomi]> right, the 14. so 1334446
+[13-Aug-2013 21:47:34]  <IllFlower> Okay, we're escalating, then. I'm going to say that Kazuto's d4 trait is a reluctance to beat up girls, haha. Bringing that in...
+[13-Aug-2013 21:47:40]  <IllFlower> +roll 5d6+d4
+[13-Aug-2013 21:47:40]  <rollermine> IllFlower: (1+3+5+2+3)+3=17
+[13-Aug-2013 21:47:41]  <Barcode[YANO_Hitomi]> Heh.
+[13-Aug-2013 21:47:46]  <Ayako> haha
+[13-Aug-2013 21:48:08]  <IllFlower> 12333356 now.
+[13-Aug-2013 21:48:29]  <IllFlower> Barcode[YANO_Hitomi]: You still have to See the 18 from my last Raise.
+[13-Aug-2013 21:48:36]  <Barcode[YANO_Hitomi]> Right.
+[13-Aug-2013 21:48:50]  <Barcode[YANO_Hitomi]> Fallout from a Blow-take would be 3d6, right?
+[13-Aug-2013 21:49:04]  <IllFlower> However many dice you use to See, times d6, yes.
+[13-Aug-2013 21:49:55]  <Barcode[YANO_Hitomi]> Hitomi scrambles to a stand, visibly incensed with the grime she's accumulated thanks to this cloaked urchin. "He /pushed/ me, he's not that far, Jun." Looking around, she spots him trying to blend into the crowd. "There's the rat," she says, and, tossing someone aside, runs into the crowd and grabs Kazuto. See 36, left 13444
+[13-Aug-2013 21:50:11]  <Barcode[YANO_Hitomi]> I'm gonna bring in brawler.
+[13-Aug-2013 21:50:27]  <Barcode[YANO_Hitomi]> +2d6
+[13-Aug-2013 21:50:30]  <Barcode[YANO_Hitomi]> er
+[13-Aug-2013 21:50:32]  <Barcode[YANO_Hitomi]> +roll 2d6
+[13-Aug-2013 21:50:33]  <rollermine> Barcode[YANO_Hitomi]: (4+3)=7
+[13-Aug-2013 21:50:54]  <IllFlower> 1334444. All right, now we're talking.
+[13-Aug-2013 21:51:19]  <Rig> These d6s are loaded.
+[13-Aug-2013 21:51:22]  <Ayako> the 3s vs the 4s
+[13-Aug-2013 21:51:28]  <Ayako> Rig: rollermine is king of the trolls
+[13-Aug-2013 21:52:06]  <IllFlower> +roll 10000d6
+[13-Aug-2013 21:52:07]  <rollermine> IllFlower: lolno=35278
+[13-Aug-2013 21:52:12]  <Barcode[YANO_Hitomi]> Hitomi wastes no time in grabbing onto his arm with her other hand and, with a short start, flinging him into the overpass wall. Bystanders quickly part as Hitomi steps in after her throw. Raise 44.
+[13-Aug-2013 21:52:34]  <IllFlower> Leave 13344, okay.
+[13-Aug-2013 21:52:37]  <Barcode[YANO_Hitomi]> Left 13344, yeah.
+[13-Aug-2013 21:53:47]  <Barcode[YANO_Hitomi]> (this "throw" is more like the sort of force-into-a-tumble you'd see all the time in assassin's creed, of course)
+[13-Aug-2013 21:53:48]  <IllFlower> Kazuto grabs firmly onto Hitomi's wrist, pulling her towards him (and the wall) with some of the momentum from her own throw. See 35.
+[13-Aug-2013 21:54:26]  <Barcode[YANO_Hitomi]> Left 1233336, then...
+[13-Aug-2013 21:54:31]  <Barcode[YANO_Hitomi]> er, 123336*
+[13-Aug-2013 21:55:23]  <IllFlower> Reluctant to throw a punch or anything like that, and on the ground besides, he sweeps a leg underneath Hitomi, trying to knock her off her feet. Raise 33, leave 1236. **
+[13-Aug-2013 21:56:17]  <IllFlower> The surrounding rush hour crowd seems unable to decide whether it wants to rush in and break things up, or run away as fast as it can...
+[13-Aug-2013 21:56:21]  <Rig> Jun tries to shrink into the crowd. She's not a delinquent like her partner, but she's invested in this fight too. In an abstract way.
+[13-Aug-2013 21:58:21]  <IllFlower> But only an abstract way.
+[13-Aug-2013 21:58:28]  <Barcode[YANO_Hitomi]> Emotional support!
+[13-Aug-2013 21:58:33]  <Barcode[YANO_Hitomi]> or not. since, fighting.
+[13-Aug-2013 21:58:44]  <Rig> Abstract punches.
+[13-Aug-2013 21:58:57]  <Ayako> Ayako tries to stay close to Jun, who she knows if only barely but does not seem to share her wariness around crowds.
+[13-Aug-2013 21:59:47]  <Barcode[YANO_Hitomi]> Hitomi's stumble leads to a fall when the sweep gets involved. She manages to stay on both knees, however. See 33, leave 144. It's certainly not dignified, but street fighting never is. She reaches out and, grabbing both of Kazuto's legs, twists sideways to fling him down to the ground once more. Raise 44, leave 1.
+[13-Aug-2013 21:59:51]  <IllFlower> Barcode[YANO_Hitomi]: Just a tip w/r/t Raises - you should cast them more as attempts to do something, rather than actual "hits," since those are more determined by how the opponent Sees.
+[13-Aug-2013 22:00:04]  <Barcode[YANO_Hitomi]> ah, true.
+[13-Aug-2013 22:00:40]  <Barcode[YANO_Hitomi]> well, the grab's the intent. It's to lead into a sort of football-esque twist to cause a fall if she gets good purchase.
+[13-Aug-2013 22:01:14]  <Rig> Well, you can retroactively change things with sees and raises.
+[13-Aug-2013 22:01:35]  <Barcode[YANO_Hitomi]> Less retconning just would keep things neater, still.
+[13-Aug-2013 22:01:40]  <IllFlower> Kazuto realizes what Hitomi is trying to do, and braces himself into a roll so that he can use the momentum to escape Hitomi's grasp. See 26.
+[13-Aug-2013 22:03:00]  <IllFlower> Winded, but not completely out of energy, he kicks at Hitomi's arms as he tries to push himself back up off the ground to escape. Raise 13, leave nothing.
+[13-Aug-2013 22:03:03]  <IllFlower> **
+[13-Aug-2013 22:03:28]  *** BGTCantIntoCompRepair <Mibbit@pool-71-180-144-151.tampfl.fios.verizon.net> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[13-Aug-2013 22:03:34]  <Barcode[YANO_Hitomi]> hmph. I think I'll leave the baton out of this, it's not gonna help with another grab.
+[13-Aug-2013 22:04:30]  <IllFlower> You could try to kneecap him, haha.
+[13-Aug-2013 22:05:40]  <Barcode[YANO_Hitomi]> Could swing out just trying to do anything, but i'm having a hard time seeing it working from the ground...
+[13-Aug-2013 22:05:57]  <IllFlower> Do you want to Give here?
+[13-Aug-2013 22:06:02]  <Barcode[YANO_Hitomi]> though if it's closer she could always crack him in the ribs...
+[13-Aug-2013 22:06:50]  <IllFlower> So violent.
+[13-Aug-2013 22:06:57]  <Barcode[YANO_Hitomi]> I could easily wind him like that, but. What do you guys think?
+[13-Aug-2013 22:07:08]  <Ayako> Do you think Hitomi would do it?
+[13-Aug-2013 22:07:19]  <IllFlower> Barcode[YANO_Hitomi]: You'd have to respond to his trying to kick free first.
+[13-Aug-2013 22:07:25]  <Rig> Can you even see?
+[13-Aug-2013 22:07:33]  <Barcode[YANO_Hitomi]> IllFlower: Well yeah, but if I roll 4 or higher on the baton I could Reverse the Blow.
+[13-Aug-2013 22:07:40]  <IllFlower> Oh, true.
+[13-Aug-2013 22:08:12]  <Barcode[YANO_Hitomi]> Ayako: Well, she's not gonna beat him into a coma, but she's certainly trying to catch him, so.
+[13-Aug-2013 22:08:58]  <Barcode[YANO_Hitomi]> actually you'd want to hit someone in the gut, not the ribs...
+[13-Aug-2013 22:09:07]  <IllFlower> It's rare that you have exactly a 50 percent chance of gaining the upper hand here, but you do!
+[13-Aug-2013 22:09:38]  <IllFlower> 4 or higher and I have to give or escalate, 3 or lower and the shoe's on the other foot.
+[13-Aug-2013 22:09:59]  <Barcode[YANO_Hitomi]> oh, i could hit him in like, the hamstring.
+[13-Aug-2013 22:10:15]  <IllFlower> Yeah, just hit him in the leg and that'd make it reasonably hard for him to run.
+[13-Aug-2013 22:10:40]  <Barcode[YANO_Hitomi]> fuck it. let's at least try.
+[13-Aug-2013 22:11:00]  <Barcode[YANO_Hitomi]> +roll d6 > dragging us on as it is
+[13-Aug-2013 22:11:00]  <rollermine> dragging us on as it is: 6=6
+[13-Aug-2013 22:11:03]  <Barcode[YANO_Hitomi]> snerk
+[13-Aug-2013 22:11:04]  <Ayako> awesome
+[13-Aug-2013 22:11:29]  <IllFlower> Well, damn, who'd've thought.
+[13-Aug-2013 22:11:41]  <Ayako> I was expecting 3 exactly, really
+[13-Aug-2013 22:11:56]  <Ayako> because even though it's a good RNG I still expect it to act like a petulant human being
+[13-Aug-2013 22:12:33]  <Barcode[YANO_Hitomi]> Hitomi gets a few raw fingers as Kazuto kicks away her grasp and, in another flare of anger, unhooks the baton from her beltloop and swings it open. She brings it around and scores a lucky hit halfway up his thigh. See 6.
+[13-Aug-2013 22:13:58]  <Barcode[YANO_Hitomi]> Hitomi scrambles up as Kazuto stumbles and gets ahead of him, holding the baton ready for a more proper swing. "Don't fucking move!" she shouts, visibly exhausted. Raise 1(6). Leave nothing.
+[13-Aug-2013 22:14:11]  <IllFlower> Well, I have no interest in escalating, so I give.
+[13-Aug-2013 22:14:42]  <Barcode[YANO_Hitomi]> I'd like to apologize to everyone for being reluctant to make reasonable in-character decisions...
+[13-Aug-2013 22:14:48]  <Barcode[YANO_Hitomi]> for stalling in reluctance to make*
+[13-Aug-2013 22:14:52]  <Ayako> nonono don't apologize that was awesome
+[13-Aug-2013 22:15:18]  <Rig> Okay, I think you narrate what happens next though, Barcode.
+[13-Aug-2013 22:15:28]  <Barcode[YANO_Hitomi]> oh, cool.
+[13-Aug-2013 22:15:34]  <IllFlower> Kazuto heaves a sigh, but otherwise remains prone on the ground. A large welt is already beginning to appear on his thigh where Hitomi hit him.
+[13-Aug-2013 22:15:37]  <IllFlower> **
+[13-Aug-2013 22:16:10]  <IllFlower> (I guess the baton tore the fabric of whatever he was wearing. Eh, whatever.)
+[13-Aug-2013 22:16:19]  <Barcode[YANO_Hitomi]> heh.
+[13-Aug-2013 22:16:53]  <IllFlower> I guess Ayako and Jun will catch up at some point, but for now Hitomi's got the captain's chair.
+[13-Aug-2013 22:17:58]  <Barcode[YANO_Hitomi]> Well, they're not too far behind. one second...
+[13-Aug-2013 22:18:16]  <Barcode[YANO_Hitomi]> Hitomi eases her stance slightly. Between the running and the falling and the scuffling and the use of a personal defense weapon offensively in public, she's shaking. "Jun! ... Ayako! ...Well!?"
+[13-Aug-2013 22:18:35]  <Ayako> Ayako tries to pull through the crowd to reach Hitomi and Kazuto.  Presumably she'll reach as soon as it's dramatically convenient.
+[13-Aug-2013 22:19:42]  <Barcode[YANO_Hitomi]> "...You two mind searching this rat? I'm not about ready to put away this baton." She swallows, continues drawing ragged breath.
+[13-Aug-2013 22:20:48]  <Rig> Jun steps out from the crowd, "We should probably take you two to the hospital," she says, glancing around at the crowd that still appears confused on whether they should intervene or run.
+[13-Aug-2013 22:21:04]  <Rig> "Our game of tag got a little out of hand," she laughs.
+[13-Aug-2013 22:21:40]  <Barcode[YANO_Hitomi]> Hitomi relaxes a little, grimacing. Supposedly he wouldn't try anything now that they're all surrounding him.
+[13-Aug-2013 22:22:21]  <Barcode[YANO_Hitomi]> (You oughta search him, Ayako. you'd identify the book anyway.)
+[13-Aug-2013 22:22:38]  <IllFlower> As it becomes clearer and clearer that the fight is over, the onlookers gradually dissipate into the flow of pedestrians.
+[13-Aug-2013 22:22:49]  <Ayako> (yeah, it's just that I have to decide how to approach that)
+[13-Aug-2013 22:23:26]  <Barcode[YANO_Hitomi]> i guess IF's on it? (if he moves Hitomi smacks 'im again anyway. Hitomi would let Ayako know of that.)
+[13-Aug-2013 22:24:16]  <IllFlower> It's a small book, tucked away in Kazuto's breast pocket. He offers no resistance as Ayako turns him over and extracts it from his possession.
+[13-Aug-2013 22:24:37]  <Rig> ((Do we happen to know this kid?))
+[13-Aug-2013 22:25:37]  <IllFlower> Nope. As far as you know, he's a total stranger.
+[13-Aug-2013 22:26:06]  <Barcode[YANO_Hitomi]> ((waitin' on stars.))
+[13-Aug-2013 22:26:16]  <IllFlower> **
+[13-Aug-2013 22:26:49]  <Barcode[YANO_Hitomi]> Hitomi relaxes into a regular standing posture, baton still in hand. "Thanks for cooperating," she says flatly.
+[13-Aug-2013 22:26:50]  *** BGTCannotIntoCompRepair <Mibbit@pool-71-180-144-151.tampfl.fios.verizon.net> has joined #madokamadness
+[13-Aug-2013 22:26:57]  <IllFlower> If you'd like to interrogate him, there's no time like the present.
+[13-Aug-2013 22:27:32]  <Ayako> Ayako examines the book, trying to identify it.
+[13-Aug-2013 22:27:52]  <Rig> Do we need to conflict to interrogate?
+[13-Aug-2013 22:28:00]  <IllFlower> Depends on what you ask him.
+[13-Aug-2013 22:28:55]  <Ayako> IllFlower: Does Ayako note anything?
+[13-Aug-2013 22:29:48]  <Rig> Jun crouches down in front of the boy and puts on the same expression she uses when she spars with her kendo group. "What the hell were you trying to do? Do you have any idea what you took?"
+[13-Aug-2013 22:30:10]  <IllFlower> Ayako: Underneath a line of what appears to be Greek text on the cover is the title "Familiars and the Channeling of Magical Powers into Individuals." The text is, well, dense.
+[13-Aug-2013 22:31:07]  <IllFlower> Rig: "Information wants to be free," Kazuto says in an inexpressive monotone. **
+[13-Aug-2013 22:33:45]  <Rig> Jun shakes her head and look up at Hitomi. "I imagine this is the part where you play bad cop."
+[13-Aug-2013 22:34:27]  <Ayako> Ayako whispers into Jun's ear.  ("I'm not sure, since the title's a bit vague, but I think he just snatched a book about producing new initiates.")
+[13-Aug-2013 22:34:53]  <Barcode[YANO_Hitomi]> Hitomi spares a moment to pat road dust away from her street clothes. "You're not content with what the Familiars teach us? What you see in your own work?"
+[13-Aug-2013 22:36:05]  <Barcode[YANO_Hitomi]> No real outrage shows in her voice.
+[13-Aug-2013 22:36:12]  <IllFlower> Kazuto remains unmoved. "You know that phrase 'don't judge a book by its cover'?" **
+[13-Aug-2013 22:36:13]  <Barcode[YANO_Hitomi]> , but no compassion, either.*
+[13-Aug-2013 22:37:02]  <Barcode[YANO_Hitomi]> "O ain't judging anything. I was sent with these two to catch you and retrieve the book, and
+[13-Aug-2013 22:37:04]  <Barcode[YANO_Hitomi]> er
+[13-Aug-2013 22:37:24]  <Barcode[YANO_Hitomi]> "I'm not judging anything. I was sent with these two to catch you and retrieve the book, and that's what we've done. Unless Ayako here thinks anything more of your little prize..." *
+[13-Aug-2013 22:38:58]  <Barcode[YANO_Hitomi]> She starts working on retracting the baton, keeping her eyes level on Kazuto.
+[13-Aug-2013 22:39:03]  <Rig> "We've done what we needed to. Let's get him and the book back to the library." *
+[13-Aug-2013 22:39:27]  <Barcode[YANO_Hitomi]> (oh, the one asterisk was to fix that. but yeah, I'm done there.) **
+[13-Aug-2013 22:40:59]  <Ayako> Ayako flips through the first few pages.  "So what exactly do you need with the magic of the familiars?  If it were just spreading information, surely you'd've picked something more applicable to the everyday initiate..."
+[13-Aug-2013 22:42:12]  <Barcode[YANO_Hitomi]> ((sorry, i didn't mean to drag this on - i was assuming IllFlower would have some exposition about the book as we headed off))(
+[13-Aug-2013 22:42:28]  <Barcode[YANO_Hitomi]> ((just that, like, ayako's the one who would be the one to know anything about it, during said exposition.))
+[13-Aug-2013 22:43:43]  <Ayako> (yeah, my biggest problem was not being entirely sure as to what Ayako should even know.  I'm guessing there's some FORBIDDEN KNOWLEDGE" stuff though)
+[13-Aug-2013 22:44:56]  <IllFlower> Kazuto says nothing. He doesn't seem like much of a talker. **
+[13-Aug-2013 22:46:30]  <Barcode[YANO_Hitomi]> ((I could get into an interrogation conflict, see if I could scare him. I just feel like I've already pulled enough attention as it is. >_>))
+[13-Aug-2013 22:46:54]  <Ayako> (I was considering something like "We have two options: go back, or let Hitomi be Hitomi all over him")
+[13-Aug-2013 22:48:11]  <Barcode[YANO_Hitomi]> Hitomi, meanwhile, has exchanged the baton for a cigarette. "Jun's right. Let's just take him back."
+[13-Aug-2013 22:48:13]  <Barcode[YANO_Hitomi]> **
+[13-Aug-2013 22:48:50]  <Barcode[YANO_Hitomi]> ((hitomi hits kazuto with a cigarette))
+[13-Aug-2013 22:49:06]  <Ayako> (Hitomi puts out the cigarette on Kazuto)
+[13-Aug-2013 22:49:16]  <Barcode[YANO_Hitomi]> ((but yeah. if there's a library maybe we can get some more info there and stuff.))
+[13-Aug-2013 22:49:40]  <Barcode[YANO_Hitomi]> ((switching to laptop so that I can go eat some TASTY BURGERS))
+[13-Aug-2013 22:49:59]  *** Barcode <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has joined #madokamadness
+[13-Aug-2013 22:49:59]  *** ChanServ sets mode: +o Barcode
+[13-Aug-2013 22:50:01]  <IllFlower> I think this is a good stopping point, actually.
+[13-Aug-2013 22:50:20]  <IllFlower> We can pick up in the library and stuff next session.
+[13-Aug-2013 22:50:25]  <Barcode[YANO_Hitomi]> Ah, kay.
+[13-Aug-2013 22:50:27]  *** Barcode[YANO_Hitomi] <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.sourcecable.net> has quit IRC (Quit: Livin' on borrowed time.)
+[13-Aug-2013 22:50:28]  <Ayako> alrighty
+[13-Aug-2013 22:50:30]  <Ayako> when'll that be?
+[13-Aug-2013 22:50:52]  <Barcode> I'd like to apologize again for squirming. I'll get used to this character soon enough.
+[13-Aug-2013 22:50:54]  <IllFlower> Next Monday, possibly.
+[13-Aug-2013 22:51:06]  <Rig> Woo, one chase scene down.
+[13-Aug-2013 22:51:42]  <Barcode> Then, i can not contribute to us only getting through one conflict in the whole session. >_<
+[13-Aug-2013 22:53:35]  <Ayako> but yeah, that was fun
+[13-Aug-2013 22:53:46]  <Barcode> ^
+[13-Aug-2013 22:53:51]  *** Ayako <~minakami@2607:f010:2ba:2:21c:25ff:febc:692> has left #madokamadness
+[13-Aug-2013 22:54:25]  <IllFlower> Glad to hear it. Thanks for playing, you guys.

@@ -1,0 +1,1174 @@
+[03-Aug-2014 20:27:21]  *** IllFlower changes topic to https://room208.org/wiki/events | RIGHT NOW: Harry Potter and the Suboptimal Transliteration
+[03-Aug-2014 20:27:42]  <IllFlower> Okay, so we left off with someone jumping off a roof.
+[03-Aug-2014 20:28:08]  <IllFlower> I'm ready to jump straight into conflict. What say you all?
+[03-Aug-2014 20:28:23]  <Rig> I believe Kazuki is somewhere downstairs.
+[03-Aug-2014 20:28:31]  <BGTB2005> sure
+[03-Aug-2014 20:28:37]  <IllFlower> Rig: Oh, I have a convenient way of handling that.
+[03-Aug-2014 20:28:55]  <Rig> Yuuya landing on him>
+[03-Aug-2014 20:28:56]  <Rig> *?
+[03-Aug-2014 20:29:10]  <BGTB2005> sure let's go with that
+[03-Aug-2014 20:29:20]  <IllFlower> The roof is terraced and Kazuki sees Yuuya running past outside.
+[03-Aug-2014 20:29:27]  <IllFlower> Or that, I guess.
+[03-Aug-2014 20:29:54]  <IllFlower> Anyway, if you want in on this chase, raise your hand...
+[03-Aug-2014 20:29:58]  <Alicia> I'm up for starting right into the action too.
+[03-Aug-2014 20:30:00]  <Rig> Terraced is fine.
+[03-Aug-2014 20:30:14]  <Rig> I’m in, I guess.
+[03-Aug-2014 20:30:19]  <Rig> What are the stakes?
+[03-Aug-2014 20:30:36]  <BGTB2005> stopping Yuuya's escape?
+[03-Aug-2014 20:30:49]  <IllFlower> Well, Rin went chasing after him. Presumably she wants to catch him.
+[03-Aug-2014 20:31:00]  <IllFlower> So she can mash his face in, but she can do that later.
+[03-Aug-2014 20:31:01]  <BGTB2005> or as Rin initially interpreted, stopping him from throwing himself off the roof
+[03-Aug-2014 20:32:08]  <Alicia> Rin really enjoys hurting others, it seems.
+[03-Aug-2014 20:32:21]  <IllFlower> So the stakes are getting Yuuya into custody, I'd say.
+[03-Aug-2014 20:32:27]  <Rig> Okay, that works.
+[03-Aug-2014 20:32:30]  <Alicia> Yep.
+[03-Aug-2014 20:32:32]  <ponicalica> Yep.
+[03-Aug-2014 20:32:34]  <Rig> What’s the arena then?
+[03-Aug-2014 20:32:42]  <IllFlower> Physical. He's running.
+[03-Aug-2014 20:32:52]  <IllFlower> That's Bd+Ht, and I have a kept 5, so...
+[03-Aug-2014 20:33:01]  <IllFlower> @dice new 10d6 5
+[03-Aug-2014 20:33:01]  <Omnipresence> 14IllFlower: Rolled 2 2 3 3 4 4 4 5 6 6 6 = 45. Bank now has 2 2 3 3 4 4 4 5 6 6 6 = 45.
+[03-Aug-2014 20:33:38]  <BGTB2005> @dice new 6d6
+[03-Aug-2014 20:33:38]  <Omnipresence> 14BGTB2005: Rolled 1 1 1 2 3 6 = 14. Bank now has 1 1 1 2 3 6 = 14.
+[03-Aug-2014 20:33:41]  <BGTB2005> :|
+[03-Aug-2014 20:34:01]  <BGTB2005> guys, help?
+[03-Aug-2014 20:34:28]  <Alicia> Uh wow.
+[03-Aug-2014 20:34:32]  <ponicalica> IllFlower: Should we all roll or
+[03-Aug-2014 20:34:36]  <Rig> @dice new 8d6 1d6
+[03-Aug-2014 20:34:36]  <Omnipresence> 14Rig: Rolled 1 2 2 3 3 3 3 4 6 = 27. Bank now has 1 2 2 3 3 3 3 4 6 = 27.
+[03-Aug-2014 20:34:50]  <IllFlower> ponicalica: If your character's going to be part of this chase.
+[03-Aug-2014 20:34:59]  <ponicalica> @dice new 4d6 3d6
+[03-Aug-2014 20:34:59]  <Omnipresence> 14ponicalica: Rolled 3 3 3 4 5 5 6 = 29. Bank now has 3 3 3 4 5 5 6 = 29.
+[03-Aug-2014 20:35:03]  <IllFlower> Rin was the first to go chasing after Yuuya, so BGTB2005 should raise first.
+[03-Aug-2014 20:35:21]  <Alicia> @dice new 4d6 4d6
+[03-Aug-2014 20:35:21]  <Omnipresence> 14Alicia: Rolled 1 1 3 3 5 6 6 6 = 31. Bank now has 1 1 3 3 5 6 6 6 = 31.
+[03-Aug-2014 20:35:47]  <IllFlower> Oh, if Kazuki's in this, I need to roll his relationship.
+[03-Aug-2014 20:35:50]  <IllFlower> @dice add d4
+[03-Aug-2014 20:35:50]  <Omnipresence> 14IllFlower: Rolled 1 = 1. Bank now has 1 2 2 3 3 4 4 4 5 6 6 6 = 46.
+[03-Aug-2014 20:35:54]  <IllFlower> Ha, perfect.
+[03-Aug-2014 20:36:25]  <Rig> Just remembered Kazuki’s items.
+[03-Aug-2014 20:36:27]  <Rig> ^_^
+[03-Aug-2014 20:36:37]  <Rig> Perfect for catching perps.
+[03-Aug-2014 20:36:55]  <ponicalica> the boots are.  who knows if the whistle is
+[03-Aug-2014 20:37:03]  <IllFlower> Police officer Kazuki.
+[03-Aug-2014 20:37:20]  <IllFlower> Subject of a million fan drawings.
+[03-Aug-2014 20:37:39]  <Alicia> Oooh.
+[03-Aug-2014 20:37:55]  <IllFlower> Alicia's making one right now.
+[03-Aug-2014 20:38:21]  <BGTB2005> Kazuki/Hikari?
+[03-Aug-2014 20:38:23]  <Alicia> Yep. It'll go along with my Yuuya/Kazuki fan fic.
+[03-Aug-2014 20:38:42]  <Rig>  Oh, is that not a canon relationship?
+[03-Aug-2014 20:38:49]  <Rig> I was going for that being canon.
+[03-Aug-2014 20:39:04]  <Alicia> Sweet, my ship is realized!
+[03-Aug-2014 20:39:19]  <IllFlower> How much tongue is involved? Alicia needs to know now.
+[03-Aug-2014 20:39:24]  <Rig> Anyway…
+[03-Aug-2014 20:39:43]  <Rig> @yt Kenny Rogers The Gambler
+[03-Aug-2014 20:39:43]  <Omnipresence> 14Rig: YouTube: (1/25) http://www.youtube.com/watch?v=Jj4nJ1YEAp4 — Kenny Rogers - The Gambler [Original Video-Edit] 1978 — 3419766 views (+3012 more characters)
+[03-Aug-2014 20:41:03]  <ponicalica> is BGTB2005 having trouble with his raise?  Keep in mind that you can discuss things in channel
+[03-Aug-2014 20:41:27]  <BGTB2005> was bookmarking the logs page
+[03-Aug-2014 20:42:03]  <IllFlower> Someone's running, someone else is flying after the running one. That's all the context you need. ;)
+[03-Aug-2014 20:42:05]  <Alicia> Logs, just beyond the horizon.
+[03-Aug-2014 20:43:00]  <IllFlower> Imagine if this ended up like the rooftop scene in The Departed.
+[03-Aug-2014 20:43:13]  <Rig> Hahaha.
+[03-Aug-2014 20:43:16]  <Rig> Terrible.
+[03-Aug-2014 20:44:49]  <Alicia> Haven't seen it.
+[03-Aug-2014 20:45:20]  <Rig> Basically, everyone dies in hideous ways.
+[03-Aug-2014 20:45:31]  <IllFlower> BGTB2005?
+[03-Aug-2014 20:45:36]  <Alicia> :v
+[03-Aug-2014 20:45:40]  <ponicalica> I've seen it but long enough ago that I don't really remember it
+[03-Aug-2014 20:45:41]  <BGTB2005> I think Rin still has her cannon from last session, and she's got her wings...
+[03-Aug-2014 20:45:53]  <ponicalica> BGTB2005: Describe what you're going to do with them first
+[03-Aug-2014 20:45:56]  <ponicalica> then bring them in
+[03-Aug-2014 20:45:57]  <BGTB2005> basically I want to try to describe rocketjumping to close the gap as fast as possible
+[03-Aug-2014 20:46:15]  <ponicalica> I don't think you need something that drastic
+[03-Aug-2014 20:46:21]  <Rig> Rin blows a hole in the hospital roof in a rash attempt to catch Yuuya.
+[03-Aug-2014 20:46:35]  <BGTB2005> basically my initial idea
+[03-Aug-2014 20:46:51]  <ponicalica> I think using the wings to do a divebomb would probably be sufficient.
+[03-Aug-2014 20:46:56]  <Rig> It’s definitely something that matches what I know about the character.
+[03-Aug-2014 20:47:24]  <ponicalica> although yeah, blowing a hole in the roof to gain momentum would probably be in character
+[03-Aug-2014 20:48:27]  <IllFlower> Alicia: Many bullets, many brains.
+[03-Aug-2014 20:49:41]  <Alicia> Oh.
+[03-Aug-2014 20:49:44]  <Alicia> Uh, well.
+[03-Aug-2014 20:50:00]  <ponicalica> BGTB2005?
+[03-Aug-2014 20:53:48]  <IllFlower> I'm going to have to put in a timer for you guys. `_`
+[03-Aug-2014 20:54:00]  <Rig> Clearly.
+[03-Aug-2014 20:54:06]  <Rig> It’s like 30 minutes now.
+[03-Aug-2014 20:54:13]  <ponicalica> BGTB2005 seems even slower than usual right now
+[03-Aug-2014 20:54:18]  <ponicalica> :\
+[03-Aug-2014 20:54:53]  <ponicalica> I'm still getting ping though so he's here
+[03-Aug-2014 20:54:58]  <ponicalica> BGTB2005: just put something down, jeez
+[03-Aug-2014 20:57:34]  <IllFlower> He might have been dragged afk. We'll rotate to the next person for now.
+[03-Aug-2014 20:58:02]  <IllFlower> Alicia: You have a lot of 6s. You game?
+[03-Aug-2014 20:58:10]  <BGTB2005> Firing her cannon at the roof just ahead of her, Rin jumps over the fireball as it explodes, using the shockwave for a boost in speed.
+[03-Aug-2014 20:58:35]  <IllFlower> Oh, there he is.
+[03-Aug-2014 20:59:04]  <BGTB2005> @dice add 2d6 d4 >! cannon for rocketjumping magical girl
+[03-Aug-2014 20:59:04]  <Omnipresence> 14: Rolled 3 4 4 = 11. Bank now has 1 1 1 2 3 3 4 4 6 = 25.
+[03-Aug-2014 20:59:18]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:65ce:2fd5:bc20:fc08> has quit IRC (Read error: Connection reset by peer)
+[03-Aug-2014 20:59:58]  <BGTB2005> @dice use 4 6
+[03-Aug-2014 20:59:58]  <Omnipresence> 14BGTB2005: Used 4 6 = 10. Bank now has 1 1 1 2 3 3 4 = 15.
+[03-Aug-2014 21:00:10]  <IllFlower> Raise 10.
+[03-Aug-2014 21:01:18]  <IllFlower> Yuuya vaults himself off the edge of the roof, tumbling into a roll to weather the shockwave on the terrace below as Rin flies overhead.
+[03-Aug-2014 21:01:23]  <IllFlower> @dice use 4 6
+[03-Aug-2014 21:01:23]  <Omnipresence> 14IllFlower: Used 4 6 = 10. Bank now has 1 2 2 3 3 4 4 5 6 6 = 36.
+[03-Aug-2014 21:02:10]  <IllFlower> Okay, Alicia? Then I'll go and finally Rig.
+[03-Aug-2014 21:02:29]  <Alicia> So raise 10 eh...
+[03-Aug-2014 21:02:34]  <Alicia> Er, see.
+[03-Aug-2014 21:02:49]  <Rig> Kazuki is incredibly confused as Yuuya and Rin seem to have gotten into a fight.
+[03-Aug-2014 21:03:17]  <ponicalica> @dice show
+[03-Aug-2014 21:03:17]  <Omnipresence> 14ponicalica: Bank has 3 3 3 4 5 5 6 = 29.
+[03-Aug-2014 21:03:18]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:65ce:2fd5:bc20:fc08> has joined #madokamadness
+[03-Aug-2014 21:03:53]  <Alicia> Hikari can't exactly jump off of a seven story building with ease. She's not an anime and that'd be A Bad Idea. `-`
+[03-Aug-2014 21:04:00]  <IllFlower> Oh, I forgot about ponicalica, sorry.
+[03-Aug-2014 21:04:20]  <IllFlower> Based on the high roll, you'll go after me.
+[03-Aug-2014 21:04:45]  <IllFlower> Alicia: It's terraced, i.e. there's a lower roof off the edge one floor below.
+[03-Aug-2014 21:04:48]  <ponicalica> Alicia: i think you'll find that she is in fact an anime
+[03-Aug-2014 21:05:14]  <Alicia> IllFlower: Oh, doy. My bad. Okay sec.
+[03-Aug-2014 21:06:52]  <Alicia> Following Rin, Hikari makes for a running jump off of the building, also rolling onto the terrace as a cushion, before heading after Yuuya.
+[03-Aug-2014 21:07:01]  <Alicia> @dice use 5 6
+[03-Aug-2014 21:07:01]  <Omnipresence> 14Alicia: Used 5 6 = 11. Bank now has 1 1 3 3 6 6 = 20.
+[03-Aug-2014 21:07:11]  <Alicia> Is that adequate? It reads weird to me, but...
+[03-Aug-2014 21:07:33]  <ponicalica> using a roof as a cushion reads a bit weird
+[03-Aug-2014 21:07:33]  <Rig> I understand what you intent.
+[03-Aug-2014 21:07:39]  <Rig> *intend
+[03-Aug-2014 21:07:51]  <IllFlower> There's nothing in there Yuuya really needs to avoid. Unless you're trying to land on top of him.
+[03-Aug-2014 21:07:57]  <IllFlower> Isn't he popular?
+[03-Aug-2014 21:08:39]  <Alicia> I just mean like jumping onto it to lessen the fall somewhat (instead of taking the suicidally dumb idea of not jumping onto it).
+[03-Aug-2014 21:08:50]  <Alicia> Also meant to be like "cushion her fall" but w/e
+[03-Aug-2014 21:09:29]  <Rig> Yeah, but you still need something that Yuuya is forced to react to.
+[03-Aug-2014 21:09:32]  <BGTB2005> use Yuuya as a cushion
+[03-Aug-2014 21:09:35]  <Rig> Hahah.
+[03-Aug-2014 21:09:47]  <IllFlower> Yeah, what Rig said.
+[03-Aug-2014 21:10:18]  <ponicalica> Well, Yuuya's rolling, so maybe try to run ahead?
+[03-Aug-2014 21:10:44]  <Rig> Try to tackle him with your dive?
+[03-Aug-2014 21:10:45]  <Alicia> Continuing after Yuuya, Hikari makes for a rushed punch towards his gut in an attempt to slow him down.
+[03-Aug-2014 21:11:09]  <Alicia> I forgot about the response part, bleh. Anyway.
+[03-Aug-2014 21:12:07]  <IllFlower> That's hand-to-hand, but I can overlook that for now.
+[03-Aug-2014 21:12:12]  <Alicia> >_>;
+[03-Aug-2014 21:12:45]  <BGTB2005> until Yuuya decides to respond in kind
+[03-Aug-2014 21:13:22]  <IllFlower> Yuuya pushes himself against the side of the building to dodge. Hikari misjudges the distance and stumbles, giving him a chance to put distance between the two of them.
+[03-Aug-2014 21:13:24]  <Alicia> As if Rin wasn't already going to dec - er... fireballdeck him.
+[03-Aug-2014 21:13:24]  <IllFlower> @dice use 5 6
+[03-Aug-2014 21:13:24]  <Omnipresence> 14IllFlower: Used 5 6 = 11. Bank now has 1 2 2 3 3 4 4 6 = 25.
+[03-Aug-2014 21:13:35]  <IllFlower> Okay, me, then ponicalica.
+[03-Aug-2014 21:14:30]  <Rig> And me after poni?
+[03-Aug-2014 21:14:34]  <IllFlower> Yup.
+[03-Aug-2014 21:15:16]  <IllFlower> Yuuya, hoping to lose the Conservators in the hospital's complex hallways, dives into the building through an open window and locks it behind him with a quickly muttered spell.
+[03-Aug-2014 21:15:40]  <IllFlower> Going to assign 1d8 to threshold spells...
+[03-Aug-2014 21:15:45]  <IllFlower> @dice add 1d8
+[03-Aug-2014 21:15:45]  <Omnipresence> 14IllFlower: Rolled 2 = 2. Bank now has 1 2 2 2 3 3 4 4 6 = 27.
+[03-Aug-2014 21:15:49]  <IllFlower> Useful, that.
+[03-Aug-2014 21:16:00]  <IllFlower> @dice use 4 6
+[03-Aug-2014 21:16:00]  <Omnipresence> 14IllFlower: Used 4 6 = 10. Bank now has 1 2 2 2 3 3 4 = 17.
+[03-Aug-2014 21:16:08]  <IllFlower> Raise 10. Everyone but Kazuki needs to see.
+[03-Aug-2014 21:16:42]  <BGTB2005> @dice show
+[03-Aug-2014 21:16:42]  <Omnipresence> 14BGTB2005: Bank has 1 1 1 2 3 3 4 = 15.
+[03-Aug-2014 21:16:46]  <ponicalica> @dice show
+[03-Aug-2014 21:16:46]  <Omnipresence> 14ponicalica: Bank has 3 3 3 4 5 5 6 = 29.
+[03-Aug-2014 21:17:49]  <ponicalica> My immediate thought is "use the key".  Is that permissible or is the lock too magical for that
+[03-Aug-2014 21:18:02]  <Alicia> 2magic4u.
+[03-Aug-2014 21:18:11]  <IllFlower> What are keys for if not opening things?
+[03-Aug-2014 21:19:09]  <BGTB2005> I was thinking of trying to bring in"if it doesn't work, use more" and have Rin open/make another window
+[03-Aug-2014 21:19:23]  <BGTB2005> or using her wings and just crashing through it
+[03-Aug-2014 21:19:51]  <Rig> You could just go through another window and try to catch up.
+[03-Aug-2014 21:20:35]  <ponicalica> Ayako pulls out her magical key on the affected window; the aura from the spell attached to the window shifts and a keyhole forms, allowing Ayako to slot it in and give a nice turn.
+[03-Aug-2014 21:20:39]  <ponicalica> @dice add 2d6
+[03-Aug-2014 21:20:39]  <Omnipresence> 14ponicalica: Rolled 6 6 = 12. Bank now has 3 3 3 4 5 5 6 6 6 = 41.
+[03-Aug-2014 21:20:43]  <ponicalica> daaaaamn
+[03-Aug-2014 21:20:44]  <BGTB2005> nice
+[03-Aug-2014 21:20:50]  <ponicalica> @dice use 4 6
+[03-Aug-2014 21:20:50]  <Omnipresence> 14ponicalica: Used 4 6 = 10. Bank now has 3 3 3 5 5 6 6 = 31.
+[03-Aug-2014 21:21:39]  <Alicia> Good one.
+[03-Aug-2014 21:22:52]  <Alicia> ponicalica: Considering having Hikari just sort of rush through it or something.
+[03-Aug-2014 21:22:52]  <IllFlower> Good, good.
+[03-Aug-2014 21:23:00]  <IllFlower> Still need sees from Hikari and Rin.
+[03-Aug-2014 21:23:08]  <Alicia> "You opened it?" GREAT THANKS I'MA GO CATCH HIM."
+[03-Aug-2014 21:23:41]  <IllFlower> @dice roll d20
+[03-Aug-2014 21:23:41]  <Omnipresence> 14IllFlower: Rolled 6 = 6.
+[03-Aug-2014 21:23:50]  <IllFlower> The digits on the key shift again, from "85" down to "79".
+[03-Aug-2014 21:24:15]  <ponicalica> ("6L?  What the hell's 6L supposed to mean?")
+[03-Aug-2014 21:24:22]  <Alicia> Also I like the Summary tab.
+[03-Aug-2014 21:24:32]  <IllFlower> Alicia: You could, if you had the rolls for a two-die see.
+[03-Aug-2014 21:24:45]  <ponicalica> @dice show Alicia
+[03-Aug-2014 21:24:45]  <Omnipresence> 14ponicalica: Bank has 1 1 3 3 6 6 = 20.
+[03-Aug-2014 21:25:03]  <IllFlower> As things stand, though, you're either going to take fallout or need someone to give you a die.
+[03-Aug-2014 21:25:39]  <Alicia> Oh, hm.
+[03-Aug-2014 21:26:35]  <IllFlower> If ponicalica took back that 4 and gave it to you, Hikari could do a reversal with Ayako's help.
+[03-Aug-2014 21:26:52]  <Alicia> Reversal?
+[03-Aug-2014 21:26:58]  <IllFlower> (4) + 6.
+[03-Aug-2014 21:27:01]  <Rig> Counter with a single die.
+[03-Aug-2014 21:27:15]  <IllFlower> Rin's kinda screwed. I figure she's going to recklessly crash through another window or something and get herself a little cut up.
+[03-Aug-2014 21:27:33]  <ponicalica> Or I could give her a 5 and have a similar effect, really
+[03-Aug-2014 21:28:20]  <IllFlower> But you'd be wasting 1 point! Think of the points, man!
+[03-Aug-2014 21:28:24]  <ponicalica> presumably it'd be something like "Ayako sees Hikari coming and opens the window to let Hikari basically glide through
+[03-Aug-2014 21:28:31]  <IllFlower> Yeah, that's simple enough.
+[03-Aug-2014 21:28:41]  <BGTB2005> IllFlower: probably, unless it's possible to assist two people in a single turn
+[03-Aug-2014 21:28:47]  <ponicalica> BGTB2005: it's not
+[03-Aug-2014 21:29:02]  <Alicia> ponicalica: I'm up for that if you are.
+[03-Aug-2014 21:29:03]  <IllFlower> Crashing through a window does seem like a Rin thing to do.
+[03-Aug-2014 21:29:08]  <Alicia> Also ^
+[03-Aug-2014 21:29:18]  <ponicalica> But yeah, I guess I could replace my 4 6 with a 5 5 and give Alicia a 4
+[03-Aug-2014 21:29:23]  <Alicia> ponicalica: Alt: She can go through a different entrance.
+[03-Aug-2014 21:29:36]  <IllFlower> Presumably the reversal figures in when Hikari surprises Yuuya by getting ahead of him.
+[03-Aug-2014 21:29:49]  <Alicia> And decking him.
+[03-Aug-2014 21:29:49]  <BGTB2005> I think, last we saw her, Rin was somewhat airborne
+[03-Aug-2014 21:30:11]  <Alicia> Wait decking would be physical action, so hm.
+[03-Aug-2014 21:30:17]  <Alicia> Well still, something like it.
+[03-Aug-2014 21:30:32]  <IllFlower> Hikari can just cut him off, that ought to be enough for the next raise.
+[03-Aug-2014 21:30:57]  <IllFlower> In the meantime, she sees by leaping through the window that Ayako so helpfully opened for her.
+[03-Aug-2014 21:31:16]  <ponicalica> Since IllFlower wants me to think of the points, should I change my 4 6 see with a 5 5 see and then let Hikari see?
+[03-Aug-2014 21:31:27]  <IllFlower> ponicalica: As you wish.
+[03-Aug-2014 21:31:42]  <ponicalica> @dice add 4 6
+[03-Aug-2014 21:31:42]  <Omnipresence> 14ponicalica: Rolled 4 6 = 10. Bank now has 3 3 3 4 5 5 6 6 6 = 41.
+[03-Aug-2014 21:31:43]  <IllFlower> BGTB2005: Or Rin gives. She totally loses track of Yuuya, etc.
+[03-Aug-2014 21:31:45]  <ponicalica> @dice use 5 5
+[03-Aug-2014 21:31:45]  <Omnipresence> 14ponicalica: Used 5 5 = 10. Bank now has 3 3 3 4 6 6 6 = 31.
+[03-Aug-2014 21:31:47]  <ponicalica> @dice use 4
+[03-Aug-2014 21:31:47]  <Omnipresence> 14ponicalica: Used 4 = 4. Bank now has 3 3 3 6 6 6 = 27.
+[03-Aug-2014 21:32:10]  <IllFlower> Though it's only d6 fallout so you're not going to get severely injured unless you have really bad luck.
+[03-Aug-2014 21:32:12]  <Alicia> ponicalica: I'll let you go and work off of how Ayako responds to seeing her?
+[03-Aug-2014 21:32:28]  <IllFlower> Alicia: He already did. Ayako opened the window.
+[03-Aug-2014 21:33:15]  <IllFlower> Alicia: Remember to use 6.
+[03-Aug-2014 21:33:20]  <Alicia> Oops.
+[03-Aug-2014 21:33:37]  <Alicia> Six and another?
+[03-Aug-2014 21:33:43]  <IllFlower> The 4 ponicalica gave you.
+[03-Aug-2014 21:34:43]  <IllFlower> BGTB2005: Need a response.
+[03-Aug-2014 21:34:57]  <BGTB2005> Using her wings, Rin banks sharply to follow Yuuya and regain speed, and crashes through another window
+[03-Aug-2014 21:35:15]  <BGTB2005> @dice add d8 >! wings for maneuvering
+[03-Aug-2014 21:35:15]  <Omnipresence> 14: Rolled 1 = 1. Bank now has 1 1 1 1 2 3 3 4 = 16.
+[03-Aug-2014 21:35:20]  <BGTB2005> ...thanks
+[03-Aug-2014 21:35:45]  <ponicalica> imho use all the 1s, take, like, 6d6 fallout
+[03-Aug-2014 21:36:37]  <IllFlower> lol.
+[03-Aug-2014 21:36:51]  <IllFlower> That's the recklessness we all know and love.
+[03-Aug-2014 21:37:15]  <Alicia> Hikari slips through the door thanks to Ayako, quickly catching up to Yuuya and cutting him off. She stands steadfastly before him, forcing him to run back or go through her.
+[03-Aug-2014 21:37:29]  <Alicia> Add 4, use 46?
+[03-Aug-2014 21:37:43]  <IllFlower> Alicia: Hold on to the latter part of that description for your next raise. Use 6.
+[03-Aug-2014 21:37:50]  <Alicia> @dice use 6
+[03-Aug-2014 21:37:50]  <Omnipresence> 14Alicia: Used 6 = 6. Bank now has 1 1 3 3 6 = 14.
+[03-Aug-2014 21:37:53]  <Alicia> IllFlower: Gotcha.
+[03-Aug-2014 21:38:01]  <Alicia> Sorry about the confusion.
+[03-Aug-2014 21:38:50]  <Rig> Okay, now ponicalica, right?
+[03-Aug-2014 21:39:00]  <ponicalica> @dice show IllFlower 
+[03-Aug-2014 21:39:00]  <Omnipresence> 14ponicalica: Bank has 1 2 2 2 3 3 4 = 17.
+[03-Aug-2014 21:39:06]  <IllFlower> BGTB2005, I still need your dice.
+[03-Aug-2014 21:39:11]  <IllFlower> Rig: Yeah, ponicalica next.
+[03-Aug-2014 21:39:23]  <BGTB2005> @dice use 1 1 1 2 4 >! yolo
+[03-Aug-2014 21:39:23]  <Omnipresence> 14: Used 1 1 1 2 4 = 9. Bank now has 1 3 3 = 7.
+[03-Aug-2014 21:39:27]  <Rig> I think this is almost as slow as our first chase with Kazuto.
+[03-Aug-2014 21:39:29]  <BGTB2005> @dice use 1
+[03-Aug-2014 21:39:29]  <Omnipresence> 14BGTB2005: Used 1 = 1. Bank now has 3 3 = 6.
+[03-Aug-2014 21:39:35]  <BGTB2005> there we go
+[03-Aug-2014 21:39:38]  <ponicalica> 6d6 fallout.
+[03-Aug-2014 21:39:45]  <Alicia> ........
+[03-Aug-2014 21:39:53]  <BGTB2005> it's only d6 what's the worst that could happen :V
+[03-Aug-2014 21:39:53]  <Rig> Hey! No stealing my moves.
+[03-Aug-2014 21:39:54]  <Alicia> Well, she is reckless.
+[03-Aug-2014 21:39:57]  <IllFlower> Hashtag y-o-l-o.
+[03-Aug-2014 21:40:03]  <BGTB2005> also it's a hospital window
+[03-Aug-2014 21:40:19]  <BGTB2005> so I'd imagine going through one would be a bit painful
+[03-Aug-2014 21:40:21]  <ponicalica> BGTB2005: the worst that can happen is she needs medical assistance from Ayako
+[03-Aug-2014 21:40:55]  <Alicia> @ship....
+[03-Aug-2014 21:42:04]  <ponicalica> Okay, at any rate, my turn
+[03-Aug-2014 21:42:52]  <ponicalica> Ayako sees Hikari zip by, and then runs behind towards Yuuya.
+[03-Aug-2014 21:42:54]  <ponicalica> @dice use 6
+[03-Aug-2014 21:42:54]  <Omnipresence> 14ponicalica: Used 6 = 6. Bank now has 3 3 3 6 6 = 21.
+[03-Aug-2014 21:43:20]  <IllFlower> @dice
+[03-Aug-2014 21:43:20]  <Omnipresence> 14IllFlower: Bank has 1 2 2 2 3 3 4 = 17.
+[03-Aug-2014 21:44:03]  <ponicalica> might be time to have him punch Ayako
+[03-Aug-2014 21:45:26]  <IllFlower> Yuuya rounds a corner, then ducks and rolls underneath a series of tables. By the time Ayako realizes where he's gone, he's already off running down another corridor.
+[03-Aug-2014 21:45:30]  <IllFlower> @dice use 2 4
+[03-Aug-2014 21:45:30]  <Omnipresence> 14IllFlower: Used 2 4 = 6. Bank now has 1 2 2 3 3 = 11.
+[03-Aug-2014 21:45:37]  <IllFlower> Rig's up.
+[03-Aug-2014 21:46:20]  <Rig> Kazuki is surprised to see the sudden commotion. He jumps up from the bench he's sulking on as Yuuya lands nearby and rolls. A wave of heat rolls over im as Rin rockets by overhead, followed quickly by the other two girls. "What the hell?" he mutters. He sees Kazuki dive through a window and the brief flash of light from his locking spell. "What's he doing?" Kazuki figures his old friend had some secrets that he didn't mean to reveal
+[03-Aug-2014 21:46:25]  <Rig> He glances over the side of the building and sees curtains fluttering a few floors down. He vaults over the edge of the building and uses a touch of his cat-like reflexes to catch the curtain and swing into the room. The patient inside is asleep, or comatose, hooked up to a respirator. Kazuki rushes into the hallway and turns to face a surprised Kinomoto.
+[03-Aug-2014 21:46:43]  <Rig> @dice add 1d6 > Feline grace
+[03-Aug-2014 21:46:43]  <Omnipresence> 14Feline grace: Rolled 6 = 6. Bank now has 1 2 2 3 3 3 3 4 6 6 = 33.
+[03-Aug-2014 21:46:58]  <Rig> @dice use 6 6
+[03-Aug-2014 21:46:58]  <Omnipresence> 14Rig: Used 6 6 = 12. Bank now has 1 2 2 3 3 3 3 4 = 21.
+[03-Aug-2014 21:47:15]  <Alicia> IMHO let Hikari deck him if we're going fist to fist.
+[03-Aug-2014 21:47:23]  <Alicia> Kazuki might not like it though.
+[03-Aug-2014 21:47:32]  <ponicalica> okay, now it's time for Yuuya to deck Kazuki
+[03-Aug-2014 21:47:53]  <Rig> An acceptable raise for 6 6, I think.
+[03-Aug-2014 21:47:58]  <IllFlower> Indeed.
+[03-Aug-2014 21:48:53]  <IllFlower> Actually, I think I'm going to jump straight to magic. Time to exhaust those other two stat dice.
+[03-Aug-2014 21:48:58]  <Rig> (“Kinomoto. You’re surrounded! Put your hands on your head and lay flat on the ground.)
+[03-Aug-2014 21:49:03]  <IllFlower> @dice add 10d6
+[03-Aug-2014 21:49:03]  <Omnipresence> 14IllFlower: Rolled 1 1 1 2 3 3 5 6 6 6 = 34. Bank now has 1 1 1 1 2 2 2 3 3 3 3 5 6 6 6 = 45.
+[03-Aug-2014 21:49:06]  <BGTB2005> oh boy
+[03-Aug-2014 21:49:16]  <ponicalica> Ac+Wl, yeah?
+[03-Aug-2014 21:49:19]  <IllFlower> Yup.
+[03-Aug-2014 21:49:41]  <BGTB2005> @dice add 11d6
+[03-Aug-2014 21:49:41]  <Omnipresence> 14BGTB2005: Rolled 2 2 2 3 3 4 5 6 6 6 6 = 45. Bank now has 2 2 2 3 3 3 3 4 5 6 6 6 6 = 51.
+[03-Aug-2014 21:49:45]  <ponicalica> @dice add 5d6 4d6
+[03-Aug-2014 21:49:45]  <Omnipresence> 14ponicalica: Rolled 1 3 4 4 4 5 5 6 6 = 38. Bank now has 1 3 3 3 3 4 4 4 5 5 6 6 6 6 = 59.
+[03-Aug-2014 21:49:49]  <BGTB2005> woohoo
+[03-Aug-2014 21:49:51]  <Rig> @dice add 5d6
+[03-Aug-2014 21:49:51]  <Omnipresence> 14Rig: Rolled 1 4 5 6 6 = 22. Bank now has 1 1 2 2 3 3 3 3 4 4 5 6 6 = 43.
+[03-Aug-2014 21:50:11]  <Alicia> @dice add 3d6 5d6
+[03-Aug-2014 21:50:11]  <Omnipresence> 14Alicia: Rolled 1 2 3 3 4 5 6 6 = 30. Bank now has 1 1 1 2 3 3 3 3 4 5 6 6 6 = 44.
+[03-Aug-2014 21:51:08]  <Alicia> BGTB2005: Jesus.
+[03-Aug-2014 21:51:17]  <Rig> Really, what the hell.
+[03-Aug-2014 21:51:35]  <Rig> Rin is hype.
+[03-Aug-2014 21:51:38]  <BGTB2005> go big or go home
+[03-Aug-2014 21:52:00]  <Rig> Well, Yuuya needs to see Kazuki’s badass shortcut.
+[03-Aug-2014 21:52:25]  <BGTB2005> brb I want popcorn
+[03-Aug-2014 21:53:48]  <IllFlower> "Scindo meamet!" Yuuya shouts, as he divides into two. Each of his copies runs into a different room, confusing Kazuki for just long enough to let him slip by.
+[03-Aug-2014 21:53:53]  <IllFlower> @dice use 6 6
+[03-Aug-2014 21:53:53]  <Omnipresence> 14IllFlower: Used 6 6 = 12. Bank now has 1 1 1 1 2 2 2 3 3 3 3 5 6 = 33.
+[03-Aug-2014 21:54:19]  <Rig> Well shit.
+[03-Aug-2014 21:54:35]  <Rig> (“If I’d known you could do that we wouldn’t have broken up.”)
+[03-Aug-2014 21:54:39]  <IllFlower> All right. I think Alicia should go next, since she has a leftover 6 to use in her raise.
+[03-Aug-2014 21:54:58]  <ponicalica> meamet?
+[03-Aug-2014 21:55:03]  <Nitya> 14you're mincemeat! go home to mommy
+[03-Aug-2014 21:55:05]  <IllFlower> Then by order of high roll it's ponicalica, BGTB2005, Alicia, then myself.
+[03-Aug-2014 21:55:26]  <Rig> But where do I fit in!
+[03-Aug-2014 21:55:47]  <IllFlower> At the very end, after me.
+[03-Aug-2014 21:55:51]  <Rig> ;-;
+[03-Aug-2014 21:55:55]  <Alicia> Lel.
+[03-Aug-2014 21:56:08]  <IllFlower> Oh, derp, Alicia's in there twice. Go now, Alicia.
+[03-Aug-2014 21:56:53]  <Alicia> Uh hm how to react to a copy.
+[03-Aug-2014 21:57:15]  <ponicalica> use the staff to hit all of 'em at once
+[03-Aug-2014 21:57:52]  <Alicia> Oh yeah, that makes sense.
+[03-Aug-2014 21:57:53]  <IllFlower> Yuuya's copies both run back into the hallway behind Kazuki and merge back together as he escapes.
+[03-Aug-2014 21:57:59]  <IllFlower> Problem solved.
+[03-Aug-2014 21:58:17]  <ponicalica> or that, lol
+[03-Aug-2014 21:58:54]  <Alicia> That lacks fistitude. Oh well. Considering just chasing after where they'd meet up then.
+[03-Aug-2014 21:58:59]  <Alicia> Since he's still ON THE RUN.
+[03-Aug-2014 21:59:03]  <IllFlower> Everyone's at magic now, so I hope some cool magicky things happen!
+[03-Aug-2014 21:59:06]  <BGTB2005> whack him in the face with the staff
+[03-Aug-2014 21:59:17]  <IllFlower> I WANT EXPLOSIONS
+[03-Aug-2014 21:59:17]  <Rig> Dangerous cool magic.
+[03-Aug-2014 21:59:22]  <Rig> You have a reckless trait.
+[03-Aug-2014 21:59:23]  <Rig> use it.
+[03-Aug-2014 21:59:29]  <Rig> Blow this hospital to smithereens
+[03-Aug-2014 21:59:34]  <Alicia> IllFlower: Oh fine fine.
+[03-Aug-2014 21:59:56]  <BGTB2005> Rig: are you telling Hikari or Rin?
+[03-Aug-2014 22:00:04]  <Rig> Hikari.
+[03-Aug-2014 22:01:23]  <IllFlower> I imagine the top floor is mostly administrative offices, Rig's earlier stuff notwithstanding. For what it's worth.
+[03-Aug-2014 22:01:39]  <Rig> We can alter it to be an empty office then.
+[03-Aug-2014 22:01:45]  <ponicalica> <IllFlower> who really needs hospital administrators anyways
+[03-Aug-2014 22:02:04]  <Alicia> Not really caring for any of Yuuya's tricks, Hikari decides to cut him off early. Promptly drawing up her staff she rushes up to him and slams it into his side.
+[03-Aug-2014 22:02:08]  <Alicia> @dice use 6 6
+[03-Aug-2014 22:02:08]  <Omnipresence> 14Alicia: Used 6 6 = 12. Bank now has 1 1 1 2 3 3 3 3 4 5 6 = 32.
+[03-Aug-2014 22:02:15]  <Alicia> I also want to add in the Reckless trait.
+[03-Aug-2014 22:02:44]  <BGTB2005> I think you only needed to use one six?
+[03-Aug-2014 22:02:52]  <Alicia> ... oh right.
+[03-Aug-2014 22:02:55]  <ponicalica> Yeah, you only need one six, since the other is yeah
+[03-Aug-2014 22:03:01]  <Alicia> @dice add 6
+[03-Aug-2014 22:03:01]  <Omnipresence> 14Alicia: Rolled 6 = 6. Bank now has 1 1 1 2 3 3 3 3 4 5 6 6 = 38.
+[03-Aug-2014 22:03:04]  <ponicalica> And you're supposed to add dice first but here it doesn't matter
+[03-Aug-2014 22:03:28]  <IllFlower> The added dice can wait until she does something really reckless. ;)
+[03-Aug-2014 22:03:48]  <BGTB2005> like diving through a window
+[03-Aug-2014 22:03:51]  <Alicia> As for magical destruction, you're forgetting that that isn't her forte.
+[03-Aug-2014 22:04:00]  <Alicia> Wailing on things violently is. Sorta.
+[03-Aug-2014 22:04:06]  <BGTB2005> yeah you want Rin for that
+[03-Aug-2014 22:04:19]  <Alicia> Well Rin's got the magical, explosive violence.
+[03-Aug-2014 22:04:30]  <Alicia> Rin for the burns, Hikari for the broken bones!
+[03-Aug-2014 22:04:32]  <Alicia> :D
+[03-Aug-2014 22:04:34]  <IllFlower> @dice
+[03-Aug-2014 22:04:34]  <Omnipresence> 14IllFlower: Bank has 1 1 1 1 2 2 2 3 3 3 3 5 6 = 33.
+[03-Aug-2014 22:04:46]  <BGTB2005> magical destruction /and/ wailing on things violently
+[03-Aug-2014 22:04:56]  <Alicia> Oh yeah.
+[03-Aug-2014 22:06:36]  <IllFlower> The staff catches Yuuya straight in the torso, its force amplified by the magic.
+[03-Aug-2014 22:06:42]  <Alicia> Meanwhile Ayako's like "Why do I get stuck with the reckless ones. ._."
+[03-Aug-2014 22:07:19]  <IllFlower> He is sent flying about twenty meters down the hall, where he smashes through the glass door of an office.
+[03-Aug-2014 22:07:23]  <IllFlower> @dice use 3 3 3 3
+[03-Aug-2014 22:07:23]  <Omnipresence> 14IllFlower: Used 3 3 3 3 = 12. Bank now has 1 1 1 1 2 2 2 5 6 = 21.
+[03-Aug-2014 22:07:26]  <IllFlower> 4d10 fallout.
+[03-Aug-2014 22:07:29]  <ponicalica> dang
+[03-Aug-2014 22:07:32]  <BGTB2005> ooh
+[03-Aug-2014 22:07:38]  <Alicia> That sounds like it hurt.
+[03-Aug-2014 22:07:41]  <IllFlower> ponicalica, you're up. BGTB2005 after that.
+[03-Aug-2014 22:07:47]  <BGTB2005> well yeah it's glass
+[03-Aug-2014 22:08:19]  <Rig> Of course, we kill a wannabe-Prophet bad guy.
+[03-Aug-2014 22:08:53]  <BGTB2005> at least we would've stopped him if it ends up that way
+[03-Aug-2014 22:09:34]  <Alicia> In the name of all that is well and good, Hikari shall enact great justice upon any that think it wise enough to commit bad deeds.
+[03-Aug-2014 22:10:47]  <IllFlower> I hope BGTB2005's next raise involves a cannon.
+[03-Aug-2014 22:11:12]  <ponicalica> Ayako hears a crash in the upper floors, and sees through a coincidentally placed series of windows Yuuya's body smashing through the door and into an office.  "Conveni lux!"  Taking advantage of the broken glass and the general state of the area, she sends a series of blasts of light in various directions, which refract and reflect in spectacular ways to aim at the corrupt candidate.
+[03-Aug-2014 22:11:21]  <ponicalica> @dice add 2d8 >! light elemental
+[03-Aug-2014 22:11:21]  <Omnipresence> 14: Rolled 2 8 = 10. Bank now has 1 2 3 3 3 3 4 4 4 5 5 6 6 6 6 8 = 69.
+[03-Aug-2014 22:11:26]  <BGTB2005> I'm planning on it involving fire in some way
+[03-Aug-2014 22:11:33]  <Rig> Nice 8.
+[03-Aug-2014 22:12:21]  <Alicia> Haaah, good.
+[03-Aug-2014 22:12:36]  <ponicalica> @dice use 5 8
+[03-Aug-2014 22:12:36]  <Omnipresence> 14ponicalica: Used 5 8 = 13. Bank now has 1 2 3 3 3 3 4 4 4 5 6 6 6 6 = 56.
+[03-Aug-2014 22:13:56]  <IllFlower> Yuuya, badly bloodied, tries to summon a dark veil in between himself and Ayako in a last-ditch attempt to avoid the brunt of her attack.
+[03-Aug-2014 22:14:31]  <IllFlower> Going to assign 2d6 to, uh, shadow manipulation, and use that 1d4 for desperate times now.
+[03-Aug-2014 22:14:35]  <IllFlower> @dice add 2d6 1d4
+[03-Aug-2014 22:14:35]  <Omnipresence> 14IllFlower: Rolled 2 2 3 = 7. Bank now has 1 1 1 1 2 2 2 2 2 3 5 6 = 28.
+[03-Aug-2014 22:14:46]  <IllFlower> Yeah, that went about as well as I expected.
+[03-Aug-2014 22:14:52]  <Alicia> You tried.
+[03-Aug-2014 22:15:01]  <ponicalica> we just killed a prophet candidate didn't we
+[03-Aug-2014 22:15:10]  <Rig> He could give.
+[03-Aug-2014 22:15:18]  <Rig> And hopefully not die from fallout.
+[03-Aug-2014 22:15:24]  <IllFlower> Nope, he's snapped.
+[03-Aug-2014 22:15:39]  <Alicia> I want Hikari to do something cool.
+[03-Aug-2014 22:15:54]  <IllFlower> @dice use 5 3 2 2 1
+[03-Aug-2014 22:15:54]  <Omnipresence> 14IllFlower: Used 1 2 2 3 5 = 13. Bank now has 1 1 1 2 2 2 6 = 15.
+[03-Aug-2014 22:15:55]  <Alicia> Also, how did her staff get infused with magic?
+[03-Aug-2014 22:16:01]  <IllFlower> Make that 9d10 fallout.
+[03-Aug-2014 22:16:01]  <ponicalica> 9d10, he gon die
+[03-Aug-2014 22:16:09]  <ponicalica> Alicia: It's a magical weapon.
+[03-Aug-2014 22:16:32]  <Buttercupistiny> amazing job, team
+[03-Aug-2014 22:16:35]  <Alicia> ponicalica: That's true. I must be imagining it differently, then.
+[03-Aug-2014 22:17:31]  <Rig> He’s gonna get 2 10s outright.
+[03-Aug-2014 22:17:55]  <IllFlower> What feeble magic Yuuya is able to summon barely protects him from the onslaught of light. A tormented scream rises from his throat as the rays pierce him like gamma radiation.
+[03-Aug-2014 22:18:01]  <IllFlower> BGTB2005, you're up.
+[03-Aug-2014 22:18:20]  <Alicia> Oouuuch, that's brutal, Ayako.
+[03-Aug-2014 22:18:23]  <ponicalica> @dice show BGTB2005
+[03-Aug-2014 22:18:23]  <Omnipresence> 14ponicalica: Bank has 2 2 2 3 3 3 3 4 5 6 6 6 6 = 51.
+[03-Aug-2014 22:18:47]  <Alicia> I mean sure Hikari just sent him crashing through glass while probably breaking some of his bones, but that's just harsh!
+[03-Aug-2014 22:18:57]  <ponicalica> "some" of his bones
+[03-Aug-2014 22:19:04]  <Alicia> ponicalica: A fair amount okay.
+[03-Aug-2014 22:20:52]  <Alicia> Don't completely burn him, Rin.
+[03-Aug-2014 22:20:55]  <Alicia> We need a body.
+[03-Aug-2014 22:20:56]  <Alicia> >_>;
+[03-Aug-2014 22:21:03]  <IllFlower> It's okay. I think Ayako just made sure Yuuya's bones are composed mostly of black dust now.
+[03-Aug-2014 22:21:14]  <Alicia> Good job Ayako.
+[03-Aug-2014 22:21:55]  <ponicalica> Ayako probably wasn't expecting her magic to come out so powerfully and besides he was going to corrupt the council of prophets
+[03-Aug-2014 22:22:00]  <Rig> Kazuki is starting to understand why none of these cases get solved.
+[03-Aug-2014 22:23:07]  <Alicia> If Kazuki makes one wisecrack...
+[03-Aug-2014 22:23:26]  <IllFlower> BGTB2005?
+[03-Aug-2014 22:23:31]  <BGTB2005> Bleeding from multiple cuts, Rin follows the sounds of carnage and finds Yuuya recovering from Ayako's attack. Muttering an incantation, the cannon's components seem to shift. Taking aim and firing, the cannon releases multiple small fireballs that splash against the floor around Yuuya and set the room on fire.
+[03-Aug-2014 22:23:44]  <BGTB2005> could I roll for fire elemental?
+[03-Aug-2014 22:23:45]  <IllFlower> What is this, cluster bombing?
+[03-Aug-2014 22:23:50]  <BGTB2005> of a sort
+[03-Aug-2014 22:24:00]  <Rig> @dice show IllFlower 
+[03-Aug-2014 22:24:00]  <Omnipresence> 14Rig: Bank has 1 1 1 2 2 2 6 = 15.
+[03-Aug-2014 22:24:01]  <IllFlower> Are you trying to pack in as many war crimes as you can or what?
+[03-Aug-2014 22:24:05]  <Rig> Clearly.
+[03-Aug-2014 22:24:22]  <ponicalica> no kill like overkill I guess
+[03-Aug-2014 22:24:31]  <IllFlower> BGTB2005: If you want to kill him even more than you're already killing him, sure.
+[03-Aug-2014 22:24:54]  <Alicia> Good lord Rin.
+[03-Aug-2014 22:25:09]  <Rig> To Kazuki this certainly looks like a murder, I should mention.
+[03-Aug-2014 22:25:18]  <IllFlower> Man, I should've made him a sorcerer. That way he'd only have 7d10 fallout right now. *‿*
+[03-Aug-2014 22:25:40]  <BGTB2005> @dice add 2d8 >! fire elemental
+[03-Aug-2014 22:25:40]  <Omnipresence> 14: Rolled 5 7 = 12. Bank now has 2 2 2 3 3 3 3 4 5 5 6 6 6 6 7 = 63.
+[03-Aug-2014 22:25:48]  <ponicalica> Rig: Kazuki could swap sides and start hitting the other Conservators, maybe
+[03-Aug-2014 22:26:00]  <ponicalica> I don't think anything in the dogsrules prevents this
+[03-Aug-2014 22:26:07]  <Rig> Pretty much.
+[03-Aug-2014 22:26:28]  <Alicia> "only 7d10"
+[03-Aug-2014 22:26:32]  <IllFlower> Have you tried yelling "WHAT THE HELL ARE YOU GUYS DOING"?
+[03-Aug-2014 22:27:18]  <BGTB2005> @dice use 6 7
+[03-Aug-2014 22:27:18]  <Omnipresence> 14BGTB2005: Used 6 7 = 13. Bank now has 2 2 2 3 3 3 3 4 5 5 6 6 6 = 50.
+[03-Aug-2014 22:27:20]  <Alicia> It's also not like Hikari was trying to kill the dude.
+[03-Aug-2014 22:27:27]  <Rig> One moment, IllFlower.
+[03-Aug-2014 22:27:38]  <Alicia> We all know, if nothing else, standing trial would be far better from her perspective.
+[03-Aug-2014 22:27:43]  <Alicia> But, uhm.
+[03-Aug-2014 22:27:53]  <IllFlower> Probably shouldn't have raised 12, then. ;)
+[03-Aug-2014 22:27:54]  <BGTB2005> ..maybe a bit excessive for setting the area around Yuuya on fire...
+[03-Aug-2014 22:28:00]  <Rig> Could I step in and see if I can help Yuuya?
+[03-Aug-2014 22:28:35]  <IllFlower> You could throw him a die under the pretense of not wanting him dead.
+[03-Aug-2014 22:28:46]  <Alicia> IllFlower: Not gonna lie I thought I was seeing at first. ._.
+[03-Aug-2014 22:28:51]  <Rig> @dice show
+[03-Aug-2014 22:28:51]  <Omnipresence> 14Rig: Bank has 1 1 2 2 3 3 3 3 4 4 5 6 6 = 43.
+[03-Aug-2014 22:28:55]  <Alicia> It just occurred to me that I was actually raising.
+[03-Aug-2014 22:29:00]  <IllFlower> "YOU CAN'T BRING A PILE OF CHARRED ASHES IN FOR A TRIAL"
+[03-Aug-2014 22:29:25]  <Alicia> Oops. ._.
+[03-Aug-2014 22:29:26]  <IllFlower> Maybe that 2d8 levelheadedness will be useful.
+[03-Aug-2014 22:30:46]  <Rig> Kazuki flashes in front of the torrent of shots headed for Kinomoto. He does his best to redirect the fireballs, but some slip by him anyway. “What the hell are you doing!? You are acting like terrorists!”
+[03-Aug-2014 22:31:18]  <Rig> @dice add 2d8 1d6 ad4 1d10 > Negotiator, boots, akido
+[03-Aug-2014 22:31:18]  <Omnipresence> 14Rig: Invalid die group specification ad4.
+[03-Aug-2014 22:31:22]  <Alicia> Could I roll for Hikari also charging in?
+[03-Aug-2014 22:31:23]  <Rig> Oops, a.
+[03-Aug-2014 22:31:26]  <Alicia> Or something.
+[03-Aug-2014 22:31:36]  <Rig> @dice add 2d8 1d4 1d10
+[03-Aug-2014 22:31:36]  <Omnipresence> 14Rig: Rolled 2 4 4 7 = 17. Bank now has 1 1 2 2 2 3 3 3 3 4 4 4 4 5 6 6 7 = 60.
+[03-Aug-2014 22:31:47]  <Rig> @dice use 7 > As help
+[03-Aug-2014 22:31:47]  <Omnipresence> 14As help: Used 7 = 7. Bank now has 1 1 2 2 2 3 3 3 3 4 4 4 4 5 6 6 = 53.
+[03-Aug-2014 22:32:25]  <Rig> @dice add 1d6 > forgot the d6 on the boots
+[03-Aug-2014 22:32:25]  <Omnipresence> 14forgot the d6 on the boots: Rolled 6 = 6. Bank now has 1 1 2 2 2 3 3 3 3 4 4 4 4 5 6 6 6 = 59.
+[03-Aug-2014 22:32:46]  <IllFlower> Yuuya uses the opening Kazuki's given him to creep out of the way of Rin's attack.
+[03-Aug-2014 22:32:52]  <IllFlower> @dice use 6
+[03-Aug-2014 22:32:52]  <Omnipresence> 14IllFlower: Used 6 = 6. Bank now has 1 1 1 2 2 2 = 9.
+[03-Aug-2014 22:34:41]  <IllFlower> Pulling himself together, Yuuya summons the last of his power to try and unleash his binding magic on the Conservators - Kazuki excepted, as he's loath to turn on the man who just saved him from further damage.
+[03-Aug-2014 22:35:03]  <Alicia> Why couldn't we be this effective on people that actually killed others and whatnot...
+[03-Aug-2014 22:35:14]  <ponicalica> Alicia: man, he got pretty close to killing others, though
+[03-Aug-2014 22:35:19]  <IllFlower> @dice add 2d10 1d4 >! binding magic. weakness to kindness.
+[03-Aug-2014 22:35:19]  <Omnipresence> 14: Rolled 2 6 10 = 18. Bank now has 1 1 1 2 2 2 2 6 10 = 27.
+[03-Aug-2014 22:35:29]  <ponicalica> dang.  daaaaang
+[03-Aug-2014 22:35:31]  <IllFlower> HAHAHAHAHA I KNEW IT
+[03-Aug-2014 22:35:35]  <Rig> I love this.
+[03-Aug-2014 22:35:36]  <BGTB2005> well
+[03-Aug-2014 22:35:43]  <Alicia> Oh my oh my.
+[03-Aug-2014 22:36:39]  <Rig> So, is that a 16 raise?
+[03-Aug-2014 22:36:40]  <IllFlower> Yuuya's body seems to explode in a mass of tendrils, aimed every which way. The writhing arms barely avoid entangling Kazuki as well.
+[03-Aug-2014 22:36:43]  <IllFlower> @dice use 10
+[03-Aug-2014 22:36:43]  <Omnipresence> 14IllFlower: Used 10 = 10. Bank now has 1 1 1 2 2 2 2 6 = 17.
+[03-Aug-2014 22:36:46]  <IllFlower> Raise 16.
+[03-Aug-2014 22:36:49]  <ponicalica> @dice show
+[03-Aug-2014 22:36:49]  <Omnipresence> 14ponicalica: Bank has 1 2 3 3 3 3 4 4 4 5 6 6 6 6 = 56.
+[03-Aug-2014 22:36:54]  <Alicia> @dice show
+[03-Aug-2014 22:36:54]  <Omnipresence> 14Alicia: Bank has 1 1 1 2 3 3 3 3 4 5 6 6 = 38.
+[03-Aug-2014 22:36:59]  <BGTB2005> @dice show
+[03-Aug-2014 22:36:59]  <Omnipresence> 14BGTB2005: Bank has 2 2 2 3 3 3 3 4 5 5 6 6 6 = 50.
+[03-Aug-2014 22:37:08]  <Alicia> I've got a 665.
+[03-Aug-2014 22:37:16]  <Rig> Well, you guys are all taking fallout for this.
+[03-Aug-2014 22:37:21]  <Alicia> Certainly.
+[03-Aug-2014 22:37:42]  <ponicalica> I'm just going to add dangerous magic right now
+[03-Aug-2014 22:37:44]  <ponicalica> @dice add 2d10
+[03-Aug-2014 22:37:44]  <Omnipresence> 14ponicalica: Rolled 3 9 = 12. Bank now has 1 2 3 3 3 3 3 4 4 4 5 6 6 6 6 9 = 68.
+[03-Aug-2014 22:38:50]  <Alicia> I think adding in my costume against magical attacks would be a good idea.
+[03-Aug-2014 22:39:03]  <IllFlower> Not gonna help you avoid fallout...
+[03-Aug-2014 22:39:17]  <Alicia> True.
+[03-Aug-2014 22:40:23]  <IllFlower> I've been rolling 9d10 to pass the time. Just got one roll with four 10s, hahaha.
+[03-Aug-2014 22:40:30]  <Rig> Hah
+[03-Aug-2014 22:40:32]  <Alicia> @___@
+[03-Aug-2014 22:40:37]  <Rig> So, I just realized what this scene looks like.
+[03-Aug-2014 22:40:47]  <IllFlower> Tentacle porn?
+[03-Aug-2014 22:40:55]  <Alicia> ...
+[03-Aug-2014 22:40:58]  <Rig> Kazuki is standing in front of a charred, burning hall as a mass of black tentacles explodes around him.
+[03-Aug-2014 22:40:59]  <BGTB2005> ...
+[03-Aug-2014 22:40:59]  <Rig> So, yes.
+[03-Aug-2014 22:41:01]  <IllFlower> Sorry.
+[03-Aug-2014 22:41:17]  <Alicia> `-`
+[03-Aug-2014 22:41:18]  <Nitya> 14clearly i should be paying more attention.
+[03-Aug-2014 22:41:19]  <ponicalica> Ayako recognizes the pattern of the tendrils from previous research she had done, and uses this knowledge to trace out a path that will twist her away from them, possibly adding in some space manipulation to give herself added room
+[03-Aug-2014 22:41:25]  <ponicalica> @dice add 2d10 >! well-read
+[03-Aug-2014 22:41:25]  <Omnipresence> 14: Rolled 3 8 = 11. Bank now has 1 2 3 3 3 3 3 3 4 4 4 5 6 6 6 6 8 9 = 79.
+[03-Aug-2014 22:41:37]  <IllFlower> You knew this was going to happen at least once when the binding magic rolled in.
+[03-Aug-2014 22:41:37]  <Rig> You can (not) survive.
+[03-Aug-2014 22:41:50]  <Rig> https://twitter.com/gayanimegirls/status/496060054853140480
+[03-Aug-2014 22:41:50]  <Omnipresence> 14URL: [twitter.com] Twitter / gayanimegirls: Shocking link between magical ...
+[03-Aug-2014 22:42:02]  <IllFlower> Well, Ayako's going to survive this one.
+[03-Aug-2014 22:42:07]  <Nitya> 14well read on urotsukidōji
+[03-Aug-2014 22:42:43]  <ponicalica> Amazingly enough, her accumulated magical knowledge was enough to pull her out of harm's way and deposit her in the office where Kazuki and Yuuya are located
+[03-Aug-2014 22:42:53]  <IllFlower> Those "books" are actually all hentai manga.
+[03-Aug-2014 22:43:08]  <Rig> She teleports in with a nosebleed and a furious blush.
+[03-Aug-2014 22:43:16]  <IllFlower> Alicia, BGTB2005?
+[03-Aug-2014 22:43:20]  <ponicalica> @dice use 8 9
+[03-Aug-2014 22:43:20]  <Omnipresence> 14ponicalica: Used 8 9 = 17. Bank now has 1 2 3 3 3 3 3 3 4 4 4 5 6 6 6 6 = 62.
+[03-Aug-2014 22:43:35]  <IllFlower> If one of you is going to have a brush with death, I'd like to know as soon as possible. :D
+[03-Aug-2014 22:44:12]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[03-Aug-2014 22:44:19]  <Rig> I prefer it if as many people were in mortal danger as possible when the authorities arrive.
+[03-Aug-2014 22:45:14]  <IllFlower> At least Yuuya has 6d6 Bd. It gives him a marginally higher chance of not dying.
+[03-Aug-2014 22:45:29]  <BGTB2005> I'm going to try to assist Hikari
+[03-Aug-2014 22:45:43]  <IllFlower> BGTB2005: All right.
+[03-Aug-2014 22:45:52]  <Rig> @ship
+[03-Aug-2014 22:46:00]  <Alicia> You've already got 6d6. `_____`
+[03-Aug-2014 22:46:15]  <ponicalica> Alicia: Rin is the sort to get herself unnecessarily bloodied up.
+[03-Aug-2014 22:46:18]  <Alicia> And don't you have to save yourself.
+[03-Aug-2014 22:46:23]  <IllFlower> Rin and Hikari could help each other.
+[03-Aug-2014 22:46:23]  <Alicia> ponicalica: Well okay, point.
+[03-Aug-2014 22:46:36]  <ponicalica> And yeah, Rin and Hikari could help each other
+[03-Aug-2014 22:47:34]  <Alicia> BGTB2005: The first thing I thought of was Hikari slamming down the staff to create a shockwave back against the tentacles, and Rin blasting the area around them or something?
+[03-Aug-2014 22:47:39]  <Alicia> A protective fire.
+[03-Aug-2014 22:47:46]  <Alicia> Maybe you got something cooler though.
+[03-Aug-2014 22:47:57]  <ponicalica> wings as shield
+[03-Aug-2014 22:47:59]  <Alicia> What I initially had planned for Hikari was, well...
+[03-Aug-2014 22:48:06]  <BGTB2005> yeah that works
+[03-Aug-2014 22:48:28]  <BGTB2005> I was thinking of having Rin snipe the tentacles heading towards Hikari
+[03-Aug-2014 22:50:00]  <ponicalica> BGTB2005: that would work
+[03-Aug-2014 22:50:18]  <BGTB2005> @dice show
+[03-Aug-2014 22:50:18]  <Omnipresence> 14BGTB2005: Bank has 2 2 2 3 3 3 3 4 5 5 6 6 6 = 50.
+[03-Aug-2014 22:50:38]  <BGTB2005> @dice show Alicia 
+[03-Aug-2014 22:50:38]  <Omnipresence> 14BGTB2005: Bank has 1 1 1 2 3 3 3 3 4 5 6 6 = 38.
+[03-Aug-2014 22:50:46]  <Alicia> They could pair up, since I imagined the shockwave being something like... enough to keep the tentacles at bay until they die off.
+[03-Aug-2014 22:50:53]  <Alicia> Not something to cause more unnecessary damage.
+[03-Aug-2014 22:52:19]  <Alicia> Dunno about Rin, she just may want set everything up in flames, but uh.
+[03-Aug-2014 22:52:55]  <IllFlower> I think we've got the general contours down. Dice, anyone?
+[03-Aug-2014 22:53:09]  <Alicia> 665.
+[03-Aug-2014 22:53:49]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has joined #madokamadness
+[03-Aug-2014 22:55:00]  <IllFlower> Hm, actually, this is both your sees. I can't help but think that if you're supposed to be seeing at the same time that you'd take fallout for expending more than two dice at once...
+[03-Aug-2014 22:55:05]  <IllFlower> Well, let's not complicate things now.
+[03-Aug-2014 22:55:15]  <BGTB2005> I'll give Hikari a 5, so she'll only need to expend a 5 6 to meet the see
+[03-Aug-2014 22:55:48]  <IllFlower> And Rin's just going to eat whatever?
+[03-Aug-2014 22:55:52]  *** cts <Mibbit@60-242-169-142.static.tpgi.com.au> has joined #madokamadness
+[03-Aug-2014 22:56:15]  <BGTB2005> If Hikari can't help
+[03-Aug-2014 22:56:27]  *** cts <Mibbit@60-242-169-142.static.tpgi.com.au> has left #madokamadness
+[03-Aug-2014 22:57:15]  <Alicia> What's Rin need.
+[03-Aug-2014 22:57:40]  <Rig> Self control
+[03-Aug-2014 22:57:45]  <IllFlower> Hahahaha.
+[03-Aug-2014 22:57:54]  <Alicia> Oh, both our sees. Then I can just go ahead with what I originally planned, or...?
+[03-Aug-2014 22:57:59]  <Alicia> I laughed.
+[03-Aug-2014 22:58:10]  <IllFlower> Just do as you wish.
+[03-Aug-2014 22:58:19]  <BGTB2005> it's one of the many things Rin needs
+[03-Aug-2014 22:58:37]  <ponicalica> Rig: somehow I don't think she's going to find that in this conflict
+[03-Aug-2014 22:58:43]  <ponicalica> Ayako might, but not Rin
+[03-Aug-2014 22:59:47]  <Alicia> Lacking the magical finesse that Ayako has, Hikari slams her staff out in front of her to create a repelling shockwave around her, before bolting and tripping over herself to escape.
+[03-Aug-2014 22:59:52]  <Alicia> @dice use 6 6 5
+[03-Aug-2014 22:59:52]  <Omnipresence> 14Alicia: Used 5 6 6 = 17. Bank now has 1 1 1 2 3 3 3 3 4 = 21.
+[03-Aug-2014 22:59:57]  <BGTB2005> With another quick incantation, Rin's cannon shifts again. Taking aim, she fires at the mass of tentacles heading towards Hikari.
+[03-Aug-2014 23:00:05]  <IllFlower> BGTB2005 throws Alicia a 5, uses 4 6, then.
+[03-Aug-2014 23:00:07]  <BGTB2005> @dice use 5
+[03-Aug-2014 23:00:07]  <Omnipresence> 14BGTB2005: Used 5 = 5. Bank now has 2 2 2 3 3 3 3 4 5 6 6 6 = 45.
+[03-Aug-2014 23:00:18]  <Alicia> Thank you Rin. ._.
+[03-Aug-2014 23:00:44]  <BGTB2005> I think you can put that other six back, since the see's 16?
+[03-Aug-2014 23:00:56]  <Rig> Yes.
+[03-Aug-2014 23:01:04]  <IllFlower> BGTB2005: She's tossing you a 6.
+[03-Aug-2014 23:01:07]  <BGTB2005> ah
+[03-Aug-2014 23:01:27]  <IllFlower> This is a weird loophole I might ban in future conflicts, haha.
+[03-Aug-2014 23:01:33]  <Alicia> Sorry!
+[03-Aug-2014 23:01:42]  <IllFlower> BGTB2005: You can see with 4 6 now.
+[03-Aug-2014 23:01:43]  <IllFlower> Anyway, it's Rig's raise.
+[03-Aug-2014 23:02:33]  <Rig> Well, we could rule out that it’s too hectic to help each other.
+[03-Aug-2014 23:02:50]  <BGTB2005> Using the window created by Hikari, Rin dives into another office to dodge the attack
+[03-Aug-2014 23:02:52]  <Rig> Because it does say “If it’s reasonable to help someone with all the other things going on."
+[03-Aug-2014 23:03:07]  <Rig> Okay, so what’s everyone’s current fallout?
+[03-Aug-2014 23:03:11]  <BGTB2005> @dice use 4 6
+[03-Aug-2014 23:03:11]  <Omnipresence> 14BGTB2005: Used 4 6 = 10. Bank now has 2 2 2 3 3 3 3 5 6 6 = 35.
+[03-Aug-2014 23:03:15]  <Rig> And is Yuuya a physical form anymore?
+[03-Aug-2014 23:03:19]  <IllFlower> Rin has 6d6.
+[03-Aug-2014 23:03:21]  <Alicia> ;_;
+[03-Aug-2014 23:03:22]  <IllFlower> Yuuya has 9d10.
+[03-Aug-2014 23:03:24]  <IllFlower> That's it.
+[03-Aug-2014 23:03:31]  <Alicia> Wait, Hikari doesn't have any?
+[03-Aug-2014 23:03:36]  <Alicia> Wait no, she wouldn't...
+[03-Aug-2014 23:03:39]  <BGTB2005> not yeat
+[03-Aug-2014 23:03:42]  <BGTB2005> *yet
+[03-Aug-2014 23:03:48]  <Alicia> Ah, yes.
+[03-Aug-2014 23:03:52]  <IllFlower> Rig: If he survives.
+[03-Aug-2014 23:03:59]  <Rig> Where is he now?
+[03-Aug-2014 23:04:10]  <BGTB2005> behind you?
+[03-Aug-2014 23:04:37]  <IllFlower> In that office that used to have a glass door and other recognizable features.
+[03-Aug-2014 23:04:39]  <Rig> @dice show
+[03-Aug-2014 23:04:39]  <Omnipresence> 14Rig: Bank has 1 1 2 2 2 3 3 3 3 4 4 4 4 5 6 6 6 = 59.
+[03-Aug-2014 23:04:46]  <Rig> @dice show IllFlower 
+[03-Aug-2014 23:04:46]  <Omnipresence> 14Rig: Bank has 1 1 1 2 2 2 2 6 = 17.
+[03-Aug-2014 23:04:52]  <IllFlower> FINISH HIM
+[03-Aug-2014 23:05:07]  <Alicia> Nooo. D: Let him - oh you meant us.
+[03-Aug-2014 23:06:13]  <IllFlower> Actually, you know what? I'm just gonna give this one up now that Yuuya's pulled his trump card.
+[03-Aug-2014 23:06:21]  <IllFlower> Let's die.
+[03-Aug-2014 23:06:24]  <IllFlower> @dice roll 9d10
+[03-Aug-2014 23:06:24]  <Omnipresence> 14IllFlower: Rolled 1 3 4 5 5 6 8 8 8 = 48.
+[03-Aug-2014 23:06:28]  <Rig> As the torrent of darkness swirls around Kazuki he turns to face the source. “Kinomoto…. Yuuya. This isn’t right. Stop. Whatever you did wrong can be put right.” Kazuki holds out his hand towards his battered old friend.
+[03-Aug-2014 23:06:48]  <IllFlower> Damn, only 16!
+[03-Aug-2014 23:06:53]  <BGTB2005> so fallout time?
+[03-Aug-2014 23:07:06]  <Rig> Yeah, Yuuya needs medical attention.
+[03-Aug-2014 23:07:07]  <Alicia> Hikari isn't taking fallout...
+[03-Aug-2014 23:07:11]  <IllFlower> If anyone wants to try and save his life, the time is now.
+[03-Aug-2014 23:07:12]  <BGTB2005> @dice roll 6d6
+[03-Aug-2014 23:07:12]  <Omnipresence> 14BGTB2005: Rolled 2 4 4 5 5 6 = 26.
+[03-Aug-2014 23:07:15]  <Alicia> I will.
+[03-Aug-2014 23:07:26]  <ponicalica> I think Ayako would
+[03-Aug-2014 23:07:28]  <BGTB2005> 11
+[03-Aug-2014 23:07:31]  <Alicia> How do you uh do that.
+[03-Aug-2014 23:07:33]  <IllFlower> Ayako should, actually. She has the highest Ac.
+[03-Aug-2014 23:07:37]  <Alicia> Good point.
+[03-Aug-2014 23:07:40]  <Alicia> ;/
+[03-Aug-2014 23:07:42]  <Rig> Yeah, she should. Or Kazuki.
+[03-Aug-2014 23:07:54]  <IllFlower> I dunno if 11d6 is going to be enough here, though.
+[03-Aug-2014 23:07:57]  *** CentralAve is now known as ShowerAvenue
+[03-Aug-2014 23:08:09]  <Rig> It’s 9d10 plus Demonic Influence, right?
+[03-Aug-2014 23:08:12]  <ponicalica> Ayako sees the charred, disfigured form of Kazuki, and begins to run to him.  "No...this isn't right, I didn't want to do this..."
+[03-Aug-2014 23:08:23]  <IllFlower> Rig: The fallout rolls plus Demonic Influence, yes.
+[03-Aug-2014 23:08:24]  <Rig> Kinomoto.
+[03-Aug-2014 23:08:32]  *** Saladofstones <~Saladofst@pool-173-51-83-42.lsanca.fios.verizon.net> has joined #madokamadness
+[03-Aug-2014 23:08:32]  <IllFlower> Which is only 2d10, "fortunately."
+[03-Aug-2014 23:08:40]  <Alicia> Ahah.
+[03-Aug-2014 23:08:44]  <IllFlower> ponicalica: You charred the wrong person.
+[03-Aug-2014 23:08:47]  <Saladofstones> heya
+[03-Aug-2014 23:08:53]  <Saladofstones> oh whoops theres
+[03-Aug-2014 23:08:55]  <ponicalica> er, Yuuya, not Kazuki
+[03-Aug-2014 23:08:56]  <ponicalica> lol
+[03-Aug-2014 23:09:00]  <Saladofstones> is this magical harry potter
+[03-Aug-2014 23:09:04]  <Nitya> 14they're just about to destroy the demons, yes
+[03-Aug-2014 23:09:15]  <Alicia> Saladofstones: We dun messed up with our target.
+[03-Aug-2014 23:09:20]  <Nitya> 14with the power... of love
+[03-Aug-2014 23:09:20]  <Alicia> ;-;
+[03-Aug-2014 23:09:22]  <Rig> That’s a given.
+[03-Aug-2014 23:09:23]  <IllFlower> ponicalica: Go ahead and roll 11d6.
+[03-Aug-2014 23:09:35]  <IllFlower> We're going to have a healing conflict.
+[03-Aug-2014 23:09:37]  <ponicalica> @dice new 11d6
+[03-Aug-2014 23:09:37]  <Omnipresence> 14ponicalica: Rolled 1 1 1 1 2 3 3 5 5 5 6 = 33. Bank now has 1 1 1 1 2 3 3 5 5 5 6 = 33.
+[03-Aug-2014 23:09:49]  <Saladofstones> lawl
+[03-Aug-2014 23:09:53]  <IllFlower> @dice new 1 3 4 5 5 6 8 8 8 2d10
+[03-Aug-2014 23:09:53]  <Omnipresence> 14IllFlower: Rolled 1 3 4 5 5 5 6 8 8 8 10 = 63. Bank now has 1 3 4 5 5 5 6 8 8 8 10 = 63.
+[03-Aug-2014 23:09:59]  <IllFlower> Yeah, he's screwed.
+[03-Aug-2014 23:10:09]  <Saladofstones> reminds me of when a character of mine had to capture someone alive but did too much damage and bisected him
+[03-Aug-2014 23:10:15]  <Nitya> 14RIP that guy
+[03-Aug-2014 23:10:24]  <ponicalica> welp
+[03-Aug-2014 23:10:39]  <Alicia> Jesus.
+[03-Aug-2014 23:10:55]  <Alicia> Like, oh my wow.
+[03-Aug-2014 23:11:30]  <Nitya> 14maybe you can just save, like, his upper body.
+[03-Aug-2014 23:12:20]  <ponicalica> Ayako knows she has to act fast, and sings the beginning of a healing chant to try to purge the magical damage.
+[03-Aug-2014 23:12:24]  <ponicalica> @dice add 3d6
+[03-Aug-2014 23:12:24]  <Omnipresence> 14ponicalica: Rolled 3 4 4 = 11. Bank now has 1 1 1 1 2 3 3 3 4 4 5 5 5 6 = 44.
+[03-Aug-2014 23:12:32]  <IllFlower> For fun I think this should be a magic-level conflict with magic-level fallout. :D
+[03-Aug-2014 23:12:37]  <ponicalica> thanks omnibama
+[03-Aug-2014 23:12:46]  <Alicia> Magic-level fallout?
+[03-Aug-2014 23:12:57]  <ponicalica> Alicia: d10s, so that Ayako will get herself killed trying to save this dude
+[03-Aug-2014 23:13:18]  <IllFlower> Nah, we'll let it be d6s like usual.
+[03-Aug-2014 23:13:26]  <IllFlower> I don't think he's still got magical flames on him?
+[03-Aug-2014 23:13:52]  <ponicalica> @dice use 5 6
+[03-Aug-2014 23:13:52]  <Omnipresence> 14ponicalica: Used 5 6 = 11. Bank now has 1 1 1 1 2 3 3 3 4 4 5 5 = 33.
+[03-Aug-2014 23:13:57]  <Alicia> ponicalica: aaaaye.
+[03-Aug-2014 23:14:15]  <Rig> Kazuki sees that he can do nothing for Yuuya and steps back to let Ayako take over. She did this (mostly) and maybe can fix it.
+[03-Aug-2014 23:14:38]  <Rig> He goes to find the other two and make sure they’re not dying in a pool of blood and glass.
+[03-Aug-2014 23:14:38]  <IllFlower> Hey, Ayako's got a relationship with him!
+[03-Aug-2014 23:14:52]  <IllFlower> Or, well, the Conservators.
+[03-Aug-2014 23:15:03]  <IllFlower> She might call on you for help. And what then? D:
+[03-Aug-2014 23:15:15]  <ponicalica> He'll be distracted and only be able to half-heartedly give help.
+[03-Aug-2014 23:15:32]  <Rig> It’s not like it’s far. Besides, Kazuki needs to chew out Rin and Hikari.
+[03-Aug-2014 23:15:48]  <Alicia> Yep.
+[03-Aug-2014 23:16:00]  <Nitya> 14what did i tell you about turning politicians into extramaterial squid monsters!
+[03-Aug-2014 23:16:16]  <BGTB2005> ("I may have gotten a little carried away...")
+[03-Aug-2014 23:16:50]  <IllFlower> The healing chant does little good. Yuuya's superficial wounds close somewhat, but his skin is still bruised in enough colors to paint most of the rainbow, and his internal organs remain a total mess.
+[03-Aug-2014 23:16:55]  <IllFlower> @dice use 5 6
+[03-Aug-2014 23:16:55]  <Omnipresence> 14IllFlower: Used 5 6 = 11. Bank now has 1 3 4 5 5 8 8 8 10 = 52.
+[03-Aug-2014 23:17:26]  <Rig> Seriously, Kazuki goes downstairs for like 15 minutes and suddenly you decide to murder his old friend.
+[03-Aug-2014 23:17:42]  <BGTB2005> >_>
+[03-Aug-2014 23:18:10]  <Rig> The amount of hell that will be paid for this is absurd.
+[03-Aug-2014 23:18:12]  <Alicia> ;__;
+[03-Aug-2014 23:18:25]  <Rig> Killing a prophet. Blowing up most of the upper floor of a hospital.
+[03-Aug-2014 23:18:26]  <Alicia> (Not @ hell of course.)
+[03-Aug-2014 23:19:47]  <IllFlower> Yuuya's blood pools underneath him from a particularly bad glass laceration in his left arm. He'll die first from traumatic blood loss if this isn't fixed.
+[03-Aug-2014 23:19:55]  <IllFlower> @dice use 8 5
+[03-Aug-2014 23:19:55]  <Omnipresence> 14IllFlower: Used 5 8 = 13. Bank now has 1 3 4 5 8 8 10 = 39.
+[03-Aug-2014 23:20:22]  <Nitya> 14well, he's in a hospital, maybe you can hospitalize him. i'm pretty sure that's how it works.
+[03-Aug-2014 23:20:56]  <ponicalica> @dice
+[03-Aug-2014 23:20:56]  <Omnipresence> 14ponicalica: Bank has 1 1 1 1 2 3 3 3 4 4 5 5 = 33.
+[03-Aug-2014 23:21:41]  <IllFlower> Rig: "Killing a Prophet" is the newest song from my Rage Against the Machine-inspired rap metal band.
+[03-Aug-2014 23:21:42]  <Rig> Nitya: Nobody knows how medicine works.
+[03-Aug-2014 23:21:46]  <Rig> It’s spooky
+[03-Aug-2014 23:21:56]  <Nitya> 14i've been reading about penicillin, so, i agree
+[03-Aug-2014 23:22:13]  <Alicia> IllFlower: Sounds pretty baller. Is it out already?
+[03-Aug-2014 23:22:13]  <Nitya> 14have you considered letting some fungi colonize him? maybe they have some anti-glass chemicals
+[03-Aug-2014 23:22:52]  <ponicalica> Ayako sees the glass shard in his arm, and quickly grabs the shard to toss it aside before transforming and laying hands on the wound to magically close it.
+[03-Aug-2014 23:23:09]  <ponicalica> @dice add 2d6
+[03-Aug-2014 23:23:09]  <Omnipresence> 14ponicalica: Rolled 3 6 = 9. Bank now has 1 1 1 1 2 3 3 3 3 4 4 5 5 6 = 42.
+[03-Aug-2014 23:23:23]  <ponicalica> @dice use 5 5 3
+[03-Aug-2014 23:23:23]  <Omnipresence> 14ponicalica: Used 3 5 5 = 13. Bank now has 1 1 1 1 2 3 3 3 4 4 6 = 29.
+[03-Aug-2014 23:23:32]  <IllFlower> 3d6 fallout.
+[03-Aug-2014 23:24:08]  <ponicalica> Her hand, however, takes a cut from the shard.
+[03-Aug-2014 23:25:53]  <ponicalica> Ayako glances, and sees Kazuki chewing out the other two Conservators in the other corner of what's left of the room.  "Meting out punishment can wait!  Help me form a restoration circle!"
+[03-Aug-2014 23:26:18]  <ponicalica> @dice add 2d8 2d6 >! taking charge, Conservators relationship
+[03-Aug-2014 23:26:18]  <Omnipresence> 14: Rolled 5 6 6 7 = 24. Bank now has 1 1 1 1 2 3 3 3 4 4 5 6 6 6 7 = 53.
+[03-Aug-2014 23:26:45]  <IllFlower> Good dice.
+[03-Aug-2014 23:26:49]  <ponicalica> @dice use 6 7
+[03-Aug-2014 23:26:49]  <Omnipresence> 14ponicalica: Used 6 7 = 13. Bank now has 1 1 1 1 2 3 3 3 4 4 5 6 6 = 40.
+[03-Aug-2014 23:28:27]  <IllFlower> Ayako and Kazuki have enough power to summon the circle itself, but it can't yet heal any of Yuuya's wounds, just keep them from getting worse.
+[03-Aug-2014 23:28:34]  <IllFlower> @dice use 8 5
+[03-Aug-2014 23:28:34]  <Omnipresence> 14IllFlower: Used 5 8 = 13. Bank now has 1 3 4 8 10 = 26.
+[03-Aug-2014 23:30:12]  <Alicia> Still have that 10, gosh.
+[03-Aug-2014 23:30:22]  <IllFlower> What residual witch influence resides within Yuuya tries its hardest to break the ring so that it can consume him whole.
+[03-Aug-2014 23:30:32]  <IllFlower> @dice use 10 3
+[03-Aug-2014 23:30:32]  <Omnipresence> 14IllFlower: Used 3 10 = 13. Bank now has 1 4 8 = 13.
+[03-Aug-2014 23:32:49]  <ponicalica> Ayako sees the witch trying to break the ring, and pushes herself towards the potential breach armed with a spell to neutralize it
+[03-Aug-2014 23:32:56]  <ponicalica> @dice add 2d10 >! dangerous magic, don't fail me now
+[03-Aug-2014 23:32:56]  <Omnipresence> 14: Rolled 3 4 = 7. Bank now has 1 1 1 1 2 3 3 3 3 4 4 4 5 6 6 = 47.
+[03-Aug-2014 23:33:07]  <IllFlower> It failed you.
+[03-Aug-2014 23:33:21]  <ponicalica> @dice use 3 4 6
+[03-Aug-2014 23:33:21]  <Omnipresence> 14ponicalica: Used 3 4 6 = 13. Bank now has 1 1 1 1 2 3 3 3 4 4 5 6 = 34.
+[03-Aug-2014 23:33:26]  <ponicalica> up to 6d6 fallout this time
+[03-Aug-2014 23:33:37]  <Alicia> ._.
+[03-Aug-2014 23:34:17]  <Nitya> 14so as far as i remember how dogs works y'all're gonna die.
+[03-Aug-2014 23:34:40]  <IllFlower> Remember when Rashi nearly died from taking a stray flying bolt to the face fixing a machine? Good times.
+[03-Aug-2014 23:34:40]  <ponicalica> Ayako gets pushed back as the witch's power barrels into her, but quickly regains her bearing. (this is part of the see)
+[03-Aug-2014 23:35:16]  <Nitya> 14yeah but rashi only lost a tooth, i don't think it was 6d6, and you can outdo poni like two more times
+[03-Aug-2014 23:35:59]  <Alicia> Nitya: Not Hikari or Kazuki...
+[03-Aug-2014 23:36:00]  <IllFlower> Nitya: He still got the max fallout roll from that even if it wasn't 6d6, haha.
+[03-Aug-2014 23:36:28]  <ponicalica> She then moves back to Yuuya's still-somehow-holding-on-to-dear-life body, and with conviction lays her hands down on his chest, pushing in more of her magical healing energy to complement the circle's force.
+[03-Aug-2014 23:36:32]  <ponicalica> @dice use 5 6
+[03-Aug-2014 23:36:32]  <Omnipresence> 14ponicalica: Used 5 6 = 11. Bank now has 1 1 1 1 2 3 3 3 4 4 = 23.
+[03-Aug-2014 23:37:37]  <ponicalica> "I let myself get carried away...the magic was just flowing through me...I'm so sorry..."
+[03-Aug-2014 23:38:13]  <IllFlower> Yuuya's body seems to resist the spell for a moment, the wisps of energy burning up as they touch his skin.
+[03-Aug-2014 23:38:18]  <IllFlower> @dice use 8 4
+[03-Aug-2014 23:38:18]  <Omnipresence> 14IllFlower: Used 4 8 = 12. Bank now has 1 = 1.
+[03-Aug-2014 23:39:18]  *** ShowerAvenue <~CentralAv@d60-65-209-130.col.wideopenwest.com> has quit IRC (Quit: Leaving.)
+[03-Aug-2014 23:40:02]  <IllFlower> But soon enough, the last defense breaks, and Ayako finally manages to establish the healing channel. Yuuya's body glows with a golden aura.
+[03-Aug-2014 23:40:11]  <IllFlower> ponicalica: Roll your fallout.
+[03-Aug-2014 23:40:16]  <ponicalica> @dice roll 6d6
+[03-Aug-2014 23:40:16]  <Omnipresence> 14ponicalica: Rolled 1 1 3 3 5 6 = 19.
+[03-Aug-2014 23:40:31]  <ponicalica> So that's a long-term and an XP?
+[03-Aug-2014 23:40:35]  <IllFlower> Two long-term.
+[03-Aug-2014 23:40:42]  <IllFlower> Avoided another healing conflict by the skin of your teeth.
+[03-Aug-2014 23:40:54]  <ponicalica> Two?  I thought two was when you reached 12
+[03-Aug-2014 23:41:17]  <Alicia> Isn't there also the non-magic fallout.
+[03-Aug-2014 23:41:18]  <IllFlower> Oh, you're right, carry on.
+[03-Aug-2014 23:41:22]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has joined #madokamadness
+[03-Aug-2014 23:41:28]  <Alicia> Unless I - nevahmind.
+[03-Aug-2014 23:42:05]  <IllFlower> Yuuya gets experience and two long-term fallout...
+[03-Aug-2014 23:43:06]  <IllFlower> His body's pretty much gone, I think it's safe to say.
+[03-Aug-2014 23:43:17]  <ponicalica> just a soul gem now
+[03-Aug-2014 23:43:35]  <Alicia> Welp.
+[03-Aug-2014 23:43:57]  <Nitya> 14i hope kazuki has learned a valuable lesson about trusting his coworkers. perhaps the player can apply it to his daily life
+[03-Aug-2014 23:44:02]  <Rig> Kazuki stands silently, looking at what’s left of his friend.
+[03-Aug-2014 23:44:15]  <Rig> “What the hell happened?”
+[03-Aug-2014 23:44:41]  <IllFlower> Going to bump the Kazuki relationship up to d8.
+[03-Aug-2014 23:45:02]  <Rig> Good news though.
+[03-Aug-2014 23:45:09]  <Rig> You didn’t kill the suspect for once.
+[03-Aug-2014 23:45:27]  <ponicalica> just mutilated him
+[03-Aug-2014 23:45:35]  <Nitya> 14just caused massive multiple organ failure
+[03-Aug-2014 23:45:43]  <BGTB2005> a little
+[03-Aug-2014 23:46:11]  <IllFlower> I don't think we've killed anyone except for the two girls in the trainyard.
+[03-Aug-2014 23:46:22]  <Alicia> ...
+[03-Aug-2014 23:46:32]  <IllFlower> Well, not we. You.
+[03-Aug-2014 23:46:39]  <Alicia> Better.
+[03-Aug-2014 23:46:39]  <IllFlower> I've killed a few more people. Uh...
+[03-Aug-2014 23:46:51]  <Alicia> Wait now, it was Hikari and Jun.
+[03-Aug-2014 23:46:52]  <IllFlower> And as mentioned earlier, -2 for Bd.
+[03-Aug-2014 23:46:54]  <Alicia> ._.
+[03-Aug-2014 23:47:06]  <IllFlower> ponicalica: What're you going to do for fallout?
+[03-Aug-2014 23:47:14]  <IllFlower> Might as well do it now, and then we'll have some closing scenes.
+[03-Aug-2014 23:47:40]  <Nitya> 14phobic of windows 2d7
+[03-Aug-2014 23:48:00]  <ponicalica> IllFlower: I'm thinking maybe more costume damage for the fallout, and something about healing for the XP?
+[03-Aug-2014 23:48:06]  <Nitya> 14awakened to the dream of the fisherman's wife 3d9
+[03-Aug-2014 23:48:14]  <ponicalica> unless other people have better ideas
+[03-Aug-2014 23:48:21]  <ponicalica> I know IllFlower really wants Ayako to hear voices
+[03-Aug-2014 23:48:26]  <Rig> What sort of costume damage?
+[03-Aug-2014 23:48:33]  <Rig> I like the hearing voices thing though.
+[03-Aug-2014 23:48:47]  <ponicalica> hear voices about how she can't keep magic in control probably, lol
+[03-Aug-2014 23:48:57]  <IllFlower> The witch did go through Ayako at one point.
+[03-Aug-2014 23:49:29]  <Rig> I like that one.
+[03-Aug-2014 23:49:32]  <Rig> I think that’s a good one.
+[03-Aug-2014 23:49:38]  <Alicia> Me too.
+[03-Aug-2014 23:49:41]  <IllFlower> "If your character has a Relationship with a demon,
+[03-Aug-2014 23:49:53]  <IllFlower> "... he or she can ask the demon for help at any time. Add the situation's Demonic Influence to your side, with supernatural special effects. This makes your character a Sorcerer; what that means to your character's soul is, as always, in your hands."
+[03-Aug-2014 23:50:13]  <ponicalica> hahaha, I actually brought that rule up earlier.  That might be a good one
+[03-Aug-2014 23:50:38]  <Nitya> 14sounds like voices to me...
+[03-Aug-2014 23:51:09]  <Nitya> 14also, i was like "sorcerer? what's the big deal?" because i didn't remember illflower was probably quoting dogs
+[03-Aug-2014 23:51:18]  <IllFlower> Take 1d4 plus some spare dice and take a relationship with the witches. /cackles
+[03-Aug-2014 23:51:29]  <Alicia> Oh dear.
+[03-Aug-2014 23:51:51]  <Rig> :)
+[03-Aug-2014 23:51:53]  <ponicalica> I like it.
+[03-Aug-2014 23:52:33]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has quit IRC (Ping timeout: 201 seconds)
+[03-Aug-2014 23:52:45]  <IllFlower> For experience you might actually change the singing thing to "knows healing chants" and add 1d6.
+[03-Aug-2014 23:52:47]  <ponicalica> d4+spare is a reflection actually
+[03-Aug-2014 23:52:57]  <BGTB2005> Rin has fallout to resolve too, I believe
+[03-Aug-2014 23:52:58]  <IllFlower> Because that's the only time we've ever used it, haha.
+[03-Aug-2014 23:53:12]  <IllFlower> BGTB2005: Oh, yeah, she never rolled her 6d6. Go ahead.
+[03-Aug-2014 23:53:21]  <ponicalica> I think she did
+[03-Aug-2014 23:53:25]  <BGTB2005> I believe she did
+[03-Aug-2014 23:53:26]  <Rig> It was 11.
+[03-Aug-2014 23:53:29]  <Alicia> Yep.
+[03-Aug-2014 23:53:30]  <ponicalica> 16:07:12 < BGTB2005> @dice roll 6d6
+[03-Aug-2014 23:53:30]  <ponicalica> 16:07:12 < Omnipresence> BGTB2005: Rolled 2 4 4 5 5 6 = 26.
+[03-Aug-2014 23:53:48]  <IllFlower> Oh, okay.
+[03-Aug-2014 23:53:57]  <IllFlower> BGTB2005: One long-term item, then.
+[03-Aug-2014 23:54:13]  <Rig> Weird. A conflict where my character doesn’t take fallout.
+[03-Aug-2014 23:54:21]  <BGTB2005> I'm thinking either 1d4 Reckless or subtracting one from Bd
+[03-Aug-2014 23:54:30]  <IllFlower> ponicalica: By "plus some spare dice" I meant that you could add a new 1d4 relationship and then add 1 or 2 of your free d4.
+[03-Aug-2014 23:54:42]  <ponicalica> IllFlower: yeah, I just did that
+[03-Aug-2014 23:54:49]  <ponicalica> also I called Yuuya Kazuki again, lel
+[03-Aug-2014 23:55:08]  <Alicia> Good job.
+[03-Aug-2014 23:55:20]  <Nitya> 14now only one of them is a pile of dysfunctional organs, so it should be easier to distinguish them.
+[03-Aug-2014 23:55:21]  <IllFlower> I don't think we're actually going to name the witches. It's just a generic witch relationship like the ones the sorcerer NPCs had.
+[03-Aug-2014 23:55:56]  <ponicalica> heh, fair enough
+[03-Aug-2014 23:56:01]  <BGTB2005> we could give our pet witches names...
+[03-Aug-2014 23:56:08]  <Alicia> Our?
+[03-Aug-2014 23:56:22]  <BGTB2005> well Ayako's the only one who has one now, but
+[03-Aug-2014 23:56:24]  <Nitya> 14madoka had german names, so mdogs therefore should have names of asura
+[03-Aug-2014 23:56:29]  <IllFlower> BGTB2005: She got it crashing through a window, right?
+[03-Aug-2014 23:56:51]  <IllFlower> -1 Bd would make sense.
+[03-Aug-2014 23:56:54]  <BGTB2005> IllFlower: the fallout? yeah
+[03-Aug-2014 23:57:00]  <ponicalica> 1d4 fear of glass (that potential meeting with Sumire would probably end badly now)
+[03-Aug-2014 23:57:31]  <BGTB2005> I went with -1 Bd
+[03-Aug-2014 23:57:33]  <Alicia> What she lacks in Body she makes up for in great Will.
+[03-Aug-2014 23:57:48]  <IllFlower> Okay, fallout's all handled. Let's plow on to the end, then.
+[03-Aug-2014 23:57:49]  <Alicia> What she lacks in Ht, she makes up for with Bd and Wl.
+[03-Aug-2014 23:57:52]  <Alicia> Mm.
+[03-Aug-2014 23:58:25]  <Alicia> By now Hikari's still crouching cowering in a corner...
+[03-Aug-2014 23:58:38]  <Nitya> 14previously: "What the fuck just happened?"
+[03-Aug-2014 23:58:47]  <Rig> Kazuki’s question still stands.
+[03-Aug-2014 23:58:51]  <ponicalica> Ayako rests on the nearby ground, panting from all the energy she lost channeling absurd amounts of magic
+[03-Aug-2014 23:59:05]  <IllFlower> The sound of panicked running echoes from a nearby stairwell.
+[03-Aug-2014 23:59:13]  <Nitya> 14i shall roleplay as kazuki's demonically influencing shoulderdevil.
+[03-Aug-2014 23:59:39]  <ponicalica> you mean Ayako's?
+[03-Aug-2014 23:59:40]  <IllFlower> "I heard --" the sentry from Megumi's room manages to say, before he falls into a slack-jawed silence.
+[03-Aug-2014 23:59:51]  <IllFlower> * manages to say as he appears on the scene
+[04-Aug-2014 00:00:29]  <Rig> Kazuki looks around at the devastation, trying to come up with an excuse. A reason this happened. He doesn’t manage to find any.
+[04-Aug-2014 00:01:10]  <IllFlower> The entire corner of this floor looks like a bomb has gone off.
+[04-Aug-2014 00:01:22]  <IllFlower> Well, actually, more than a few did, so that only makes sense.
+[04-Aug-2014 00:01:25]  <Nitya> 14poni, i think you're all traumatized enough for shoulderdevils.
+[04-Aug-2014 00:01:54]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has joined #madokamadness
+[04-Aug-2014 00:01:58]  <Nitya> 14being a manifestation of rage or whatever sounds fun.
+[04-Aug-2014 00:02:04]  <Alicia> Hikari sits away, still separated from the group. How much of it is due to guilt and a still residing fear, is uncertain.
+[04-Aug-2014 00:02:45]  <IllFlower> "He's stable," Ayako manages to croak out, on the verge of unconsciousness herself.
+[04-Aug-2014 00:05:59]  <Rig> Kazuki asks again. “What happened?”
+[04-Aug-2014 00:06:36]  <IllFlower> Yeah, Kazuki wasn't there for Yuuya's little confessional, so someone should explain that to him, haha.
+[04-Aug-2014 00:06:48]  <ponicalica> maybe Rin
+[04-Aug-2014 00:06:52]  <ponicalica> Rin seems like she'd explain that
+[04-Aug-2014 00:07:14]  <ponicalica> Ayako isn't exactly in a state to explain anything.
+[04-Aug-2014 00:07:51]  <IllFlower> "That's what I'd like to know," the sentry says.
+[04-Aug-2014 00:08:23]  <IllFlower> "I guess explanations can wait. I'm going to call Mukai and Masakichi for now."
+[04-Aug-2014 00:08:30]  <IllFlower> He disappears back down the stairwell.
+[04-Aug-2014 00:09:17]  <Alicia> As usual, Hikari promptly raises up to answer, but closes just as quickly. She coughs, "H-he... we..." only for the words to not come as expected.
+[04-Aug-2014 00:12:38]  *** SF_Sorrow <SF_Sorrow@college10-26-148.resnet.ucsc.edu> has quit IRC (Ping timeout: 186 seconds)
+[04-Aug-2014 00:13:34]  <Alicia> (Rin might be the best? I half want Kazuki to continue relentlessly prodding or something.)
+[04-Aug-2014 00:14:02]  <ponicalica> BGTB2005?
+[04-Aug-2014 00:14:29]  <IllFlower> Eh, I'll handle this.
+[04-Aug-2014 00:14:46]  <Rig> I could just make Kazuki do something rash.
+[04-Aug-2014 00:14:52]  <IllFlower> As if on cue, Shii teleports in with her usual *crack*.
+[04-Aug-2014 00:15:44]  <IllFlower> "Aya--" she starts, then stops as the scene fully settles on her.
+[04-Aug-2014 00:16:03]  <IllFlower> She looks to Kazuki. "I assume you have the news already, then."
+[04-Aug-2014 00:16:44]  <Rig> Kazuki advances on Shii, visibly upset now. “They won’t tell me what’s going on. Tell me what happened. Why did this happen?”
+[04-Aug-2014 00:18:15]  <IllFlower> Shii's expression turns briefly confused.
+[04-Aug-2014 00:18:23]  *** SF_Sorrow <SF_Sorrow@eduroam-241-61.ucsc.edu> has joined #madokamadness
+[04-Aug-2014 00:18:46]  <IllFlower> "Whatever," she says, finally. "I'll just tell you what I was going to say originally.
+[04-Aug-2014 00:20:08]  <IllFlower> "Kotomi Taniguchi came in under suspect circumstances, so we had the healers look for any magical traces that might have been left on her. They strongly implicated that boy over there," she says, tilting her head towards Yuuya.
+[04-Aug-2014 00:21:51]  <IllFlower> "I was going to ask you to capture him before he got wind of this and escaped, but... I assume that won't be necessary. It doesn't look like that's for lack of resistance, though."
+[04-Aug-2014 00:22:13]  <IllFlower> Shii examines the body from a distance. "Is he still alive?"
+[04-Aug-2014 00:22:44]  <Rig> “Barely."
+[04-Aug-2014 00:24:57]  <IllFlower> The familiar walks over in front of Yuuya's crumpled form. Two red rune circles composed of light appear on the floor, one each around her and Yuuya.
+[04-Aug-2014 00:26:25]  <IllFlower> A column of white light opens on Yuuya's chest, through which a green and purple vapor seems to escape from his body.
+[04-Aug-2014 00:27:16]  <IllFlower> "I've stripped Kinomoto of his powers for now, as a safety precaution. I doubt he'll be getting them back anytime soon."
+[04-Aug-2014 00:27:27]  *** Juan <~Juan_Carl@198.72.50.152> has quit IRC (Quit: Leaving.)
+[04-Aug-2014 00:28:05]  <IllFlower> The circles shrink as she walks back towards Kazuki, eventually disappearing entirely.
+[04-Aug-2014 00:29:15]  <IllFlower> Any more reactions?
+[04-Aug-2014 00:29:38]  <Rig> I’m good.
+[04-Aug-2014 00:29:40]  <ponicalica> I'm good.
+[04-Aug-2014 00:30:03]  <Alicia> I'm fine.
+[04-Aug-2014 00:30:56]  <BGTB2005> good here
+[04-Aug-2014 00:31:27]  <ponicalica> Emdogs: We Done Fucked Up, the RPG campaign
+[04-Aug-2014 00:33:06]  <IllFlower> All right, then everyone can think of their reflection fallout while I play out one last scene.
+[04-Aug-2014 00:35:34]  <IllFlower> Two weeks later. Kotomi has been out of her coma for a few days now, and regained some of her strength.
+[04-Aug-2014 00:36:31]  <IllFlower> One day, still largely confined to her hospital bed, she asks that Shii come to her room.
+[04-Aug-2014 00:37:32]  <IllFlower> "You wanted to see me?" Shii asks on arrival.
+[04-Aug-2014 00:38:01]  <IllFlower> "Yeah," Kotomi answers. "I don't think I can do this with my own familiar."
+[04-Aug-2014 00:38:13]  <IllFlower> "'This'?"
+[04-Aug-2014 00:39:16]  <IllFlower> Kotomi pauses for a moment, then says, "I want my magic sealed away."
+[04-Aug-2014 00:40:02]  <IllFlower> Shii doesn't question this, only nods as she prepares the ritual.
+[04-Aug-2014 00:41:21]  <IllFlower> "It's not like I have any chances at becoming a prophet," Kotomi says, forcing a laugh. "It seems like the only options for me now are to retire or be retired.
+[04-Aug-2014 00:41:24]  <IllFlower> "So, please."
+[04-Aug-2014 00:43:04]  <IllFlower> Shii wordlessly summons the red circles of light once again. The only difference is that this time, it's an orange hue that escapes into the air.
+[04-Aug-2014 00:43:42]  <IllFlower> Kotomi smiles weakly. "Thank you."
+[04-Aug-2014 00:44:35]  <IllFlower> Whatever answer Shii gives is no longer audible to her.
+[04-Aug-2014 00:44:53]  <IllFlower> And that's a wrap. I didn't see very much thinking going on!
+[04-Aug-2014 00:45:06]  <Rig> Your cameras are malfunctioning again.
+[04-Aug-2014 00:45:09]  <Alicia> ...
+[04-Aug-2014 00:45:36]  <Rig> I want to add another d6 to Kazuki’s relationship with Yuuya.
+[04-Aug-2014 00:46:28]  <IllFlower> Works for me, though who knows if it'll ever be relevant again. What else?
+[04-Aug-2014 00:46:34]  <Rig> I also want to add a trait about trust.
+[04-Aug-2014 00:46:40]  <Rig> But I’m not sure how to word it.
+[04-Aug-2014 00:47:13]  <Alicia> Not sure who to trust? His group has issues and his best friend's a (thrashed) criminal...
+[04-Aug-2014 00:47:19]  <Rig> Something related to suspicion and doubting other people.
+[04-Aug-2014 00:47:29]  <ponicalica> "Sees others with suspicion"
+[04-Aug-2014 00:47:31]  <ponicalica> maybe?
+[04-Aug-2014 00:47:59]  <Rig> “Doubt others before yourself"
+[04-Aug-2014 00:48:06]  <Alicia> Ooh.
+[04-Aug-2014 00:48:11]  <IllFlower> That's a nice way to put it.
+[04-Aug-2014 00:48:59]  <Alicia> I'm not sure what reflection to add just yet...
+[04-Aug-2014 00:49:05]  <Alicia> what to add for the*
+[04-Aug-2014 00:49:05]  <ponicalica> Alicia: same
+[04-Aug-2014 00:49:54]  <BGTB2005> same here
+[04-Aug-2014 00:50:19]  <Alicia> I mean I've got ideas, the issue is sorting through them. Thinking about adding a trait with regards to guilt or holding herself back (or issues with that), and something else.
+[04-Aug-2014 00:52:22]  <Rig> I think Hikari could add another die to Reckless if that fits with what you think she was this session.
+[04-Aug-2014 00:52:52]  <IllFlower> You can remove traits or relationships at 1d, as well.
+[04-Aug-2014 00:52:54]  <ponicalica> slam her staff errywhere
+[04-Aug-2014 00:52:55]  <Rig> Or you could roll it up to d6 if you think it’s becoming a stronger part of who she is.
+[04-Aug-2014 00:52:56]  <Alicia> She was for sure, I'm trying to work in the "You dun effed up" too though.
+[04-Aug-2014 00:53:08]  <Rig> You could certainly remove the ‘I stand for justice’ trait.
+[04-Aug-2014 00:53:14]  <Alicia> So actually there are more options, oops. THANKS RUG.
+[04-Aug-2014 00:53:19]  <Alicia> Rig: Hah. Yeah. >_>'
+[04-Aug-2014 00:54:09]  <IllFlower> ponicalica: Thinking you might as well roll up the mentoring and well-readness into a single 3d10 "educated" (for lack of a better word) trait.
+[04-Aug-2014 00:54:20]  <ponicalica> IllFlower: Yeah, probably.
+[04-Aug-2014 00:54:51]  <Rig> ponicalica: I’d also push that doesn’t run from violence up to a 1d6.
+[04-Aug-2014 00:55:08]  <Rig> Or maybe a 2d4.
+[04-Aug-2014 00:55:14]  <IllFlower> I'm sure Ayako's gonna have to have a little talk with Yurika, too.
+[04-Aug-2014 00:55:29]  <Rig> Keep just ratcheting up the worst parts of your characters.
+[04-Aug-2014 00:55:44]  <Alicia> IllFlower: Never mind Hikari. Unless that's up to Kazuki and/or Shii. Or all three.
+[04-Aug-2014 00:56:10]  <Alicia> Speaking of which if Kazuki doesn't cut to the chase with the girls next session, well.
+[04-Aug-2014 00:56:31]  <IllFlower> ponicalica: Could take +1 Ac, wear down the coat a bit.
+[04-Aug-2014 00:57:06]  *** Lin_Chong <~Lin_Chong@182.55.189.100> has joined #madokamadness
+[04-Aug-2014 00:57:16]  <ponicalica> Rig: Considering that her willingness to stand to violence head-on made her almost kill an initiate and then get a witch inside her I think that it has a bad effect on her, lol
+[04-Aug-2014 00:57:37]  <Alicia> Just a little.
+[04-Aug-2014 00:57:41]  <IllFlower> This arc didn't exactly bring out the best in everyone's characters.
+[04-Aug-2014 00:57:47]  <Alicia> ._.
+[04-Aug-2014 00:57:48]  <IllFlower> Just as planned.
+[04-Aug-2014 00:58:03]  <ponicalica> next arc's totally going to just be good fun though
+[04-Aug-2014 00:58:10]  <BGTB2005> could I add a d4 to "sticks to her strengths"?
+[04-Aug-2014 00:58:17]  <Rig> What IllFlower does(n’t) realize is that I’m just trying to make everyone’s character into self-destructive weapons.
+[04-Aug-2014 00:58:18]  <IllFlower> Nah, I'm gonna push some buttons.
+[04-Aug-2014 00:58:31]  <Alicia> What button.
+[04-Aug-2014 00:58:35]  <Alicia> ns*
+[04-Aug-2014 00:58:38]  <Rig> @yt Push the button
+[04-Aug-2014 00:58:38]  <IllFlower> BGTB2005: Considering that's pretty much what she did this arc, yes.
+[04-Aug-2014 00:58:38]  <Omnipresence> 14Rig: YouTube: (1/25) http://www.youtube.com/watch?v=oJDGcxAf9D8 — Sugababes - Push The Button — 7795882 views (+2902 more characters)
+[04-Aug-2014 00:58:41]  <ponicalica> except for the witch slowly deteriorating Ayako's mental state, of course
+[04-Aug-2014 00:58:53]  <IllFlower> BGTB2005: Though next time she jumps to violence I'm going to have to remember to make you roll it.
+[04-Aug-2014 00:58:55]  <Alicia> ponicalica: D:
+[04-Aug-2014 00:59:09]  <IllFlower> Rig: Was thinking more "Galvanize".
+[04-Aug-2014 00:59:12]  <Rig> Me too.
+[04-Aug-2014 00:59:23]  <Rig> But I forgot that it’s called Galvanize.
+[04-Aug-2014 00:59:35]  <Rig> So, who still needs reflections?
+[04-Aug-2014 00:59:47]  <Alicia> Me, pon, BGTB.
+[04-Aug-2014 00:59:49]  <BGTB2005> Rin still needs her second reflection
+[04-Aug-2014 00:59:55]  <ponicalica> So I think I'm gonna bump up Ac and not running from violence
+[04-Aug-2014 01:00:11]  <Rig> I think Hikari should definitely scratch the “justice” trait.
+[04-Aug-2014 01:00:14]  <IllFlower> Yeah, ponicalica's done.
+[04-Aug-2014 01:00:27]  <Rig> It shows the doubt in the most dramatic way and removes a trait you never use.
+[04-Aug-2014 01:00:28]  <ponicalica> and overly similar d10 traits merged
+[04-Aug-2014 01:00:47]  <IllFlower> When did Ayako have so many relationships? lol
+[04-Aug-2014 01:01:01]  <Alicia> Eeeyeah, I'm up for scratching the trait.
+[04-Aug-2014 01:01:08]  <Alicia> And then I add/remove one other thing?
+[04-Aug-2014 01:01:12]  <IllFlower> Yeah.
+[04-Aug-2014 01:01:43]  * Alicia ponders...
+[04-Aug-2014 01:01:43]  <Rig> I’d drop another d4 into reckless. Or crank up one of your stats.
+[04-Aug-2014 01:02:18]  <BGTB2005> for the second reflection, I think my unused d8 and d10 relationship dice are looking a little lonely...
+[04-Aug-2014 01:02:35]  <BGTB2005> I'm not sure if I can justify adding one to my stats
+[04-Aug-2014 01:03:10]  <IllFlower> Wasn't Ayako supposed to be the socially awkward one? She has more connections than anyone else!
+[04-Aug-2014 01:03:23]  <IllFlower> Maybe she's growing.
+[04-Aug-2014 01:03:30]  <IllFlower> That's so wonderful!
+[04-Aug-2014 01:03:31]  <Rig> Into a violent monster.
+[04-Aug-2014 01:03:40]  <Alicia> Way to go Ayako.
+[04-Aug-2014 01:04:29]  <IllFlower> Alicia's never used most of these social traits. Hikari needs to get into more talky conflicts.
+[04-Aug-2014 01:04:43]  <ponicalica> IllFlower: Maybe that can be a focus next arc?
+[04-Aug-2014 01:04:46]  <Rig> That would help most people.
+[04-Aug-2014 01:04:53]  <Alicia> IllFlower: I'd like to but we always end up punching people. D:
+[04-Aug-2014 01:04:54]  <Rig> More talky conflicts.
+[04-Aug-2014 01:05:00]  <Rig> less ones that level the top floor of a hospital.
+[04-Aug-2014 01:05:01]  <ponicalica> Alicia: and whose fault is that?
+[04-Aug-2014 01:05:02]  <ponicalica> (Rin's.)
+[04-Aug-2014 01:05:10]  <IllFlower> ponicalica: Way ahead of you.
+[04-Aug-2014 01:05:19]  <BGTB2005> ponicalica: pfff
+[04-Aug-2014 01:05:37]  <IllFlower> Although I imagined Yumiko's situation would get us into more talky conflicts, and then...
+[04-Aug-2014 01:05:55]  <Rig> Hell, I made a character that pretty much can’t fight.
+[04-Aug-2014 01:05:56]  <ponicalica> Well it did get us into the talky conflict with Rin and Ayako
+[04-Aug-2014 01:06:11]  <BGTB2005> which then spiraled into Rin punching Ayako
+[04-Aug-2014 01:06:12]  <Alicia> I think adding a d-size to Reckless is fitting.
+[04-Aug-2014 01:06:19]  <IllFlower> Rig: He's not too shabby at punching people, actually.
+[04-Aug-2014 01:06:32]  <Alicia> Also I'd like some conflicts and whatnot between the group.
+[04-Aug-2014 01:06:32]  <IllFlower> Oh, wait, never mind.
+[04-Aug-2014 01:06:36]  <Rig> I didn’t actually manage to hit anyone.
+[04-Aug-2014 01:06:40]  <IllFlower> He's not too shabby at running after people.
+[04-Aug-2014 01:06:44]  <Rig> Exactly.
+[04-Aug-2014 01:06:49]  <Rig> And deflecting firebombs.
+[04-Aug-2014 01:06:53]  <IllFlower> He pretty much sucks at punching people.
+[04-Aug-2014 01:07:21]  <IllFlower> So much heartfulness.
+[04-Aug-2014 01:07:28]  <Rig> The catboy aikido practicer turns out to be pretty good at chasing people and pawing at glowing objects.
+[04-Aug-2014 01:07:31]  <IllFlower> Alicia: Go ahead.
+[04-Aug-2014 01:07:38]  <Alicia> So it's 1d8 right.
+[04-Aug-2014 01:07:45]  <Alicia> Or no 6.
+[04-Aug-2014 01:07:48]  <IllFlower> No, it'd be up to d6.
+[04-Aug-2014 01:07:51]  <IllFlower> d4 d6 d8 d10.
+[04-Aug-2014 01:07:55]  <Alicia> Doy.
+[04-Aug-2014 01:08:20]  <Alicia> ... I accidentally messed up the trait thingie by - oh thanks. -_-
+[04-Aug-2014 01:08:27]  <IllFlower> Although honestly I'd bump up the count instead.
+[04-Aug-2014 01:08:36]  <Rig> Yeah.
+[04-Aug-2014 01:08:37]  <IllFlower> Since this isn't really one of her strengths.
+[04-Aug-2014 01:08:39]  <Rig> 2d4.
+[04-Aug-2014 01:09:01]  <Alicia> Good point. Yeah, not a strength like it is for Rin so much as a thing she ends up doing.
+[04-Aug-2014 01:09:07]  <Alicia> 2d4 is better.
+[04-Aug-2014 01:09:22]  <IllFlower> It's not really a strength for Rin, either. :p
+[04-Aug-2014 01:09:28]  <Alicia> True true.
+[04-Aug-2014 01:09:29]  <BGTB2005> it's a stress reaction
+[04-Aug-2014 01:09:37]  <ponicalica> it's not really a strength for any of them
+[04-Aug-2014 01:09:43]  <Alicia> >_>
+[04-Aug-2014 01:09:48]  <IllFlower> BGTB2005: What did you do?
+[04-Aug-2014 01:09:57]  <IllFlower> +1d4 on sticking to her strengths, right?
+[04-Aug-2014 01:10:04]  <BGTB2005> so far, just that
+[04-Aug-2014 01:10:49]  <IllFlower> Maybe one of those relationships could use adjustment.
+[04-Aug-2014 01:11:12]  <IllFlower> I'm thinking the other Conservators might be a little more skittish on the "helping" thing, haha.
+[04-Aug-2014 01:11:41]  <BGTB2005> bump it down to d8?
+[04-Aug-2014 01:12:09]  <Alicia> Hikari has not helped like she expected or wanted to.
+[04-Aug-2014 01:12:45]  <IllFlower> BGTB2005: Yeah. Or take a d4 one with Kazuki.
+[04-Aug-2014 01:12:54]  <IllFlower> You can add 2d4 plus another die, and assign the new d4s to him.
+[04-Aug-2014 01:13:04]  <IllFlower> Although you already do have 4d4...
+[04-Aug-2014 01:13:09]  <Rig> Just assign all your d4s to Kazuki.
+[04-Aug-2014 01:13:09]  <BGTB2005> I have four unused d4's sitting there
+[04-Aug-2014 01:13:15]  <BGTB2005> I could do both
+[04-Aug-2014 01:13:35]  <IllFlower> That is pretty much part of her background, though.
+[04-Aug-2014 01:13:42]  <Alicia> "Sorry I fucked you up."
+[04-Aug-2014 01:15:51]  <BGTB2005> I think i'll go with bumping her Conservators relationship down to d8
+[04-Aug-2014 01:15:59]  <IllFlower> Workable.
+[04-Aug-2014 01:16:23]  <IllFlower> All right, that's all the official business out of the way.
+[04-Aug-2014 01:16:36]  <IllFlower> Opinions on this arc? Other than "we nearly killed a dude."
+[04-Aug-2014 01:17:05]  <Rig> I like that now I have a trait that basically lets me ignore the truth.
+[04-Aug-2014 01:17:18]  <Alicia> I quite enjoyed it. Definitely a change from Hikari's introduction, and I like where it's going. Except for the whole almost killing a dude.
+[04-Aug-2014 01:17:19]  <Rig> Also, what the fuck.
+[04-Aug-2014 01:17:30]  <Rig> Is there a way we can stop killing dudes?
+[04-Aug-2014 01:17:37]  <ponicalica> Rig: Muzzle Rin, maybe
+[04-Aug-2014 01:17:38]  <Rig> Or severely injuring them.
+[04-Aug-2014 01:17:47]  <Nitya> 14stop wandering around with nuclear weapons, mayhaps
+[04-Aug-2014 01:17:48]  <Alicia> I also honestly didn't mean to raise so high.
+[04-Aug-2014 01:17:48]  <IllFlower> If you guys kill a dude next arc I'll be pretty disappointed.
+[04-Aug-2014 01:18:02]  <IllFlower> It's not designed to justify such dude-killing.
+[04-Aug-2014 01:18:08]  <Rig> Like, it makes it interesting, but like 9d10 fallout or something is absurd.
+[04-Aug-2014 01:18:26]  <Rig> I hope we can get some more talking conflicts out of the next arc.
+[04-Aug-2014 01:18:28]  * Alicia forgot that she was raising, not seeing.
+[04-Aug-2014 01:18:39]  <ponicalica> Might have to muzzle Ayako too soon, lol
+[04-Aug-2014 01:18:43]  <BGTB2005> I hope we can get more despair
+[04-Aug-2014 01:18:46]  <Rig> “I see by ramming him through a glass office."
+[04-Aug-2014 01:18:49]  * Alicia also highly misjudged what she meant to do, tbph.
+[04-Aug-2014 01:18:58]  <ponicalica> As for the high raise, that sort of happened because I got caught up in describing my spectacular magical effects.
+[04-Aug-2014 01:19:10]  <Nitya> 14the magic flows through y'all, eh./
+[04-Aug-2014 01:19:14]  <ponicalica> In-character, I'm basically justifying it as Ayako getting caught up in producing her magical effects.
+[04-Aug-2014 01:19:14]  <IllFlower> "to be peace him"
+[04-Aug-2014 01:19:16]  <BGTB2005> My excuse for my high raise is Rin
+[04-Aug-2014 01:19:22]  <Alicia> Rig: The idea was to just have him keel over so that we can drag him to the proper authorities.
+[04-Aug-2014 01:19:23]  <Rig> Seriously, it’s okay to raise with soemthing that can easily be reversed or just blocked.
+[04-Aug-2014 01:19:39]  <Alicia> But, uhm.
+[04-Aug-2014 01:19:39]  <Rig> Don’t need to spit out 6 6 raises every time.
+[04-Aug-2014 01:19:46]  <IllFlower> I got the sense that everyone actually wanted to kill him.
+[04-Aug-2014 01:19:54]  <Rig> Yeah, kinda felt that too.
+[04-Aug-2014 01:20:02]  <IllFlower> Not a whole lot of internal conflict here, haha.
+[04-Aug-2014 01:20:05]  <Rig> Which wasn’t what I wanted at all. And wasn’t what the stakes said, in a way.
+[04-Aug-2014 01:20:06]  <BGTB2005> Rin may have gotten a little carried away after crashing through a window...
+[04-Aug-2014 01:20:21]  <Alicia> I'm not saying it wasn't a big error. >_>
+[04-Aug-2014 01:20:30]  <Rig> Like, Kazuki just sees everyone chasing him. Tries to stop him. Then everyone kills him while Kazuki is like “What the fuck”
+[04-Aug-2014 01:20:33]  <BGTB2005> I thought the stakes were 'Stopping Yuuya'
+[04-Aug-2014 01:20:39]  <Rig> Yes, apprehend.
+[04-Aug-2014 01:20:43]  <IllFlower> Not killing him, presumably.
+[04-Aug-2014 01:20:55]  <Rig> I don’t think that normally means turn them into paste.
+[04-Aug-2014 01:21:13]  <Nitya> 14good commentary on the american justice system OH! SNAP! I WENT THERE
+[04-Aug-2014 01:21:15]  <IllFlower> I could see some emotions running high, but man.
+[04-Aug-2014 01:21:25]  <BGTB2005> According to Rin, stopping someone fits that definition
+[04-Aug-2014 01:21:55]  <IllFlower> Nitya: At least the characters didn't try to put Yuuya in a chokehold.
+[04-Aug-2014 01:22:00]  <IllFlower> That would have been fatal.
+[04-Aug-2014 01:22:06]  <Alicia> My high raise was meant to force a give, not a slaughter.
+[04-Aug-2014 01:22:07]  <Nitya> 14ha ha :|
+[04-Aug-2014 01:22:12]  <Rig> Rin is seriously more dangerous than Hitomi.
+[04-Aug-2014 01:22:21]  <Rig> And Hitomi was some kind of psuedo thug.
+[04-Aug-2014 01:22:24]  <IllFlower> You just figured that out?
+[04-Aug-2014 01:22:35]  <Rig> Well, I haven’t really read the logs. Just skimmed.
+[04-Aug-2014 01:22:57]  <Nitya> 14just think of all the roleplaying opportunities you'll have as your character realizes they're part of an oppressive system. what fun
+[04-Aug-2014 01:23:39]  <Alicia> I could've gotten the point across just as well with like a 1 or 2 though...
+[04-Aug-2014 01:23:47]  <ponicalica> I've been kind of inconsistent with Ayako's character probably, I don't know.  Definitely excited for her inevitable psychotic break though
+[04-Aug-2014 01:23:50]  <Rig> Anyway, it was fun. I’m looking forward to the steady corruption as Kazuki realizes that no one is worthy of the powers they have and starts his plot to drain everyone by hooking the incubators up to his magic draining device.
+[04-Aug-2014 01:24:28]  <Alicia> The point of course being something equivalent to "You're outmatched, outnumbered, and in pain, so please stop running."
+[04-Aug-2014 01:24:38]  <BGTB2005> yeah i don't think i needed a 6 7 to set the room around Yuuya on fire
+[04-Aug-2014 01:24:44]  <ponicalica> we had to destroy yuuya in order to save him
+[04-Aug-2014 01:24:51]  <IllFlower> Rig: lol, your characters always seem to fall to the dark side, don't they.
+[04-Aug-2014 01:25:00]  <Rig> You love it.
+[04-Aug-2014 01:25:09]  <Alicia> I also didn't mean to cause everyone else to, well, annihilate the dude.
+[04-Aug-2014 01:25:11]  <Rig> Anyway, Jun ended up going out of a good note.
+[04-Aug-2014 01:25:16]  <Rig> Saving Hikari.
+[04-Aug-2014 01:25:18]  <IllFlower> Rig: Not *that* much.
+[04-Aug-2014 01:25:19]  <Rig> So that Hikari could then kill people.
+[04-Aug-2014 01:25:23]  *** Barcode[out] <~Barcodeou@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has joined #madokamadness
+[04-Aug-2014 01:25:23]  <Alicia> Rig: No. ;-;
+[04-Aug-2014 01:25:28]  <BGTB2005> Rin falling to the dark side almost seems like it would be completely in character for her
+[04-Aug-2014 01:25:29]  <Nitya> 14hikari's a loose cannon cop who doesn't play by the rules
+[04-Aug-2014 01:25:42]  *** Barcode[out] <~Barcodeou@dhcp-c8-d7-19-26-33-7c.cpe.sourcecable.net> has left #madokamadness
+[04-Aug-2014 01:25:43]  <Rig> Everyone is a loose cannon cop.
+[04-Aug-2014 01:25:49]  <ponicalica> BGTB2005: the real question is if there's a dark side to fall to
+[04-Aug-2014 01:25:55]  <Nitya> 14who doesn't play by the rules! you have to say that part.
+[04-Aug-2014 01:25:59]  <ponicalica> I mean, she started by beating someone into a pulp.
+[04-Aug-2014 01:26:03]  <Alicia> And eventually Hikari is left with a group of friends going to the dark side while she tries to redeem herself.
+[04-Aug-2014 01:26:10]  <Rig> Nitya: We haven’t really established any rules.
+[04-Aug-2014 01:26:11]  <IllFlower> Anyway, I think we learned a lesson.
+[04-Aug-2014 01:26:21]  <Rig> Don’t play games with IllFlower.
+[04-Aug-2014 01:26:24]  <IllFlower> Don't raise killing dice unless you really want the possibility of killing someone.
+[04-Aug-2014 01:26:27]  <Alicia> Nitya: Loose cannon, yes! But not meant to be lke that.
+[04-Aug-2014 01:26:27]  <IllFlower> Oh, yeah, that too.
+[04-Aug-2014 01:26:28]  <ponicalica> Don't contract with a magical girl.
+[04-Aug-2014 01:26:29]  <ponicalica> er
+[04-Aug-2014 01:26:31]  <ponicalica> to become a
+[04-Aug-2014 01:26:39]  <Alicia> IllFlower: Yeah, noted.
+[04-Aug-2014 01:26:50]  <IllFlower> But if you haven't learned not to play games with me yet there's probably no hope for you.
+[04-Aug-2014 01:26:59]  <Rig> I don’t know why I keep doing it.
+[04-Aug-2014 01:27:04]  <IllFlower> Nitya was smart, see, he moved into full-time color commentary.
+[04-Aug-2014 01:27:09]  <ponicalica> Rig: because it's better than your co-workers
+[04-Aug-2014 01:27:34]  <IllFlower> It's too bad. I can't have one of the NPCs awkwardly semi-romance his character anymore.
+[04-Aug-2014 01:27:34]  <Alicia> But yeah, think twice over on the dice.
+[04-Aug-2014 01:27:38]  <Alicia> Sorry about that.
+[04-Aug-2014 01:27:42]  <Alicia> >_<
+[04-Aug-2014 01:28:11]  <Rig> Anyway, gonna go get some stuff to drink.
+[04-Aug-2014 01:28:13]  *** Rig <~Iverum@c-50-148-120-29.hsd1.in.comcast.net> has quit IRC (Quit: Rig)
+[04-Aug-2014 01:28:25]  <ponicalica> ...I couldn't tell if Rig was actually pissed there. >_<
+[04-Aug-2014 01:28:27]  <IllFlower> "Vodka, it kills the pain."
+[04-Aug-2014 01:28:29]  <Alicia> "God, my friends."
+[04-Aug-2014 01:28:33]  <Alicia> ponicalica: Me too...
+[04-Aug-2014 01:28:56]  <IllFlower> He's not actually pissed.
+[04-Aug-2014 01:29:00]  <IllFlower> Just very fervent.
+[04-Aug-2014 01:29:11]  <Alicia> It was honestly unintentional, and meant to force a give like I mentioned. I just didn't think that, y'know, you're raising pretty high level dice that could go some way other than how you plan.
+[04-Aug-2014 01:29:17]  <Alicia> Which is duh.
+[04-Aug-2014 01:29:36]  <IllFlower> If he were pissed he'd just ragequit instead of giving advice.
+[04-Aug-2014 01:29:44]  <ponicalica> For what it's worth, I actually kind of realized after I raised those dice that I probably shouldn't've been that powerful about it.
+[04-Aug-2014 01:29:54]  <IllFlower> Rig will read this later and tell me I was very very wrong.
+[04-Aug-2014 01:30:24]  *** SF_Sorrow <SF_Sorrow@eduroam-241-61.ucsc.edu> has quit IRC (Ping timeout: 202 seconds)
+[04-Aug-2014 01:30:44]  <Alicia> Yeah, once I realized it was too late.
+[04-Aug-2014 01:30:44]  <IllFlower> Anyway, I'm thinking I'll set aside the beginning of next session for some in-character reaction time.
+[04-Aug-2014 01:30:51]  <ponicalica> but yeah, I think I'll put that under "got carried away with the magic"
+[04-Aug-2014 01:30:54]  <Alicia> Hikari is not a good Conservator.
+[04-Aug-2014 01:31:05]  <Alicia> IllFlower: I'm especially lookng forward to that.
+[04-Aug-2014 01:31:08]  <IllFlower> Until then, thanks for playing, everyone. We'll meet again on Saturday.

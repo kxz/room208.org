@@ -1,0 +1,471 @@
+[02-Apr-2016 20:03:27]  <IllFlower> All right, fellas, let's go.
+[02-Apr-2016 20:03:54]  <Rig> Where to?
+[02-Apr-2016 20:03:59]  <Rig> We were fighting the cop, right?
+[02-Apr-2016 20:04:16]  <IllFlower> And the man in the back said "everyone attack!" and it turned into a ballroom blitz.
+[02-Apr-2016 20:04:38]  <Calica> we were about to conflict with the cop, yeah
+[02-Apr-2016 20:04:42]  *** IllFlower changes topic to https://wiki.room208.org/events | RIGHT NOW: Novus Ordo Conservatorum
+[02-Apr-2016 20:05:02]  <IllFlower> Yes, last we left off, we were about to fight the police.
+[02-Apr-2016 20:05:14]  <Rig> :)
+[02-Apr-2016 20:05:15]  <BGTB2005> row row fight the power
+[02-Apr-2016 20:06:47]  <Rig> Referring to the logs real quick to refresh my memory.
+[02-Apr-2016 20:06:57]  <IllFlower> Hey, that's what I'm doing!
+[02-Apr-2016 20:07:27]  <Calica> brb
+[02-Apr-2016 20:08:09]  <Rig> Right, so we were gonna throw down. I believe Noriko had the raise?
+[02-Apr-2016 20:08:39]  <IllFlower> Yeah, seems like that was how things were going.
+[02-Apr-2016 20:08:48]  <IllFlower> Talking to start, so Ac+Ht.
+[02-Apr-2016 20:08:52]  <IllFlower> @dice new 9d6
+[02-Apr-2016 20:08:52]  <Omnipresence> 14IllFlower: Rolled 1 2 2 3 3 5 5 5 6 = 32. Bank now has 1 2 2 3 3 5 5 5 6 = 32.
+[02-Apr-2016 20:09:02]  <Calica> back
+[02-Apr-2016 20:09:18]  <IllFlower> I'm going to not play Minako to keep things simple.
+[02-Apr-2016 20:09:23]  <Rig> @dice new 11d6
+[02-Apr-2016 20:09:23]  <Omnipresence> 14Rig: Rolled 2 2 2 3 3 4 4 4 4 5 6 = 39. Bank now has 2 2 2 3 3 4 4 4 4 5 6 = 39.
+[02-Apr-2016 20:09:30]  <Calica> @dice new 3d6 5d6
+[02-Apr-2016 20:09:30]  <Omnipresence> 14Calica: Rolled 1 1 2 2 4 6 6 6 = 28. Bank now has 1 1 2 2 4 6 6 6 = 28.
+[02-Apr-2016 20:09:33]  <Rig> Are the Conservators involved here?
+[02-Apr-2016 20:09:46]  <Rig> I mean, it seems like they're authority is being challenged.
+[02-Apr-2016 20:10:21]  <Rig> *their
+[02-Apr-2016 20:11:31]  <Rig> BGTB2005: Are you in this conflict?
+[02-Apr-2016 20:11:54]  <BGTB2005> trying to think where Satori would stand
+[02-Apr-2016 20:11:56]  <IllFlower> Gimme a sec, let me consult the rulebook.
+[02-Apr-2016 20:12:40]  <Calica> i'm sure whatever religious movement satori's parents are in have had run-ins with the cops :p
+[02-Apr-2016 20:13:03]  <IllFlower> It might actually make more sense for Higashiyama to raise.
+[02-Apr-2016 20:13:04]  <BGTB2005> on the one hand, the nice police lady's asking us to leave
+[02-Apr-2016 20:13:29]  <IllFlower> Since she's the one who cares enough to force the PCs to leave.
+[02-Apr-2016 20:14:04]  <Rig> Should we reroll then since she wouldn't start at talking?
+[02-Apr-2016 20:14:19]  <BGTB2005> on the other, it seems like the Conservator's authority etc.
+[02-Apr-2016 20:14:21]  <IllFlower> Rig: I don't think the Conservator relationships work here. They would if they were traits.
+[02-Apr-2016 20:14:30]  <Rig> Yeah, makes sense to me.
+[02-Apr-2016 20:15:05]  <IllFlower> We probably should have started with some of the things we said last session if we wanted to start at talking. Eh.
+[02-Apr-2016 20:15:25]  <IllFlower> I do think it's a little uncharacteristic to jump to physical conflict, though.
+[02-Apr-2016 20:15:57]  <Rig> Should we walk back and start the conflict earlier then?
+[02-Apr-2016 20:16:03]  <IllFlower> Let's try that.
+[02-Apr-2016 20:16:13]  <IllFlower> I'll start.
+[02-Apr-2016 20:16:20]  <Rig> Still talking? Stakes the same?
+[02-Apr-2016 20:16:25]  <IllFlower> Yup.
+[02-Apr-2016 20:16:43]  <Rig> Is Satori backing out, BGTB2005?
+[02-Apr-2016 20:17:10]  <IllFlower> Higashiyama steps forward, her features thrown into sharp relief by the light of Emiko's cell phone.
+[02-Apr-2016 20:17:27]  <IllFlower> "This is out of your depth. You need to leave. Now."
+[02-Apr-2016 20:17:32]  <BGTB2005> Rig: I guess so
+[02-Apr-2016 20:17:35]  <IllFlower> @dice use 3 5
+[02-Apr-2016 20:17:35]  <Omnipresence> 14IllFlower: Used 3 5 = 8. Bank now has 1 2 2 3 5 5 6 = 24.
+[02-Apr-2016 20:17:44]  <IllFlower> Raise 8 against both Emiko and Noriko.
+[02-Apr-2016 20:18:21]  <IllFlower> Minako and Satori are just kind of standing there. They don't like confrontation.
+[02-Apr-2016 20:19:21]  <Rig> She's still said the stuff about 'having an organization behind her'?
+[02-Apr-2016 20:19:40]  <IllFlower> Yeah, let's just roll with that.
+[02-Apr-2016 20:19:47]  <Calica> Or at least the stuff about her cousin being in the order?  k
+[02-Apr-2016 20:20:02]  <Rig> @dice show
+[02-Apr-2016 20:20:02]  <Omnipresence> 14Rig: Bank has 2 2 2 3 3 4 4 4 4 5 6 = 39.
+[02-Apr-2016 20:21:05]  <Rig> "I'm certain this is exactly what we're meant to do," Noriko says, standing her ground.
+[02-Apr-2016 20:21:09]  <Rig> @dice use 4 4
+[02-Apr-2016 20:21:09]  <Omnipresence> 14Rig: Used 4 4 = 8. Bank now has 2 2 2 3 3 4 4 5 6 = 31.
+[02-Apr-2016 20:21:18]  <Calica> thinking of some kind of rebuttal involving magic meaning we'll understand better than the police, but that might also work better into a raise
+[02-Apr-2016 20:21:55]  <Rig> Yeah, I was saving any of that for raising. I figured at the moment it'd be better to just block with a simple "Nope."
+[02-Apr-2016 20:22:31]  <Calica> yeah, for a simple "nope" I might just piggy-back my dice on Noriko's statement then
+[02-Apr-2016 20:23:34]  <Calica> @dice use 2 6
+[02-Apr-2016 20:23:34]  <Omnipresence> 14Calica: Used 2 6 = 8. Bank now has 1 1 2 4 6 6 = 20.
+[02-Apr-2016 20:24:04]  <IllFlower> All right, who's gonna raise?
+[02-Apr-2016 20:24:13]  <Calica> I can raise
+[02-Apr-2016 20:24:40]  <Rig> Go for it.
+[02-Apr-2016 20:25:03]  <Calica> "If you can recognize magic, then you know that this is a magical case, which I think puts this more in our depth than yours, really."
+[02-Apr-2016 20:25:30]  <Calica> @dice use 2 6
+[02-Apr-2016 20:25:30]  <Omnipresence> 14Calica: Used 2 6 = 8. Bank now has 1 1 4 6 = 12.
+[02-Apr-2016 20:26:46]  <IllFlower> "You're the only ones who think this is a magical case."
+[02-Apr-2016 20:26:49]  <IllFlower> @dice use 3 5
+[02-Apr-2016 20:26:49]  <Omnipresence> 14IllFlower: Used 3 5 = 8. Bank now has 1 2 2 5 6 = 16.
+[02-Apr-2016 20:28:29]  <Calica> now Rig's raise?
+[02-Apr-2016 20:28:57]  <IllFlower> Yeah.
+[02-Apr-2016 20:30:17]  <Rig> "We have good evidence pointing to that. Besides, what authority do you have on magic?"
+[02-Apr-2016 20:30:27]  <Rig> @dice use 4 3
+[02-Apr-2016 20:30:27]  <Omnipresence> 14Rig: Used 3 4 = 7. Bank now has 2 2 2 3 4 5 6 = 24.
+[02-Apr-2016 20:31:54]  <IllFlower> "I could ask you the same thing. What makes you think you can just elbow your way into police work? Who do you think you are, Detective Conan?"
+[02-Apr-2016 20:31:57]  <IllFlower> @dice use 2 5
+[02-Apr-2016 20:31:57]  <Omnipresence> 14IllFlower: Used 2 5 = 7. Bank now has 1 2 6 = 9.
+[02-Apr-2016 20:33:54]  <IllFlower> "I'm going to ask you one more time to leave. Otherwise, I'll have to use force."
+[02-Apr-2016 20:34:01]  <IllFlower> @dice use 1 6
+[02-Apr-2016 20:34:01]  <Omnipresence> 14IllFlower: Used 1 6 = 7. Bank now has 2 = 2.
+[02-Apr-2016 20:36:11]  <IllFlower> Raise 7, as usual.
+[02-Apr-2016 20:36:29]  <Rig> Yeah, just trying to figure out if I have some way to deescalate before we get to violence.
+[02-Apr-2016 20:36:52]  <Rig> But sadly, most of Noriko's skills only work to prevent her from escalating.
+[02-Apr-2016 20:37:09]  <Calica> emiko charm offensive, clearly :p
+[02-Apr-2016 20:37:25]  <Rig> Noriko sighs. "Can't you give us 5 minutes and then we'll be out of your hair and we can all go on our way?"
+[02-Apr-2016 20:37:42]  <Rig> No, that's a better raise. Scratch that.
+[02-Apr-2016 20:38:19]  <Rig> "We need to at least look into this, officer. Due diligence right?"
+[02-Apr-2016 20:38:29]  <Rig> @dice use 3 4
+[02-Apr-2016 20:38:29]  <Omnipresence> 14Rig: Used 3 4 = 7. Bank now has 2 2 2 5 6 = 17.
+[02-Apr-2016 20:38:36]  <Calica> @dice use 1 6
+[02-Apr-2016 20:38:36]  <Omnipresence> 14Calica: Used 1 6 = 7. Bank now has 1 4 = 5.
+[02-Apr-2016 20:40:48]  <Rig> Emiko or Noriko raise next? I already have a raise ready, but Emiko could probably swing a similar raise.
+[02-Apr-2016 20:41:15]  <IllFlower> Up to you. Dice say you.
+[02-Apr-2016 20:41:23]  <Rig> I'll go.
+[02-Apr-2016 20:41:24]  <Calica> go for it
+[02-Apr-2016 20:42:01]  <Rig> Noriko sighs and shrugs a little, "Look, can't you just give us five minutes and we'll be out of your hair?"
+[02-Apr-2016 20:42:32]  <Rig> @dice use 2 2
+[02-Apr-2016 20:42:32]  <Omnipresence> 14Rig: Used 2 2 = 4. Bank now has 2 5 6 = 13.
+[02-Apr-2016 20:44:16]  <Rig> 2d10 judo?
+[02-Apr-2016 20:44:30]  <Rig> I like that police officer is a d4 trait.
+[02-Apr-2016 20:44:49]  <Calica> she's not very good at being a cop
+[02-Apr-2016 20:45:00]  <IllFlower> "If I let everyone who asked me that take five minutes, I'd still be working on my first case. I have a job to do here. Let me do it."
+[02-Apr-2016 20:45:03]  <IllFlower> @dice add 2d4 >! police officer
+[02-Apr-2016 20:45:03]  <Omnipresence> 14: Rolled 2 4 = 6. Bank now has 2 2 4 = 8.
+[02-Apr-2016 20:45:09]  <IllFlower> @dice use 2 2
+[02-Apr-2016 20:45:09]  <Omnipresence> 14IllFlower: Used 2 2 = 4. Bank now has 4 = 4.
+[02-Apr-2016 20:46:50]  <IllFlower> Calica: More of she lets it compromise her judgment sometimes.
+[02-Apr-2016 20:47:57]  <Rig> I think it's your raise, Calica.
+[02-Apr-2016 20:50:25]  <Calica> "We have a job as well.  If you push us out, and your colleagues aren't prepared for the magical culprit, what do you think will happen to them?"
+[02-Apr-2016 20:50:27]  <Calica> @dice use 1 4
+[02-Apr-2016 20:50:27]  <Omnipresence> 14Calica: Used 1 4 = 5. Bank now has no rolls.
+[02-Apr-2016 20:52:55]  <IllFlower> Egh. Guess it's time to escalate.
+[02-Apr-2016 20:53:18]  * BGTB2005 prepares popcorn
+[02-Apr-2016 20:54:00]  <IllFlower> "Are you any more prepared?"
+[02-Apr-2016 20:54:56]  <IllFlower> Higashiyama seems to fly forward. She grabs Emiko's body and makes to throw her against the burned-out ground in one swift motion.
+[02-Apr-2016 20:55:08]  <IllFlower> @dice add 11d6 >! hand-to-hand Bd+Wl
+[02-Apr-2016 20:55:08]  <Omnipresence> 14: Rolled 1 2 2 4 4 5 5 5 6 6 6 = 46. Bank now has 1 2 2 4 4 4 5 5 5 6 6 6 = 50.
+[02-Apr-2016 20:55:23]  <IllFlower> @dice add 2d10 >! might as well toss in the judo
+[02-Apr-2016 20:55:23]  <Omnipresence> 14: Rolled 7 8 = 15. Bank now has 1 2 2 4 4 4 5 5 5 6 6 6 7 8 = 65.
+[02-Apr-2016 20:55:30]  <IllFlower> @dice use 7 6
+[02-Apr-2016 20:55:30]  <Omnipresence> 14IllFlower: Used 6 7 = 13. Bank now has 1 2 2 4 4 4 5 5 5 6 6 8 = 52.
+[02-Apr-2016 20:55:32]  <IllFlower> Raise 13
+[02-Apr-2016 20:55:34]  <IllFlower> .
+[02-Apr-2016 20:55:51]  <Calica> @dice add 2d6 3d6
+[02-Apr-2016 20:55:51]  <Omnipresence> 14Calica: Rolled 2 2 3 4 4 = 15. Bank now has 2 2 3 4 4 = 15.
+[02-Apr-2016 20:56:00]  <Calica> eheheheh
+[02-Apr-2016 20:57:13]  <Rig> Sorry, finishing up dinner. I'll be back in just a minute.
+[02-Apr-2016 20:57:25]  <Calica> could probably add a d6 for pain but I think at this point I should probably give, I don't see this going remotely well for me
+[02-Apr-2016 20:58:24]  <IllFlower> You're taking fallout one way or another, yeah.
+[02-Apr-2016 20:58:26]  <Rig> @dice add 8d6
+[02-Apr-2016 20:58:26]  <Omnipresence> 14Rig: Rolled 1 1 1 3 3 4 4 5 = 22. Bank now has 1 1 1 2 3 3 4 4 5 5 6 = 35.
+[02-Apr-2016 20:58:37]  <IllFlower> Unless you can get Noriko to chip in.
+[02-Apr-2016 20:59:59]  <Rig> Our fighter decided to sit this fight out.
+[02-Apr-2016 21:00:25]  <Rig> Any ideas on how you want to see that raise, Calica?
+[02-Apr-2016 21:00:32]  <Calica> Rig: not really.
+[02-Apr-2016 21:01:15]  <Rig> What do we roll if we escalate again?
+[02-Apr-2016 21:01:31]  <IllFlower> I mean, Calica can pretty easily see if you toss a 6.
+[02-Apr-2016 21:01:59]  <Rig> It'll still be fallout though.
+[02-Apr-2016 21:02:05]  <Calica> but then Rig would have to raise with only one die
+[02-Apr-2016 21:02:09]  <IllFlower> It'll wreak havoc on your next raise, though.
+[02-Apr-2016 21:02:16]  <IllFlower> Rig: Nah, that'd count as a two-die see.
+[02-Apr-2016 21:02:32]  <IllFlower> 3 4 + 6
+[02-Apr-2016 21:02:37]  <Rig> Okay. I have an idea. Mind if I do some narration for your see, Calica?
+[02-Apr-2016 21:04:49]  <Rig> Noriko lunges forward in the same moment Higashiyama moves to grab Emiko. The older, better trained woman barely seems to shift in order to knock Noriko off her feet, but it gives Emiko the room needed to slip away from the officer's grasp.
+[02-Apr-2016 21:04:53]  <Rig> @dice use 6
+[02-Apr-2016 21:04:53]  <Omnipresence> 14Rig: Used 6 = 6. Bank now has 1 1 1 2 3 3 4 4 5 5 = 29.
+[02-Apr-2016 21:05:00]  <Calica> @dice use 3 4
+[02-Apr-2016 21:05:00]  <Omnipresence> 14Calica: Used 3 4 = 7. Bank now has 2 2 4 = 8.
+[02-Apr-2016 21:05:15]  <Calica> I wasn't sure if I was going to give or not but whatever
+[02-Apr-2016 21:05:46]  <Rig> I mean, if you want to we can take that back.
+[02-Apr-2016 21:06:15]  <IllFlower> There's Rig's martyr complex kicking in again. :p
+[02-Apr-2016 21:06:18]  <Calica> :p
+[02-Apr-2016 21:06:34]  <BGTB2005> rip noriko
+[02-Apr-2016 21:06:36]  <Rig> It's always a good idea to kill off my characters.
+[02-Apr-2016 21:06:47]  <Calica> but nah, it's fine
+[02-Apr-2016 21:08:52]  <IllFlower> So who's raising next?
+[02-Apr-2016 21:09:13]  <IllFlower> I'd argue for Emiko since she's less compromised.
+[02-Apr-2016 21:09:30]  <IllFlower> (Technically I neglected to see but both 6 and 7 are adequate for a reversal.)
+[02-Apr-2016 21:09:55]  <Rig> Emiko should raise.
+[02-Apr-2016 21:10:44]  <Calica> should she bring out the pepper spray?
+[02-Apr-2016 21:10:51]  <Rig> Hahaha, that'd be great.
+[02-Apr-2016 21:11:33]  <BGTB2005> lol
+[02-Apr-2016 21:11:35]  <BGTB2005> do it
+[02-Apr-2016 21:12:42]  <Calica> brb, need to help Buttercupistiny find some of her pills
+[02-Apr-2016 21:13:10]  <Calica> back
+[02-Apr-2016 21:14:56]  <Calica> Emiko pulls out a small bottle(that the right term?) of pepper spray and aims it at Higashiyama's face, hoping she can pull off something.
+[02-Apr-2016 21:14:59]  <Calica> @dice add d6
+[02-Apr-2016 21:14:59]  <Omnipresence> 14Calica: Rolled 6 = 6. Bank now has 2 2 4 6 = 14.
+[02-Apr-2016 21:15:59]  <Calica> She sprays it towards her, hoping it will at least distract her for a bit.
+[02-Apr-2016 21:16:08]  <Calica> @dice use 4 6
+[02-Apr-2016 21:16:08]  <Omnipresence> 14Calica: Used 4 6 = 10. Bank now has 2 2 = 4.
+[02-Apr-2016 21:16:25]  <Calica> (man, all our characters should probably end up in jail at this point)
+[02-Apr-2016 21:16:37]  <IllFlower> Way to be negative.
+[02-Apr-2016 21:17:02]  <Calica> I mean, Emiko did just pepper-spray a police officer, albeit after she got attacked by her
+[02-Apr-2016 21:17:06]  <BGTB2005> what about Satori?
+[02-Apr-2016 21:17:20]  <IllFlower> Unfortunately, Higashiyama has been trained in what to do around pepper spray. She's a police officer, after all.
+[02-Apr-2016 21:17:50]  <IllFlower> She responds quickly enough to duck and roll away. Most of the spray flies off into the air, or hits Noriko's back.
+[02-Apr-2016 21:17:54]  <IllFlower> @dice use 5 5
+[02-Apr-2016 21:17:54]  <Omnipresence> 14IllFlower: Used 5 5 = 10. Bank now has 1 2 2 4 4 4 5 6 6 8 = 42.
+[02-Apr-2016 21:18:14]  <Calica> ouch
+[02-Apr-2016 21:19:27]  <IllFlower> Noriko's raise, I think.
+[02-Apr-2016 21:19:43]  <Rig> @dice show
+[02-Apr-2016 21:19:43]  <Omnipresence> 14Rig: Bank has 1 1 1 2 3 3 4 4 5 5 = 29.
+[02-Apr-2016 21:23:24]  <Rig> Noriko climbs back up to her feet and charges at Higashiyama, hoping to tackle her (with her measly high school weight).
+[02-Apr-2016 21:23:29]  <Rig> @dice use 5
+[02-Apr-2016 21:23:29]  <Omnipresence> 14Rig: Used 5 = 5. Bank now has 1 1 1 2 3 3 4 4 5 = 24.
+[02-Apr-2016 21:26:25]  <IllFlower> Higashiyama sees Noriko coming from a mile away. All she needs to do is step off to the side.
+[02-Apr-2016 21:26:31]  <IllFlower> @dice use 5
+[02-Apr-2016 21:26:31]  <Omnipresence> 14IllFlower: Used 5 = 5. Bank now has 1 2 2 4 4 4 6 6 8 = 37.
+[02-Apr-2016 21:26:58]  <IllFlower> She raises a knee to the level of Noriko's torso and lets momentum do the rest of the work.
+[02-Apr-2016 21:27:04]  <IllFlower> @dice use 6
+[02-Apr-2016 21:27:04]  <Omnipresence> 14IllFlower: Used 6 = 6. Bank now has 1 2 2 4 4 4 6 8 = 31.
+[02-Apr-2016 21:27:10]  <IllFlower> Raise (5) 6 = 11.
+[02-Apr-2016 21:29:03]  <Rig> Noriko takes the hit and loses her wind, stumbling to the burned out wall, trying to get her bearings. Fighting isn't her thing, she decides.
+[02-Apr-2016 21:29:09]  <Rig> @dice use 5 4 2
+[02-Apr-2016 21:29:09]  <Omnipresence> 14Rig: Used 2 4 5 = 11. Bank now has 1 1 1 3 3 4 = 13.
+[02-Apr-2016 21:29:29]  <IllFlower> 3d8 fallout.
+[02-Apr-2016 21:29:51]  <IllFlower> Might want to work on the timing for those decisions in the future...
+[02-Apr-2016 21:30:00]  <Calica> ouch, and she's the high-Ac character
+[02-Apr-2016 21:30:33]  <BGTB2005> she'll be fine
+[02-Apr-2016 21:30:35]  <BGTB2005> ...right?
+[02-Apr-2016 21:30:42]  <Rig> Probably!
+[02-Apr-2016 21:30:47]  <Rig> (not)
+[02-Apr-2016 21:33:13]  <IllFlower> That was technically my raise. Noriko's kinda incapacitated so Emiko's go again.
+[02-Apr-2016 21:34:49]  <Calica> yeah I think we're kinda doomed in this
+[02-Apr-2016 21:34:57]  <Rig> Probably.
+[02-Apr-2016 21:35:33]  <IllFlower> You can always give.
+[02-Apr-2016 21:35:46]  <IllFlower> Maybe use your dice in a follow-up guilt-tripping conflict.
+[02-Apr-2016 21:35:49]  <Calica> Emiko sees Noriko's stumbling body, as well as how easily Higashiyama avoided her pepper spray, and instead drops the bottle and puts her hands up in a surrender motion.
+[02-Apr-2016 21:35:52]  <Rig> Gonna be a theme with us.
+[02-Apr-2016 21:36:05]  <Calica> Give, keeping 2.
+[02-Apr-2016 21:36:49]  <Rig> @dice show
+[02-Apr-2016 21:36:49]  <Omnipresence> 14Rig: Bank has 1 1 1 3 3 4 = 13.
+[02-Apr-2016 21:38:06]  <IllFlower> If Noriko needs medical attention, that's technically a follow-up. :p
+[02-Apr-2016 21:39:56]  <Rig> Noriko starts to turn, gathering energy and causing the ash on the wall she's leaning against to swirl around her hands. She turns, ready to throw that power out at Higashiyama, and sees Emiko surrendering. She let's the power fall away and slumps back against the wall, still out of breath.
+[02-Apr-2016 21:40:06]  <Rig> Give, keeping 4.
+[02-Apr-2016 21:40:13]  <Rig> @dice roll 3d8
+[02-Apr-2016 21:40:13]  <Omnipresence> 14Rig: Rolled 6 7 8 = 21.
+[02-Apr-2016 21:40:19]  <IllFlower> 15.
+[02-Apr-2016 21:40:30]  <IllFlower> Roll Bd.
+[02-Apr-2016 21:40:34]  <Calica> welp
+[02-Apr-2016 21:40:42]  <Rig> @dice roll 3
+[02-Apr-2016 21:40:42]  <Omnipresence> 14Rig: Rolled 3 = 3.
+[02-Apr-2016 21:40:46]  <Rig> Oops.
+[02-Apr-2016 21:40:47]  <IllFlower> lol
+[02-Apr-2016 21:40:51]  <Calica> rip
+[02-Apr-2016 21:40:53]  <IllFlower> pwned
+[02-Apr-2016 21:40:56]  <Rig> I can't see that anyway.
+[02-Apr-2016 21:40:57]  <BGTB2005> lol
+[02-Apr-2016 21:41:07]  <IllFlower> You can. It's three dice, not two.
+[02-Apr-2016 21:41:26]  <Rig> @dice roll 3d6
+[02-Apr-2016 21:41:26]  <Omnipresence> 14Rig: Rolled 2 3 6 = 11.
+[02-Apr-2016 21:41:31]  <Rig> Nope.
+[02-Apr-2016 21:41:37]  <BGTB2005> rip
+[02-Apr-2016 21:41:38]  <IllFlower> All right, time to try and save your comrade.
+[02-Apr-2016 21:41:53]  <Calica> BGTB2005: do you want to take this or should I?
+[02-Apr-2016 21:41:53]  <Rig> Broken ribs suck.
+[02-Apr-2016 21:42:06]  <Calica> I have a relationship with Noriko so I probably should
+[02-Apr-2016 21:42:07]  <Rig> Higashiyama just watches.
+[02-Apr-2016 21:42:14]  <IllFlower> I'd say Emiko should, if only because she has the kept dice as well.
+[02-Apr-2016 21:42:42]  <Calica> Higashiyama doesn't want to file a "whoops I just killed someone" report
+[02-Apr-2016 21:42:50]  <Rig> Noriko slowly sinks to the ground, still trying to get air in her lungs. Every breath she tries to take hurts more than the last.
+[02-Apr-2016 21:43:48]  <Calica> Emiko sees Noriko collapsing.  "Please let me heal her, Higashiyama!"  She runs around Higashiyama, towards Noriko.
+[02-Apr-2016 21:44:38]  <IllFlower> Higashiyama stands over Noriko's crumpled body. "Emergency medical assistance at the Kurata complex, building 4," she says emotionlessly into her radio, never taking her eyes off Noriko's deflated face.
+[02-Apr-2016 21:45:13]  <IllFlower> "Affirmative," comes the response. "ETA six minutes."
+[02-Apr-2016 21:45:17]  <Calica> Alright, what're the dice for medical assistance again?
+[02-Apr-2016 21:45:37]  <IllFlower> Your Ac plus the injured's Bd, plus relationship dice.
+[02-Apr-2016 21:46:02]  <IllFlower> I roll the fallout dice plus the demonic influence.
+[02-Apr-2016 21:46:35]  <IllFlower> So 6d6 2d8 for you to start, plus the 2 and 4 both of you kept.
+[02-Apr-2016 21:46:45]  <Calica> @dice new 3d6 3d6 2d8 2 4 >! here goes nothing
+[02-Apr-2016 21:46:45]  <Omnipresence> 14: Rolled 1 1 1 1 2 3 4 4 4 8 = 29. Bank now has 1 1 1 1 2 3 4 4 4 8 = 29.
+[02-Apr-2016 21:47:13]  <Rig> A whole lot of nothing.
+[02-Apr-2016 21:47:22]  <Calica> the 8 is good, aside from that, eeeeh
+[02-Apr-2016 21:47:26]  <Calica> rip noriko
+[02-Apr-2016 21:47:29]  <BGTB2005> :<
+[02-Apr-2016 21:47:37]  <Icon> (Ouch.)
+[02-Apr-2016 21:47:50]  <IllFlower> @dice new 3d8 3d10
+[02-Apr-2016 21:47:50]  <Omnipresence> 14IllFlower: Rolled 1 3 6 8 8 8 = 34. Bank now has 1 3 6 8 8 8 = 34.
+[02-Apr-2016 21:48:00]  <BGTB2005> rip
+[02-Apr-2016 21:48:01]  <BGTB2005> :<
+[02-Apr-2016 21:48:14]  <IllFlower> Nah, this is workable. I have fewer dice and can't bring in any more.
+[02-Apr-2016 21:48:23]  <Rig> I don't think you're supposed to take my nick as a suggestion, Omnipresence.
+[02-Apr-2016 21:48:49]  <Calica> hey, at least the dice hating me for a change is new, I Think
+[02-Apr-2016 21:49:10]  <IllFlower> Higashiyama stares disdainfully at Emiko, but at least she doesn't interfere.
+[02-Apr-2016 21:49:32]  <IllFlower> Noriko is coughing up blood. This is bad.
+[02-Apr-2016 21:49:39]  <IllFlower> @dice use 8 3
+[02-Apr-2016 21:49:39]  <Omnipresence> 14IllFlower: Used 3 8 = 11. Bank now has 1 6 8 8 = 23.
+[02-Apr-2016 21:49:41]  <IllFlower> Raise 11.
+[02-Apr-2016 21:50:36]  <Rig> It's snowing here. Ugh
+[02-Apr-2016 21:53:14]  <IllFlower> Calica?
+[02-Apr-2016 21:53:15]  <Calica> Emiko puts her hands on Noriko's chest and tries to force magical energy through it, perhaps a bit too fast.
+[02-Apr-2016 21:53:24]  <Calica> @dice use 3 4 4
+[02-Apr-2016 21:53:24]  <Omnipresence> 14Calica: Used 3 4 4 = 11. Bank now has 1 1 1 1 2 4 8 = 18.
+[02-Apr-2016 21:54:30]  <IllFlower> I could be mean and call this magical fallout, but let's stick with 3d6.
+[02-Apr-2016 21:54:51]  <Calica> heh, yeah.  3d10 after a probably failed medical rescue would just be mean
+[02-Apr-2016 21:55:09]  <IllFlower> Way to be negative.
+[02-Apr-2016 21:55:28]  <IllFlower> You're the one with the character who says "it's better to try than to not try at all."
+[02-Apr-2016 21:55:48]  <Calica> true
+[02-Apr-2016 21:55:55]  <Calica> trying to think of how best to bring that in, really
+[02-Apr-2016 21:56:58]  <Calica> Emiko begins a chant she learned from another Conservator a while back.  She doesn't remember it that well, but, well, anything's better than nothing, right?
+[02-Apr-2016 21:57:02]  <Calica> @dice add d6
+[02-Apr-2016 21:57:02]  <Omnipresence> 14Calica: Rolled 4 = 4. Bank now has 1 1 1 1 2 4 4 8 = 22.
+[02-Apr-2016 21:57:26]  <Calica> @dice use 2 8
+[02-Apr-2016 21:57:26]  <Omnipresence> 14Calica: Used 2 8 = 10. Bank now has 1 1 1 1 4 4 = 12.
+[02-Apr-2016 21:57:34]  <IllFlower> Nice thinking.
+[02-Apr-2016 21:58:46]  <IllFlower> A white glow emanates from Noriko's chest. Emiko hears her friend's breathing stabilize. It's working, it's working...
+[02-Apr-2016 21:58:49]  <IllFlower> @dice use 6 8
+[02-Apr-2016 21:58:49]  <Omnipresence> 14IllFlower: Used 6 8 = 14. Bank now has 1 8 = 9.
+[02-Apr-2016 22:00:44]  <IllFlower> "Emiko, no, no, I..." A spasmodic cough. Noriko doubles over in pain.
+[02-Apr-2016 22:00:46]  <IllFlower> @dice use 1 8
+[02-Apr-2016 22:00:46]  <Omnipresence> 14IllFlower: Used 1 8 = 9. Bank now has no rolls.
+[02-Apr-2016 22:02:18]  <IllFlower> Satori and Minako watch, rooted to the spot in fear.
+[02-Apr-2016 22:03:34]  <Calica> Emiko cups Noriko, keeps one hand near her heart, and smiles.  "Don't worry, I've got it, you'll be fine."  She then continues the chant, as best she can.
+[02-Apr-2016 22:03:55]  <Calica> er, cups is bad phrasing, but holds her with one arm
+[02-Apr-2016 22:04:03]  <Rig> Groping a dying girl?
+[02-Apr-2016 22:04:05]  <Rig> How low.
+[02-Apr-2016 22:04:18]  <BGTB2005> @ship Emiko/Noriko
+[02-Apr-2016 22:04:26]  <Calica> she has a boyfriend (who i haven't decided anything about yet >_>)
+[02-Apr-2016 22:04:42]  <Calica> @dice add 2d6 >! winning smile
+[02-Apr-2016 22:04:42]  <Omnipresence> 14: Rolled 2 6 = 8. Bank now has 1 1 1 1 2 4 4 6 = 20.
+[02-Apr-2016 22:04:55]  <Calica> @dice use 4 6
+[02-Apr-2016 22:04:55]  <Omnipresence> 14Calica: Used 4 6 = 10. Bank now has 1 1 1 1 2 4 = 10.
+[02-Apr-2016 22:05:24]  <IllFlower> uh well I guess that's a valid use of that trait :|
+[02-Apr-2016 22:05:26]  <Rig> (Noriko lives for that smile.)
+[02-Apr-2016 22:05:37]  <IllFlower> NOW ISN'T THE TIME FOR YURI GOGGLES
+[02-Apr-2016 22:05:58]  <Calica> besides, I thought Noriko only had eyes for Takumi
+[02-Apr-2016 22:06:09]  <BGTB2005> NOW ISN'T THE TIME FOR YURI GOGGLES <-- lies
+[02-Apr-2016 22:06:17]  <BGTB2005> it is always the time for yuri goggles
+[02-Apr-2016 22:06:30]  *** Xeniera <~xeniera@usc-secure-wireless-207-040.usc.edu> has quit IRC (Remote host closed the connection)
+[02-Apr-2016 22:07:14]  <IllFlower> Emiko hears voices out in the corridor. A group of paramedics rolls in with a stretcher.
+[02-Apr-2016 22:07:36]  <IllFlower> "We'll take it from here," one of them says to Noriko.
+[02-Apr-2016 22:07:53]  <Calica> you mean Emiko/
+[02-Apr-2016 22:07:56]  <Calica> ?
+[02-Apr-2016 22:08:06]  <IllFlower> Nah, nobody cares about Emiko.
+[02-Apr-2016 22:08:31]  <Calica> I should probably roll fallout now, right?
+[02-Apr-2016 22:08:51]  <IllFlower> "You're going to be all right."
+[02-Apr-2016 22:08:57]  <IllFlower> Yeah, fallout.
+[02-Apr-2016 22:09:15]  <IllFlower> Rig needs to pick two long-term fallout items as well.
+[02-Apr-2016 22:09:24]  <Calica> @dice roll 3d6
+[02-Apr-2016 22:09:24]  <Omnipresence> 14Calica: Rolled 2 6 6 = 14.
+[02-Apr-2016 22:09:29]  <Calica> ouch
+[02-Apr-2016 22:09:35]  <IllFlower> lol, we're going to call that 11 as usual.
+[02-Apr-2016 22:09:45]  <Calica> so is that long-term?
+[02-Apr-2016 22:09:49]  <IllFlower> I should probably write that down somewhere.
+[02-Apr-2016 22:09:56]  <IllFlower> Two long-term.
+[02-Apr-2016 22:10:21]  <IllFlower> Really, we're counting 12 as 12 minus the possibility of needing medical attention.
+[02-Apr-2016 22:11:35]  <Rig> Okay, fallout for me is a 1d4 relationship with Higashiyama and a 1d4 trait of "not a fighter"
+[02-Apr-2016 22:12:00]  <IllFlower> coo', coo'
+[02-Apr-2016 22:14:56]  <IllFlower> Calica, how about yourself?
+[02-Apr-2016 22:15:23]  <Calica> Not sure yet.  Maybe remove the pepper spray for one since it was physically dropped in the give?
+[02-Apr-2016 22:15:33]  <BGTB2005> imo "1d4 cops suck"
+[02-Apr-2016 22:15:43]  <IllFlower> 1d4 fuck the police
+[02-Apr-2016 22:15:58]  <IllFlower> 2d10 relationship with NWA
+[02-Apr-2016 22:16:23]  *** Medicine <~Vick@d67-193-23-119.home3.cgocable.net> has joined #madokamadness
+[02-Apr-2016 22:16:24]  <Calica> ice cube is playing a cop in those ride along movies now though
+[02-Apr-2016 22:18:20]  <IllFlower> shh
+[02-Apr-2016 22:20:22]  <IllFlower> You could wipe the pepper spray from Emiko's belongings. Maybe it's all used up.
+[02-Apr-2016 22:21:04]  <IllFlower> Maybe d4 "can push herself through pain."
+[02-Apr-2016 22:22:02]  <Calica> I was thinking that Higashiyama wouldn't let her leave the room with it after she dropped it onto the ground.  d4ing the pain could work maybe?
+[02-Apr-2016 22:23:25]  <IllFlower> Yeah, that counts as two fallout items right there.
+[02-Apr-2016 22:24:42]  <Calica> alright
+[02-Apr-2016 22:25:25]  <IllFlower> The rest of the evening passes by in a blur.
+[02-Apr-2016 22:26:10]  <Rig> This is gonna look so great for Noriko.
+[02-Apr-2016 22:26:20]  <IllFlower> The Conservators and Higashiyama all head to the hospital. Higashiyama is only present long enough to get paperwork squared away.
+[02-Apr-2016 22:26:53]  <IllFlower> The doctors want Noriko to stay behind for a couple of days to make sure nothing's happened.
+[02-Apr-2016 22:28:29]  <IllFlower> As she rests in her hospital bed, Minako apologizes. "I had no idea that would happen," she says. "I should have been more cautious."
+[02-Apr-2016 22:29:35]  <IllFlower> s/she/Noriko/
+[02-Apr-2016 22:29:47]  <Rig> Noriko speaks softly, breathing too deep still makes her wince, "It's fine."
+[02-Apr-2016 22:29:58]  <Rig> "We shouldn't have pushed our luck."
+[02-Apr-2016 22:30:44]  <IllFlower> "It's not your fault."
+[02-Apr-2016 22:32:28]  <Rig> "What's the plan now? I don't think I'll be able to tag along for a few days." Noriko says, then she remembers the trouble at school that seems like it happened weeks ago. "Or longer."
+[02-Apr-2016 22:32:46]  <IllFlower> This is where Emiko and Satori come in.
+[02-Apr-2016 22:33:23]  <Calica> "We'll figure something out.  Worst-case scenario, we call you and you can walk us through the steps on any complicated spells we have to do."
+[02-Apr-2016 22:36:25]  <Rig> "Where are you going to look next? Are the police at all suspicious of us?"
+[02-Apr-2016 22:38:34]  <IllFlower> No. Higashiyama knows better than to prod the hornet's nest that is the Order.
+[02-Apr-2016 22:42:08]  *** AttObl_ <~AttObl@2602:306:ccc6:8ea0:d8d5:38b1:11c3:918> has joined #madokamadness
+[02-Apr-2016 22:42:25]  <Calica> "Do you know a good place to look next, Minako?  We're not really familiar with the area here."
+[02-Apr-2016 22:42:27]  <IllFlower> The Conservators should probably focus on their original goal.
+[02-Apr-2016 22:42:32]  <IllFlower> What was the original goal?
+[02-Apr-2016 22:42:52]  * BGTB2005 checks logs
+[02-Apr-2016 22:42:52]  <Calica> the fires, wasn't it?
+[02-Apr-2016 22:43:22]  <IllFlower> Minako shakes her head. "Maybe if you ask me tomorrow. I'm exhausted."
+[02-Apr-2016 22:43:22]  <BGTB2005> I think so?
+[02-Apr-2016 22:43:38]  <IllFlower> Well, aren't we all, everyone else in the room thinks.
+[02-Apr-2016 22:46:52]  <IllFlower> Anything else? If not, I've got scenes to jump to, or we can wait for next time.
+[02-Apr-2016 22:47:18]  <Rig> "Keep me updated," Noriko asks, not wanting to fall behind.
+[02-Apr-2016 22:47:20]  <Calica> not from here
+[02-Apr-2016 22:47:28]  <Rig> I think we could continue.
+[02-Apr-2016 22:48:36]  <Calica> yeah, we could continue, but nothing from this scene
+[02-Apr-2016 22:48:43]  <BGTB2005> continuing sounds good
+[02-Apr-2016 22:48:44]  <Calica> I mean, I Don't have anything tosay in this scene
+[02-Apr-2016 22:49:01]  <IllFlower> All right, let's move on.
+[02-Apr-2016 22:50:26]  <IllFlower> Noriko is stuck in convalescence, but the rest of the girls have to go to school as usual the next day.
+[02-Apr-2016 22:51:03]  <IllFlower> During one of the breaks, a familiar face walks up to Emiko's desk.
+[02-Apr-2016 22:52:10]  *** Medicine <~Vick@d67-193-23-119.home3.cgocable.net> has quit IRC (Ping timeout: 186 seconds)
+[02-Apr-2016 22:52:15]  <IllFlower> "My mother told me she ran into a handful of girls wearing Kumagawa uniforms yesterday while she was on an investigation. One of them sounded a lot like your friend Noriko."
+[02-Apr-2016 22:52:38]  *** Icon <~icon@covering.space> has quit IRC (Quit: restarting.)
+[02-Apr-2016 22:52:43]  <IllFlower> Oh, *that* Inamura...
+[02-Apr-2016 22:53:14]  <Calica> dun dun dun
+[02-Apr-2016 22:53:49]  <Calica> "Maybe.  Why do you ask?"
+[02-Apr-2016 22:54:31]  <IllFlower> "I was going to talk to Hisakawa herself, but it looks like she's absent today.
+[02-Apr-2016 22:54:39]  <IllFlower> "What was she doing there?"
+[02-Apr-2016 22:55:06]  *** Icon <~icon@covering.space> has joined #madokamadness
+[02-Apr-2016 22:56:00]  <Calica> "Does Akamine want to know?"
+[02-Apr-2016 22:56:24]  <Calica> Emiko doesn't particularly want to answer questions for one of Akamine's groupies.
+[02-Apr-2016 22:57:49]  <IllFlower> "I gave up on him."
+[02-Apr-2016 22:58:10]  <Calica> "Why'd you give up on him?"
+[02-Apr-2016 22:58:48]  <IllFlower> Inamura frowns. "Akamine's been getting crazier since Suzuhara disappeared. I don't know, maybe she had him on some kind of leash.
+[02-Apr-2016 22:59:16]  <Calica> "Crazier?"
+[02-Apr-2016 22:59:33]  <IllFlower> "And Hisakawa was right. I don't want to spend so much time around someone dangerous."
+[02-Apr-2016 23:00:09]  <IllFlower> A nod.
+[02-Apr-2016 23:00:29]  <Rig> More violent?
+[02-Apr-2016 23:01:02]  <IllFlower> "He's sent armed students to attack his enemies. On school grounds, even."
+[02-Apr-2016 23:01:19]  <IllFlower> Oh, like what happened to Noriko, Emiko thinks.
+[02-Apr-2016 23:01:33]  <Calica> "Students, plural?"
+[02-Apr-2016 23:02:36]  <IllFlower> "Yeah. He wants to strike while Red Minamoto is vulnerable."
+[02-Apr-2016 23:04:31]  <Calica> "Has anyone else decided to leave, like you have?"
+[02-Apr-2016 23:05:03]  <IllFlower> "Probably? I don't know." Inamura appears frustrated. "You never answered my question."
+[02-Apr-2016 23:06:01]  <Calica> "We were there helping out a friend over there.  And I'm sorry, but I don't really know you well enough to trust you with more."
+[02-Apr-2016 23:08:47]  <IllFlower> "And you just happened to find an important piece of evidence?"
+[02-Apr-2016 23:09:14]  <IllFlower> Oops. She clearly knows more than she let on.
+[02-Apr-2016 23:11:57]  <Calica> "We heard a buzzing."
+[02-Apr-2016 23:13:26]  <IllFlower> "So you're just going to pretend you don't know anything.
+[02-Apr-2016 23:13:40]  <IllFlower> "That's fine, then. I can do the same thing."
+[02-Apr-2016 23:14:18]  <IllFlower> Inamura leans over and whispers into Emiko's ear. "That's a shame. I know quite a bit."
+[02-Apr-2016 23:15:01]  <Calica> hmm
+[02-Apr-2016 23:15:59]  <Calica> Emiko whispers back.  "About the fires?"
+[02-Apr-2016 23:16:58]  <IllFlower> Inamura turns away. "About what?" she says suggestively.
+[02-Apr-2016 23:17:58]  <Calica> "The fires that have been going on around there.  Seem kind of familiar, don't you think?"
+[02-Apr-2016 23:20:26]  *** Medicine <~Vick@d67-193-23-119.home3.cgocable.net> has joined #madokamadness
+[02-Apr-2016 23:22:06]  <IllFlower> "I have no idea what you're talking about."
+[02-Apr-2016 23:22:34]  <IllFlower> Funny, Inamura didn't seem like this kind of person the first time Emiko met her...
+[02-Apr-2016 23:22:53]  <IllFlower> She's pretty clearly baiting Emiko into this.
+[02-Apr-2016 23:23:09]  <IllFlower> But what choice does Emiko have? Sigh.
+[02-Apr-2016 23:23:44]  <Calica> "You don't remember someone around you who had a predilection for setting things on fire, like letters?"
+[02-Apr-2016 23:24:47]  <IllFlower> Inamura laughs.
+[02-Apr-2016 23:25:00]  <Calica> ("What?  No, I've never met Rin.")
+[02-Apr-2016 23:25:00]  <IllFlower> "That would be a little too perfect, wouldn't it?"
+[02-Apr-2016 23:25:55]  <IllFlower> "No, if you think Akamine's bad, this is entirely out of your league. Even the police are having trouble with this one."
+[02-Apr-2016 23:26:35]  <Calica> "Really, now?"
+[02-Apr-2016 23:27:33]  <IllFlower> "Oh, you want to know?"
+[02-Apr-2016 23:29:37]  <Calica> "I mean, if the hospital there is keeping Noriko for a few days, the least we can do is know what's going on there"
+[02-Apr-2016 23:31:01]  <IllFlower> Inamura spins around the vacant chair in front of Emiko's desk and takes a seat.
+[02-Apr-2016 23:31:10]  <IllFlower> "You know Rinzen?"
+[02-Apr-2016 23:31:18]  <Calica> do I?
+[02-Apr-2016 23:31:25]  <BGTB2005> do we?
+[02-Apr-2016 23:31:48]  <IllFlower> Do you?
+[02-Apr-2016 23:32:18]  <Rig> They're the one that always teases Satori, right?
+[02-Apr-2016 23:32:23]  <Calica> I mean, Emiko remembers everyone's name.  But I, the player, don't
+[02-Apr-2016 23:32:30]  <Calica> and I don't see it on the list
+[02-Apr-2016 23:32:39]  <IllFlower> (That's a no.)
+[02-Apr-2016 23:32:48]  <Calica> "I don't think so.  Who's that?"
+[02-Apr-2016 23:36:28]  <IllFlower> "Not a 'who.' A 'what.' And that 'what' is a drug ring."
+[02-Apr-2016 23:36:55]  <IllFlower> Inamura appraises the look on Emiko's face. "Not really in your wheelhouse."
+[02-Apr-2016 23:37:01]  <Calica> this is getting more like durarara every minute
+[02-Apr-2016 23:38:43]  <IllFlower> "The target just happens to be a former member of Rinzen who offered to be a police witness."
+[02-Apr-2016 23:39:34]  <Calica> "So the phone I found belonged to one of these members?"
+[02-Apr-2016 23:40:54]  <IllFlower> "*The* member. It was the phone we used to keep in touch with him.
+[02-Apr-2016 23:41:12]  <IllFlower> "All of the apartments that were torched were temporary accommodations under police protection."
+[02-Apr-2016 23:41:55]  <IllFlower> Inamura looks over at Noriko's empty desk. "Just his luck he hasn't been inside for any of the fires, so far at least."
+[02-Apr-2016 23:42:16]  <Calica> 14plot twist: the culprit actually is Rin, who's now working for a drug ring
+[02-Apr-2016 23:43:10]  <Calica> "So he's still under police protection?"
+[02-Apr-2016 23:45:33]  <IllFlower> "Yeah. The thing is, the police haven't caught the suspects that this guy is testifying against. Until then, it's cat and mouse."
+[02-Apr-2016 23:47:13]  <Calica> "Hope they find them soon, then"
+[02-Apr-2016 23:47:34]  <IllFlower> "Oh, so it's suddenly none of your business?"
+[02-Apr-2016 23:49:35]  <Calica> "Well, it's not exactly like we know where they could be anyways..."
+[02-Apr-2016 23:50:42]  <IllFlower> You're just going to leave Minako to fend for herself in this witchy situation? Cold.
+[02-Apr-2016 23:51:13]  <Calica> I was trying to leave room for Inamura to say things without telling her "lol it's magic"
+[02-Apr-2016 23:52:14]  <IllFlower> Inamura crosses her arms.
+[02-Apr-2016 23:53:52]  <IllFlower> "I still don't know why you're poking around, but I'd be careful.
+[02-Apr-2016 23:54:51]  <IllFlower> "Mom can be really annoying sometimes, but she's right about one thing: A little knowledge is more dangerous than none."
+[02-Apr-2016 23:57:26]  <Calica> "I should probably try to increase my knowledge past 'a little', then."
+[02-Apr-2016 23:57:49]  <IllFlower> "Suit yourself."
+[02-Apr-2016 23:58:16]  <Calica> not sure if I have more to say in this scene
+[02-Apr-2016 23:59:20]  <IllFlower> The school bell rings. Inamura gets up to go back to her classroom.
+[02-Apr-2016 23:59:28]  <IllFlower> "Oh, one more thing.
+[02-Apr-2016 23:59:41]  <IllFlower> "That hairpin you're wearing is pretty cute."
+[02-Apr-2016 23:59:45]  <IllFlower> Scene.
+[03-Apr-2016 00:00:11]  <IllFlower> I think we can leave off here.
+[03-Apr-2016 00:00:12]  <Rig> Should... should we ship them?
+[03-Apr-2016 00:00:14]  <BGTB2005> @ship Inamura/Emiko
+[03-Apr-2016 00:00:17]  <Calica> Thanks for running this.
+[03-Apr-2016 00:00:21]  <Calica> Rig: well, BGTB2005 already has
+[03-Apr-2016 00:00:22]  <Rig> Thanks for the session.
+[03-Apr-2016 00:00:31]  <IllFlower> Am I not allowed to give compliments without getting shipped?
+[03-Apr-2016 00:00:42]  <IllFlower> Thanks for playing, folks. We'll be back in two weeks.

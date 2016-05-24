@@ -1,0 +1,27 @@
+strict graph {
+    layout = "circo"
+    node [ color = "#808080", fontcolor = "#808080" ]
+    edge [ color = "#808080", fontcolor = "#808080", style = bold ]
+
+    subgraph players {
+        node [ color = black, fontcolor = black ]
+
+        "Aoi"
+        "Hikaru"
+        "Sumire"
+        "Yui"
+        "Yuna"
+    }
+
+    "Aoi" -- "Rie" [ color = deeppink ]
+    "Aoi" -- "Setsuna" [ color = red ]
+    "Aoi" -- "Sumire" [ color = purple ]
+    "Hikaru" -- "Ayumi" [ color = deeppink ]
+    "Hikaru" -- "Yuna" [ color = deeppink ]
+    "Sumire" -- "Hikaru" [ color = deeppink ]
+    "Sumire" -- "Kazuo" [ color = deeppink ]
+    "Yui" -- "Ami" [ color = deeppink ]
+    "Yui" -- "Hikaru" [ color = red ]
+    "Yuna" -- "Aoi" [ color = purple ]
+    "Yuna" -- "Yui" [ color = deeppink ]
+}

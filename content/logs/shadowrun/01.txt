@@ -1,0 +1,882 @@
+[27-Sep-2014 19:01:44]  *** Rig changes topic to https://room208.org/wiki/events | Rig Does SHADOWRUN: NOW | EMDOGS: Making characters is fun even if IllFlower won't let you play them
+[27-Sep-2014 19:01:47]  <SpruceZeus> Good luck but be wary of misfortune
+[27-Sep-2014 19:01:53]  <Rig> Try rear.
+[27-Sep-2014 19:01:56]  <jseblan|shadowrunning> pff
+[27-Sep-2014 19:02:01]  <AttObl> Try not to roll all 1's!
+[27-Sep-2014 19:02:04]  <jseblan|shadowrunning> be wary of poison
+[27-Sep-2014 19:04:06]  <Rig> The rain is coming down hard outside and you are glad to be out of it. The rain in Lower Hangzhou has a distinctly unpleasant smell. You might recognize a few of the faces gathered in the little hideaway you were called to.
+[27-Sep-2014 19:04:28]  <IllFlower> I am definitely listening to the wrong music for this, lol.
+[27-Sep-2014 19:04:57]  <Rig> You’re beginning to think that this might all be an expensive scam when the elevator buzzes and the grate slides open to reveal a short, slightly pudgy man with salt and pepper hair.
+[27-Sep-2014 19:05:23]  <Rig> He looks around the room at the small group of assembled runners with a slight smirk as if he expected better.
+[27-Sep-2014 19:06:08]  *** jseblan|shadowrunning is now known as jseblan|shadowrunner
+[27-Sep-2014 19:06:37]  <Rig> “Friends,” he says, his Chinese cut with a strange Russian accent, “I’m glad you accepted my invitation.” He walks to the table in the center of the room with a noticable limp. The man, Leo according to his invitation, doesn’t look like much of a runner.
+[27-Sep-2014 19:07:04]  <Rig> jseblan|shadowrunner: Roll for comprehension!
+[27-Sep-2014 19:07:10]  <Rig> Kidding.
+[27-Sep-2014 19:07:15]  <jseblan|shadowrunner> aw
+[27-Sep-2014 19:07:25]  <jseblan|shadowrunner> I just follow the other runners' lead
+[27-Sep-2014 19:08:17]  <jseblan|shadowrunner> I have good intuition, I can figure out what someone says if the context makes it obvious
+[27-Sep-2014 19:08:28]  <jseblan|shadowrunner> my character has*
+[27-Sep-2014 19:09:33]  <Rig> “I have two jobs that ask for a team like you,” he slides a pair of tags onto the table that broadcast details to anyone with AR gear advertising an open connection. “Pick one, I set up a meeting. Questions?”
+[27-Sep-2014 19:09:34]  <IllFlower> Malcolm watches the proceedings with a faint smile on his face. It's been a long time since he heard someone with such unusual intonation.
+[27-Sep-2014 19:11:08]  <Rig> **
+[27-Sep-2014 19:11:18]  <jseblan|shadowrunner> Rig: I probably need a comprehension check for that one
+[27-Sep-2014 19:11:28]  <jseblan|shadowrunner> or not
+[27-Sep-2014 19:12:00]  <jseblan|shadowrunner> don't have AR gear though
+[27-Sep-2014 19:12:19]  <BGTB2005> I think if you have a commlink you have the requisite gear
+[27-Sep-2014 19:12:19]  <IllFlower> I don't think I have any, either. lol
+[27-Sep-2014 19:12:32]  <IllFlower> Rig: Can you give us a summary of each?
+[27-Sep-2014 19:13:00]  <Rig> If you have a commlink you can access the tags. Anyway, yeah, I’ll summarize each.
+[27-Sep-2014 19:13:44]  *** SpruceZeus <~chatzilla@234.179-62-69.ftth.swbr.surewest.net> has left #madokamadness
+[27-Sep-2014 19:15:06]  <jseblan|shadowrunner> The jobs are in Mandarin, I guess?
+[27-Sep-2014 19:15:36]  <Rig> The first tags information is clearly put together by a professional. It’s well organized and gets right to the point. The job is a data exfil. The client needs a small team to break into a secure area and recover some files while removing any trace of the files existence from the original server. When you reach the bottom of the file you find a half-million nuyen payout and try not to show your surprise.
+[27-Sep-2014 19:16:00]  <Rig> jseblan|shadowrunner: Matrix stuff can display in any language, so don’t worry about comprehending these.
+[27-Sep-2014 19:16:06]  <jseblan|shadowrunner> ah, okay
+[27-Sep-2014 19:17:18]  *** AttObl <Mibbit@108-204-104-234.lightspeed.cicril.sbcglobal.net> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[27-Sep-2014 19:17:35]  <jseblan|shadowrunner> Antoine's mouth is slightly agape when he sees the payout, his composure being somewhat shaken
+[27-Sep-2014 19:18:12]  <Rig> The second is less well put together, you’d guess that it doesn’t have the same corporate oversight as the first. The details on this job are a little more fleshed out though. It’s a kidnapping, but not just any snatch and grab. They want you to hit some VIPs at the upcoming fashion show in Upper Hangzhou. The payout for this one is up there too, but the precision of the amount is a little odd. It offers 555,555 nuyen on comple
+[27-Sep-2014 19:19:08]  <IllFlower> -tion, presumably.
+[27-Sep-2014 19:19:18]  <Rig> Yeah, sorry, didn’t know that got cut.
+[27-Sep-2014 19:19:41]  <IllFlower> So who's in the room? I dunno who else I know here.
+[27-Sep-2014 19:20:37]  <Rig> The three PCs, Leo, and three or four other runners. The other runner’s aren’t paying a lot of attention to your group around the table. They’re sitting around a workbench off to one side muttering in Japanese.
+[27-Sep-2014 19:20:54]  <Rig> Presumably, they’ll take whatever job you don't.
+[27-Sep-2014 19:21:34]  <IllFlower> I'm guessing they wouldn't take kindly to it if I tried to listen in.
+[27-Sep-2014 19:21:35]  <jseblan|shadowrunner> Antoine looks at both payouts and asks, in English: "Is that for each or for the whole team?"
+[27-Sep-2014 19:21:36]  <Rig> It’s also possible that you know the other PCs, but I guess it’s unlikely for you guys to know jseblan|shadowrunner’s character.
+[27-Sep-2014 19:21:55]  <IllFlower> Well, "the other PCs" at this juncture is just Koishi, no?
+[27-Sep-2014 19:22:01]  <Rig> IllFlower: True.
+[27-Sep-2014 19:22:06]  <BGTB2005> I have to go do something real quick. I'm voting for the more professional-looking tag
+[27-Sep-2014 19:22:19]  <Rig> Leo responds in English, “The entire team.”
+[27-Sep-2014 19:23:07]  <Rig> IllFlower: You’re free to try to listen in, but yeah, probably not the most polite thing.
+[27-Sep-2014 19:23:36]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has left #madokamadness
+[27-Sep-2014 19:23:37]  <jseblan|shadowrunner> Antoine shrugs and points his finger at the higher-paying tag. "that one looks fine."
+[27-Sep-2014 19:23:57]  <Rig> The payout is still rather large, even split between 3 runners.
+[27-Sep-2014 19:24:02]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has joined #madokamadness
+[27-Sep-2014 19:24:21]  <Rig> I mean, just offhand the only person with more than 500 nuyen on hand is Malcolm.
+[27-Sep-2014 19:25:47]  <IllFlower> Rig: Any details on who the VIPs are?
+[27-Sep-2014 19:26:44]  <Rig> Mr Johnson will give more details, but Leo is happy to remind you that security is likely to be tight considering the Wu’s daughters are involved in the fashions show.
+[27-Sep-2014 19:28:21]  <IllFlower> Malcolm leans back towards Antoine. "You too, huh?" he asks in his vaguely accented English. "I don't like jobs that look too polished. The other side's likely to have more leverage."
+[27-Sep-2014 19:29:00]  <IllFlower> He laughs. "And the extra five fives aren't a bad bonus."
+[27-Sep-2014 19:29:37]  <IllFlower> Where are we keeping track of money, by the way?
+[27-Sep-2014 19:29:53]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:9dda:4ea0:283f:ac50> has joined #madokamadness
+[27-Sep-2014 19:30:24]  <AttObl> [[Looks like I'm not going fishing after all, but to respect the flow of the game, I won't be joining until next session.]]
+[27-Sep-2014 19:30:25]  <Omnipresence> 14Wikipedia (full-text): https://en.wikipedia.org/wiki/Good_Game — Good Game is an Australian television gaming programme produced by the Australian Broadcasting Corporation (ABC). It was created by Janet Carr and Jeremy Ray, and premiered in 2006.
+[27-Sep-2014 19:31:07]  <Rig> IllFlower: I have it written down on my thing, but at the moment you have 5k, jseblan has 400, and BGTB2005 has 500.
+[27-Sep-2014 19:31:15]  <Rig> That’s what the dice rolls earlier were for.
+[27-Sep-2014 19:31:25]  <IllFlower> All right.
+[27-Sep-2014 19:31:49]  <Rig> BGTB2005: You back?
+[27-Sep-2014 19:32:02]  <Rig> I think he’s the only one that wanted the other job, right?
+[27-Sep-2014 19:32:05]  <IllFlower> Yeah.
+[27-Sep-2014 19:32:49]  *** Alicia is now known as Awaycia
+[27-Sep-2014 19:33:11]  <IllFlower> Funny thing, I considered having Malcolm's girlfriend be a model for a little while. It would have fit with his kinda glitzy character. Ultimately decided to punt on it, though.
+[27-Sep-2014 19:33:58]  <jseblan|shadowrunner> Koishi doesn't know English?
+[27-Sep-2014 19:34:07]  <Rig> Nope.
+[27-Sep-2014 19:34:23]  <Rig> Japanese and Mandarin.
+[27-Sep-2014 19:34:30]  <jseblan|shadowrunner> hehehe
+[27-Sep-2014 19:34:54]  <IllFlower> I'm gonna have to be the interpreter, aren't I.
+[27-Sep-2014 19:35:13]  <Rig> Hahaha, probably.
+[27-Sep-2014 19:35:23]  <Rig> Go buy a langsoft for Antoine.
+[27-Sep-2014 19:35:38]  <jseblan|shadowrunner> wait till I exasperate him enough though
+[27-Sep-2014 19:35:42]  <IllFlower> Yeah.
+[27-Sep-2014 19:36:15]  <Rig> Leo could also interpret right now.
+[27-Sep-2014 19:37:03]  <IllFlower> Malcolm walks up to Koishi, who seems to be standing at a bit of a distance from the others.
+[27-Sep-2014 19:37:16]  <IllFlower> "And you?" he asks in Mandarin.
+[27-Sep-2014 19:38:24]  <Rig> Hm, Koishi should actually have fewer knowledge skills than he has, but that’s just gonna have to sit now. Oh well.
+[27-Sep-2014 19:39:58]  <Rig> BGTB2005 always seems to disappear right as we begin sessions.
+[27-Sep-2014 19:40:04]  <BGTB2005> I'm back
+[27-Sep-2014 19:40:39]  <IllFlower> Rig: https://docs.google.com/document/d/1AOelhxnGqj4f49ouZPMmuJelKnsaXNvxjhvwI9CdsJ8/edit # by the way.
+[27-Sep-2014 19:40:39]  <Omnipresence> 14URL: [docs.google.com] Malcolm's bio - Google Docs
+[27-Sep-2014 19:42:28]  <Rig> BGTB2005: Cool. Malcolm wants Koishi’s input.
+[27-Sep-2014 19:43:19]  <IllFlower> Or might just be hitting on her. Who knows.
+[27-Sep-2014 19:43:42]  <jseblan|shadowrunner> that's what he said. he wants her input
+[27-Sep-2014 19:43:52]  <IllFlower> /rimshot
+[27-Sep-2014 19:44:33]  <IllFlower> "Hasemi" wouldn't happen to be [[Masahiro Hasemi]], would it...
+[27-Sep-2014 19:44:35]  <Omnipresence> 14Wikipedia: https://en.wikipedia.org/wiki/Masahiro_Hasemi — Masahiro Hasemi (Shinjitai: 長谷見 昌弘, Hasemi Masahiro, born 13 November 1945, in Tokyo) is a former racing driver and team owner from Japan. He started racing motocross when he was…
+[27-Sep-2014 19:44:53]  <BGTB2005> Yes, that is exactly it
+[27-Sep-2014 19:46:10]  <ponicalica> both of BGT's characters have been Touhou+car thing
+[27-Sep-2014 19:47:25]  <BGTB2005> "About which job? I'm fine with either, but I'm more fond of the first," Koishi responds.
+[27-Sep-2014 19:48:24]  <BGTB2005> ponicalica: that is indeed the general pattern with my character names, not just for the two so far, but for others I have lined up
+[27-Sep-2014 19:48:33]  <IllFlower> "
+[27-Sep-2014 19:48:41]  <jseblan|shadowrunner> assuming she talked in Mandarin, Antoine does a language check to try and understand what Koishi said
+[27-Sep-2014 19:49:06]  <BGTB2005> yeah, that's a safe assumption. Probably should've indicated that...
+[27-Sep-2014 19:49:16]  <Rig> jseblan|shadowrunner: Okay, roll intuition + your language.
+[27-Sep-2014 19:49:24]  <Rig> d6s.
+[27-Sep-2014 19:49:35]  <jseblan|shadowrunner> 5d6 and 1d6 then?
+[27-Sep-2014 19:49:40]  <Rig> Yeah, so 6d6.
+[27-Sep-2014 19:49:43]  <jseblan|shadowrunner> +roll 6d6
+[27-Sep-2014 19:49:43]  <rollermine> jseblan|shadowrunner: (6+1+2+2+1+4)=16
+[27-Sep-2014 19:49:48]  <Rig> You understand.
+[27-Sep-2014 19:49:49]  <Rig> :P
+[27-Sep-2014 19:49:49]  <IllFlower> BGTB2005: "Not one for wetware work?" Malcolm says.
+[27-Sep-2014 19:51:04]  <Rig> jseblan|shadowrunner: If it’s something that’s critical to your understanding I’ll ask you to roll, but if you just want to make checks for small things just roll 6d6 and let me know what you’re trying to understand.
+[27-Sep-2014 19:51:41]  <Rig> But honestly, I’ll let you understand simple things with a rank of 1 in Mandarin.
+[27-Sep-2014 19:51:45]  <jseblan|shadowrunner> Antoine says, in English (assume English unless stated otherwise actually): "I don't know computers. I am not sure about you guys but I like straightforward, not hacking and crap like that"
+[27-Sep-2014 19:52:20]  <jseblan|shadowrunner> Rig: alright
+[27-Sep-2014 19:52:44]  <Rig> I’m just imaginging the mix of accents in this room and it’s pretty hilarious.
+[27-Sep-2014 19:53:15]  <IllFlower> You should come to one of my department events.
+[27-Sep-2014 19:53:36]  <Rig> Do you have any Russians speaking Chinese?
+[27-Sep-2014 19:53:54]  <IllFlower> Occasionally.
+[27-Sep-2014 19:53:57]  <Rig> Nice.
+[27-Sep-2014 19:54:16]  <Rig> BGTB2005: You still here?
+[27-Sep-2014 19:54:20]  <BGTB2005> yeah
+[27-Sep-2014 19:55:46]  <IllFlower> Malcolm tips his head. "I'm with him, sort of," he says, this time in English to go along with Antoine. "More because the data job has some fingerprints on it that I don't like."
+[27-Sep-2014 19:56:47]  <IllFlower> Noticing the slack expression on Koishi's face, though, he immediately repeats himself in Mandarin.
+[27-Sep-2014 19:57:29]  <Rig> Leo smirks at the constant flipflop of languages. Clearly his informants hadn’t been quite truthful about what languages these runners spoke.
+[27-Sep-2014 19:59:01]  <jseblan|shadowrunner> Antoine is set on the 555 job and is waiting for Malcolm to be done flirting
+[27-Sep-2014 19:59:10]  <BGTB2005> being called away again, brb
+[27-Sep-2014 20:00:46]  <Rig> http://www.youtube.com/watch?v=0Wi8Fv0AJA4
+[27-Sep-2014 20:00:46]  <Omnipresence> 14URL: [www.youtube.com] Jeopardy Theme - YouTube
+[27-Sep-2014 20:01:58]  <jseblan|shadowrunner> Antoine, considering the meeting done, asks Leo if there's any soda machines nearby.
+[27-Sep-2014 20:02:09]  <AttObl> [[Awww...]]
+[27-Sep-2014 20:02:10]  <Omnipresence> 14Wikipedia (full-text): https://en.wikipedia.org/wiki/Rock_wit_U_(Awww_Baby) — "Rock wit U (Awww Baby)" is a single released by American R&B singer Ashanti in 2003 from her second studio album, Chapter II. The single went straight to the number two…
+[27-Sep-2014 20:02:45]  <AttObl> ((Dang it. I should not use brackets again unless I want a wiki link))
+[27-Sep-2014 20:04:46]  <IllFlower> "Well, anyway," Malcolm continues, "you're always free to go with that group over there. I think they like a good cracking job. They don't look too friendly, though."
+[27-Sep-2014 20:05:06]  <Rig> “Over there,” Leo gestures towards the far corner of the room past the other runners. A vending machine has bee tilted on it’s side and the guts are exposed. “Don’t order the Omega Fizz.”
+[27-Sep-2014 20:05:24]  <Rig> “Have you decided then?”
+[27-Sep-2014 20:05:47]  <IllFlower> Pointing to Antoine, he then says, "Looks like he's already raring to go."
+[27-Sep-2014 20:06:36]  <jseblan|shadowrunner> Antoine walks to the machine and pays 1 nuyen for a buzz cola
+[27-Sep-2014 20:07:04]  <IllFlower> He shrugs. "I've got a couple of questions for him. You can always join us if you want."
+[27-Sep-2014 20:07:29]  <IllFlower> Malcolm trots up to Antoine, who's busy fiddling with the exploded vending machine.
+[27-Sep-2014 20:08:03]  <Rig> IllFlower: Was that last bit at Leo?
+[27-Sep-2014 20:08:26]  <IllFlower> Rig: To Koishi. Who I know is a bit silent at the moment.
+[27-Sep-2014 20:09:10]  *** Xeniera <~Solstace@75-164-228-252.ptld.qwest.net> has quit IRC (Ping timeout: 201 seconds)
+[27-Sep-2014 20:09:11]  <IllFlower> "Looks like we're going to be working on the same job. I should introduce myself," he says, extending a hand. "You can call me Mal."
+[27-Sep-2014 20:09:46]  *** Awaycia is now known as Alicia
+[27-Sep-2014 20:10:09]  *** Xeniera <~Solstace@71-34-89-216.ptld.qwest.net> has joined #madokamadness
+[27-Sep-2014 20:10:09]  *** ChanServ sets mode: +o Xeniera
+[27-Sep-2014 20:10:44]  <jseblan|shadowrunner> Antoine, having picked up his soda, shakes Malcolm's hand. "You call me Antoine. Where are you from?"
+[27-Sep-2014 20:12:15]  <IllFlower> "Down south. I'm here on some business. You?"
+[27-Sep-2014 20:12:51]  <jseblan|shadowrunner> "Way west. Here on... business, I guess."
+[27-Sep-2014 20:14:03]  <IllFlower> "There's a lot of business that needs doing here," Malcolm says with a smirk.
+[27-Sep-2014 20:14:20]  <Rig> Leo goes over to the other runners and shows them the tags as well, conversing with them quietly in Japanese again. To Malcolm it sounds like what was said earlier.
+[27-Sep-2014 20:14:29]  <IllFlower> "What's your area of expertise?"
+[27-Sep-2014 20:14:49]  <Rig> Please do not melt Leo’s stuff. He will be upset.
+[27-Sep-2014 20:15:30]  <IllFlower> "Do not bend, fold, spindle, or mutilate."
+[27-Sep-2014 20:15:52]  <jseblan|shadowrunner> oh good, I can still poison stuff
+[27-Sep-2014 20:18:06]  <Rig> So, um, how goes it?
+[27-Sep-2014 20:18:08]  <jseblan|shadowrunner> "I do magic. I deal with nasty things sometimes. Nasty peoples more often." Antoine is trying to sound as tough as he can. (can I have an intimidation roll?)
+[27-Sep-2014 20:18:35]  <Rig> Sure.
+[27-Sep-2014 20:18:50]  <Rig> It’s intimidation skill and charisma.
+[27-Sep-2014 20:19:06]  <Rig> Versus Mal’s Intimidation and Willpower.
+[27-Sep-2014 20:19:29]  <jseblan|shadowrunner> +roll 7d6
+[27-Sep-2014 20:19:30]  <rollermine> jseblan|shadowrunner: (1+5+4+4+2+3+2)=21
+[27-Sep-2014 20:19:32]  <jseblan|shadowrunner> like that?
+[27-Sep-2014 20:19:37]  <IllFlower> I don't have Intimidation, so does that just default to Charisma - 1?
+[27-Sep-2014 20:20:04]  <Rig> Yeah.
+[27-Sep-2014 20:20:18]  <IllFlower> +roll 6d6
+[27-Sep-2014 20:20:18]  <rollermine> IllFlower: (6+1+6+4+1+2)=20
+[27-Sep-2014 20:20:21]  <Rig> And jseblan|shadowrunner where’d you get 7?
+[27-Sep-2014 20:20:48]  <jseblan|shadowrunner> oh, dumb, I had 5 intimidation in my head
+[27-Sep-2014 20:20:50]  <jseblan|shadowrunner> +roll 6d6
+[27-Sep-2014 20:20:51]  <rollermine> jseblan|shadowrunner: (5+4+2+4+4+6)=25
+[27-Sep-2014 20:21:03]  <IllFlower> Shouldn't it be 8?
+[27-Sep-2014 20:21:11]  <Rig> Why?
+[27-Sep-2014 20:21:11]  <IllFlower> Oh, wait, never mind.
+[27-Sep-2014 20:21:16]  <Rig> Yeah, anyway, it’s a tie.
+[27-Sep-2014 20:21:22]  <Rig> So, Mal can just shrug.
+[27-Sep-2014 20:22:04]  <BGTB2005> back, sorry about that
+[27-Sep-2014 20:22:16]  <jseblan|shadowrunner> damn your rugged good looks, IllFlower 
+[27-Sep-2014 20:22:24]  <IllFlower> I get that a lot.
+[27-Sep-2014 20:22:58]  <BGTB2005> anyways, while Koishi's deciding which job to take, she's trying to listen in on the other Japanese runners
+[27-Sep-2014 20:24:30]  <IllFlower> "I can tell," Malcolm says, giving Antoine a once-over. He can't tell if Antoine's last comment was supposed to be foreboding or just psychotic. "Well, it'll be good to have an... experienced hand."
+[27-Sep-2014 20:24:32]  <Rig> BGTB2005: roll 9d6.
+[27-Sep-2014 20:24:42]  <BGTB2005> +roll 9d6
+[27-Sep-2014 20:24:42]  <rollermine> BGTB2005: (5+6+3+2+6+1+6+1+3)=33
+[27-Sep-2014 20:25:19]  <Rig> The runner’s are talking about discussing Wuxing security.
+[27-Sep-2014 20:25:27]  <Rig> *strike talking about
+[27-Sep-2014 20:25:56]  <IllFlower> They're having a nice metaconversation.
+[27-Sep-2014 20:26:05]  <jseblan|shadowrunner> Antoine realizes his attempt at bravado failed. "Uh, yeah. I'm the best in Mo- where I'm from."
+[27-Sep-2014 20:26:15]  <Rig> Heh.
+[27-Sep-2014 20:27:07]  <Rig> So, has Koishi made up her mind? Or shall we have a negiotation between her and Mal?
+[27-Sep-2014 20:27:15]  <jseblan|shadowrunner> He opens his can of buzz cola and sips on it, trying to get his mind off that disastrous first impression.
+[27-Sep-2014 20:27:27]  <IllFlower> "I'm sure you won't disappoint." That faint smile peeks out on Malcolm's lips again.
+[27-Sep-2014 20:27:36]  <Rig> Flirting with all the runner’s.
+[27-Sep-2014 20:27:43]  <BGTB2005> Let's try negotiation
+[27-Sep-2014 20:28:36]  <Rig> Okay, well, make your case for the first mission to Mal and roll negotiation + charisma
+[27-Sep-2014 20:29:00]  <jseblan|shadowrunner> Japanese or Mandarin?
+[27-Sep-2014 20:29:20]  * BGTB2005 checks chummer
+[27-Sep-2014 20:29:41]  <BGTB2005> I have all of /one/ charisma, no points in negotiation, so defaulting gives me zero
+[27-Sep-2014 20:30:08]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has quit IRC (Ping timeout: 201 seconds)
+[27-Sep-2014 20:30:12]  <Rig> Hahaha, you can’t default in it anyway.
+[27-Sep-2014 20:30:14]  <Rig> You’re uncouth.
+[27-Sep-2014 20:30:16]  <IllFlower> Malcolm's faint smile is a powerful thing.
+[27-Sep-2014 20:30:18]  <Rig> So, you can’t do that.
+[27-Sep-2014 20:30:58]  <BGTB2005> So she automatically fails negotiations?
+[27-Sep-2014 20:31:18]  <Rig> Pretty much. Mal could easily convince Koishi to do whatever mission he picks.
+[27-Sep-2014 20:31:53]  <IllFlower> :) :) :)
+[27-Sep-2014 20:32:00]  <IllFlower> :)))))))))))))
+[27-Sep-2014 20:32:08]  <Rig> Shall we let Leo know what mission Mal has picked?
+[27-Sep-2014 20:32:21]  <jseblan|shadowrunner> yeha
+[27-Sep-2014 20:32:22]  <IllFlower> Yeah, sure, I'll do it.
+[27-Sep-2014 20:32:23]  <jseblan|shadowrunner> yeah*
+[27-Sep-2014 20:33:10]  <IllFlower> Malcolm walks up to Leo. "We'll take the personnel job," he says. "Myself, Antoine, and the girl in the corner there."
+[27-Sep-2014 20:35:48]  <Rig> Leo nods, “Good,” he taps his wrist and the corresponding tag switches off quietly. “I’ll contact the client and send you the details for the meet later.” Leo looks at the runners. “Good luck.” He turns back to the other group, leaving you to your business.
+[27-Sep-2014 20:35:57]  *** CentralAve <~CentralAv@d60-65-209-130.col.wideopenwest.com> has joined #madokamadness
+[27-Sep-2014 20:36:14]  <Rig> If you’d like to do anything else here or around Hangzhou you can or we can skip straight to meeting Mr Johnson.
+[27-Sep-2014 20:38:05]  <IllFlower> "I told the man you were working with us," Malcolm says to Koishi.
+[27-Sep-2014 20:38:11]  <IllFlower> "Seemed like the safest thing to do."
+[27-Sep-2014 20:38:14]  <Rig> Hahaha.
+[27-Sep-2014 20:40:09]  <jseblan|shadowrunner> Antoine walks up to Koishi and attempts to say "hello, I am Antoine" in Mandarin
+[27-Sep-2014 20:40:37]  <Rig> @roll 6d6
+[27-Sep-2014 20:40:45]  <Rig> +roll 6d6
+[27-Sep-2014 20:40:45]  <rollermine> Rig: (3+1+6+6+5+4)=25
+[27-Sep-2014 20:40:49]  <Rig> Too many bots.
+[27-Sep-2014 20:41:03]  <BGTB2005> "Okay, sure," Koishi responded to Malcolm in Japanese, still trying to discern what group the other runners were affiliated with.
+[27-Sep-2014 20:42:05]  <IllFlower> Malcolm makes a funny face. "You know, miss," he says in Japanese, "you really should pick just one language and stick with it. I might be able to keep up, but our friend here..."
+[27-Sep-2014 20:44:31]  <IllFlower> He shrugs. "Well, whatever. I'm Mal. Pleased to make your acquaintance."
+[27-Sep-2014 20:45:56]  <IllFlower> To Antoine he says, in English, "Looks like she's good to go. I don't know her name yet, but... eh."
+[27-Sep-2014 20:46:14]  <BGTB2005> "Hasemi. Nice to meet you."
+[27-Sep-2014 20:47:06]  <jseblan|shadowrunner> you answered that in Japanese or Mandarin?
+[27-Sep-2014 20:47:20]  <jseblan|shadowrunner> shadowrun more like languagerun
+[27-Sep-2014 20:47:30]  <IllFlower> "Oh." Malcolm's neck is certainly getting a workout from all the turning back and forth. "So you *are* Japanese." He nods to himself, satisfied.
+[27-Sep-2014 20:47:55]  <AttObl> ((There's a lot of languages to learn if you plan to run all over the world.))
+[27-Sep-2014 20:47:56]  <BGTB2005> jseblan|shadowrunner: Japanese.
+[27-Sep-2014 20:47:59]  <Rig> The future involves everyone talking and no one understanding.
+[27-Sep-2014 20:49:21]  <jseblan|shadowrunner> BGTB2005: oh, and was it directed to Antoine or Mal?
+[27-Sep-2014 20:49:33]  <BGTB2005> jseblan|shadowrunner: Malcolm
+[27-Sep-2014 20:49:48]  <jseblan|shadowrunner> I walked up and introduced myself in Mandarin. I think I rolled successfully?
+[27-Sep-2014 20:50:10]  <Rig> You did. Introducing yourself is pretty trivial.
+[27-Sep-2014 20:50:14]  <IllFlower> nb: Her name in Mandarin is "Changgujian Lian." Try saying that five times fast.
+[27-Sep-2014 20:51:07]  <IllFlower> also: こいし -> 恋? wtf
+[27-Sep-2014 20:52:42]  <IllFlower> "Well, this is good," Malcolm says in Japanese to no one in particular. "I've always had better luck with Japanese girls than Chinese ones."
+[27-Sep-2014 20:52:56]  <Rig> ¬.¬ Shadowlove.
+[27-Sep-2014 20:53:36]  <Rig> Anyway, are we ready to move on or shall we continue with this multilingual flirtation?
+[27-Sep-2014 20:53:41]  <jseblan|shadowrunner> what is the other group doing by now?
+[27-Sep-2014 20:54:19]  <IllFlower> Then, to Antoine, in English: "I'll buy you Rosetta Stone next time I get the chance. I'm not a big fan of being the interpreter."
+[27-Sep-2014 20:54:41]  <Rig> Leo’s given them their mission and they’re doing something on the Matrix. If you want to know more you’d need to hack into their stuff.
+[27-Sep-2014 20:57:47]  <IllFlower> Rig: For what it's worth, the manual does suggest rolling once per interaction as a way to cut down on the complications of differing language skills.
+[27-Sep-2014 20:57:58]  <IllFlower> I'm good to carry on.
+[27-Sep-2014 20:58:25]  <Rig> Yeah, I was just going to go with the whole “as long as it’s not specific to a skill or something Antoine can understand it."
+[27-Sep-2014 20:58:31]  <BGTB2005> My vote's for moving on
+[27-Sep-2014 20:59:04]  <Rig> Of course, a linguasoft isn’t expensive (for Mal) if you want to bump up his skill.
+[27-Sep-2014 20:59:09]  <Rig> jseblan|shadowrunner: Good for moving on?
+[27-Sep-2014 20:59:12]  <jseblan|shadowrunner> yep
+[27-Sep-2014 20:59:42]  <jseblan|shadowrunner> Antoine shrugs. "Yeah, sure, great." he says to Mal. He's impatient to get going.
+[27-Sep-2014 21:02:07]  <IllFlower> It only took us two hours to pick our first mission, haha.
+[27-Sep-2014 21:03:15]  <Rig> A few hours later everyone receives a message directing them to a warehouse near Hangzhou’s major port. When they arrive they skirt around the numerous warehouses emblazoned with the Wuxing logo.
+[27-Sep-2014 21:04:24]  <Rig> Eventually, warehouse 384 comes into view. The main entrance is open slightly and some dim lights are visible inside. A man in a suit leans agains the door, smoking a cigarette idly.
+[27-Sep-2014 21:05:24]  <Rig> He eyes the motley group before flicking the cigarette away and nodding a greeting.
+[27-Sep-2014 21:05:30]  <Rig> **
+[27-Sep-2014 21:05:52]  <IllFlower> Malcolm waves the cigarette smoke away. "Nice to meet you."
+[27-Sep-2014 21:06:24]  <jseblan|shadowrunner> Antoine nods back. "You're the Johnson?"
+[27-Sep-2014 21:06:54]  <Rig> “No, I’m a dockworker,” the man says with a smile.
+[27-Sep-2014 21:08:09]  <IllFlower> "Pretty slim arms for a dockworker," Malcolm says, returning the smile.
+[27-Sep-2014 21:09:05]  <Rig> Mr. Johnson appreciates the cleverness and cuts to the chase. He retrieves a set of glossy photos from inside his jacket and holds them out to the team. “Your targets,” he says.
+[27-Sep-2014 21:09:17]  <IllFlower> Anybody famous?
+[27-Sep-2014 21:09:26]  <Rig> Each of the five photos depicts one of the Wu’s quintuplets.
+[27-Sep-2014 21:10:19]  <IllFlower> Malcolm laughs. "Well, that explains the bounty."
+[27-Sep-2014 21:10:58]  <Rig> “I’m able to provide you with details on security and itenerary,” Mr Johnson says.
+[27-Sep-2014 21:11:16]  <Rig> He looks at Antoine and Koishi. “Do you need transport for the job?”
+[27-Sep-2014 21:11:34]  <IllFlower> "Do you have transport to give?"
+[27-Sep-2014 21:12:46]  <Rig> “I can arrange something,” he says with a small nod.
+[27-Sep-2014 21:13:43]  <jseblan|shadowrunner> Antoine sighs, not realizing there would be more targets than runners when he picked the job. "do we get 111k per target or what?"
+[27-Sep-2014 21:14:30]  <Rig> “The job comes in three parts. Acquire the targets, deliver them to the client, and provide security until the ransom is paid. You get the full payment for even a single one of the girls.”
+[27-Sep-2014 21:18:27]  <Rig> “We’ll provide you with transport and some extra help for security. Is the contract clear?”
+[27-Sep-2014 21:18:29]  <IllFlower> Malcolm is initially surprised, but eventually realizes what the gambit is.
+[27-Sep-2014 21:18:48]  <IllFlower> "No bonus if we get a couple extra on the side?"
+[27-Sep-2014 21:19:41]  <Rig> “Is the payment not enough?”
+[27-Sep-2014 21:19:42]  <jseblan|shadowrunner> "I think we'll have our hands full enough picking up five people, Mal."
+[27-Sep-2014 21:20:11]  <IllFlower> Rig: "Just wondering."
+[27-Sep-2014 21:20:22]  <IllFlower> jseblan|shadowrunner: He said that we only need to kidnap one.
+[27-Sep-2014 21:20:35]  <jseblan|shadowrunner> oh
+[27-Sep-2014 21:20:44]  <jseblan|shadowrunner> nevermind then
+[27-Sep-2014 21:21:25]  <IllFlower> Should totally kidnap two and only give back one.
+[27-Sep-2014 21:21:45]  <Rig> “The job only requires one. Taking extra targets is… acceptable, but not required."
+[27-Sep-2014 21:22:12]  <IllFlower> "Got it."
+[27-Sep-2014 21:22:27]  <Rig> You’re free to try to negotiate bonuses or extra gear or whatever.
+[27-Sep-2014 21:23:19]  <IllFlower> Gimme a sec to think.
+[27-Sep-2014 21:23:19]  <jseblan|shadowrunner> "what will the security be like around them? Pretty tight, I guess?"
+[27-Sep-2014 21:24:58]  <Rig> Mr Johnson produces a datachip from inside his jacket. “This contains the patrols for the show, but the girls generally have a their own additional security. Knight Errant instead of standard corporate security.”
+[27-Sep-2014 21:26:15]  <IllFlower> "I wouldn't have expected anything less," Malcolm says.
+[27-Sep-2014 21:27:06]  <Rig> “Tou will probably be the most heavily guarded as usual, but Shui and Moak are both participating in the show and won’t have their watchdogs by their side the entire time.”
+[27-Sep-2014 21:29:13]  <Rig> Mr Johnson knocks on the warehouse door and it slides back to reveal an older pickup truck. It doesn’t look like much as it rolls out of the warehouse.
+[27-Sep-2014 21:29:23]  <IllFlower> "Ransom's no good if the girl's not alive, I take it," Malcolm says to the other two runners. "Some gas grenades might be nice."
+[27-Sep-2014 21:29:30]  <BGTB2005> "And the other two?"
+[27-Sep-2014 21:30:28]  <Rig> A man, probably a triad member Malcolm notes, gets out of the pickup and heads back into the warehouse.
+[27-Sep-2014 21:31:07]  <IllFlower> Might be good to call the Triad contact later and see if he's got any information...
+[27-Sep-2014 21:31:43]  <jseblan|shadowrunner> "You've got plans of the show's location?"
+[27-Sep-2014 21:31:46]  <Rig> “The other two will be in the audience,” Johnson says. “They’ll be surrounded by their guards and fashionistas there for the show.”
+[27-Sep-2014 21:32:27]  <Rig> “Beyond the location? No.”
+[27-Sep-2014 21:33:05]  <Rig> “I take it this will be suitable transport?” he indicates the truck. “It’s licensed to an owner in Upper Hangzhou and has a pass for the lift.”
+[27-Sep-2014 21:33:30]  <Rig> Mr Johnson walks to the bed and motions for the runners to join him.
+[27-Sep-2014 21:33:39]  <IllFlower> "The truck's good," Malcolm says.
+[27-Sep-2014 21:34:11]  <IllFlower> I'm thinking we go for either Shui or Moak.
+[27-Sep-2014 21:34:19]  <IllFlower> Seems like the path of least resistance.
+[27-Sep-2014 21:34:24]  <jseblan|shadowrunner> yeah.
+[27-Sep-2014 21:34:29]  <jseblan|shadowrunner> I have some ideas
+[27-Sep-2014 21:35:34]  <BGTB2005> Try and grab one of them while they're backstage?
+[27-Sep-2014 21:35:42]  <IllFlower> Malcolm pauses, then turns to Mr. Johnson. "Do you have access to any armaments?"
+[27-Sep-2014 21:36:27]  <Rig> “What were you thinking?”
+[27-Sep-2014 21:37:18]  <IllFlower> "I think we're covered on lethal methods, but something more nuanced would be good.
+[27-Sep-2014 21:37:37]  <IllFlower> "Gas, stun weapons, anything like that. Especially anything good with a moderately-sized group."
+[27-Sep-2014 21:37:45]  <jseblan|shadowrunner> "I know a spell or two for that"
+[27-Sep-2014 21:38:10]  *** Xeniera <~Solstace@71-34-89-216.ptld.qwest.net> has quit IRC (Quit: Leaving.)
+[27-Sep-2014 21:38:46]  <IllFlower> "Can't hurt to have a little backup."
+[27-Sep-2014 21:41:19]  <Rig> Mr Johnson lifts the tarp over the back of the truck to reveal a two crates. “Stick-n-Shock ammo and flash-bangs.”
+[27-Sep-2014 21:41:37]  <Rig> “Anything else you’ll have to supply on your own, I’m afraid."
+[27-Sep-2014 21:42:25]  <IllFlower> "We'll take what we can get."
+[27-Sep-2014 21:44:21]  <Rig> “The show is scheduled at 1600 tomorrrow, weather permitting. You’re to return the target to this warehouse. If you don’t arrive by 1900 we’ll assume you failed and cut our losses.”
+[27-Sep-2014 21:44:47]  <jseblan|shadowrunner> "three hours' a bit short"
+[27-Sep-2014 21:44:51]  <IllFlower> "And we won't get our dinner," Malcolm helpfully adds.
+[27-Sep-2014 21:45:47]  <Rig> “They’re just girls,” Mr Johnson tells Antoine. “We want them to be home by bedtime, don’t we?”
+[27-Sep-2014 21:46:47]  <jseblan|shadowrunner> "I bet Malcolm wants them in bed, eh?" Antoine says, chuckling to himself
+[27-Sep-2014 21:46:52]  <jseblan|shadowrunner> Mal*
+[27-Sep-2014 21:47:10]  <Rig> They’re like 11, btw.
+[27-Sep-2014 21:47:23]  <jseblan|shadowrunner> :|
+[27-Sep-2014 21:47:30]  <Rig> They’re just celebrities because they’re daughters of the owner of Wuxing.
+[27-Sep-2014 21:47:30]  <jseblan|shadowrunner> I was not aware of that
+[27-Sep-2014 21:47:37]  <IllFlower> Oh. I thought they were, like, mid-20s socialites.
+[27-Sep-2014 21:47:44]  <IllFlower> You've gotta be clearer on these things.
+[27-Sep-2014 21:47:44]  <Rig> Sorry, should have clarified earlier.
+[27-Sep-2014 21:48:04]  <Rig> They’re 11 year old quintuplets born to the owners of Wuxing.
+[27-Sep-2014 21:48:37]  <Rig> And they’re probably the result of a magic coin given to the Wu’s by the dragon that was president the UCAS.
+[27-Sep-2014 21:48:42]  <Rig> *of the UCAS
+[27-Sep-2014 21:48:57]  <IllFlower> And two of them are in a fashion show? So precocious.
+[27-Sep-2014 21:49:11]  <Rig> Pretty much.
+[27-Sep-2014 21:49:19]  <jseblan|shadowrunner> kid's pageants. we're probably helping them more than anything.
+[27-Sep-2014 21:49:27]  <IllFlower> lol
+[27-Sep-2014 21:49:28]  <BGTB2005> yeah
+[27-Sep-2014 21:49:34]  <IllFlower> "We were doing it for the children!"
+[27-Sep-2014 21:49:46]  <Rig> They’re mostly doing the fashion thing as publicity for Wuxing’s new tower.
+[27-Sep-2014 21:49:55]  <BGTB2005> sod it, let's just kidnap all five :V
+[27-Sep-2014 21:50:49]  <jseblan|shadowrunner> anyway
+[27-Sep-2014 21:50:49]  <Rig> It’s worth noting that they’re also kinda weird in that they might be telepathic and might be magic.
+[27-Sep-2014 21:51:00]  <jseblan|shadowrunner> ...
+[27-Sep-2014 21:51:02]  <Alicia> 0,0I see BGT's redirecting Rin's violent energy into this girl.
+[27-Sep-2014 21:51:03]  <Rig> But those are just rumors from TMZ essentially.
+[27-Sep-2014 21:51:09]  <IllFlower> Oh, of course. Can't have normal children resulting from multiple births...
+[27-Sep-2014 21:51:30]  <jseblan|shadowrunner> so I could use Influence on one and there's a chance it propagates on the other four?
+[27-Sep-2014 21:51:40]  <Rig> Multiple births surrounding a coin called the Third Coin of Luck.
+[27-Sep-2014 21:51:56]  <Rig> jseblan|shadowrunner: Maybe, yeah.
+[27-Sep-2014 21:52:15]  <jseblan|shadowrunner> okay
+[27-Sep-2014 21:53:26]  <jseblan|shadowrunner> "I think everything's in order then. We have some time to plan out the details.", Antoine says.
+[27-Sep-2014 21:53:39]  <IllFlower> So I figure, if we're going backstage, Malcolm lies the group as far as possible, then Antoine knocks them out, then Koishi kills the rest.
+[27-Sep-2014 21:54:14]  <Rig> Mr Johnson nods. “If that’s all,” he says and turns to head into the warehouse. He lights up another cigarette as the door slides closed behind him.
+[27-Sep-2014 21:54:38]  <Rig> You can of course use that time to prepare to call contacts or acquire more gear.
+[27-Sep-2014 21:55:01]  <IllFlower> I'm thinking the Triad friend definitely needs a ring.
+[27-Sep-2014 21:55:32]  <jseblan|shadowrunner> I have no contacts in the area and not much to spend. I stay with Mal, if he doesn't mind.
+[27-Sep-2014 21:56:01]  <jseblan|shadowrunner> no contacts/no contacts with influence in Hangzhou
+[27-Sep-2014 21:56:38]  <IllFlower> Best friends already. Awesome.
+[27-Sep-2014 21:57:30]  <Rig> Koishi has a fixer and an arms dealer that could be contacted for maybe some gas grenades or something.
+[27-Sep-2014 21:57:57]  <Rig> Anyway, how do you want to contact your triad friend and what do you want to talk to him about?
+[27-Sep-2014 21:58:07]  <IllFlower> "Hasemi," Malcolm says in Japanese, turning to the girl. "You got anything to say? I know your English isn't good, but it's a little creepy how you haven't said anything."
+[27-Sep-2014 21:59:17]  <IllFlower> Rig: Put a phone call in, see if he's got information about the show. Maybe he's got someone inside, who knows.
+[27-Sep-2014 22:02:30]  <Rig> Liao doesn’t know of any Triad plots targeting Wuxing. In fact, as far as he’s aware, most Triads are in good graces with Wuxing who lets their smuggling operations slide for a little cut and maybe some hired muscle. 
+[27-Sep-2014 22:04:25]  <jseblan|shadowrunner> I'm guessing my street knowledge on magic threats wouldn't be useful in Hangzhou? The way I see it is Antoine knows stuff about toxic path organizations and things like that, though he's not toxic path himself.
+[27-Sep-2014 22:05:11]  <IllFlower> Some pretty corporatist gangsters we've got in this town.
+[27-Sep-2014 22:05:37]  <Rig> @dice roll 8d6
+[27-Sep-2014 22:05:37]  <Omnipresence> 14Rig: Rolled 1 2 4 4 5 5 5 6 = 32.
+[27-Sep-2014 22:06:26]  <Rig> Liao does know a guy in Hangzhou that makes security passes for some of the public events. He could get you some fake credentials as a favor if you’re smooth with it.
+[27-Sep-2014 22:06:55]  <IllFlower> If he'd please.
+[27-Sep-2014 22:07:29]  <Rig> Could you roll Charisma+Negotiation+his loyalty?
+[27-Sep-2014 22:07:50]  <Rig> Actually, what is his loyalty?
+[27-Sep-2014 22:08:04]  <IllFlower> @dice roll 13d6
+[27-Sep-2014 22:08:04]  <Omnipresence> 14IllFlower: Rolled 1 1 1 3 3 4 4 5 5 5 5 6 6 = 49.
+[27-Sep-2014 22:08:10]  <IllFlower> 6 hits.
+[27-Sep-2014 22:08:20]  <IllFlower> Rig: 3.
+[27-Sep-2014 22:08:24]  <Rig> Okay, cool.
+[27-Sep-2014 22:08:41]  <Rig> You can meet the guy and he’ll give you passes backstage.
+[27-Sep-2014 22:09:00]  <IllFlower> Hooray.
+[27-Sep-2014 22:09:05]  <Rig> jseblan|shadowrunner: Yeah, not sure if the knowledge is helpful here.
+[27-Sep-2014 22:09:15]  <IllFlower> KOISHI SAY SOMETHING YOU'RE FREAKING ME OUT
+[27-Sep-2014 22:10:08]  <ponicalica> she doesn't need to she has mind reading or wait that's satori and Nitya will get mad at me for getting his waifu wrong
+[27-Sep-2014 22:10:09]  <Rig> Okay, so, we’ve got passes backstage, a pickup truck, a map of patrol routes, and some 100 stick-n-shock rounds for each of you and maybe 3 flashbangs a piece.
+[27-Sep-2014 22:10:14]  <BGTB2005> "I think going after Shui or Moak would be best," Koishi says in Japanese.
+[27-Sep-2014 22:10:39]  <IllFlower> ponicalica: You guys are all maniacs.
+[27-Sep-2014 22:11:04]  <IllFlower> Antoine has us covered on the knockout gas, right?
+[27-Sep-2014 22:12:52]  <IllFlower> Malcolm chimes in. "I have an idea, actually. Why not both of them?"
+[27-Sep-2014 22:12:53]  <jseblan|shadowrunner> Rig: especially since having any toxic path people involved would probably get us five dead kids and a bunch more bad stuff happen
+[27-Sep-2014 22:13:09]  <Rig> Hahaha.
+[27-Sep-2014 22:13:21]  <BGTB2005> brb, restarting firefox
+[27-Sep-2014 22:13:23]  <jseblan|shadowrunner> IllFlower: I have Mob Mood. I can make everyone in the area depressed or something.
+[27-Sep-2014 22:13:52]  <IllFlower> So... "I could shoot the intruders, but... *sigh* what's the fucking point?"
+[27-Sep-2014 22:14:18]  <Rig> they’d suffer a penalty for trying.
+[27-Sep-2014 22:14:35]  <jseblan|shadowrunner> make them so sad they cry and can't shoot straight
+[27-Sep-2014 22:15:08]  <ponicalica> ("I...I can't believe it ended that way...all she wanted was someone to love...")
+[27-Sep-2014 22:15:33]  <IllFlower> I still think buying a few gas grenades from Koishi's contact would be good for insurance.
+[27-Sep-2014 22:16:07]  <Rig> You could also buy them from any arms dealer in Lower Hangzhou.
+[27-Sep-2014 22:16:08]  *** BGTB2005 <~BGT@pool-71-180-144-151.tampfl.fios.verizon.net> has quit IRC (Remote host closed the connection)
+[27-Sep-2014 22:16:14]  <Rig> They’re not hard to find.
+[27-Sep-2014 22:17:00]  <IllFlower> Yeah, but... you know, warm, brotherly feelings.
+[27-Sep-2014 22:17:54]  <jseblan|shadowrunner> IllFlower: yeah, I do think having a few more options than just "make everyone in the room sad" is a pretty good idea, heh
+[27-Sep-2014 22:18:29]  <jseblan|shadowrunner> especially since the quintuplet's security might involve magic too
+[27-Sep-2014 22:18:45]  <IllFlower> Narcoject grenades would be ¥70 a pop.
+[27-Sep-2014 22:18:50]  <Rig> They would be.
+[27-Sep-2014 22:19:11]  <Rig> If you get them from the contact you can swing for a discount.
+[27-Sep-2014 22:20:38]  <IllFlower> Koishi would have to negotiate for it, though, no?
+[27-Sep-2014 22:21:03]  <Rig> Yes.
+[27-Sep-2014 22:21:11]  <Rig> So, no luck there really. :P
+[27-Sep-2014 22:21:15]  <IllFlower> Or can I just go Charisma + Negotiation with no contact loyalty bonus?
+[27-Sep-2014 22:21:20]  <Rig> Such is the life of being an uncouth mute.
+[27-Sep-2014 22:21:27]  <IllFlower> Well, actually, I could do that with anyone. So yeah.
+[27-Sep-2014 22:21:31]  <Rig> Yeah, you could.
+[27-Sep-2014 22:22:08]  <IllFlower> I figure laying down for three to five wouldn't be a bad idea.
+[27-Sep-2014 22:22:57]  <Rig> I don’t think it could hurt. You might also want to look into something that can stop pursuers in general.
+[27-Sep-2014 22:23:24]  <IllFlower> Oh. Yeah. That.
+[27-Sep-2014 22:23:38]  <Rig> Though Antoine might be able to magic pursuers away.
+[27-Sep-2014 22:24:19]  <IllFlower> Is there no handy instant wall-in-a-box in this future? What a rip.
+[27-Sep-2014 22:24:27]  <jseblan|shadowrunner> I'm sure toxic wave can deal with pursuers
+[27-Sep-2014 22:25:04]  <IllFlower> lol
+[27-Sep-2014 22:25:23]  <IllFlower> Are the three of us going in as a group?
+[27-Sep-2014 22:25:23]  <jseblan|shadowrunner> yeah, just checked, it can eat away at metals and a bunch of stuff, not just living targets
+[27-Sep-2014 22:25:35]  <IllFlower> Otherwise, we'll probably need some kind of comms equipment.
+[27-Sep-2014 22:25:55]  <IllFlower> I'm telling you, this is turning into Ocean's Eleven.
+[27-Sep-2014 22:25:57]  <Rig> You can always try hacking the cars, but you’ll probably be driving too. :P
+[27-Sep-2014 22:26:04]  *** BGTB2005 <~BGT@pool-71-180-144-151.tampfl.fios.verizon.net> has joined #madokamadness
+[27-Sep-2014 22:26:11]  <Rig> Anyway, choices?
+[27-Sep-2014 22:27:25]  <jseblan|shadowrunner> we should get to the event earlier than 1600
+[27-Sep-2014 22:27:57]  <Rig> A good plan.
+[27-Sep-2014 22:28:13]  <BGTB2005> I don't know what all I missed but that sounds like a good idea
+[27-Sep-2014 22:28:26]  <Rig> Talking about what extra gear you’ll need.
+[27-Sep-2014 22:29:10]  <BGTB2005> Are less-lethal armaments covered?
+[27-Sep-2014 22:29:32]  <Rig> You’ve got 100 SnS rounds per person and 3 flashbangs per person.
+[27-Sep-2014 22:30:15]  <Rig> I think Mal wants to buy 5(?) narcoject grenades.
+[27-Sep-2014 22:30:15]  <IllFlower> I was thinking about buying some Narcoject grenades as well.
+[27-Sep-2014 22:30:22]  <IllFlower> Three to five, yeah.
+[27-Sep-2014 22:30:30]  <Rig> And we were discussing how to throw off pursuers.
+[27-Sep-2014 22:30:40]  <IllFlower> Other than by shooting them.
+[27-Sep-2014 22:30:41]  <BGTB2005> throw Koishi at them :V
+[27-Sep-2014 22:31:00]  <jseblan|shadowrunner> Rig: SnS rounds are shot from normal firearms, right?
+[27-Sep-2014 22:31:03]  <IllFlower> This mission's going to be like my playthrough of DXHR.
+[27-Sep-2014 22:31:03]  <Rig> Yeah.
+[27-Sep-2014 22:31:14]  <jseblan|shadowrunner> I don't have a gun
+[27-Sep-2014 22:31:22]  <BGTB2005> :|
+[27-Sep-2014 22:31:27]  <Rig> Hahaha, so, you guys can divy that up how you like.
+[27-Sep-2014 22:31:28]  <jseblan|shadowrunner> so we should give my share of the ammo to Koishi or Mal
+[27-Sep-2014 22:31:29]  <IllFlower> "Fuck, ran out of nonlethal weapons. Well, time to shoot the 9001 pistol rounds I've accumulated..."
+[27-Sep-2014 22:31:50]  <jseblan|shadowrunner> uh, yeah, the other two get 50 more rounds
+[27-Sep-2014 22:31:57]  <Rig> If you accomplish this without killing anyone I will be so amazed.
+[27-Sep-2014 22:32:15]  <IllFlower> Yeah, so Koishi and Malcolm will each get 150.
+[27-Sep-2014 22:32:24]  <jseblan|shadowrunner> I have stun gloves so if we go melee I can use that. pretty sure they're non-lethal
+[27-Sep-2014 22:32:27]  <Rig> Do you want to toss Antoine some more flashbangs?
+[27-Sep-2014 22:32:38]  <Rig> Yeah, the gloves are nonlethal.
+[27-Sep-2014 22:32:45]  <Rig> I want to see you just run up and slug Moak.
+[27-Sep-2014 22:32:49]  <IllFlower> I'll toss Antoine one.
+[27-Sep-2014 22:32:49]  <jseblan|shadowrunner> I should be fine with three flashbangs
+[27-Sep-2014 22:32:51]  <AttObl> ((Heh. I usually don't bother with guns anyway. Unless it's a bossfight. Oh, and yeah, "Converse your ammo" is one of the street proverbs.))
+[27-Sep-2014 22:34:03]  <jseblan|shadowrunner> Rig: I'll go back to Montreal and tell my 12 years old contact about that mission where I punched an 11 years old girl in the face with an electric glove, yeah.
+[27-Sep-2014 22:34:14]  <Rig> A good bedtime story.
+[27-Sep-2014 22:34:18]  <Rig> “So, go the fuck to sleep!"
+[27-Sep-2014 22:34:44]  <IllFlower> I'm thinking I'll put down ¥210 for three gas grenades. If I can find a dealer.
+[27-Sep-2014 22:35:01]  <Rig> It’s Lower Hangzhou. You find a dealer.
+[27-Sep-2014 22:35:17]  <IllFlower> Don't I have to roll for availability and stuff?
+[27-Sep-2014 22:35:25]  <BGTB2005> Koishi knows a guy, but she's not sure if she can afford anything
+[27-Sep-2014 22:36:39]  <Rig> IllFlower: Yeah, go ahead and do that.
+[27-Sep-2014 22:36:52]  <Rig> It’s a 1 day interval for that price.
+[27-Sep-2014 22:37:07]  <IllFlower> 4+8R. How many rolls?
+[27-Sep-2014 22:38:07]  <IllFlower> @dice roll 10d6 >! well, anyway, here's the first one
+[27-Sep-2014 22:38:07]  <Omnipresence> 14: Rolled 2 4 4 4 5 5 5 6 6 6 = 47.
+[27-Sep-2014 22:38:08]  <Rig> You have about 1 day to before the show.
+[27-Sep-2014 22:38:19]  <IllFlower> 6 hits, need 6 more.
+[27-Sep-2014 22:38:29]  <Rig> One more roll.
+[27-Sep-2014 22:39:01]  <Rig> You can up the price if you want to get more dice.
+[27-Sep-2014 22:39:39]  <IllFlower> Yeah, that was an unusually good roll.
+[27-Sep-2014 22:39:55]  <Rig> You get one more die for every 25% more you’re willing to spend.
+[27-Sep-2014 22:40:34]  <IllFlower> So I can go up to 250% markup. Which would be... ¥735.
+[27-Sep-2014 22:40:54]  *** Buttercupistiny <~chatzilla@s-164-67-212-188.resnet.ucla.edu> has joined #madokamadness
+[27-Sep-2014 22:40:54]  *** ChanServ sets mode: +o Buttercupistiny
+[27-Sep-2014 22:40:56]  <Rig> Yes.
+[27-Sep-2014 22:41:16]  <Rig> And that’d be 10 extra dice.
+[27-Sep-2014 22:41:18]  <Rig> I believe.
+[27-Sep-2014 22:41:25]  <IllFlower> Well, that's probably overkill. Let's try five extra dice.
+[27-Sep-2014 22:41:32]  <IllFlower> @dice roll 15d6
+[27-Sep-2014 22:41:32]  <Omnipresence> 14IllFlower: Rolled 1 1 2 3 3 3 3 4 4 4 4 4 5 6 6 = 53.
+[27-Sep-2014 22:41:38]  <IllFlower> Hahaha. Oh, well.
+[27-Sep-2014 22:41:51]  <Rig> So, no grenades for you.
+[27-Sep-2014 22:42:03]  <IllFlower> Damn.
+[27-Sep-2014 22:42:12]  <BGTB2005> shoulda gone with overkill
+[27-Sep-2014 22:42:16]  <IllFlower> Guess some people are just going to die.
+[27-Sep-2014 22:42:22]  <Rig> Should be fun.
+[27-Sep-2014 22:42:27]  <IllFlower> @dice roll 20d6 >! out of curiosity
+[27-Sep-2014 22:42:27]  <Omnipresence> 14: Rolled 1 1 1 2 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 = 77.
+[27-Sep-2014 22:42:34]  <IllFlower> Well, screw you too!
+[27-Sep-2014 22:43:54]  <IllFlower> Let's get this mission rolling, then.
+[27-Sep-2014 22:43:57]  <Rig> With the details on the map that the Johnson gave you you can see that they have 5 corpsec guards posted backstage, 4 more patrol the perimeter of the event. The two major entrances are also guarded by a single corpsec guard in addition to the employees checking IDs.
+[27-Sep-2014 22:43:57]  <jseblan|shadowrunner> I could use mob mood to make everyone happy, it might make them unwilling to fight or just confused
+[27-Sep-2014 22:44:05]  <Rig> Or just happy to fight.
+[27-Sep-2014 22:44:08]  <Rig> +2 to everyoen!
+[27-Sep-2014 22:44:15]  <jseblan|shadowrunner> especially if I use Influence on the target to make them follow Mal
+[27-Sep-2014 22:44:28]  <Rig> Okay, so, are we ready?
+[27-Sep-2014 22:44:39]  <Rig> Shall I narrate the start of this catastrophe?
+[27-Sep-2014 22:44:42]  <BGTB2005> yeah
+[27-Sep-2014 22:44:44]  <jseblan|shadowrunner> so they're just like, "okay, follow the charismatic nice man over there, no problem, hoho such a fine evening"
+[27-Sep-2014 22:44:59]  <Rig> What time were you wanting to arrive at this event?
+[27-Sep-2014 22:45:05]  <IllFlower> Well, we have IDs, right? So at least this part we should be okay-ish.
+[27-Sep-2014 22:45:27]  <IllFlower> I'm going to randomly pick 15:15.
+[27-Sep-2014 22:45:30]  <jseblan|shadowrunner> we should get there at 1430 and idle somewhere until the quintuplets arrive
+[27-Sep-2014 22:45:34]  <IllFlower> Because, you know, the number 15 worked so well last time.
+[27-Sep-2014 22:45:52]  <jseblan|shadowrunner> haha
+[27-Sep-2014 22:45:58]  <jseblan|shadowrunner> 15:15 sounds good
+[27-Sep-2014 22:46:03]  <BGTB2005> yeah
+[27-Sep-2014 22:46:55]  <Rig> The three of you gather your resources and dole out ammo according to ability. A brief scramble for nonlethal grenades nets you nothing but frustration. You sit in silence on the ride up the lift in the pickup.
+[27-Sep-2014 22:47:41]  <Rig> As you rise above the plate the sunlight glitters off the highrises of Upper Hangzhou, dazzling you momentarily after the darkness. The city is truly a different animal up here.
+[27-Sep-2014 22:49:11]  <Rig> The event is near one of the edges of the Plate, near Wuxing’s executive VTOL hangar. Your older pickup stands out among the executives new, shiny, autodriving cars and eventually you find your way into a parking complex marked for staff at the fashion show.
+[27-Sep-2014 22:49:17]  <IllFlower> Malcolm is dazzled.
+[27-Sep-2014 22:49:28]  <jseblan|shadowrunner> Antoine is frazzled
+[27-Sep-2014 22:49:58]  <IllFlower> "So here we are," Malcolm says.
+[27-Sep-2014 22:50:32]  <Rig> You can overlook the venue from the top of the parking complex and see that raised platforms have been set up around the checkpoints, giving guards with rifles ample availability to take out any unwanted guests.
+[27-Sep-2014 22:51:09]  <Rig> Your only lucky break here is that the backstage area is surrounded by heavy cloth shrouds with only two entrances. One from the catwalk and the other directly behind the stage.
+[27-Sep-2014 22:52:01]  <Rig> It’s roughly 30 meters from the ground floor of the parking complex to the staff entrance. This may turn into a bit of a dash.
+[27-Sep-2014 22:52:04]  <Rig> **
+[27-Sep-2014 22:52:13]  <jseblan|shadowrunner> the venue is outside?
+[27-Sep-2014 22:52:21]  <Rig> Yes. The Johnson did mention weather permitting.
+[27-Sep-2014 22:52:34]  <jseblan|shadowrunner> ah, okay
+[27-Sep-2014 22:53:10]  <IllFlower> How would they identify us, though?
+[27-Sep-2014 22:53:23]  <Rig> It’s an open air fashion show. Barricades have been set up around the area with guards on raised platforms. There are checkpoints in the front for guests and in the back for staff.
+[27-Sep-2014 22:53:24]  <IllFlower> We should be there, at least on paper.
+[27-Sep-2014 22:53:43]  <Rig> They haven’t recognized you yet. You’re perfectly free to use your passes to get in.
+[27-Sep-2014 22:54:02]  <IllFlower> But once they realize we don't belong there it might be open season.
+[27-Sep-2014 22:54:07]  <Rig> Yes.
+[27-Sep-2014 22:54:09]  <IllFlower> Okay.
+[27-Sep-2014 22:54:22]  <IllFlower> I suggest waltzing straight in the front door.
+[27-Sep-2014 22:54:22]  <jseblan|shadowrunner> Mal probably looks like he belongs there
+[27-Sep-2014 22:54:52]  <Rig> I should mention you were given staff passes, so you do have access to backstage.
+[27-Sep-2014 22:54:58]  <jseblan|shadowrunner> ah!
+[27-Sep-2014 22:55:20]  <Rig> You passes identify you as craft services or lighting engineers or something.
+[27-Sep-2014 22:55:28]  <jseblan|shadowrunner> We should go straight to backstage then
+[27-Sep-2014 22:55:42]  <IllFlower> "Well, if we ignore the fact that we'll probably die if we get caught, this should be a piece of cake," Malcolm says to Antoine.
+[27-Sep-2014 22:56:15]  <IllFlower> To Koishi he just makes a thumbs-up, knowing that she probably won't respond much either way anyway.
+[27-Sep-2014 22:57:10]  <Rig> So, plan, action?
+[27-Sep-2014 22:57:29]  <Rig> It’s roughly 15:15 and the backstage is a buzz of activity.
+[27-Sep-2014 22:57:48]  <Rig> People are coming and going and while the security presence is ready it doesn’t seem to be quite on the top of its game yet.
+[27-Sep-2014 22:58:01]  <jseblan|shadowrunner> we get in from the backstage entrance, Mal leading, I guess. In the general chaos I'm assuming they won't be too careful with ID
+[27-Sep-2014 22:58:23]  <Rig> Oh, actually, one thing.
+[27-Sep-2014 22:59:05]  <Rig> Mal’s SMG is a bit big to conceal easily. Do you want to bring it with you or leave it in the truck?
+[27-Sep-2014 22:59:51]  <jseblan|shadowrunner> if we're at a point where we need an SMG we're already dead I think
+[27-Sep-2014 23:00:15]  <IllFlower> Let's leave it in the truck for now.
+[27-Sep-2014 23:00:27]  <BGTB2005> Koishi's thinking of stealing a few uniforms and trying to disguise themselves as guards
+[27-Sep-2014 23:00:51]  <Rig> You’d need to find a guard to take them from.
+[27-Sep-2014 23:00:57]  <BGTB2005> this does however leave the problem of where to hide any bodies
+[27-Sep-2014 23:01:29]  <jseblan|shadowrunner> does the regular staff wear uniforms?
+[27-Sep-2014 23:02:02]  <IllFlower> "We should keep this as uncomplicated as possible," Malcolm says. "The best outcome for us would be that we bump into one of the quintuplets, and smooth-talk them into coming outside with us for just a moment. Of course, there's a lot worse."
+[27-Sep-2014 23:02:40]  <Rig> It’s a messy crew of technicians and caterers and assistants. You’ll blend in fine for the moment. Just don’t try to mingle with the audience.
+[27-Sep-2014 23:03:39]  <Rig> Koishi and Antoine would probably be best just being quiet and shadowing Mal like bodyguards.
+[27-Sep-2014 23:03:45]  <jseblan|shadowrunner> "I can make her want to go outside", Antoine says. " Though getting her to come alone might be more complicated"
+[27-Sep-2014 23:03:47]  <IllFlower> Oh, dude, I want Malcolm to pretend to be the caterers' executive chef.
+[27-Sep-2014 23:03:57]  <Rig> Hahaha. I want to see that.
+[27-Sep-2014 23:04:07]  <jseblan|shadowrunner> hehe
+[27-Sep-2014 23:04:13]  <IllFlower> I have a plan.
+[27-Sep-2014 23:04:26]  <Rig> Okay, go for it. I’ll let you know if I need rolls or anything.
+[27-Sep-2014 23:04:32]  <Rig> (rolls, get it?)
+[27-Sep-2014 23:04:38]  <IllFlower> boooooo
+[27-Sep-2014 23:04:48]  <IllFlower> Only gruel for you!
+[27-Sep-2014 23:05:14]  <jseblan|shadowrunner> IllFlower: set up a trail of cinnamon rolls for one of the girls to follow
+[27-Sep-2014 23:06:11]  <IllFlower> So I'm thinking Malcolm tries to get close to one of the girls, and mollifies her guardian by claiming that he's made something back in the kitchen trailer just for the guests of honor.
+[27-Sep-2014 23:06:48]  <IllFlower> Dunno if that would be a negotiation thing or a con thing, though.
+[27-Sep-2014 23:06:54]  <Rig> Con.
+[27-Sep-2014 23:07:22]  <IllFlower> Hm, I don't have the con skill. That might be dicey.
+[27-Sep-2014 23:08:25]  <jseblan|shadowrunner> I can use Influence to make the girl really need a snack, I think, but I'd probably be obviously casting a spell
+[27-Sep-2014 23:08:59]  <Rig> Yeah, but if someone causes a distraction you could get away with it.
+[27-Sep-2014 23:10:13]  <jseblan|shadowrunner> using Intimidation on the girl would probably be a bad idea too...
+[27-Sep-2014 23:10:45]  <IllFlower> Maybe I can jsut try chatting them all up in my guise.
+[27-Sep-2014 23:10:51]  <Rig> That’d be a good way to get yourself kicked out.
+[27-Sep-2014 23:10:56]  <jseblan|shadowrunner> hehe
+[27-Sep-2014 23:11:18]  <jseblan|shadowrunner> yeah, I think the only safe option here is trusting Mal's rugged good looks and smooth-talking
+[27-Sep-2014 23:11:20]  <IllFlower> I've got 5 Etiquette, maybe that'd work.
+[27-Sep-2014 23:12:13]  <Rig> I’d let you roll etiquette to convince the guard you have a snack for the girl. 
+[27-Sep-2014 23:12:20]  <IllFlower> Have Malcolm change into his suit and start talking to folks.
+[27-Sep-2014 23:12:34]  <BGTB2005> Koishi wants to neutralise a few guards, steal their uniforms, and engineer an incident in the audience to use as cover to take one of the girls away, but that's probably not a very good plan
+[27-Sep-2014 23:12:36]  <IllFlower> Oh, I was thinking that would be a good distraction, actually.
+[27-Sep-2014 23:13:02]  <Rig> Which one?
+[27-Sep-2014 23:13:26]  <IllFlower> Antoine could Influence while I'm drawing their attention with chitchat, and then when she starts feeling like a snack I can suggest storming the caterers' trailer.
+[27-Sep-2014 23:14:11]  <Rig> Okay, well, I suggest picking an option and going with it.
+[27-Sep-2014 23:14:12]  <IllFlower> At that point I think Koishi and Antoine would have to handle things for a while.
+[27-Sep-2014 23:14:40]  <IllFlower> Any objections?
+[27-Sep-2014 23:15:02]  <IllFlower> ("You handwaved away the actual kidnapping part." "Yeah, well...")
+[27-Sep-2014 23:15:31]  <BGTB2005> Koishi could take care of that in the trailer
+[27-Sep-2014 23:15:54]  <BGTB2005> she'd probably have to deal with everyone there first, though
+[27-Sep-2014 23:17:27]  <jseblan|shadowrunner> okay, I know
+[27-Sep-2014 23:18:49]  <jseblan|shadowrunner> when we're out of the staff entrance with the girl alone Koishi throws a flashbang in an opposite direction and Mal picks up the girl and makes a run for the pickup
+[27-Sep-2014 23:18:59]  <Rig> Hahaha.
+[27-Sep-2014 23:19:05]  <jseblan|shadowrunner> if there's need for further distraction I cast toxic wave behind us
+[27-Sep-2014 23:19:22]  <IllFlower> Actually, Malcolm should probably be the one picking her up. Highest Strength stat. `_`
+[27-Sep-2014 23:19:22]  <BGTB2005> Koishi and Malcolm each get 150 SnS rounds, correct?
+[27-Sep-2014 23:19:26]  <Rig> Yes.
+[27-Sep-2014 23:19:50]  <BGTB2005> Should be enough for everyone present in the catering trailer and whichever girl we kidnap
+[27-Sep-2014 23:19:51]  <jseblan|shadowrunner> Koishi could take care of the guards on the platforms with those rounds, right?
+[27-Sep-2014 23:20:07]  <Rig> Well, you take out one and the others will notice.
+[27-Sep-2014 23:20:17]  <jseblan|shadowrunner> they'd be distracted by the flashbang/everyone melting
+[27-Sep-2014 23:20:24]  <BGTB2005> She has an automatic weapon
+[27-Sep-2014 23:20:35]  <BGTB2005> suppressed, too
+[27-Sep-2014 23:20:48]  <IllFlower> And, yeah, I can only carry 45 kg without making a test.
+[27-Sep-2014 23:21:11]  <Rig> You could try. There are four platforms with one guard each spaced around the main audience area.
+[27-Sep-2014 23:21:13]  <IllFlower> Hope these girls haven't started puberty yet.
+[27-Sep-2014 23:21:33]  <Rig> I must point out that you’re thinking this through way more than I expected.
+[27-Sep-2014 23:21:44]  <IllFlower> Well, this game kinda makes us.
+[27-Sep-2014 23:21:46]  <BGTB2005> what did you expect
+[27-Sep-2014 23:22:10]  <AttObl> ((Making sure that the run goes smoothly without a hitch~))
+[27-Sep-2014 23:22:12]  <Rig> I kinda expected more runners.
+[27-Sep-2014 23:22:20]  <Rig> Ones with drones and shit.
+[27-Sep-2014 23:22:32]  <Rig> I’ve tweaked this a couple times to account for drops though.
+[27-Sep-2014 23:23:35]  <IllFlower> Okay, for now I think I'll have Malcolm go ahead and chat some folks up. That sound good?
+[27-Sep-2014 23:23:44]  <BGTB2005> yeah
+[27-Sep-2014 23:23:52]  <Rig> Okay, so, you’re going through the back entrance?
+[27-Sep-2014 23:24:05]  <Rig> All of you?
+[27-Sep-2014 23:24:16]  <jseblan|shadowrunner> yeah
+[27-Sep-2014 23:24:17]  <BGTB2005> I think that's the plan
+[27-Sep-2014 23:24:21]  <jseblan|shadowrunner> 1 sec
+[27-Sep-2014 23:24:47]  <IllFlower> Yup.
+[27-Sep-2014 23:25:17]  <BGTB2005> Should Koishi take care of the catering trailer?
+[27-Sep-2014 23:25:31]  <Rig> The guard at the entrance looks you over briefly while your passes are scanned. He gives Antoine a look as he passes through, but doesn’t stop any of you.
+[27-Sep-2014 23:25:48]  <IllFlower> BGTB2005: If she would.
+[27-Sep-2014 23:26:04]  <Rig> How were you gonna do that?
+[27-Sep-2014 23:26:29]  <IllFlower> Well, all I know is that Malcolm can't.
+[27-Sep-2014 23:26:32]  <BGTB2005> 150 heavy pistol stick-and-shock rounds
+[27-Sep-2014 23:27:42]  <BGTB2005> or she could dip into her lethal ammunition pool
+[27-Sep-2014 23:28:17]  <IllFlower> "Antoine," Malcolm says once the group has gone through the gates. "Stay a few meters behind me. Once I start talking, hit 'em with the spell. Got it?"
+[27-Sep-2014 23:28:46]  <jseblan|shadowrunner> "oui"
+[27-Sep-2014 23:29:11]  <Rig> BGTB2005: Okay, since caterers aren’t really a threat I’ll let you take out the five caterers in the trailer without much of a fuss.
+[27-Sep-2014 23:29:28]  <IllFlower> But, but... caterers have *knives* and stuff!
+[27-Sep-2014 23:29:51]  <Rig> I mean, I can roll an entire combat phase for them
+[27-Sep-2014 23:29:59]  <IllFlower> Kidding.
+[27-Sep-2014 23:30:35]  <Rig> Koishi has peeled off to go pick a bone with the caterers.
+[27-Sep-2014 23:30:49]  <Rig> Meanwhile, Malcolm and Antoine are heading into the backstage proper.
+[27-Sep-2014 23:30:59]  <jseblan|shadowrunner> this is exciting!
+[27-Sep-2014 23:31:33]  <IllFlower> 「こいし」マルコムは言う。「ケータリングトレーラーは任せたよ」
+[27-Sep-2014 23:31:44]  * IllFlower waits for inevitable /k
+[27-Sep-2014 23:32:02]  <jseblan|shadowrunner> I- I roll for comprehension
+[27-Sep-2014 23:32:14]  <IllFlower> I also forgot a と. Dear me.
+[27-Sep-2014 23:32:41]  <jseblan|shadowrunner> oh, I just thought
+[27-Sep-2014 23:32:43]  <Rig> ¬.¬
+[27-Sep-2014 23:32:52]  <jseblan|shadowrunner> Rig: is there a language barrier with Influence?
+[27-Sep-2014 23:32:58]  <IllFlower> "'Koishi,' Malcolm says. 'The catering trailer's all yours.'"
+[27-Sep-2014 23:33:12]  <Rig> Let’s say there isn’t. It’s more just a willpower thing.
+[27-Sep-2014 23:33:49]  <BGTB2005> Koishi nods in acknowledgement as she heads for her indicated target.
+[27-Sep-2014 23:34:01]  <jseblan|shadowrunner> yeah, the idea of wanting food's a simple one anyway. "you are hungry" is something Antoine could say in Mandarin
+[27-Sep-2014 23:34:08]  <Rig> @dice roll 4d6
+[27-Sep-2014 23:34:08]  <Omnipresence> 14Rig: Rolled 2 4 6 6 = 18.
+[27-Sep-2014 23:34:26]  <IllFlower> Malcolm and Antoine make for the vast maze of temporary backstage corridors.
+[27-Sep-2014 23:34:53]  <IllFlower> So, uh, I presume we just kind of wander around until we bump into one of them.
+[27-Sep-2014 23:34:59]  <IllFlower> The sisters, that is.
+[27-Sep-2014 23:35:04]  <Rig> I’ll give you a hand, one moment.
+[27-Sep-2014 23:35:11]  <jseblan|shadowrunner> We could ask around but I don't think that's recommended
+[27-Sep-2014 23:35:47]  <IllFlower> Yeah, it'll draw unwanted attention.
+[27-Sep-2014 23:36:12]  <Rig> Malcolm and Antoine make their way through the backstage area, heading to the noise of fashion preperations. The fizz of aersol cans and the harsh buzz of hairdryers leads them through the maze to the dressing room.
+[27-Sep-2014 23:37:35]  <jseblan|shadowrunner> one moment, dog is barking
+[27-Sep-2014 23:38:20]  <jseblan|shadowrunner> okay7
+[27-Sep-2014 23:38:22]  <Rig> The harsh lights from the mirrors illuminate a rather large man standing next to a young girl.
+[27-Sep-2014 23:38:54]  <Rig> It might be Moak or Shiu, but the body guard certainly means she’s important.
+[27-Sep-2014 23:39:08]  <jseblan|shadowrunner> the place is probably very well lit
+[27-Sep-2014 23:39:13]  <Rig> Yep.
+[27-Sep-2014 23:40:07]  <IllFlower> Antoine should probably hang behind a corner.
+[27-Sep-2014 23:40:19]  <jseblan|shadowrunner> that's what I wanted to do, yeah
+[27-Sep-2014 23:40:43]  <Rig> Works for me. None of these guards are actually very perceptive it seems. :P
+[27-Sep-2014 23:40:47]  <IllFlower> I guess I'll just waltz in, then.
+[27-Sep-2014 23:40:48]  <jseblan|shadowrunner> I casually go hide behind a rack of clothes
+[27-Sep-2014 23:40:59]  <jseblan|shadowrunner> keeping my eyes on the girl
+[27-Sep-2014 23:41:24]  <Rig> IllFlower: So, your move?
+[27-Sep-2014 23:41:36]  <IllFlower> *Can* I just waltz in or is that a bad move?
+[27-Sep-2014 23:42:01]  <jseblan|shadowrunner> if you look like you own the place people will act like you own the place
+[27-Sep-2014 23:42:07]  <jseblan|shadowrunner> so I'd say go ahead
+[27-Sep-2014 23:42:13]  <Rig> No, go for it. The guard kind of expects people to bother the celebrity girl.
+[27-Sep-2014 23:42:28]  <Rig> He’s just there to make sure no one actually tries to, say, kidnap her.
+[27-Sep-2014 23:42:58]  <IllFlower> I want to see if I can mollify them further with an Etiquette test.
+[27-Sep-2014 23:43:08]  <Rig> Okay, Etiquette+Charisma.
+[27-Sep-2014 23:43:14]  <IllFlower> @dice roll 10d6
+[27-Sep-2014 23:43:14]  <Omnipresence> 14IllFlower: Rolled 1 1 1 2 2 2 3 5 5 6 = 28.
+[27-Sep-2014 23:43:21]  <IllFlower> Three hits. Mm.
+[27-Sep-2014 23:43:41]  <Rig> Go ahead and say something etiquettish.
+[27-Sep-2014 23:45:22]  <IllFlower> Is she the only sister in the room?
+[27-Sep-2014 23:45:40]  <Rig>  The only one you can see.
+[27-Sep-2014 23:46:17]  <Rig> You’re fairly certain that this is the only guard in the room too. As they tend to stand out a bit more in their bright uniforms.
+[27-Sep-2014 23:46:34]  <IllFlower> "The woman of the hour!" Malcolm says as he walks into the dressing room, his arms spread wide in a gesture of congeniality. "Beautiful as always."
+[27-Sep-2014 23:46:46]  <jseblan|shadowrunner> do I cast Influence now?
+[27-Sep-2014 23:46:50]  <jseblan|shadowrunner> uh
+[27-Sep-2014 23:47:00]  <jseblan|shadowrunner> I make a perception check to make sure nobody's looking at me
+[27-Sep-2014 23:47:15]  <IllFlower> (See, I asked because saying "woman" singular in the other sisters' presence might annoy them...)
+[27-Sep-2014 23:48:22]  <Rig> The guard scowls at Malcolm but doesn’t appear to take any more threatening of a stance.
+[27-Sep-2014 23:48:52]  <Rig> jseblan|shadowrunner: Perception+Int-2
+[27-Sep-2014 23:49:31]  <IllFlower> Noticing the guard's displeasure, Malcolm says to him, "I'm sorry! I hope I'm not interrupting anything. I just thought it would be rude of me not to pay my respects to the guest of honor."
+[27-Sep-2014 23:49:40]  <jseblan|shadowrunner> +roll 6d6
+[27-Sep-2014 23:49:40]  <rollermine> jseblan|shadowrunner: (3+1+3+2+4+4)=17
+[27-Sep-2014 23:49:51]  <jseblan|shadowrunner> I guess I don't notice anyone
+[27-Sep-2014 23:49:59]  <Rig> That’d be accurate.
+[27-Sep-2014 23:50:27]  <Rig> Man, how does play an 11 year old celebrity.
+[27-Sep-2014 23:50:41]  <IllFlower> Like she owns the world.
+[27-Sep-2014 23:50:51]  <IllFlower> So basically like any other eleven-year-old.
+[27-Sep-2014 23:50:57]  <AttObl> ((Being rich counts.))
+[27-Sep-2014 23:51:01]  <Rig> The guard shrugs. Malcom doesn’t seem like much of a threat to him, just another fawning employee.
+[27-Sep-2014 23:51:20]  *** Lin_Chong <~Lin_Chong@182.55.189.100> has joined #madokamadness
+[27-Sep-2014 23:51:38]  <Rig> Meanwhile, Shui is soaking up the attention, giggling and pretending to be shy.
+[27-Sep-2014 23:51:48]  <Rig> You can cast anytime you’d like, jseblan.
+[27-Sep-2014 23:51:52]  <jseblan|shadowrunner> I do so now
+[27-Sep-2014 23:53:13]  <Rig> So, Magic+Spellcasting
+[27-Sep-2014 23:53:51]  <jseblan|shadowrunner> +roll 10d6
+[27-Sep-2014 23:53:51]  <rollermine> jseblan|shadowrunner: (2+5+2+5+2+2+3+4+3+3)=31
+[27-Sep-2014 23:54:01]  <Rig> 2 hits?
+[27-Sep-2014 23:54:05]  <jseblan|shadowrunner> yeah
+[27-Sep-2014 23:54:13]  <Rig> Okay, you can implant a suggestion.
+[27-Sep-2014 23:54:34]  <jseblan|shadowrunner> I suggest she really wants a snack before the show
+[27-Sep-2014 23:54:35]  <IllFlower> "How is your father doing?" Malcolm says, going through the usual small talk. "He must be incredibly proud of you, to show you off like this."
+[27-Sep-2014 23:56:02]  <Rig> “Fathers always busy. Mother’s the one that really wanted us to do this.” Shui says offhandedly. Her stomach growls and she looks up at her bodyguard. “I want a snack,” she says imperiously.
+[27-Sep-2014 23:56:25]  <Rig> Does Malcolm want to offer to escort the princess to the caterer?
+[27-Sep-2014 23:56:44]  <IllFlower> I was just about to. Just a sec.
+[27-Sep-2014 23:56:54]  <Rig> Congrats, jseblan|shadowrunner. Antoine has enough magic power to influence an 11 year old.
+[27-Sep-2014 23:56:55]  <Rig> :P
+[27-Sep-2014 23:57:05]  <jseblan|shadowrunner> \o/
+[27-Sep-2014 23:57:14]  <IllFlower> Malcolm perks up. "Oh, I can show you to the catering trailer, if that's all right."
+[27-Sep-2014 23:57:27]  <jseblan|shadowrunner> Rig: I could have added my Spellcasting foci to the dice pool, no?
+[27-Sep-2014 23:57:38]  <Rig> You could have, but it probably would have been overkill.
+[27-Sep-2014 23:57:55]  <IllFlower> She gets so hungry she decides to cannibalize her guard.
+[27-Sep-2014 23:57:58]  <IllFlower> On the spot.
+[27-Sep-2014 23:57:58]  <Rig> “Lead the way,” the guard says.
+[27-Sep-2014 23:58:17]  <Rig> His attitude makes it clear he doesn’t intend to let her out of his sight.
+[27-Sep-2014 23:58:44]  <IllFlower> I figured this would happen.
+[27-Sep-2014 23:58:46]  <jseblan|shadowrunner> Koishi is still at the caterer's trailer, right?
+[27-Sep-2014 23:58:53]  <Rig> Yep.
+[27-Sep-2014 23:58:57]  <IllFlower> I say we let her ambush the guard.
+[27-Sep-2014 23:59:00]  <jseblan|shadowrunner> yeah
+[27-Sep-2014 23:59:15]  <jseblan|shadowrunner> also having the guard might actually work in our favor
+[27-Sep-2014 23:59:25]  <jseblan|shadowrunner> makes us look more legit while we get her to the trailer
+[27-Sep-2014 23:59:31]  <Rig> You are far less likely to get stopped, yes.
+[27-Sep-2014 23:59:49]  <Rig> Though you could also try suggesting the guard stay there (all magic like).
+[28-Sep-2014 00:00:05]  <Rig> Do you head back to the trailer with guard and girl in tow?
+[28-Sep-2014 00:00:18]  <IllFlower> Yeah, I think that's for the best.
+[28-Sep-2014 00:00:29]  <IllFlower> Someone else would probably notice the guardless girl with a stranger.
+[28-Sep-2014 00:00:30]  <jseblan|shadowrunner> oh, I know
+[28-Sep-2014 00:00:46]  <jseblan|shadowrunner> Rig: I could cast a second Influence once she's at the trailer to make him want to check up on the other girls?
+[28-Sep-2014 00:01:11]  <jseblan|shadowrunner> Malcolm could reassure him he'll bring her back when she's done eating
+[28-Sep-2014 00:01:55]  <IllFlower> So dark nineties techno is pretty much the perfect backdrop for this.
+[28-Sep-2014 00:02:01]  <Rig> I say you should surprise him inside the trailer.
+[28-Sep-2014 00:02:28]  <Rig> But you could try to influence him before he enters the trailer, but then you’re casting in the open-ish.
+[28-Sep-2014 00:02:31]  <IllFlower> I kinda agree. Trying to cast another spell seems both complicated and visible.
+[28-Sep-2014 00:02:33]  <jseblan|shadowrunner> true
+[28-Sep-2014 00:02:48]  <IllFlower> Did Koishi drag the bodies someplace out of sight?
+[28-Sep-2014 00:02:53]  <Rig> Plus we can end this session with some brief combat.
+[28-Sep-2014 00:03:02]  <jseblan|shadowrunner> wait, it's a trailer, is it attached to any vehicles?
+[28-Sep-2014 00:03:16]  <IllFlower> I assume not.
+[28-Sep-2014 00:03:20]  <Rig> Not at the moment.
+[28-Sep-2014 00:03:24]  <jseblan|shadowrunner> okay
+[28-Sep-2014 00:03:32]  <IllFlower> They'll probably hitch it back up when the show's over.
+[28-Sep-2014 00:03:44]  <Rig> God though. I would love it if you’d crash the pickup into the place to steal the entire trailer.
+[28-Sep-2014 00:03:48]  <Rig> That’d be gorgeous.
+[28-Sep-2014 00:04:03]  <IllFlower> "roll for whether the hitch falls off the back"
+[28-Sep-2014 00:04:20]  <Rig> Anyway, shall we say that you’ve arrived at the trailer.
+[28-Sep-2014 00:04:24]  <Rig> What would you like to do?
+[28-Sep-2014 00:04:38]  <Rig> We’ll assume the bodies are mostly out of sight, but a trailer is only so big.
+[28-Sep-2014 00:04:56]  <jseblan|shadowrunner> they are artfully hidden as hors-d'oeuvre
+[28-Sep-2014 00:05:02]  <Rig> Gross.
+[28-Sep-2014 00:06:47]  <IllFlower> Ewwwww.
+[28-Sep-2014 00:06:55]  <BGTB2005> yeah no
+[28-Sep-2014 00:06:56]  <jseblan|shadowrunner> we get in the trailer, close the door, let Koishi do her thing
+[28-Sep-2014 00:07:05]  <IllFlower> I say Koishi should just be lying in wait by the door.
+[28-Sep-2014 00:07:07]  <Rig> So, plan? Malcolm goes in first and invites the girl and guard in after him. Antoine comes in last and beans the guy with a shock glove?
+[28-Sep-2014 00:07:17]  <jseblan|shadowrunner> oh yeah!
+[28-Sep-2014 00:08:01]  <IllFlower> That'd work too.
+[28-Sep-2014 00:08:04]  <BGTB2005> I think I have three initiative passes in combat, so Koishi could probably use SnS ammo to subdue the girl and guard
+[28-Sep-2014 00:08:43]  <jseblan|shadowrunner> I'll take care of the girl
+[28-Sep-2014 00:08:52]  <IllFlower> Malcolm would be dead weight, probably, so he'll be polite, just say "you go first," and then let the violence happen inside while he waits outside.
+[28-Sep-2014 00:08:53]  <jseblan|shadowrunner> I only have 2 agility so I'm more likely to succeed on her
+[28-Sep-2014 00:09:15]  <Rig> Hahaha. Okay, so, guard, girl and Antoine go inside while Malcolm hides outside acting nonchalant?
+[28-Sep-2014 00:09:46]  <IllFlower> Lights up a cigarette, maybe.
+[28-Sep-2014 00:09:55]  <Rig> Well, let’s get this under way since I need to go get dinner.
+[28-Sep-2014 00:09:56]  <IllFlower> Like a smoother version of Kazuki.
+[28-Sep-2014 00:10:05]  <Rig> Ow.
+[28-Sep-2014 00:10:09]  <IllFlower> :D
+[28-Sep-2014 00:10:31]  <Rig> Malcolm opens the door for the girl and her bodyguard. “After you.”
+[28-Sep-2014 00:10:47]  <Rig> The guard almost immediately notices the lack of caterers and tenses up. Roll for surprise!
+[28-Sep-2014 00:10:58]  <IllFlower> Me?
+[28-Sep-2014 00:11:01]  <Rig> Nah.
+[28-Sep-2014 00:11:08]  <Rig> Unless you want to be in on this beatdown.
+[28-Sep-2014 00:11:12]  <IllFlower> Nope.
+[28-Sep-2014 00:11:24]  <Rig> So, Koishi rolls Rea+Int+6
+[28-Sep-2014 00:11:32]  <Rig> Antoine rolls Rea+Int+3
+[28-Sep-2014 00:11:42]  <IllFlower> "Is something wrong?" Malcolm asks the guard, trying his best to feign similar surprise.
+[28-Sep-2014 00:12:07]  <jseblan|shadowrunner> +roll 11d6
+[28-Sep-2014 00:12:07]  <rollermine> jseblan|shadowrunner: (1+4+4+6+1+3+5+6+6+5+4)=45
+[28-Sep-2014 00:12:13]  <Rig> Nah, I actually wanted to start combat, IllFlower.
+[28-Sep-2014 00:12:26]  <Rig> Sorry, should have made that clearer.
+[28-Sep-2014 00:12:32]  <IllFlower> I know, but I figure I'd just keep roleplaying until someone gets smashed in the face.
+[28-Sep-2014 00:12:36]  <Rig> :P
+[28-Sep-2014 00:12:48]  <IllFlower> Which is about now, right?
+[28-Sep-2014 00:12:52]  <IllFlower> Riiiight?
+[28-Sep-2014 00:12:57]  <Rig> +roll 7d6
+[28-Sep-2014 00:12:57]  <rollermine> Rig: (1+3+3+3+2+5+6)=23
+[28-Sep-2014 00:13:02]  <BGTB2005> REA+INT+6 d6?
+[28-Sep-2014 00:13:05]  <Rig> Yeah.
+[28-Sep-2014 00:13:19]  <Rig> And then roll Rea+Int again.
+[28-Sep-2014 00:13:39]  <Rig> Without the modifiers unless you have one for your initiative normally.
+[28-Sep-2014 00:13:45]  <IllFlower> Leave some face on the bodyguard, okay?
+[28-Sep-2014 00:13:49]  <jseblan|shadowrunner> I roll rea+int too?
+[28-Sep-2014 00:13:52]  <Rig> Yeah.
+[28-Sep-2014 00:14:02]  <jseblan|shadowrunner> +roll 8d6
+[28-Sep-2014 00:14:02]  <rollermine> jseblan|shadowrunner: (3+3+4+6+6+4+4+5)=35
+[28-Sep-2014 00:14:15]  <BGTB2005> I have Improved Reflexes 2 and Combat Sense 2, but i'm not actually sure how they affect my roll when i'm initiating combat
+[28-Sep-2014 00:14:41]  <Rig> You get two die for combat sense.
+[28-Sep-2014 00:14:46]  <Rig> On the first text.
+[28-Sep-2014 00:14:48]  <Rig> *test
+[28-Sep-2014 00:14:52]  <BGTB2005> either way I can just add more if I need my modified REA
+[28-Sep-2014 00:14:53]  <Rig> so +8 not +6
+[28-Sep-2014 00:15:39]  <Rig> Improved reflexes doesn’t add anything to surprise.
+[28-Sep-2014 00:15:39]  <BGTB2005> @dice roll 17d6 >!this right?
+[28-Sep-2014 00:15:39]  <Omnipresence> 14: Rolled 1 1 1 1 2 2 2 2 3 4 4 5 5 6 6 6 6 = 57.
+[28-Sep-2014 00:15:48]  <Rig> Yeah.
+[28-Sep-2014 00:16:14]  <Rig> And then Rea+Int+4 if you’re using Improved reflexes.
+[28-Sep-2014 00:16:29]  <Rig> Though I can almost guarantee you’re going first no matter what.
+[28-Sep-2014 00:16:45]  <BGTB2005> yeah I think i'm going to do that just for sheer number of dice
+[28-Sep-2014 00:16:47]  <Rig> +roll 7d6
+[28-Sep-2014 00:16:47]  <rollermine> Rig: (1+5+4+2+6+4+6)=28
+[28-Sep-2014 00:17:17]  <BGTB2005> @dice roll 13d6
+[28-Sep-2014 00:17:17]  <Omnipresence> 14BGTB2005: Rolled 1 1 1 2 3 3 3 4 4 5 5 5 6 = 43.
+[28-Sep-2014 00:17:24]  <Rig> And then you can begin your first turn of the first initiative pass.
+[28-Sep-2014 00:18:41]  <Rig> So, you can take 1 complex or two simple actions.
+[28-Sep-2014 00:21:47]  <BGTB2005> Koishi quickdraws her Ares Predator (loaded with SnS rounds) from its holster, so I think I need to make a quickdraw test to be able to shoot the guard in the same simple action?
+[28-Sep-2014 00:22:01]  <Rig> Yeah.
+[28-Sep-2014 00:22:09]  <Rig> it’s Pistols + Rea
+[28-Sep-2014 00:22:44]  <BGTB2005> with improved reflexes? or just use my base REA?
+[28-Sep-2014 00:23:18]  <Rig> Improved Reflexes.
+[28-Sep-2014 00:23:35]  <Rig> You could pretty much buy the win, I think.
+[28-Sep-2014 00:23:38]  <Rig> How many dice is that?
+[28-Sep-2014 00:23:57]  <Rig> yeah, you can buy that win.
+[28-Sep-2014 00:24:17]  <BGTB2005> I believe it's ten for the pistols skill, plus five REA, plus 2 from Improved Reflexes
+[28-Sep-2014 00:24:43]  <Rig> 10 is pistols + base reaction.
+[28-Sep-2014 00:24:58]  <Rig> But yeah, you succeed.
+[28-Sep-2014 00:25:36]  <Rig> Roll Agility+Pistols which is 10d6
+[28-Sep-2014 00:25:37]  <BGTB2005> Chummer's telling me the ten is the five points in the skill plus AGI
+[28-Sep-2014 00:26:06]  <Rig> Yes, but if you’re rolling Pistols + Reaction it’s 5 pistols + 5 reaction.
+[28-Sep-2014 00:28:15]  <Rig> You still there?
+[28-Sep-2014 00:28:18]  <BGTB2005> @dice roll 10d6
+[28-Sep-2014 00:28:18]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 2 2 5 5 5 6 6 = 35.
+[28-Sep-2014 00:28:43]  <Rig> Okay, so 5 hits.
+[28-Sep-2014 00:29:11]  <Rig> That’ll do 11 stun damage.
+[28-Sep-2014 00:29:41]  <Rig> He has 4 armor, but it only defends half of electric damage. so, 2. Meaning he has taken 9 stun damage.
+[28-Sep-2014 00:29:48]  <Rig> You’ve still got another simple action I think.
+[28-Sep-2014 00:30:01]  <Rig> I assume you just want to fire again?
+[28-Sep-2014 00:30:03]  <BGTB2005> Koishi shoots him again
+[28-Sep-2014 00:30:14]  <Rig> He falls down unconscious.
+[28-Sep-2014 00:30:18]  <BGTB2005> so another 10d6?
+[28-Sep-2014 00:30:27]  <Rig> Nah, no matter what happens he’s down.
+[28-Sep-2014 00:30:40]  <Rig> He was surprised and couldn’t react on the first pass.
+[28-Sep-2014 00:30:41]  <jseblan|shadowrunner> alright, my time to shine
+[28-Sep-2014 00:30:47]  * jseblan|shadowrunner punches a 10 years old girl
+[28-Sep-2014 00:30:48]  <Rig> Just knock the little girl out.
+[28-Sep-2014 00:30:53]  <Rig> Excellent!
+[28-Sep-2014 00:31:09]  <Rig> I assume you just tap her with the shock glove instead of punching her or something.
+[28-Sep-2014 00:31:18]  <Rig> Unless you really want to be a monster.
+[28-Sep-2014 00:31:39]  <BGTB2005> we're kidnapping an 11-year-old girl of course we're monsters
+[28-Sep-2014 00:31:45]  <Rig> Hahaha. Good point.
+[28-Sep-2014 00:31:58]  <Alicia> (Setting the precedent high, I see.)
+[28-Sep-2014 00:32:00]  <Rig> Anyway, I think it’s a good time to wrap it up. We’ll plot your daring escape next time.
+[28-Sep-2014 00:32:02]  <IllFlower> I don't know about you guys, but I'm just diving her to a playdate.
+[28-Sep-2014 00:32:14]  <jseblan|shadowrunner> yeah, just a light fistbump in the back
+[28-Sep-2014 00:32:26]  <IllFlower> Malcolm can wash his hands of all the ugly parts.
+[28-Sep-2014 00:32:35]  <Rig> Also, I want to point out that the guy you just took out in a single round was one of the two most difficult enemies in the area.
+[28-Sep-2014 00:32:42]  <jseblan|shadowrunner> nice
+[28-Sep-2014 00:32:51]  <BGTB2005> hahahahaha
+[28-Sep-2014 00:32:52]  <Alicia> (GJ.)
+[28-Sep-2014 00:32:55]  <jseblan|shadowrunner> "the other is a great dragon"
+[28-Sep-2014 00:33:05]  <Rig> And I’m glad you didn’t try to influence him because he was a mage and probably would have won.
+[28-Sep-2014 00:33:13]  <jseblan|shadowrunner> :|
+[28-Sep-2014 00:33:27]  <jseblan|shadowrunner> well he wasn't all that bright
+[28-Sep-2014 00:33:36]  <Rig> Nah, none of the guards here are.
+[28-Sep-2014 00:33:50]  <IllFlower> See, talking is always a good option.
+[28-Sep-2014 00:33:59]  <IllFlower> lessonsforemdogs.txt
+[28-Sep-2014 00:34:01]  <Rig> There were lots of options here.
+[28-Sep-2014 00:34:09]  <Rig> Anyway, we’ll be doing emdogs next week.
+[28-Sep-2014 00:34:18]  <jseblan|shadowrunner> alright
+[28-Sep-2014 00:34:24]  <IllFlower> Cool. Until then.
+[28-Sep-2014 00:34:24]  <Rig> The week after that we’ll come back and plot the daring exfiltration of an unconscious 11 year old.
+[28-Sep-2014 00:34:24]  <jseblan|shadowrunner> that was fun, can't wait for the next session
+[28-Sep-2014 00:34:27]  *** jseblan|shadowrunner is now known as jseblan
+[28-Sep-2014 00:34:34]  <jseblan> haha
+[28-Sep-2014 00:34:35]  <IllFlower> Thanks for running this.
+[28-Sep-2014 00:34:39]  <Rig> I’m glad you had fun. Let me know if there is anything I can do to make it more fun.

@@ -1,0 +1,588 @@
+[20-Feb-2013 02:11:54]  <IllFlower> Let's get started, then.
+[20-Feb-2013 02:12:43]  <IllFlower> The new year's passed by, marking the end of the holiday season and the start of the dreading-the-return-to-school season.
+[20-Feb-2013 02:13:33]  <IllFlower> It's near sunset. In what must be Pyunpyun's idea of a joke, he's asked Sumire to go looking again for the witch she couldn't find last time.
+[20-Feb-2013 02:13:47]  <IllFlower> Sumire: Sharp challenge, if you would. Just for the number.
+[20-Feb-2013 02:13:58]  <Sumire> +roll 2d6+6
+[20-Feb-2013 02:13:58]  <rollermine> Sumire: (4+6)+6=16
+[20-Feb-2013 02:14:43]  <IllFlower> For once, the magical tug seems to be working, though for Sumire it feels more like a vague... inclination to go a certain direction.
+[20-Feb-2013 02:15:06]  <IllFlower> Almost like the feeling you get when you pick one of two identical-seeming options at random, really.
+[20-Feb-2013 02:16:02]  <IllFlower> Looking down the street, scanning around for anything suspicious, Sumire sees a tall girl in her path.
+[20-Feb-2013 02:16:20]  <IllFlower> She momentarily freaks out, before realizing that Kaede didn't have silver hair...
+[20-Feb-2013 02:16:42]  * Snezana is pacing nervously, talking to herself quietly
+[20-Feb-2013 02:17:10]  <Sumire> "...I think the weird tug thing is pulling me towards this silver-haired girl?"
+[20-Feb-2013 02:17:17]  <IllFlower> Snezana, noticing the odd amount of attention Sumire's giving her, turns to greet this new stranger... **
+[20-Feb-2013 02:18:03]  * Snezana scans the woman who seems to have noticed her, and cautiously backs up, and then smiles
+[20-Feb-2013 02:18:06]  <IllFlower> (Snezana has assumedly been looking for the witch, too. She seems to like doing these things.)
+[20-Feb-2013 02:18:21]  <Sumire> 14will Sumire have been told about Snezana by the other initiates?
+[20-Feb-2013 02:18:23]  <Snezana> "Dobro vecer. Kako si?"
+[20-Feb-2013 02:18:33]  *** ponicalica <~william@2607:f010:2ba:2:21c:25ff:febc:692> has left #madokamadness
+[20-Feb-2013 02:18:51]  <IllFlower> Sumire: Only vaguely, something to the effect of "we met this tall foreign magical girl..."
+[20-Feb-2013 02:19:05]  <Sumire> "I'm sorry, I don't speak...Russian?  Do you speak Japanese?"
+[20-Feb-2013 02:19:16]  <IllFlower> Sumire doesn't have a working relationship with anyone who encountered Snezana last session, so that's all she knows.
+[20-Feb-2013 02:19:39]  <Snezana> "izgubio."
+[20-Feb-2013 02:19:47]  * Snezana points at Sumire
+[20-Feb-2013 02:19:58]  <Snezana> "vestica?"
+[20-Feb-2013 02:20:34]  <Sumire> "Um, maybe?"
+[20-Feb-2013 02:20:37]  * Snezana closes her eyes, as if trying to struggling to recall something
+[20-Feb-2013 02:21:49]  <IllFlower> ("A long silence passes by...")
+[20-Feb-2013 02:22:05]  <Snezana> "have we met?"
+[20-Feb-2013 02:22:14]  <Snezana> "Your name is Mokoto isn't it?"
+[20-Feb-2013 02:22:32]  <IllFlower> lololol.
+[20-Feb-2013 02:22:55]  <Sumire> "...no.  My name is Sumire.  What's yours?"
+[20-Feb-2013 02:23:04]  <IllFlower> (Side note: Any spectators in the house tonight?)
+[20-Feb-2013 02:23:43]  <Snezana> "So the name you gave before was a fake? I believe we are acquainted, anyways, you are here for me now, right? I told you last time I wasn't here to get in the way
+[20-Feb-2013 02:23:50]  <Barcode> ((For the time being. Thsi gives me something to look at while putting away schoolnotes and stuff.))
+[20-Feb-2013 02:23:59]  <Sumire> "We haven't met.  Maybe you're mistaking me for someone else?"
+[20-Feb-2013 02:24:21]  * Snezana closes her eyes again, sighing
+[20-Feb-2013 02:24:40]  <IllFlower> (Sumire has pink hair, for reference. Hard to mix up. :p)
+[20-Feb-2013 02:24:52]  <Snezana> "I wish I brought a pen that day.." 
+[20-Feb-2013 02:25:33]  <Barcode> ((pre-transformation, everyone looks fairly normal. becuase this is anime, everyone therefore looks the same until transformed (aside from height differences)))
+[20-Feb-2013 02:25:42]  <Snezana> ((can I make a sharp challenge to realize that I'm talking to Sumire?))
+[20-Feb-2013 02:25:58]  <IllFlower> Barcode: I'm actually working on bare-bones physical appearance notes for the more notable NPCs?
+[20-Feb-2013 02:26:20]  <IllFlower> Snezana: Yeah, go ahead. 12 baseline.
+[20-Feb-2013 02:26:38]  <IllFlower> Barcode: * period, not question mark.
+[20-Feb-2013 02:26:38]  <Snezana> +roll 2d6+6
+[20-Feb-2013 02:26:38]  <rollermine> Snezana: (5+1)+6=12
+[20-Feb-2013 02:26:45]  <IllFlower> Would you look at that, 12 exactly.
+[20-Feb-2013 02:26:50]  <Snezana> amazing
+[20-Feb-2013 02:27:26]  <Snezana> "Okay, 'sumire', is this your territory?"
+[20-Feb-2013 02:27:54]  <Sumire> "Territory?  I don't know.  Are you talking about witches?  I usually fight witches with the other initiates..."
+[20-Feb-2013 02:28:29]  <IllFlower> You guys are being remarkably open about this whole magic thing. :p
+[20-Feb-2013 02:28:32]  <Sumire> 14should Sumire realize that Snezana's a magical girl >_<
+[20-Feb-2013 02:29:00]  <Barcode> ((the one thing I thought was "oh, makoto, safe assumption" except not really))
+[20-Feb-2013 02:29:07]  <IllFlower> We can cast that as an "oh, she was talking about Makoto, so it's oka-- oh fffffffuuuuuuuuuuuu nope"
+[20-Feb-2013 02:29:14]  * Snezana smiles
+[20-Feb-2013 02:29:18]  <Snezana> "witches?"
+[20-Feb-2013 02:29:42]  <Snezana> "Is this some local slang?"
+[20-Feb-2013 02:30:49]  <IllFlower> Oh, there is quite a bit of plot to get to today, so do try not to drag this out for too long ;)
+[20-Feb-2013 02:30:58]  *** ponicalica <~william@2607:f010:2ba:2:21c:25ff:febc:692> has joined #madokamadness
+[20-Feb-2013 02:30:59]  *** ChanServ sets mode: +o ponicalica
+[20-Feb-2013 02:31:26]  <Snezana> ((sorry))
+[20-Feb-2013 02:31:40]  *** Sumire <~shirayuki@2607:f010:2ba:2:21c:25ff:febc:692> has quit IRC (Quit: Reconnecting)
+[20-Feb-2013 02:31:50]  *** Sumire <~shirayuki@2607:f010:2ba:2:21c:25ff:febc:692> has joined #madokamadness
+[20-Feb-2013 02:31:51]  *** ChanServ sets mode: +o Sumire
+[20-Feb-2013 02:32:00]  <Sumire> 14sorry
+[20-Feb-2013 02:32:32]  <Sumire> "Witches are...wait, I probably shouldn't be talking about this."
+[20-Feb-2013 02:33:49]  <Sumire> "The 'vestica' thing you mentioned...what's that?"
+[20-Feb-2013 02:34:20]  <Snezana> "people like us"
+[20-Feb-2013 02:35:40]  <Sumire> "us...you can tell I'm a magical girl, can't you?  Well, witches are the things that we fight.  I'm looking for one right now, though I seem to be rather terrible at finding them compared to everyone else."
+[20-Feb-2013 02:36:40]  <Snezana> "Amusing, since I find myself in the company of witches more often than I'd like. I'd like a quiet life, you know."
+[20-Feb-2013 02:36:58]  <Snezana> "and not be accosted by strangers on what promises to be a beautiful night for stargazing."
+[20-Feb-2013 02:37:12]  <IllFlower> ("actually, it's cloudy")
+[20-Feb-2013 02:37:54]  <Sumire> "Sorry...does this mean I should walk away?"
+[20-Feb-2013 02:39:00]  <Snezana> "Well if it were actually going to be a beautiful night, I would have, but"
+[20-Feb-2013 02:39:04]  * Snezana points up
+[20-Feb-2013 02:39:19]  <Snezana> "The weather is not on my side"
+[20-Feb-2013 02:39:19]  <IllFlower> haha, I was kidding, but that works too
+[20-Feb-2013 02:39:56]  <IllFlower> Snezana: Sharp challenge, if you would.
+[20-Feb-2013 02:40:06]  <Snezana> +roll 2d6+6
+[20-Feb-2013 02:40:06]  <rollermine> Snezana: (4+4)+6=14
+[20-Feb-2013 02:40:46]  <IllFlower> Snezana starts to feel a vague compulsion in the direction Sumire was walking earlier, as well.
+[20-Feb-2013 02:41:00]  <IllFlower> Maybe it was triggered by being in this other girl's proximity? Who knows. **
+[20-Feb-2013 02:41:06]  <Snezana> "So that is why you are here."
+[20-Feb-2013 02:41:36]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[20-Feb-2013 02:42:34]  <Sumire> "Yes.  I should probably get back to doing that, in fact.  I can sort of feel something pulling me in this direction; do you want to follow me?"
+[20-Feb-2013 02:42:58]  * Snezana shrugs
+[20-Feb-2013 02:43:07]  <Snezana> "If it is your will"
+[20-Feb-2013 02:43:14]  * Sumire walks in the given direction
+[20-Feb-2013 02:43:42]  * Snezana walks carefully behind her, hands in her jacket, and takes a glance at the sky
+[20-Feb-2013 02:43:57]  <IllFlower> The two girls pass by some houses, which gradually turn into low-rise offices and shops.
+[20-Feb-2013 02:44:24]  <IllFlower> There are occasional halting attempts at small talk, but they don't go particularly well...
+[20-Feb-2013 02:44:50]  *** Xeniera was kicked by ChanServ ((Xeniera (Solstace)) No reason given)
+[20-Feb-2013 02:44:54]  <IllFlower> While the sky is mostly clear for now, there are some rather ominous clouds off on the horizon.
+[20-Feb-2013 02:44:56]  *** Xeniera <~Solstace@75-164-219-98.ptld.qwest.net> has joined #madokamadness
+[20-Feb-2013 02:44:56]  *** ChanServ sets mode: +o Xeniera
+[20-Feb-2013 02:45:00]  <Snezana> ((wut))
+[20-Feb-2013 02:45:29]  <IllFlower> Okay, fine, let's just say the weather is variable.
+[20-Feb-2013 02:45:32]  <IllFlower> Very variable.
+[20-Feb-2013 02:45:40]  <Barcode> ((/witchily/ variable))
+[20-Feb-2013 02:45:42]  <Snezana> ((I was talking about solstace getting kicked))
+[20-Feb-2013 02:45:55]  <Sumire> 14looks like he chanserv-kicked himself
+[20-Feb-2013 02:45:56]  <IllFlower> Oh, his client has issues with parting channels properly.
+[20-Feb-2013 02:46:06]  <Xeniera> What IllFlower said.
+[20-Feb-2013 02:46:21]  <Snezana> ((that sucks))
+[20-Feb-2013 02:46:38]  <Snezana> "Ever go stargazing?"
+[20-Feb-2013 02:46:59]  <Sumire> "Sometimes.  The streetlights can make it hard, though."
+[20-Feb-2013 02:47:35]  <IllFlower> (Keep talking, but) Snezana and Sumire eventually reach a small cluster of brick mixed-use buildings that look like they were constructed some time ago.
+[20-Feb-2013 02:48:13]  <IllFlower> On the bottom levels are a few shops, some of which are already shuttered, though a couple are open, if curiously empty.
+[20-Feb-2013 02:48:26]  <Snezana> "I know, its nothing like the fields of home. No view is greater than a moonless night when you can see all the constellations..."
+[20-Feb-2013 02:48:41]  <IllFlower> Pedestrians pass by through an intersection in front, a few carrying umbrellas. Prepared ones, they are.
+[20-Feb-2013 02:49:01]  * Snezana twitches, as if an unpleasant thought suddenly entered her head
+[20-Feb-2013 02:49:28]  <Sumire> "That sounds nice.  What is your home like, if you don't mind me asking?"
+[20-Feb-2013 02:49:41]  <Snezana> "It was..."
+[20-Feb-2013 02:49:43]  <IllFlower> On the upper levels appear to be offices. Banners hang from the windows reading things like "Pacific Travel" and "Yazawa Food Distributors".
+[20-Feb-2013 02:50:17]  <IllFlower> The girls feel their tugs shift direction, pointing them down an alley behind the buildings. **
+[20-Feb-2013 02:50:46]  <Sumire> "Things seem to be pointing down there.  It seems like witches really like the back alleys."
+[20-Feb-2013 02:51:14]  <Snezana> "It was an ordinary home while I lived in it. Naturally, things changed when I became an initiate."
+[20-Feb-2013 02:51:45]  <Snezana> "This is a natural trap."
+[20-Feb-2013 02:51:59]  <Sumire> "A trap?"
+[20-Feb-2013 02:52:29]  <Snezana> "We both can feel its presence, you said you weren't good at it so maybe its drawing us to it."
+[20-Feb-2013 02:52:59]  <Sumire> "Mmmmm, perhaps.  Do we have another choice, though?"
+[20-Feb-2013 02:53:21]  <Barcode> ((brief side note: if snezana is pronounced as I'm pronouncing snezana - as if it were an english word - shouldn't the characters have no issue pronouncing it? i mean, s, z, n, a, those are all sounds japanese has...)
+[20-Feb-2013 02:53:23]  <Barcode> )
+[20-Feb-2013 02:53:33]  <Sumire> 14sunezana
+[20-Feb-2013 02:54:04]  <Fiora> (("sne" isn't a japanese syllable, so it'd be su-ne))
+[20-Feb-2013 02:54:10]  <IllFlower> Barcode: The "sn" sound doesn't occur in Japanese. But other than that, it's pretty easy.
+[20-Feb-2013 02:54:18]  <Fiora> ((スネザナ))
+[20-Feb-2013 02:54:24]  <Snezana> "We can try to look for another way to meet it, or we can barge in like you -- Mokoto did"
+[20-Feb-2013 02:54:40]  <IllFlower> It's Makoto with an "a", guys. >_>
+[20-Feb-2013 02:54:51]  <Barcode> ((got it))
+[20-Feb-2013 02:54:57]  <Sumire> 14brb bathroom
+[20-Feb-2013 02:55:08]  <Snezana> ((I'd imagine my character wouldn't be good at remembering names))
+[20-Feb-2013 02:55:16]  <IllFlower> Barcode: And to be honest the inserted vowel would probably be so short as to be pretty much inaudible.
+[20-Feb-2013 02:56:03]  <Barcode> ((m. for future are peeing notes, n'all that))
+[20-Feb-2013 02:56:45]  <IllFlower> The best way to put it is that there aren't any sounds in there that are totally alien to Japanese speakers, unlike "th" for instance.
+[20-Feb-2013 02:57:07]  *** SpruceZeus <~chatzilla@207.173-62-69.ftth.swbr.surewest.net> has joined #madokamadness
+[20-Feb-2013 02:57:39]  <Sumire> "...yeah, barging in like Makoto does might not be the best idea.  Can you think of any better ways to catch it in a trap, though?"
+[20-Feb-2013 02:58:01]  <IllFlower> (Speak of the devil. :p)
+[20-Feb-2013 02:59:59]  <Barcode> ((got up, lower leg asleep and I didn't even feel it, accidentally stomped around <_>))
+[20-Feb-2013 03:00:21]  <Snezana> "I'm not experienced in hunting witches, but one tactic we used was to have one person begin the attack while another hides their presence. Then they attack while the witch is preoccupied"
+[20-Feb-2013 03:00:41]  <Snezana> "this of course works best if the witch... isn't one of the smarter ones that are likely to set up a trap"
+[20-Feb-2013 03:01:59]  <Sumire> "Yeah.  I don't think there's a good way to ambush a witch that's holed itself up on a one-way street like that..."
+[20-Feb-2013 03:02:41]  <Snezana> ((Could I use my magic to try to do a sneak attack? Since it is the void))
+[20-Feb-2013 03:02:45]  <IllFlower> As the two girls discuss tactics, a boy comes walking down the alleyway, from the direction where the initiates believe the witch is.
+[20-Feb-2013 03:03:45]  <IllFlower> He looks to be about a year or two older than them, with a general appearance that wouldn't be out of place for a punk rock band's guitarist.
+[20-Feb-2013 03:04:03]  <Sumire> 14I thought I saw a witch but it was just a scene kid
+[20-Feb-2013 03:04:48]  * Snezana leans against the wall, arms crossed
+[20-Feb-2013 03:04:59]  <IllFlower> His brown hair is slicked back, a portion of it dyed yellow. A leather jacket that seems wholly inadequate for the January chill adorns his shoulders. His jeans are faded, almost but not quite torn.
+[20-Feb-2013 03:05:26]  <IllFlower> "Hey, what are you girls doing here?" he says. His voice isn't so much threatening as baffled. **
+[20-Feb-2013 03:06:15]  <Sumire> "We're...um...exploring?"
+[20-Feb-2013 03:06:18]  <Snezana> "Dobrodosao. Kako si?"
+[20-Feb-2013 03:06:59]  <IllFlower> The boy fires a withering glare at Snezana. He might be a head shorter than she is, but he clearly doesn't find this funny.
+[20-Feb-2013 03:07:08]  <IllFlower> "What the hell are you doing exploring back here?"
+[20-Feb-2013 03:07:29]  <Snezana> "Does this alley belong to you?"
+[20-Feb-2013 03:08:00]  <IllFlower> As she asks her question, Sumire feels another sharp tug into the alley beyond. It's too narrow to see much beyond the boy, though.
+[20-Feb-2013 03:08:52]  <IllFlower> "It doesn't matter if it does or doesn't belong to me, does it? You need to get out of here. Take her with you."
+[20-Feb-2013 03:09:36]  <IllFlower> (Either of you can try to break past the boy with a Sharp challenge at any time, should your character feel the impulse to do so.)
+[20-Feb-2013 03:09:39]  <IllFlower> **
+[20-Feb-2013 03:10:02]  <Barcode> ((couldn't they try Dominate? though I guess if he's half as tough as he looks it might be a bad idea))
+[20-Feb-2013 03:10:12]  <IllFlower> (They could also try that, yeah.)
+[20-Feb-2013 03:10:18]  <Sumire> 14pretty sure Ag's Sumire's lowest stat though
+[20-Feb-2013 03:11:02]  <Snezana> ((can I read the guy to see if there is anything unusual with him, magic wise?))
+[20-Feb-2013 03:11:44]  * Snezana lowers her voice, to make sure only Sumire can hear her
+[20-Feb-2013 03:11:56]  <IllFlower> Sure. Sharp, 12 baseline.
+[20-Feb-2013 03:12:16]  <SpruceZeus> ((Did somebody say AGGRO CHECK?))
+[20-Feb-2013 03:12:16]  <Snezana> "I think something is wrong here."
+[20-Feb-2013 03:12:34]  <Snezana> ((Makoto comes flying in out of nowhere))
+[20-Feb-2013 03:12:41]  <IllFlower> She would.
+[20-Feb-2013 03:12:44]  <Snezana> +roll 2d6+6
+[20-Feb-2013 03:12:44]  <rollermine> Snezana: (4+2)+6=12
+[20-Feb-2013 03:12:44]  <Sumire> "I think so.  This guy shouldn't be safe if there's a witch."
+[20-Feb-2013 03:13:00]  <Snezana> "illusions, mind control..."
+[20-Feb-2013 03:13:18]  <Snezana> ((the baseline is my friend))
+[20-Feb-2013 03:13:19]  <IllFlower> Snezana: Okay, you can ask one question, out of the ones on page 14, and you'll get a truthful answer.
+[20-Feb-2013 03:13:25]  <Barcode> ((*is currently slapping out flavour text for future Dominate checks*))
+[20-Feb-2013 03:13:49]  * Snezana whispers a soft incantation
+[20-Feb-2013 03:14:42]  <Snezana> "How could I get you to tell me if you're a real person."
+[20-Feb-2013 03:15:04]  <Barcode> ((oshit))
+[20-Feb-2013 03:15:25]  <IllFlower> "Uh..." The boy looks at Snezana, bemusedly. "I'm as real as they come..."
+[20-Feb-2013 03:15:45]  <Sumire> 14snezana's stunning 3 So at work
+[20-Feb-2013 03:15:55]  <Nitya> 14magic is strange and powerful
+[20-Feb-2013 03:16:17]  <Snezana> ((its magic))
+[20-Feb-2013 03:16:21]  <Sumire> 14I'd like to try to whip around
+[20-Feb-2013 03:16:32]  <Sumire> 14er, break past the boy
+[20-Feb-2013 03:16:47]  <IllFlower> He reaches into his back pocket and pulls out a student identification card for a nearby high school. "Shun Koide," it reads.
+[20-Feb-2013 03:17:32]  <Snezana> "Lets just get this over with."
+[20-Feb-2013 03:18:02]  * Snezana moves to go past the boy
+[20-Feb-2013 03:18:08]  <IllFlower> Sumire: Sharp, then. 12 succeeds.
+[20-Feb-2013 03:18:14]  <Sumire> +roll 2d6+6
+[20-Feb-2013 03:18:14]  <rollermine> Sumire: (3+4)+6=13
+[20-Feb-2013 03:18:19]  <IllFlower> You can bring Snezana with you if you -- well, then.
+[20-Feb-2013 03:18:25]  <IllFlower> Success for the both of you.
+[20-Feb-2013 03:19:31]  <Sumire> "I'm sorry, but we have to be somewhere." Sumire pushes ahead of Shun.
+[20-Feb-2013 03:19:50]  * Snezana follows behind, remaining as cautious as ever
+[20-Feb-2013 03:19:54]  <IllFlower> It's going to have to be a little more forceful (or dodgey) than that. :p
+[20-Feb-2013 03:20:07]  <Sumire> 14okay
+[20-Feb-2013 03:20:18]  <Snezana> ((use that 7 soc)
+[20-Feb-2013 03:20:59]  <Sumire> "We need to get to the other side of the alley to reach the bus stop, since the last bus is coming soon.  Please let us through."
+[20-Feb-2013 03:21:10]  <IllFlower> (I'm categorizing this as a "Run Away" challenge, for reference, so)
+[20-Feb-2013 03:21:28]  <Snezana> ((so a cool challenge))?
+[20-Feb-2013 03:22:12]  <IllFlower> (No, that's Sharp. Sumire already succeeded; she just needs to give Shun the slip. I was meaning "duck and run" most likely.)
+[20-Feb-2013 03:22:16]  <Snezana> ((oh so something is left behind/follows us))
+[20-Feb-2013 03:22:33]  <IllFlower> (Yeah, I'll get to that in a second.)
+[20-Feb-2013 03:23:08]  <IllFlower> Shun looks at Sumire askance. "Huh? What would a bus be doing back he--" **
+[20-Feb-2013 03:23:47]  <Barcode> ((well I wrote a totally sweet Successful Dominate but I guess to be legitimately stammery and shitty at being trheatening I'd have to be caught up in the moment. scrapping plans for other rolls))
+[20-Feb-2013 03:24:03]  * Snezana moves to dodge past the hindrance while his attention is focused on Sumire
+[20-Feb-2013 03:25:18]  <Sumire> "Um, it's just a complicated path through multiple alleyways; I'm kind of unsure about it, but Google Maps says it's the best way around, and even this is cutting things way too close for comfort."  Sumire babbles to attempt to distract Shun, so that Snezana can pull toward her
+[20-Feb-2013 03:25:21]  <IllFlower> "Wait -- hey!" The boy named Shun reaches for Snezana, but grasps only thin air. **
+[20-Feb-2013 03:26:10]  <Snezana> oh boy, there goes our tactical brilliance
+[20-Feb-2013 03:26:28]  <IllFlower> It's really not supposed to be this complicated. :p
+[20-Feb-2013 03:26:45]  <Barcode> ((escape will be resolved using MegaMek))
+[20-Feb-2013 03:27:50]  <Snezana> ((I know, getting used to things))
+[20-Feb-2013 03:28:19]  <IllFlower> I'll just narrate here:
+[20-Feb-2013 03:29:31]  <IllFlower> Sumire manages to duck underneath Shun's arm while as he reaches out. Her sudden motion knocks him off balance, and by the time he's back on his feet, the girls have a fair lead on him.
+[20-Feb-2013 03:30:41]  <IllFlower> The tug pulls the girls down a sharp corner, which opens onto what looks to be a large sunken courtyard.
+[20-Feb-2013 03:32:06]  <IllFlower> Separating the courtyard from the alley is a worn-down fence built on top of the courtyard's outer wall. The ground is at least three meters below where the girls are standing now.
+[20-Feb-2013 03:32:41]  <IllFlower> In the middle of the courtyard, spinning in the middle of a few empty tables and chairs, is the spinning entrance to a witch's maze. **
+[20-Feb-2013 03:32:51]  <Sumire> "...There's the witch.  We should probably transform."
+[20-Feb-2013 03:33:00]  <IllFlower> ("spinning... spinning..." gotta work on that...)
+[20-Feb-2013 03:33:12]  <Snezana> ((billions and billions)
+[20-Feb-2013 03:34:41]  <Barcode> ((answer whenever there's time: so like is japanese high/low school separated like it is in north america? grades 1-8 in one school, 9-12 in another?))
+[20-Feb-2013 03:34:52]  <IllFlower> Barcode: It's 1-6, 7-9, 10-12.
+[20-Feb-2013 03:35:00]  <Barcode> ((understood, sah.))
+[20-Feb-2013 03:35:30]  * Snezana is enveloped by a dark sphere, almost as if being drawn into the sphere, a soft wind fills the plaza. Snezana emerges wearing clothing that appears made of shifting darkness
+[20-Feb-2013 03:35:39]  <Barcode> ((drawing a blank on age vs grade...5 yearsolder than the grade...so the kids are all grade 11 then?))
+[20-Feb-2013 03:35:58]  * Snezana tightens her gloves, looking at the entrance
+[20-Feb-2013 03:36:06]  <IllFlower> Barcode: Grade 10, or first year of high school.
+[20-Feb-2013 03:36:12]  <Barcode> ((got it.))
+[20-Feb-2013 03:36:39]  <Snezana> "Hopefully this doesn't prove to be such a waste of time as my last fight."
+[20-Feb-2013 03:37:06]  * Sumire ,transformed, heads toward the witch's entrance
+[20-Feb-2013 03:37:09]  <IllFlower> Barcode: Really, most of them should be 16 by now, but we can pretend their birthdays are all in the first three months of the year. `_`
+[20-Feb-2013 03:37:26]  <Barcode> ((heh. sorry one more - what's the 7-9 period called, informally? if anytthing?))
+[20-Feb-2013 03:37:30]  * Snezana follows close behind, with an impatient step
+[20-Feb-2013 03:37:34]  <IllFlower> Barcode: middle or junior high
+[20-Feb-2013 03:37:45]  <Barcode> ((aff. sorry for the distraction, thanks again))
+[20-Feb-2013 03:37:49]  <IllFlower> A look over the shoulder confirms that Shun is nowhere to be seen.
+[20-Feb-2013 03:38:24]  <IllFlower> The girls take a well-coordinated leap over the fence, flinging themselves straight into the witch's maze.
+[20-Feb-2013 03:39:09]  <IllFlower> As Snezana lands, a sword suddenly falls, point down, hitting the ground beside her.
+[20-Feb-2013 03:39:45]  <IllFlower> It clanks against the metal floor of the maze, falling onto its side inches from Sumire's face. **
+[20-Feb-2013 03:40:29]  <IllFlower> (actually, uh)
+[20-Feb-2013 03:40:44]  * Snezana by reflex, Snezana makes a dodge to the right upon the sound of the sword hitting the metal floor
+[20-Feb-2013 03:40:52]  <Snezana> whoops have to get used to /me
+[20-Feb-2013 03:40:56]  <IllFlower> The maze seems to be metal as far as the eye can see, medieval-looking shields hanging from the wall at regular intervals. **
+[20-Feb-2013 03:41:29]  <Snezana> ((please don't let the roof be made of swords))
+[20-Feb-2013 03:42:15]  <IllFlower> The ceiling is made of... hm. There doesn't seem to be a ceiling. It's just dark. **
+[20-Feb-2013 03:42:37]  <Sumire> "...okay, now we need to find the witch itself."
+[20-Feb-2013 03:42:55]  <Snezana> "The smartest thing will be to split up so it can pick us off at its leisure."
+[20-Feb-2013 03:44:51]  <Barcode> ((no "wha" from soo-mear?))
+[20-Feb-2013 03:45:06]  <IllFlower> As the girls get up, another hail of objects falls from above, landing across the... room? whatever -- with a series of clunks. Upon closer inspection, it seems to be a set of bronze vessels for food and drink. **
+[20-Feb-2013 03:45:34]  <Snezana> ((holy shit we're fighting Gilgamesh))
+[20-Feb-2013 03:46:38]  <Sumire> "Okay, things seem to be falling.  I'd guess the witch is up there, but there doesn't seem to be anything up there, aside from miscellaneous rain."
+[20-Feb-2013 03:47:17]  * Snezana takes one of the vessels, looking for anything that could indicate something about the witch
+[20-Feb-2013 03:47:32]  <Sumire> 14can I do a locate check?
+[20-Feb-2013 03:48:15]  <IllFlower> Next is a long lance, its pointed tip managing somehow to embed itself in the metal floor at the center of the maze. **
+[20-Feb-2013 03:48:32]  <IllFlower> Sumire: Go ahead.
+[20-Feb-2013 03:48:38]  <Sumire> +roll 2d6+6
+[20-Feb-2013 03:48:38]  <rollermine> Sumire: (4+1)+6=11
+[20-Feb-2013 03:48:42]  <Sumire> 14awwwwwwwww :(
+[20-Feb-2013 03:49:06]  <Snezana> can I make a sharp test to see if  I learn anything about the witch from the vessel it graciously blessed us with
+[20-Feb-2013 03:49:15]  <IllFlower> Hold on just a second...
+[20-Feb-2013 03:50:11]  <IllFlower> As the girls try to make sense of the odd precipitation, a loud crashing sound echoes from behind the both of them, shaking the room.
+[20-Feb-2013 03:51:03]  <IllFlower> All the initiates see is a huge suit of full-body plate armor, at least half as tall again as Snezana, wielding a double-headed axe, before --
+[20-Feb-2013 03:51:10]  <IllFlower> Battle starts here. Pick your attributes.
+[20-Feb-2013 03:51:33]  <Sumire> 14attack mg defense ht support fr
+[20-Feb-2013 03:52:00]  <Snezana> attack FR defense HT support Mg
+[20-Feb-2013 03:52:22]  <IllFlower> As usual, battle scoreboard is on the spreadsheet: https://docs.google.com/spreadsheet/ccc?key=0AizHQ9KT342udC01ckhGcnpDRmlMX3NiNklIUEpDcHc
+[20-Feb-2013 03:52:28]  <Omnipresence> 14URL: [docs.google.com → accounts.google.com] Welcome to Google Docs
+[20-Feb-2013 03:52:52]  <IllFlower> The witch goes first, electing to attack Snezana.
+[20-Feb-2013 03:53:16]  <IllFlower> Thanks to its sudden entrance, it gets a boost to its attack power.
+[20-Feb-2013 03:53:25]  <IllFlower> +roll 2m6+10+3
+[20-Feb-2013 03:53:25]  <rollermine> IllFlower: (3+5)+10+3=21
+[20-Feb-2013 03:54:11]  <IllFlower> Snezana: Roll to defend or clash.
+[20-Feb-2013 03:54:19]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has quit IRC (Killed (NickServ (GHOST command used by Section42L_)))
+[20-Feb-2013 03:54:25]  <Snezana> roll to clash
+[20-Feb-2013 03:54:37]  <Snezana> +roll 2m6+8
+[20-Feb-2013 03:54:37]  <rollermine> Snezana: (2+1)+8=11
+[20-Feb-2013 03:54:45]  <Snezana> well shit
+[20-Feb-2013 03:54:46]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[20-Feb-2013 03:55:02]  <IllFlower> Are you going to take 11?
+[20-Feb-2013 03:55:12]  <Sumire> 14you have no overcharge, take some
+[20-Feb-2013 03:55:44]  <Snezana> ((so I can spend overcharge to reroll right?))
+[20-Feb-2013 03:55:57]  <IllFlower> To add extra dice, not reroll.
+[20-Feb-2013 03:56:24]  <IllFlower> Each point of Overcharge gives you one extra die, up to 3 per challenge.
+[20-Feb-2013 03:56:48]  * Snezana removes her gloves, going at unfettered strength
+[20-Feb-2013 03:56:56]  <Snezana> I'll add three dice
+[20-Feb-2013 03:57:09]  <IllFlower> Okay, roll 3m6.
+[20-Feb-2013 03:57:19]  <Snezana> +roll 3m6
+[20-Feb-2013 03:57:20]  <rollermine> Snezana: (2+(6+5)+2)=15
+[20-Feb-2013 03:57:49]  <IllFlower> I'll take the first three, since you can't take more than 3 OC. 2+6+5=13, for a total of 24.
+[20-Feb-2013 03:58:18]  <IllFlower> The witch tries adding a die as well...
+[20-Feb-2013 03:58:21]  <IllFlower> +roll m6
+[20-Feb-2013 03:58:21]  <rollermine> IllFlower: 4=4
+[20-Feb-2013 03:58:33]  <Barcode> ((Witch's Cruel Thesis))
+[20-Feb-2013 03:58:43]  <IllFlower> 21+4 = 25 > 24. Witch wins.
+[20-Feb-2013 03:59:09]  <Snezana> ((welp))
+[20-Feb-2013 03:59:32]  <IllFlower> +roll 2d6+5+2
+[20-Feb-2013 03:59:32]  <rollermine> IllFlower: (2+6)+5+2=15
+[20-Feb-2013 03:59:35]  <Sumire> 14I'd say Snezana should burn relationships but we never added those
+[20-Feb-2013 03:59:55]  <IllFlower> We didn't, did we? Dammit.
+[20-Feb-2013 04:00:32]  <IllFlower> Snezana: 15 damage. You're at 3 Resolve.
+[20-Feb-2013 04:00:32]  * Snezana realizes that whatever is about to happen is going to be extremely painful, and unleashes a flurry of punches against the armor. The attacks scratch and dent the armor but fail to break through
+[20-Feb-2013 04:00:38]  <Barcode> ((salad, at any rate I haven't yet seen a successful witch attack that didn't put the target at enough health to be two-shotted))
+[20-Feb-2013 04:01:15]  <Snezana> ((I have a feeling I'm going down like barcode. We can be hospital buddies)
+[20-Feb-2013 04:01:16]  <Barcode> ((this is, I guess, the closest to one-shot since the last episode's boss, which was actually a oneshot))
+[20-Feb-2013 04:01:23]  <Barcode> ((heheheh))
+[20-Feb-2013 04:01:51]  <IllFlower> The armor witch lifts its axe, slamming it down on Snezana with incredible force. Her magic manages to keep her from getting sliced in half, but that's not to say things are looking good.
+[20-Feb-2013 04:02:17]  <IllFlower> It's Sumire's turn next.
+[20-Feb-2013 04:02:22]  <Sumire> 14attack
+[20-Feb-2013 04:02:34]  <Sumire> +roll 2d6+9
+[20-Feb-2013 04:02:34]  <rollermine> Sumire: (1+5)+9=15
+[20-Feb-2013 04:02:48]  <IllFlower> +roll 2m6+8
+[20-Feb-2013 04:02:48]  <rollermine> IllFlower: (5+(6+4))+8=23
+[20-Feb-2013 04:02:54]  <IllFlower> Attack fails.
+[20-Feb-2013 04:03:23]  <Sumire> Sumire aims her wand, but after seeing what happened to Snezana, her aim was not true, and it harmlessly flies into a wall.
+[20-Feb-2013 04:03:44]  * Snezana rolls with the blow in a futile attempt mitigate some of the damage, she struggles to get back on her feet
+[20-Feb-2013 04:04:35]  <IllFlower> The maze rumbles again. This time, some pocket watches are deposited on the ground, in advance of --
+[20-Feb-2013 04:05:05]  <IllFlower> While the girls are down, a second suit of armor comes crashing down from above, wielding a mace.
+[20-Feb-2013 04:05:13]  <Sumire> 14we're fucked
+[20-Feb-2013 04:05:25]  <IllFlower> Don't worry -- both suits of armor are part of the same witch, so any damage you do counts for both of them.
+[20-Feb-2013 04:05:37]  <Snezana> but I imagine it gets more attacks right
+[20-Feb-2013 04:05:52]  <IllFlower> However, this does mean that the witch can indeed attack twice, and the second suit focuses its fire on Sumire...
+[20-Feb-2013 04:05:52]  <Barcode> ((can they do multi-attacks regardless? not that I think either of them have barrage or whatever))
+[20-Feb-2013 04:06:19]  <IllFlower> Barcode: No, normally they can only take one turn and attack one target at a time, unless they elect to take the normal multiple-attack penalty.
+[20-Feb-2013 04:06:47]  <IllFlower> There are witch abilities that lift both restrictions, though.
+[20-Feb-2013 04:07:08]  <Sumire> 14I still get the feeling that we're going to be cutting close to deaths.  Which would really put a damper in IllFlower's plans, considering the italics...
+[20-Feb-2013 04:07:21]  <IllFlower> Witch attempts to use a Binding Attack, as per page 36.
+[20-Feb-2013 04:07:33]  <Snezana> Well my character isn't in italics, so I'm expendable
+[20-Feb-2013 04:07:36]  <IllFlower> +roll 2m6+10
+[20-Feb-2013 04:07:36]  <Snezana> plot-wise
+[20-Feb-2013 04:07:36]  <rollermine> IllFlower: (4+(6+3))+10=23
+[20-Feb-2013 04:07:55]  <Barcode> ((you guys could try to bail...unless it's not an option in a maze))
+[20-Feb-2013 04:08:15]  <Barcode> ((and I mean if it doesn't work you'd be fuckeder since I think you miss your attack turns))
+[20-Feb-2013 04:08:38]  <Sumire> 14....hmmm, I think I'd need overcharge to beat this. D:
+[20-Feb-2013 04:09:28]  <Snezana> lowest attribute as defense?
+[20-Feb-2013 04:09:35]  <Snezana> that sucks pretty majorily
+[20-Feb-2013 04:09:43]  <Sumire> 14it does, especially since I'm 9/7/3
+[20-Feb-2013 04:10:15]  <Snezana> ((could I use a clash or would that not work/be a bad idea)
+[20-Feb-2013 04:10:28]  <Sumire> 14it's still the same round
+[20-Feb-2013 04:10:29]  <IllFlower> You already took your turn this round, so you can't clash again.
+[20-Feb-2013 04:10:31]  <Sumire> 14also it's attacking me
+[20-Feb-2013 04:10:47]  <IllFlower> Well, she could otherwise clash to protect you.
+[20-Feb-2013 04:11:53]  <Snezana> "Pocket... watches? Of all the things it could send at us, it gives us watches..."
+[20-Feb-2013 04:12:08]  <Sumire> 14honestly, I think even if I take overcharge I'm likely to go down.  ugh
+[20-Feb-2013 04:12:42]  <IllFlower> You will need to pick something, at the very least.
+[20-Feb-2013 04:12:50]  <Sumire> 14*sigh* I think I'll just go down
+[20-Feb-2013 04:13:00]  <IllFlower> Don't worry; things aren't quite as hopeless as they seem.
+[20-Feb-2013 04:13:52]  <IllFlower> Sumire: Passive defense?
+[20-Feb-2013 04:14:08]  <IllFlower> Since I take it you don't want to accidentally take Overcharge.
+[20-Feb-2013 04:14:11]  *** JackMackerel <~JackMacke@75-51-144-9.lightspeed.sntcca.sbcglobal.net> has joined #madokamadness
+[20-Feb-2013 04:14:13]  <Sumire> 14might as well, since even 7+12 wouldn't win, and even with overcharge I'd have a low chance of beating 23, so yeah
+[20-Feb-2013 04:14:30]  <IllFlower> Just a second...
+[20-Feb-2013 04:14:35]  <IllFlower> +roll 2m6+9
+[20-Feb-2013 04:14:35]  <rollermine> IllFlower: (4+2)+9=15
+[20-Feb-2013 04:14:37]  <Snezana> ((plus it could be a dick and throw an extra die when it loses))
+[20-Feb-2013 04:14:44]  <IllFlower> +roll m6
+[20-Feb-2013 04:14:44]  <rollermine> IllFlower: 1=1
+[20-Feb-2013 04:14:49]  <IllFlower> +roll m6
+[20-Feb-2013 04:14:49]  <rollermine> IllFlower: 2=2
+[20-Feb-2013 04:14:58]  <IllFlower> +roll m6
+[20-Feb-2013 04:14:58]  <rollermine> IllFlower: 3=3
+[20-Feb-2013 04:15:01]  *** JackMackerel is now known as Athena_Lenway
+[20-Feb-2013 04:15:03]  <IllFlower> ... oh, come on.
+[20-Feb-2013 04:15:05]  <IllFlower> +roll m6
+[20-Feb-2013 04:15:05]  <rollermine> IllFlower: 2=2
+[20-Feb-2013 04:15:32]  <Sumire> 14...I make jokes about rollermine being a troll, but I swear, it uses the language's built-in random number generator.
+[20-Feb-2013 04:15:43]  <IllFlower> Okay, fine, whatever, let's do it this way.
+[20-Feb-2013 04:15:45]  <IllFlower> +roll 3m6
+[20-Feb-2013 04:15:45]  <rollermine> IllFlower: ((6+6+4)+2+4)=22
+[20-Feb-2013 04:15:58]  <IllFlower> Let's go with that.
+[20-Feb-2013 04:16:06]  <Barcode> ???
+[20-Feb-2013 04:16:09]  <Sumire> 14what are these m6s
+[20-Feb-2013 04:16:19]  <IllFlower> It'll become clear in a moment.
+[20-Feb-2013 04:16:26]  <Snezana> barcode we're coming to meet you
+[20-Feb-2013 04:16:42]  <Sumire> 14I think we have a deus ex machina on our hands
+[20-Feb-2013 04:17:22]  <Barcode> ((Snezana: "same old ceiling - whoaaa, a foreigner! *star-eyes*"))
+[20-Feb-2013 04:17:40]  <Snezana> ((Gilgamesh witch cheats at cards too I bet))
+[20-Feb-2013 04:18:05]  <Sumire> 14the suit of armor thing makes me think more along the lines of Lancelot, really
+[20-Feb-2013 04:18:18]  <IllFlower> The second suit of armor swings its mace around its head, around and around, and as Sumire watches its orbit, time seems to slow down...
+[20-Feb-2013 04:18:57]  <IllFlower> The mace leaves the witch's hands, and in slow motion, it makes its way towards Sumire's frozen figure.
+[20-Feb-2013 04:19:33]  <IllFlower> Her vision seems to go white, all of a sudden, and --
+[20-Feb-2013 04:19:48]  <Snezana> ((Well the dropping of vessels for food and water made me think of gilgamesh's use of the gate of the bablyon))
+[20-Feb-2013 04:20:38]  <IllFlower> Out of nowhere, a large, thin barrier appears in front of Sumire. The mace smashes into it, its barbs sticking out as if poking holes through a sheet of paper.
+[20-Feb-2013 04:21:24]  <IllFlower> The barrier seems to be growing longer and longer, circling the mace-throwing witch, until it smashes into its helmet, knocking it aside.
+[20-Feb-2013 04:21:56]  <IllFlower> 4+2+6+6+4+9=31, okay...
+[20-Feb-2013 04:22:07]  <IllFlower> +roll d6+4+6
+[20-Feb-2013 04:22:07]  <rollermine> IllFlower: 2+4+6=12
+[20-Feb-2013 04:23:31]  <IllFlower> Both Sumire and Snezana look, in shock, at the source of the barrier, finding that it ends in a large calligraphy scroll, and holding the scroll is --
+[20-Feb-2013 04:23:58]  <IllFlower> There, unmistakably this time, in a flowing kimono, stands Kaede.
+[20-Feb-2013 04:24:01]  <IllFlower> Witch takes 12 damage.
+[20-Feb-2013 04:26:08]  <Barcode> ((hoo boy.))
+[20-Feb-2013 04:26:16]  <IllFlower> That's the end of the round, by the way. Attribute changes whenever.
+[20-Feb-2013 04:26:19]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has quit IRC (Ping timeout: 180 seconds)
+[20-Feb-2013 04:26:48]  <Snezana> attack heart defense fury support magic
+[20-Feb-2013 04:26:53]  <Sumire> 14I'm going to keep my same attributes, since I was just saved by Kaede ex machina
+[20-Feb-2013 04:27:02]  <Snezana> well I need that +1 to not die
+[20-Feb-2013 04:27:29]  <IllFlower> Barcode: I seem to have stunned everyone into silence. Either that or they were just waiting for me to say "end of round." `_`
+[20-Feb-2013 04:27:41]  <Sumire> 14I was waiting for the end of round or **
+[20-Feb-2013 04:27:48]  <Snezana> ((I was waiting on Sumire to leave a comment))
+[20-Feb-2013 04:27:50]  <IllFlower> Well, if you want to do some talking now, it's free.
+[20-Feb-2013 04:28:08]  <Sumire> "Is...is that really...she wouldn't...would she...Kaede?"
+[20-Feb-2013 04:28:18]  <IllFlower> Not like the game mechanics let me interrupt you guys in the middle of a conversation. :p
+[20-Feb-2013 04:29:08]  <IllFlower> Kaede looks first at Snezana, then at Sumire. The words "it's you again..." escape from her lips. **
+[20-Feb-2013 04:29:29]  <IllFlower> (actually, hold for one more)
+[20-Feb-2013 04:29:35]  <Snezana> "Who the he--- what the hell is happening here. You know this person?"
+[20-Feb-2013 04:29:38]  <IllFlower> "How did you two get in here?" **
+[20-Feb-2013 04:31:12]  <Sumire> "I think.  Things seem to be complicated.  I'm not sure how well I can explain and dodge maces at the same time."
+[20-Feb-2013 04:31:27]  <Snezana> "A series of bad decisions brought us here."
+[20-Feb-2013 04:32:54]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[20-Feb-2013 04:32:58]  <Barcode> ((heheheh))
+[20-Feb-2013 04:33:17]  <IllFlower> Kaede makes a face at Snezana that seems to suggest "you're not as funny as you think," before tilting her head downwards and covering her forehead with her hand.
+[20-Feb-2013 04:33:49]  <IllFlower> "I should have known Koide would be a useless sentry, that idiot..." she mutters, barely audible to the others.
+[20-Feb-2013 04:35:25]  <Snezana> "Sumire, you okay?"
+[20-Feb-2013 04:35:27]  <IllFlower> "Anyway," she finishes to herself, before starting in a normal voice again. "Bad decisions or no, we have more pressing issues to deal with." She tilts her head towards the two suits of armor. **
+[20-Feb-2013 04:35:48]  <Sumire> "I think so.  I was protected just in time by...by Kaede."
+[20-Feb-2013 04:36:48]  * Snezana gets up, holding her chest where the blade came down
+[20-Feb-2013 04:37:15]  <Snezana> "Well I have no idea what is going on anymore, but if I'm going to die its not going to be on the floor next to some fucking pocket watches."
+[20-Feb-2013 04:37:22]  <IllFlower> Okay, next round. Witch attacks first again.
+[20-Feb-2013 04:38:07]  <IllFlower> Considering Kaede did its partner some pretty significant damage, it's no surprise that the axeman wants some revenge on her, so...
+[20-Feb-2013 04:38:16]  <IllFlower> +roll 2m6+10
+[20-Feb-2013 04:38:16]  <rollermine> IllFlower: (5+2)+10=17
+[20-Feb-2013 04:38:57]  <IllFlower> Kaede, for her part, doesn't seem to like taking things lying down, so she clashes.
+[20-Feb-2013 04:39:07]  <IllFlower> +roll 2m6+9
+[20-Feb-2013 04:39:07]  <rollermine> IllFlower: (5+1)+9=15
+[20-Feb-2013 04:39:35]  * IllFlower thinks
+[20-Feb-2013 04:39:40]  <IllFlower> +roll m6
+[20-Feb-2013 04:39:40]  <rollermine> IllFlower: 5=5
+[20-Feb-2013 04:39:59]  <Snezana> "Sumire we're going to need to combine our attacks. We're getting nowhere on our own"
+[20-Feb-2013 04:40:19]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has quit IRC (Ping timeout: 180 seconds)
+[20-Feb-2013 04:40:20]  <Sumire> 14can't this round
+[20-Feb-2013 04:40:29]  <Snezana> ((basically lets do a team attack when we can))
+[20-Feb-2013 04:40:40]  <Sumire> 14okay.  which attribute?
+[20-Feb-2013 04:41:01]  <Snezana> heart, since I think its our strongest attribute
+[20-Feb-2013 04:41:10]  <IllFlower> +roll m6
+[20-Feb-2013 04:41:10]  <rollermine> IllFlower: 1=1
+[20-Feb-2013 04:41:16]  <Sumire> 14IllFlower would have to put a relationship in though
+[20-Feb-2013 04:41:19]  <IllFlower> 20 > 18, Kaede wins.
+[20-Feb-2013 04:41:39]  <IllFlower> +roll d6+4+2
+[20-Feb-2013 04:41:39]  <rollermine> IllFlower: 5+4+2=11
+[20-Feb-2013 04:42:23]  <SpruceZeus> ((DMPC saves the day! :rolleyes:))
+[20-Feb-2013 04:42:26]  <SpruceZeus> ((=P))
+[20-Feb-2013 04:42:39]  <IllFlower> Wasn't my intention, but this is what happens when you get 1s.
+[20-Feb-2013 04:42:53]  <IllFlower> Sumire's turn.
+[20-Feb-2013 04:43:01]  <SpruceZeus> ((yeh i was just giving you a hard time. my job as a player and all that >_>))
+[20-Feb-2013 04:43:30]  <SpruceZeus> ((brb need foods))
+[20-Feb-2013 04:43:32]  <Sumire> Sumire turns toward Kaede, then toward one of the suits of armor.  She readies her wand to attack.
+[20-Feb-2013 04:43:32]  *** SpruceZeus is now known as SpruceZeus|away
+[20-Feb-2013 04:43:41]  <Barcode> ((personally when thinking of the relationpships thing I feel you gotta have canon justification? I remember the manual having relationshipbuilding before evne the c ampaign starts which ofc wasn't really an option here. could always just fudge a team attack for now ? ? ????))
+[20-Feb-2013 04:44:20]  <IllFlower> Barcode: Considering how we haven't really been using the relationship mechanic to even half of its potential, I wouldn't be wholly opposed to just looking the other way.
+[20-Feb-2013 04:44:41]  <IllFlower> Sumire: Go ahead and roll.
+[20-Feb-2013 04:44:48]  <Sumire> +roll 2m6+9
+[20-Feb-2013 04:44:48]  <rollermine> Sumire: (3+3)+9=15
+[20-Feb-2013 04:44:57]  <IllFlower> +roll 2m6+8
+[20-Feb-2013 04:44:57]  <rollermine> IllFlower: (4+3)+8=15
+[20-Feb-2013 04:45:02]  <IllFlower> Sumire wins.
+[20-Feb-2013 04:45:09]  <Barcode> ((I was kinda hoping for it to be a little more involved, m'self. partially because it's important when it comes to, for example, the fallouts))
+[20-Feb-2013 04:45:12]  <IllFlower> d6+4 for damage.
+[20-Feb-2013 04:45:17]  <Sumire> +roll d6+4
+[20-Feb-2013 04:45:17]  <rollermine> Sumire: 4+4=8
+[20-Feb-2013 04:45:26]  <IllFlower> 8 damage.
+[20-Feb-2013 04:45:29]  <Snezana> ((well its too late for that))
+[20-Feb-2013 04:45:39]  <Barcode> (( yeh yeh. backseat gaming))
+[20-Feb-2013 04:45:56]  <Snezana> ((unless we can still team attack, the justification being snezana wants ax armor dead))
+[20-Feb-2013 04:46:07]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[20-Feb-2013 04:46:55]  <Sumire> Sumire yells out "SHARDS!" as a series of glass pieces fire from her wand; the armor's attempts to dodge end in futility.
+[20-Feb-2013 04:47:08]  <Sumire> 14an unspectacular description for an unspectacular roll :V
+[20-Feb-2013 04:47:23]  <IllFlower> Barcode: Yeah. I've been kind of overlooking relationships in my plotting, which I'm trying to rectify for later arcs...
+[20-Feb-2013 04:47:26]  <Barcode> (("sumire does some thing and the witch hurts a bit"))
+[20-Feb-2013 04:48:07]  <IllFlower> The glass shards tear themselves into the axeman's back, leaving large holes in the suit.
+[20-Feb-2013 04:48:23]  <IllFlower> It's obvious that there's nothing and no one inside the armor.
+[20-Feb-2013 04:48:48]  <IllFlower> Witch's turn again. Counterattack on Sumire.
+[20-Feb-2013 04:48:59]  <IllFlower> Well, normal attack, but you know what I mean.
+[20-Feb-2013 04:49:08]  <Snezana> ((am I skipped over))
+[20-Feb-2013 04:49:11]  *** TOKAM <~TOKAM@107.48.75.49> has quit IRC (Ping timeout: 380 seconds)
+[20-Feb-2013 04:49:17]  <Sumire> 14I think your initiative is too low
+[20-Feb-2013 04:49:19]  <IllFlower> Snezana: You go last initiative-wise.
+[20-Feb-2013 04:49:19]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has quit IRC (Ping timeout: 180 seconds)
+[20-Feb-2013 04:49:35]  <Snezana> (being last is suffering)
+[20-Feb-2013 04:49:40]  <IllFlower> +roll 2m6+10
+[20-Feb-2013 04:49:40]  <rollermine> IllFlower: (5+4)+10=19
+[20-Feb-2013 04:50:08]  <Sumire> +roll 2m6+7
+[20-Feb-2013 04:50:08]  <rollermine> Sumire: (4+1)+7=12
+[20-Feb-2013 04:50:11]  *** SpruceZeus|away is now known as SpruceZeus
+[20-Feb-2013 04:50:16]  <SpruceZeus> ((plus 10, jeez)
+[20-Feb-2013 04:50:37]  <Snezana> I was going to say elect to cover, but its too late
+[20-Feb-2013 04:50:49]  <Sumire> 14oh, whoops
+[20-Feb-2013 04:50:59]  <Sumire> 14IllFlower might allow that
+[20-Feb-2013 04:51:13]  <IllFlower> Have Snezana cover Sumire?
+[20-Feb-2013 04:51:35]  <Sumire> 14on the other hand, it would lead to a high chance of Snezana-detransformation
+[20-Feb-2013 04:51:51]  <Snezana> True enough, the roll was made so lets go with it
+[20-Feb-2013 04:52:03]  <Sumire> 14and I elect not to take overcharge
+[20-Feb-2013 04:52:03]  <IllFlower> I wouldn't mind that. It is a Support challenge, though (i.e. 2d6+3 for everyone, and baseline 14).
+[20-Feb-2013 04:52:28]  <IllFlower> 19 > 12. Attack succeeds.
+[20-Feb-2013 04:52:31]  <Snezana> both parties need to make it for it to work?
+[20-Feb-2013 04:52:47]  <IllFlower> Snezana: Oh, no, just everyone has 3 Support.
+[20-Feb-2013 04:52:55]  <IllFlower> +roll d6+5
+[20-Feb-2013 04:52:55]  <rollermine> IllFlower: 6+5=11
+[20-Feb-2013 04:52:56]  <Sumire> 14actually, I think Snezana switched her Support?
+[20-Feb-2013 04:53:12]  <Snezana> I switched my primary
+[20-Feb-2013 04:53:20]  <Snezana> and secondary
+[20-Feb-2013 04:53:29]  <IllFlower> 11 damage to Sumire. 7 Resolve left.
+[20-Feb-2013 04:54:43]  <IllFlower> The problem with there being two opponents is that when you hurt one, the other one tends to be ready with another blow in response...
+[20-Feb-2013 04:55:35]  <IllFlower> The headless mace-wielding suit of armor tears its weapon from the paper wall, throwing it at Sumire again. It connects, knocking her up off her feet and into the air.
+[20-Feb-2013 04:55:41]  <IllFlower> Snezana's turn.
+[20-Feb-2013 04:55:56]  <Snezana> I attack the ax wielding suit of armor
+[20-Feb-2013 04:56:09]  <IllFlower> Go ahead and roll.
+[20-Feb-2013 04:56:16]  <Snezana> +roll 2d6+7
+[20-Feb-2013 04:56:16]  <rollermine> Snezana: (6+4)+7=17
+[20-Feb-2013 04:56:28]  <IllFlower> Roll another die for that 6.
+[20-Feb-2013 04:56:32]  <Snezana> +d6
+[20-Feb-2013 04:56:35]  <Snezana> +roll d6
+[20-Feb-2013 04:56:36]  <rollermine> Snezana: 4=4
+[20-Feb-2013 04:56:41]  <IllFlower> 21 total.
+[20-Feb-2013 04:56:50]  <IllFlower> +roll 2m6+8
+[20-Feb-2013 04:56:50]  <rollermine> IllFlower: (2+(6+4))+8=20
+[20-Feb-2013 04:57:02]  <IllFlower> Ha. Nope. 21 > 20, attack succeeds.
+[20-Feb-2013 04:57:12]  <IllFlower> Roll d6+3 for damage.
+[20-Feb-2013 04:57:20]  <Snezana> +roll d6+3
+[20-Feb-2013 04:57:20]  <rollermine> Snezana: 4+3=7
+[20-Feb-2013 04:57:38]  <IllFlower> That's fatal for both suits.
+[20-Feb-2013 04:58:16]  <IllFlower> Go ahead and describe the attack. Battle's over.
+[20-Feb-2013 04:58:59]  *** Section42L <webchat@CPE18593345ef4c-CM18593345ef49.cpe.net.cable.rogers.com> has joined #madokamadness
+[20-Feb-2013 04:59:22]  *** Barcodune <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has joined #madokamadness
+[20-Feb-2013 04:59:32]  * Snezana dashes towards the ax armor, screaming in a blind fury, her powers still unfettered. Lacking coordination, the attacks appear to do little damage but regardless the ax armor buckles over and falls apart. Almost in unison, the mace wielding suit of armor falls apart.
+[20-Feb-2013 05:00:10]  * Snezana after the attack, snezana detransforms and falls to the ground, holding her chest and gasping for air
+[20-Feb-2013 05:02:02]  <Snezana> ((If I can, can I swipe one of the pocket watches?))
+[20-Feb-2013 05:02:12]  <IllFlower> Haha, sure.
+[20-Feb-2013 05:02:33]  * Snezana stumbles over to one of the discarded pocket watches and takes it, smiling as if its a trophy
+[20-Feb-2013 05:02:37]  *** Barcodune <~Barcode@dhcp-0-18-e7-f8-27-1.cpe.quickclic.net> has quit IRC (Client Quit)
+[20-Feb-2013 05:02:38]  <Sumire> "Now this is the stage where we have to find our way out of here."
+[20-Feb-2013 05:03:34]  <Snezana> "Are we sure that was the witch though? I mean, a sword, empty vessels, and empty suits of armor."
+[20-Feb-2013 05:04:10]  <IllFlower> Almost as if in response to Sumire's question, a section of the metal wall collapses, revealing an exit.
+[20-Feb-2013 05:04:29]  * Sumire , seeing Snezana, also swipes a pocket watch, then heads for the exit
+[20-Feb-2013 05:04:30]  <Nitya> 14That wasn't a question.
+[20-Feb-2013 05:04:55]  * Snezana looks at the exit
+[20-Feb-2013 05:05:06]  <Snezana> "What kind of witch was this..."
+[20-Feb-2013 05:05:35]  <Sumire> 14I think IllFlower means Snezana's question
+[20-Feb-2013 05:05:40]  <IllFlower> Nitya: Implied question, much like the implied "implied" in "(implied) question."
+[20-Feb-2013 05:06:01]  <Nitya> 14The parentheses should also be replied!
+[20-Feb-2013 05:06:13]  * Snezana slowly makes her way to the exit 
+[20-Feb-2013 05:06:41]  <Nitya> 14implied, rather
+[20-Feb-2013 05:06:52]  <IllFlower> Kaede trails behind the other two initiates as they make their way out of the maze.
+[20-Feb-2013 05:06:56]  <Sumire> 14>implying that implications are obvious
+[20-Feb-2013 05:07:15]  <IllFlower> Behind the three girls, the witch's barrier blinks out of existence in a suitably anticlimactic manner.
+[20-Feb-2013 05:07:50]  * Snezana checks the sky, taking out a small pocket journal and a pen, and begins writing quickly
+[20-Feb-2013 05:07:56]  <IllFlower> "Are you all right?" Kaede asks, her eyes lingering mostly on Snezana's injuries. **
+[20-Feb-2013 05:08:27]  <IllFlower> ... I guess the answer is "yes, perfectly fine, no problems here." lolol
+[20-Feb-2013 05:08:48]  * Sumire wordlessly stares at Kaede, still unsure of what she just saw
+[20-Feb-2013 05:08:53]  <Snezana> "This is normally where I leave a smartass remark, but you saved us. So I'll get better."
+[20-Feb-2013 05:11:05]  <IllFlower> A boy's voice yells from above, behind the fence. It's obviously Shun. "Oh, thank God you guys made it back..."
+[20-Feb-2013 05:11:28]  <Snezana> "So its the ordinary person"
+[20-Feb-2013 05:12:20]  <Barcode> ((gonna play some QL. will catch up afterwards))
+[20-Feb-2013 05:12:30]  <IllFlower> "What are you doing up there?!" Kaede yells back. "You just let" -- she glances at Sumire -- "us do all the fighting?" **
+[20-Feb-2013 05:13:23]  <Sumire> "So he's also a magical g---initiate?"
+[20-Feb-2013 05:13:48]  <Barcode> ((or, actually. gits))
+[20-Feb-2013 05:14:35]  <IllFlower> "He's pretty useless for one, I have to say," Kaede answers, prompting an "I can hear you" from Shun. **
+[20-Feb-2013 05:15:30]  <Snezana> "You know these people Sumire?"
+[20-Feb-2013 05:16:27]  <Sumire> "I knew Kaede; she bullied me for two years.  I became a magical girl to escape that.  But the world seems to have changed and this is no longer true so I have no idea what's going on."
+[20-Feb-2013 05:17:28]  <IllFlower> Kaede looks at Sumire, a disturbed expression on her face.
+[20-Feb-2013 05:17:38]  <IllFlower> "We've only ever met once. I don't even know her name..."
+[20-Feb-2013 05:17:40]  <IllFlower> **
+[20-Feb-2013 05:18:08]  <Snezana> "I know what it is to be without memory, friend, and I'm not sure thats whats happening here."
+[20-Feb-2013 05:18:12]  <Nitya> 14"i mean, i sorta wiped your memory"
+[20-Feb-2013 05:18:17]  <Nitya> 14"no hard feelings?"
+[20-Feb-2013 05:19:06]  <Snezana> "You knew enough about the witch to have a sentry to guard it, you knew that we were inside, and you knew how to make a timely entrance. 
+[20-Feb-2013 05:21:27]  <IllFlower> "Only the first part... the only reason I got there when I did was because I saw Shun running around in a panic.
+[20-Feb-2013 05:22:08]  <IllFlower> "He was rambling about how he couldn't make the jump over the fence..." Kaede sighs. **
+[20-Feb-2013 05:22:22]  * Snezana laughs bitterlys
+[20-Feb-2013 05:23:29]  <Snezana> "Well, I can only question a savior only so far. As per custom, what do I owe you?"
+[20-Feb-2013 05:24:27]  <IllFlower> "Huh?" Kaede looks surprised. "Oh, nothing, nothing! I'm just glad nobody died..." **
+[20-Feb-2013 05:24:52]  * Snezana looked ups at the sky to see if its cleared
+[20-Feb-2013 05:25:44]  <Snezana> "Well, the world could do with more selfless people"
+[20-Feb-2013 05:26:58]  <IllFlower> It's pretty clearly dark now. The lights of the city reflect off some incoming low clouds; rain is definitely on its way.
+[20-Feb-2013 05:27:33]  <IllFlower> Anybody need to do anything to wrap up? If not, I'll call it here.
+[20-Feb-2013 05:27:48]  <Sumire> I think I'm good.  Kaede might want to get that four overcharge checked out, though
+[20-Feb-2013 05:28:01]  <IllFlower> It's not 6. Yet.
+[20-Feb-2013 05:28:02]  <Snezana> I got 4 overcharge as well
+[20-Feb-2013 05:28:27]  <Snezana> wait only 3
+[20-Feb-2013 05:28:48]  <IllFlower> 4 total, but on two different attributes.
+[20-Feb-2013 05:29:07]  <Snezana> "Well I better find somewhere to crawl in before the rain comes, so I'll leave the rest to you."
+[20-Feb-2013 05:29:59]  *** Snezana is now known as snezana
+[20-Feb-2013 05:30:40]  * snezana leaves, her face discolored to be even paler than it normally is
+[20-Feb-2013 05:30:48]  <IllFlower> Kaede gives Sumire another wordless look, then says "good-bye" to Snezana's departing form.
+[20-Feb-2013 05:30:55]  <IllFlower> Smash cut to black, end episode.
+[20-Feb-2013 05:31:01]  *** snezana is now known as saladofstones
+[20-Feb-2013 05:31:02]  <Barcode> http://www.youtube.com/watch?v=gZ1plnx0Hco&t=0m15s decided: kruger's firing noise (minus the chargeup noise afterwards)
+[20-Feb-2013 05:31:03]  <Omnipresence> 14URL: [www.youtube.com] Quake Live Railgun Tutorial - YouTube
+[20-Feb-2013 05:31:24]  <IllFlower> I'd ask who you want to give experience to, but given that you have no choice but each other, that's settled.
+[20-Feb-2013 05:31:41]  <Nitya> railroader!
+[20-Feb-2013 05:31:51]  <IllFlower> I'll wipe the usual OC and call it a day.
