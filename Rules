@@ -76,7 +76,7 @@ route '/assets/css/style.scss' do
 end
 
 route '/assets/js/*' do
-  item.identifier.without_ext + '.js'
+  item.identifier.to_s
 end
 
 route '/bower_components/jquery/dist/jquery.min.js' do
