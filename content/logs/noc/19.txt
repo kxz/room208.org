@@ -1,0 +1,374 @@
+---
+title: Novus Ordo Conservatorum session 19
+---
+[28-May-2016 20:01:43]  <IllFlower> So last time the Conservators successfully dispatched Kasuga and know that Higashiyama is the one up to no good.
+[28-May-2016 20:02:51]  <Rig> Of course.
+[28-May-2016 20:03:43]  <Rig> So, now we bust into the police station?
+[28-May-2016 20:04:18]  <IllFlower> The next day, during class break, Noriko gets a call from someone that only shows up as a phone number. It takes her a little while to remember that this is Sanada's burner phone.
+[28-May-2016 20:05:42]  <Rig> She answers the phone, pausing for a moment to see if the person on the other end will speak first.
+[28-May-2016 20:07:49]  <Rig> After a moment she relents, "Hello?"
+[28-May-2016 20:08:32]  <IllFlower> "I saw the commotion outside yesterday," Sanada says as if it had nothing to do with him.
+[28-May-2016 20:09:22]  <Rig> "Yeah? You're welcome."
+[28-May-2016 20:09:52]  <IllFlower> "How close are you to Adachi?"
+[28-May-2016 20:11:50]  <Rig> I don
+[28-May-2016 20:11:58]  <Rig> I don't remember an Adachi?
+[28-May-2016 20:12:00]  <IllFlower> His boss, the one who murdered the dude.
+[28-May-2016 20:12:23]  <Rig> Right. Somehow missed his entry in the summary sheet.
+[28-May-2016 20:12:59]  <Rig> "We know who is leaking information from inside the police. We're working on it."
+[28-May-2016 20:14:28]  <IllFlower> "Great. Lerna's getting antsy. Can't have Adachi around trying to kill me."
+[28-May-2016 20:16:15]  <Rig> "What does Lerna have to do with all this?"
+[28-May-2016 20:17:10]  <IllFlower> "It... she's looking out for me. Not that unusual, is it?"
+[28-May-2016 20:17:34]  <IllFlower> Emiko walks by, noticing Noriko talking on her phone in unusually hushed tones.
+[28-May-2016 20:17:51]  <BGTB2005> @ship Sanada/Lerna
+[28-May-2016 20:18:58]  <Calica> do we know who Lerna is, besides a contact on the cell?
+[28-May-2016 20:19:21]  <Rig> Not really.
+[28-May-2016 20:19:27]  <Rig> That's part of why I had Noriko ask.
+[28-May-2016 20:20:32]  <Rig> Noriko looks up at Emiko and motions for her to come over. She covers the receiver of the phone and whispers, "It's Sanada."
+[28-May-2016 20:20:57]  <Calica> "Any news since we stopped Kasuga?"
+[28-May-2016 20:23:21]  <IllFlower> Is that for me?
+[28-May-2016 20:23:38]  <Calica> For Noriko but it can also be for you
+[28-May-2016 20:23:53]  <Rig> I've got it. Sorry.
+[28-May-2016 20:24:10]  <Rig> "He just wants to know if we're any closer to stopping Adachi."
+[28-May-2016 20:24:35]  <Rig> "We should probably try to hurry. We can't just post a guard around him all the time."
+[28-May-2016 20:27:44]  <Calica> "We should.  But how are we going to go after Higashiyama?"
+[28-May-2016 20:27:48]  <Calica> *go against
+[28-May-2016 20:28:16]  <IllFlower> Magic her to death, obviously.
+[28-May-2016 20:29:17]  <Rig> "Hang on," Noriko says and returns to the phone. "Sanada, how do you contact your police handler?"
+[28-May-2016 20:30:53]  <IllFlower> "By phone."
+[28-May-2016 20:32:22]  <Rig> "You never meet in person?"
+[28-May-2016 20:33:19]  <IllFlower> "We try to avoid it. People notice when police are around you a lot."
+[28-May-2016 20:34:59]  <Rig> "I see." Noriko shrugs to Emiko. "We'll take care of the leak in the police department somehow. We'll let you know as soon as we do."
+[28-May-2016 20:35:41]  <IllFlower> "Great. Adachi needs to be locked up. Or worse."
+[28-May-2016 20:35:52]  <IllFlower> Sanada's voice sounds jittery. Hope he hasn't been using the product.
+[28-May-2016 20:36:11]  <Calica> I dunno, I'd be jittery if I had to constantly fear for my life, I think
+[28-May-2016 20:37:40]  <IllFlower> No reason the two are mutually exclusive.
+[28-May-2016 20:37:55]  <Rig> Noriko says her goodbyes to Sanada and hangs up the phone. "I have no idea how we'll get to Higashiyama."
+[28-May-2016 20:38:09]  <Rig> "Maybe try hanging out at crime scenes again. That got her attention pretty well last time."
+[28-May-2016 20:39:27]  <IllFlower> Go to the precinct?
+[28-May-2016 20:40:40]  <Calica> Worth a shot
+[28-May-2016 20:42:47]  <IllFlower> Higashiyama probably won't pull anything too stupid in the presence of her colleagues.
+[28-May-2016 20:43:10]  <Calica> she escalates to magic in the precinct
+[28-May-2016 20:43:27]  *** Rig <~rig@2602:306:37ff:ad40:3dd7:c596:5476:414a> has quit IRC (Remote host closed the connection)
+[28-May-2016 20:44:44]  <Calica> and kills Noriko before we even reach it
+[28-May-2016 20:44:44]  *** Rig <~rig@2602:306:37ff:ad40:3dd7:c596:5476:414a> has joined #madokamadness
+[28-May-2016 20:44:44]  *** ChanServ sets mode: +o Rig
+[28-May-2016 20:45:14]  <Rig> What's the excuse to go to the precinct and talk to her?
+[28-May-2016 20:48:13]  <IllFlower> But she doesn't know magic.
+[28-May-2016 20:48:15]  <IllFlower> As far as we know.
+[28-May-2016 20:48:29]  <Calica> maybe to file a report about getting assaulted by Kasuga?
+[28-May-2016 20:48:29]  <IllFlower> I mean, you could probably just walk up to the front desk and page her.
+[28-May-2016 20:48:51]  <Rig> Ah, yes, the subtle approach.
+[28-May-2016 20:49:22]  <Rig> I'm good with that.
+[28-May-2016 20:50:45]  *** woopmoopboop <Mibbit@cpe-23-241-145-91.socal.res.rr.com> has joined #madokamadness
+[28-May-2016 20:51:31]  <IllFlower> All right, let's do that, then.
+[28-May-2016 20:51:39]  <IllFlower> After you.
+[28-May-2016 20:53:16]  <Rig> One quick thing before I set the scene: how do we expect to stop Higashiyama? Just out her as a leak right there at the front desk?
+[28-May-2016 20:54:21]  <IllFlower> That's up to you.
+[28-May-2016 20:54:25]  <Calica> have your phone secretly running, try to entrap her?
+[28-May-2016 20:54:34]  <IllFlower> You could go for a flashy confrontation. I mean, magic.
+[28-May-2016 20:55:17]  <Rig> In the police station?
+[28-May-2016 20:55:35]  <BGTB2005> what could go wrong
+[28-May-2016 20:57:58]  <Rig> Since freshmen can't leave campus for lunch the group is forced to wait until after school to head over to the precinct. Emiko and Noriko fill in Satori on the way over. "Sanada is getting nervous," Noriko says. "He should be nervous, someone is trying to kill him," Emiko corrects. "Yeah, sure, anyway, Higashiyama is his biggest threat right now. So we go to the station and try to get her to out herself and then Sanada 
+[28-May-2016 20:57:58]  <Rig> is a little safer."
+[28-May-2016 20:58:02]  <IllFlower> Well, if worst comes to worst.
+[28-May-2016 20:59:19]  <Rig> The group stops across the street from the station. "We just go in and ask for Higashiyama," Noriko says, more trying to psyche herself up to meet the woman that put her in the hospital.
+[28-May-2016 21:00:44]  <Calica> "Alright.  I can take the lead, if you're nervous."
+[28-May-2016 21:01:16]  <Rig> "I'm not... yeah, I'd appreciate that."
+[28-May-2016 21:02:03]  <Calica> Emiko walks into the station, and rings the small bell on the receptionist's desk.  "Hello, is Officer Higashiyama here?  We'd like to speak to her."
+[28-May-2016 21:02:05]  <Rig> I was trying to figure out what the station should look like inside, but I only know the Law & Order desk sergeant style stations.
+[28-May-2016 21:02:34]  <IllFlower> "Higashiyama... do you have a first name?"
+[28-May-2016 21:02:57]  <Calica> Did she ever tell us that?  I know it's on the page but would Emiko know it?
+[28-May-2016 21:03:24]  <Rig> Foiled by our own lack of introductions.
+[28-May-2016 21:03:38]  <Calica> oh, it was on the nameplate, so sure
+[28-May-2016 21:04:02]  <Calica> "Katsumi, I think?"
+[28-May-2016 21:04:59]  <IllFlower> "Can you tell me your names?"
+[28-May-2016 21:06:27]  <Rig> Press [F] to bureaucracy 
+[28-May-2016 21:06:37]  <Calica> I feel like it might be a good idea to give fake names but if I'm gonna do that it'd be easier to have IllFlower make up plausible ones :p
+[28-May-2016 21:07:10]  <Rig> Fake names sounds like a decent idea.
+[28-May-2016 21:07:16]  <IllFlower> Just pick an acquaintance's name.
+[28-May-2016 21:07:16]  <Calica> does Higashiyama already know ours?
+[28-May-2016 21:07:23]  <IllFlower> There are some on the character summary...
+[28-May-2016 21:09:29]  <Calica> "My name is Minako Rokujou, the angry one next to me is Chie Tamura, and the quiet one's name is, uh, Rin Tsukimoto."
+[28-May-2016 21:09:34]  <Calica> there, I combined some names at random :P-
+[28-May-2016 21:10:11]  <IllFlower> The receptionist taps at her computer, then picks up her phone. "Officer Higashiyama? You have visitors to see you."
+[28-May-2016 21:10:29]  <IllFlower> She gives the fake names, then hangs up. "She'll be down to see you in just a few moments."
+[28-May-2016 21:11:12]  <IllFlower> It's a little longer than just a few moments.
+[28-May-2016 21:11:45]  <IllFlower> At least the girls get a death glare from Higashiyama as a reward for their patience.
+[28-May-2016 21:12:01]  <Rig> Noriko glares back, trying her best not to back down.
+[28-May-2016 21:12:16]  <IllFlower> "How can I help you?" she asks, in the least helpful tone possible.
+[28-May-2016 21:12:49]  <Rig> Should we do this as a conflict?
+[28-May-2016 21:13:14]  <Calica> That'd probably make sense.  Would our goals be to expose her, and her goal to not be exposed?
+[28-May-2016 21:13:32]  <Rig> Those are the stakes I'd suggest.
+[28-May-2016 21:13:55]  <IllFlower> Or try to persuade her to go along with your scheme at pain of magical death.
+[28-May-2016 21:14:26]  <Rig> IllFlower really wants us to shoot up the precinct.
+[28-May-2016 21:14:53]  <Rig> What we really want is for her to stop leaking information to Rinzen, right?
+[28-May-2016 21:15:38]  <IllFlower> Yeah. And possibly spill about what she knows as a mole.
+[28-May-2016 21:16:48]  <Rig> So, the stakes should be "expose Higashiyama as a mole"?
+[28-May-2016 21:17:43]  <IllFlower> I thought the stakes were to convince her to stop leaking, on pain of death.
+[28-May-2016 21:18:02]  <Rig> I don't think we've ever said we were gonna kill her. That's your idea.
+[28-May-2016 21:18:30]  <Calica> I suppose his idea might be a better idea if we do escalate
+[28-May-2016 21:18:46]  <Calica> though is Higashiyama actually going to try to kill high school students inside the precinct?
+[28-May-2016 21:18:55]  <Rig> True, but stakes involving death are difficult.
+[28-May-2016 21:19:20]  <IllFlower> I never said we were going to kill her, either. Just, you know, threaten it.
+[28-May-2016 21:19:44]  <Rig> Haha, maybe. Not sure threatening a police officer in the precinct will get us very far.
+[28-May-2016 21:19:50]  <BGTB2005> ("But that's evil!")
+[28-May-2016 21:20:25]  <Calica> win the conflict, get mobbed by police officers and arrested
+[28-May-2016 21:20:49]  <IllFlower> BLACKMAIL DAMMIT
+[28-May-2016 21:20:54]  <IllFlower> DO YOU NOT KNOW HOW TO BLACKMAIL
+[28-May-2016 21:21:26]  <BGTB2005> ("That's also evil!")
+[28-May-2016 21:21:28]  <Rig> Nope.
+[28-May-2016 21:22:00]  <Rig> We're high schoolers. We barely managed to not get beaten up by a high school gang.
+[28-May-2016 21:24:06]  <IllFlower> COULD YOU AT LEAST TRY
+[28-May-2016 21:24:40]  <Rig> I mean, she didn't seem very concerned about magical death previously, but sure.
+[28-May-2016 21:25:25]  <Rig> So, stakes are "stop leaking on pain of death" for us?
+[28-May-2016 21:26:06]  *** AttObl <~AttObl@2602:306:ccc6:8ea0::37> has quit IRC (Ping timeout: 192 seconds)
+[28-May-2016 21:26:28]  <Calica> apparently :p
+[28-May-2016 21:26:56]  <IllFlower> Well, convince her to stop leaking. The pain of death is optional.
+[28-May-2016 21:27:21]  <IllFlower> You can either blackmail her and use her to infiltrate Rinzen, or just expose her, but in any case...
+[28-May-2016 21:27:23]  <Rig> I guess we could offer her painless death.
+[28-May-2016 21:27:36]  <Rig> And her stakes?
+[28-May-2016 21:27:53]  <Rig> Get rid of these meddling kids?
+[28-May-2016 21:28:13]  <IllFlower> Pretty much.
+[28-May-2016 21:28:20]  <Calica> Start at talking?
+[28-May-2016 21:28:34]  *** AttObl <~AttObl@2602:306:ccc6:8ea0::37> has joined #madokamadness
+[28-May-2016 21:28:38]  <Rig> Yeah.
+[28-May-2016 21:29:16]  <Calica> @dice new 3d6 6d6
+[28-May-2016 21:29:16]  <Omnipresence> 14Calica: Rolled 1 1 2 3 4 5 5 5 6 = 32. Bank now has 1 1 2 3 4 5 5 5 6 = 32.
+[28-May-2016 21:29:22]  <Rig> @dice new 11d6 1d4
+[28-May-2016 21:29:22]  <Omnipresence> 14Rig: Rolled 1 1 3 3 3 3 4 4 5 6 6 6 = 45. Bank now has 1 1 3 3 3 3 4 4 5 6 6 6 = 45.
+[28-May-2016 21:29:42]  <IllFlower> @dice new 9d6
+[28-May-2016 21:29:42]  <Omnipresence> 14IllFlower: Rolled 1 2 3 4 4 4 5 5 5 = 33. Bank now has 1 2 3 4 4 4 5 5 5 = 33.
+[28-May-2016 21:29:46]  <BGTB2005> @dice new 6d6
+[28-May-2016 21:29:46]  <Omnipresence> 14BGTB2005: Rolled 1 1 3 5 6 6 = 22. Bank now has 1 1 3 5 6 6 = 22.
+[28-May-2016 21:29:58]  <IllFlower> This seems kinda unbalanced, lol.
+[28-May-2016 21:30:02]  <Rig> It looks like I should probably raise first.
+[28-May-2016 21:30:40]  <Rig> Yeah, might be a little. ¬.¬ I dunno if Dogs was ever meant for 3v1 conflicts.
+[28-May-2016 21:31:28]  <IllFlower> I'm tempted to say that for talking conflicts you get one die pool...
+[28-May-2016 21:31:41]  <Rig> Hahaha, how would we manage that?
+[28-May-2016 21:31:57]  <Rig> Do we want to hash out those rules now?
+[28-May-2016 21:32:27]  <IllFlower> Well, maybe it'd be more of a one-on-one conflict with help...
+[28-May-2016 21:32:59]  <Rig> That makes sense. It'd also cut down on the need to see on every minor exchange.
+[28-May-2016 21:33:20]  <IllFlower> Basically, someone always takes point.
+[28-May-2016 21:33:38]  <Rig> And we just use normal rules for help?
+[28-May-2016 21:34:13]  <Rig> The ones that are something like "Use the relationship if you have it or just use them like an object"?
+[28-May-2016 21:34:26]  <Calica> yeah, those are the rules for help, and that'd make sense
+[28-May-2016 21:34:53]  <IllFlower> yeah
+[28-May-2016 21:35:14]  <Rig> Of course, once we escalate we'd have problems
+[28-May-2016 21:35:51]  <IllFlower> Can just bring people in at that point, I'd say.
+[28-May-2016 21:36:18]  <IllFlower> Just not for talking since it doesn't make a *whole* lot of sense that you can convince people to do something just by having more people yelling.
+[28-May-2016 21:36:36]  <Rig> Isn't that how the current political system works?
+[28-May-2016 21:36:50]  <Rig> I'm okay with trying those rules our.
+[28-May-2016 21:36:52]  <Rig> *out
+[28-May-2016 21:37:06]  <Calica> same
+[28-May-2016 21:37:25]  <Rig> Who wants to take point on this?
+[28-May-2016 21:37:30]  <Rig> Is it me?
+[28-May-2016 21:38:11]  <Calica> I'm fine with any of us taking point.
+[28-May-2016 21:38:14]  <IllFlower> Who hates Higashiyama most?
+[28-May-2016 21:38:21]  <Rig> Noriko probably.
+[28-May-2016 21:38:25]  <Calica> probably the one she almost killed yeah
+[28-May-2016 21:39:36]  <Rig> @dice show
+[28-May-2016 21:39:36]  <Omnipresence> 14Rig: Bank has 1 1 3 3 3 3 4 4 5 6 6 6 = 45.
+[28-May-2016 21:39:59]  <Rig> Shall I then?
+[28-May-2016 21:40:58]  <IllFlower> Sure.
+[28-May-2016 21:42:33]  <Rig> Noriko swallows and steps forward, "Officer Higashiyama, it's nice to see you again." It's clear that it isn't. "We wanted to see if we could be of any more help on that case. We heard a rumor that there is a mole in the police force. Do you know who it could be?"
+[28-May-2016 21:42:45]  <Rig> @dice use 4 3
+[28-May-2016 21:42:45]  <Omnipresence> 14Rig: Used 3 4 = 7. Bank now has 1 1 3 3 3 4 5 6 6 6 = 38.
+[28-May-2016 21:43:47]  <IllFlower> @dice
+[28-May-2016 21:43:47]  <Omnipresence> 14IllFlower: Bank has 1 2 3 4 4 4 5 5 5 = 33.
+[28-May-2016 21:44:31]  <IllFlower> "That would certainly explain how they keep finding Sanada," Higashiyama says inexpressively.
+[28-May-2016 21:44:37]  <IllFlower> @dice use 2 5
+[28-May-2016 21:44:37]  <Omnipresence> 14IllFlower: Used 2 5 = 7. Bank now has 1 3 4 4 4 5 5 = 26.
+[28-May-2016 21:46:36]  <IllFlower> "Who'd you hear this from? Strange that you'd be around these kinds of rumors. After all, you're just a high school girl."
+[28-May-2016 21:46:41]  <IllFlower> @dice use 4 5
+[28-May-2016 21:46:41]  <Omnipresence> 14IllFlower: Used 4 5 = 9. Bank now has 1 3 4 4 5 = 17.
+[28-May-2016 21:50:58]  <Rig> "I guess I had a lot of free time in the hospital after I got injured at that crime scene. I wanted to look into it. I'm a concerned citizen. You know they teach civics in high school?"
+[28-May-2016 21:51:29]  <Rig> @dice use 5 4
+[28-May-2016 21:51:29]  <Omnipresence> 14Rig: Used 4 5 = 9. Bank now has 1 1 3 3 3 6 6 6 = 29.
+[28-May-2016 21:51:56]  <IllFlower> You should probably actually threaten to expose her soon. Before you forget. :p
+[28-May-2016 21:52:55]  <Rig> "And you're an honest cop, right? I just wanted to let you know that there might be a mole, and if it got out it could cause some problems. Especially for an honest officer like you, Katsumi." Noriko smiles, showing her teeth, hoping the point gets across.
+[28-May-2016 21:53:06]  <Rig> @dice use 6 3
+[28-May-2016 21:53:06]  <Omnipresence> 14Rig: Used 3 6 = 9. Bank now has 1 1 3 3 6 6 = 20.
+[28-May-2016 21:54:27]  <IllFlower> "But if I'm not the mole, surely I have nothing to hide.
+[28-May-2016 21:54:45]  <IllFlower> "Why don't you go ahead and say it already?" Higashiyama's clearly bluffing.
+[28-May-2016 21:54:54]  <IllFlower> Going to call that see plus raise, so:
+[28-May-2016 21:55:00]  <IllFlower> @dice use 4 5
+[28-May-2016 21:55:00]  <Omnipresence> 14IllFlower: Used 4 5 = 9. Bank now has 1 3 4 = 8.
+[28-May-2016 21:55:04]  <IllFlower> @dice use 3 4
+[28-May-2016 21:55:04]  <Omnipresence> 14IllFlower: Used 3 4 = 7. Bank now has 1 = 1.
+[28-May-2016 21:57:16]  <Rig> Can I pull in Emiko as help? Do I use Conversator relationship or just a 1d6?
+[28-May-2016 21:58:48]  <IllFlower> I think belonging status goes for NPCs.
+[28-May-2016 21:58:53]  <IllFlower> Burn the relationship.
+[28-May-2016 21:59:04]  <IllFlower> Also, did you roll the d4 for your Higashiyama relationship?
+[28-May-2016 21:59:07]  <Rig> Yeah.
+[28-May-2016 21:59:16]  <IllFlower> Oh, there it is.
+[28-May-2016 21:59:38]  <Rig> "We just wanted to give you a chance to walk away, like you gave us. It's fair."
+[28-May-2016 21:59:42]  <Rig> @dice roll 1d8
+[28-May-2016 21:59:42]  <Omnipresence> 14Rig: Rolled 1 = 1.
+[28-May-2016 21:59:45]  <Rig> Heh
+[28-May-2016 21:59:51]  <Rig> @dice add 1
+[28-May-2016 21:59:51]  <Omnipresence> 14Rig: Rolled 1 = 1. Bank now has 1 1 1 3 3 6 6 = 21.
+[28-May-2016 21:59:57]  <Calica> not that you need that much help anyways
+[28-May-2016 22:00:24]  <Rig> Yeah, mostly just wanted Emiko to say that instead of Noriko.
+[28-May-2016 22:00:35]  <Rig> @dice use 3 6
+[28-May-2016 22:00:35]  <Omnipresence> 14Rig: Used 3 6 = 9. Bank now has 1 1 1 3 6 = 12.
+[28-May-2016 22:01:39]  <Rig> "But since you want to make a big deal out of this I'll just go file a report," Noriko says. She turns away from Higashiyama to the officer at the desk. "Ma'am."
+[28-May-2016 22:01:52]  <Rig> @dice use 3 6
+[28-May-2016 22:01:52]  <Omnipresence> 14Rig: Used 3 6 = 9. Bank now has 1 1 1 = 3.
+[28-May-2016 22:01:54]  <IllFlower> Time to escalaaaaate!
+[28-May-2016 22:02:27]  <BGTB2005> :|
+[28-May-2016 22:02:45]  <Calica> what'll be the rules on joining in here?
+[28-May-2016 22:02:50]  <IllFlower> Higashiyama grabs Noriko's arm and swiftly pins her to the ground. Ow. Ow. At least she's not breaking any ribs...
+[28-May-2016 22:03:06]  <IllFlower> @dice add 11d6 2d10 >! Bd Wl judo
+[28-May-2016 22:03:06]  <Omnipresence> 14: Rolled 1 1 1 5 5 5 6 6 6 6 6 7 9 = 64. Bank now has 1 1 1 1 5 5 5 6 6 6 6 6 7 9 = 65.
+[28-May-2016 22:03:20]  <IllFlower> @dice use 9 6
+[28-May-2016 22:03:20]  <Omnipresence> 14IllFlower: Used 6 9 = 15. Bank now has 1 1 1 1 5 5 5 6 6 6 6 7 = 50.
+[28-May-2016 22:03:25]  <Calica> weeeeeelp
+[28-May-2016 22:03:26]  <IllFlower> Raise (9) + 6 = 15.
+[28-May-2016 22:03:35]  <Rig> Cool.
+[28-May-2016 22:03:37]  <IllFlower> Okay, you can join in now that we're hand-to-hand.
+[28-May-2016 22:03:52]  <Calica> New dice?
+[28-May-2016 22:04:07]  <Rig> @dice add 8d6
+[28-May-2016 22:04:07]  <Omnipresence> 14Rig: Rolled 1 3 3 3 3 3 4 6 = 26. Bank now has 1 1 1 1 3 3 3 3 3 4 6 = 29.
+[28-May-2016 22:04:50]  <Calica> @dice new 2d6 3d6
+[28-May-2016 22:04:50]  <Omnipresence> 14Calica: Rolled 2 2 3 3 4 = 14. Bank now has 2 2 3 3 4 = 14.
+[28-May-2016 22:04:59]  <Rig> Sweet.
+[28-May-2016 22:05:04]  <IllFlower> Calica: Yeah.
+[28-May-2016 22:05:59]  <Rig> If we escalate to magic do we get to roll anything new?
+[28-May-2016 22:06:49]  <BGTB2005> @dice new 8d6
+[28-May-2016 22:06:49]  <Omnipresence> 14BGTB2005: Rolled 1 1 2 2 4 4 4 5 = 23. Bank now has 1 1 2 2 4 4 4 5 = 23.
+[28-May-2016 22:06:55]  <IllFlower> Noriko doesn't. Maybe the other two.
+[28-May-2016 22:07:01]  <Rig> ;-;
+[28-May-2016 22:07:04]  <IllFlower> Though it would just be Ac for them.
+[28-May-2016 22:07:15]  <Rig> I guess I need to see this judo bullshit.
+[28-May-2016 22:07:26]  <IllFlower> You knew this might happen.
+[28-May-2016 22:08:03]  <Calica> luckily you read in a book how to get out of judo bullshit (okay not really)
+[28-May-2016 22:08:39]  *** JDAM|ThinkPad <~A@156.39.191.12> has joined #madokamadness
+[28-May-2016 22:09:13]  <Rig> Shame I don't have that knife anymore.
+[28-May-2016 22:10:27]  <IllFlower> She could give and let the other two take over. Presumably Satori's more of the bruiser.
+[28-May-2016 22:11:03]  <Calica> given my dice that basically means Satori, lol
+[28-May-2016 22:11:20]  <Rig> Noriko struggles against the arm-lock feebly. She didn't expect Higashiyama to lash out so suddenly. "This is police brutality!"
+[28-May-2016 22:11:31]  <Rig> @dice add 1d4 > ! not a fighter
+[28-May-2016 22:11:31]  <Omnipresence> 14: Rolled 1 = 1. Bank now has 1 1 1 1 1 3 3 3 3 3 4 6 = 30.
+[28-May-2016 22:11:34]  <Rig> Sweet.
+[28-May-2016 22:11:58]  <Calica> rip
+[28-May-2016 22:12:15]  <Rig> Noriko feels tendons in her arm twist to far as she struggles and just gives up. Maybe Satori and Emiko can save the day.
+[28-May-2016 22:12:17]  <Rig> Give.
+[28-May-2016 22:12:19]  <IllFlower> rip. arms. out of sockets.
+[28-May-2016 22:12:33]  <BGTB2005> :<
+[28-May-2016 22:13:09]  <Rig> Might be worth transforming?
+[28-May-2016 22:14:32]  <IllFlower> For a fistfight?
+[28-May-2016 22:14:53]  <Calica> I mean, it produces some form of protection
+[28-May-2016 22:14:59]  <Rig> Maybe Emiko's costume has brass knuckles?
+[28-May-2016 22:15:06]  <Rig> She was inspired by Hitomi.
+[28-May-2016 22:15:08]  <Calica> o7 Hikari
+[28-May-2016 22:16:46]  <IllFlower> Seems a bit flashy.
+[28-May-2016 22:16:56]  <IllFlower> Well, anyway, who's going to raise?
+[28-May-2016 22:17:33]  <Calica> It'd also serve as intimidation, I guess.  And Satori has the dice, so if BGTB2005 wants to go
+[28-May-2016 22:21:20]  <IllFlower> BGTB2005 TIME TO PUNCH SOMEONE
+[28-May-2016 22:23:33]  <BGTB2005> hmm...
+[28-May-2016 22:27:10]  <IllFlower> YOU'VE GOTTA PUNCH FASTER OR THE EPISODE WILL END
+[28-May-2016 22:27:30]  <BGTB2005> but Satori doesn't want to hurt anyone ;_;
+[28-May-2016 22:27:41]  <Calica> yeah, but this anyone hurt Noriko
+[28-May-2016 22:27:44]  <Calica> don't you care about Noriko?
+[28-May-2016 22:27:54]  <BGTB2005> yeah, but still
+[28-May-2016 22:30:09]  <Calica> and I mean, it's not like Emiko's punches are going to hit very hard :p
+[28-May-2016 22:30:23]  <IllFlower> Hm, bad plan to have the one with the highest Bd be a pacifist.
+[28-May-2016 22:30:40]  <BGTB2005> yeah, probably
+[28-May-2016 22:30:47]  <IllFlower> Also, I think it's too late not to hurt anyone. Those barriers hurt, man.
+[28-May-2016 22:31:17]  <Rig> :P
+[28-May-2016 22:31:21]  <Rig> It was just one ankle.
+[28-May-2016 22:31:26]  <BGTB2005> well Satori didn't /directly/ hurt the guy
+[28-May-2016 22:31:34]  <BGTB2005> and it was more like he walked into it
+[28-May-2016 22:31:49]  <Calica> that's a pretty small hair you're splitting
+[28-May-2016 22:33:50]  <BGTB2005> :/
+[28-May-2016 22:34:05]  <IllFlower> Calica just wants to watch someone suffer.
+[28-May-2016 22:34:09]  *** Rig <~rig@2602:306:37ff:ad40:3dd7:c596:5476:414a> has quit IRC (Remote host closed the connection)
+[28-May-2016 22:34:21]  <Calica> see what your dawdling has done?  Noriko died! :P
+[28-May-2016 22:34:25]  <BGTB2005> :<
+[28-May-2016 22:34:26]  *** Rig <~rig@2602:306:37ff:ad40:3dd7:c596:5476:414a> has joined #madokamadness
+[28-May-2016 22:34:26]  *** ChanServ sets mode: +o Rig
+[28-May-2016 22:35:47]  <Calica> In theory you could try to say things to stop her, but it'd have to be something with impact.  Like, say, threatening to hit her hard... ;)
+[28-May-2016 22:37:50]  <BGTB2005> ("But threatening violence is just as bad as actually hurting people!")
+[28-May-2016 22:38:50]  <BGTB2005> @dice
+[28-May-2016 22:38:50]  <Omnipresence> 14BGTB2005: Bank has 1 1 2 2 4 4 4 5 = 23.
+[28-May-2016 22:39:11]  <Calica> @dice
+[28-May-2016 22:39:11]  <Omnipresence> 14Calica: Bank has 2 2 3 3 4 = 14.
+[28-May-2016 22:40:05]  *** AttObl_ <~AttObl@108-204-104-234.lightspeed.cicril.sbcglobal.net> has joined #madokamadness
+[28-May-2016 22:40:48]  <Calica> BGTB2005: but yeah, what're you going to do
+[28-May-2016 22:41:07]  <BGTB2005> All I can really think of for my raise is Satori wrestling with Higashiyama to try and restrain her
+[28-May-2016 22:41:28]  *** AttObl <~AttObl@2602:306:ccc6:8ea0::37> has quit IRC (Ping timeout: 192 seconds)
+[28-May-2016 22:41:34]  *** AttObl_ is now known as AttObl
+[28-May-2016 22:41:55]  <IllFlower> LET'S WRESTLE
+[28-May-2016 22:42:44]  <Rig> :)
+[28-May-2016 22:42:55]  <IllFlower> レッツ・レスリング！！
+[28-May-2016 22:42:56]  <Rig> Cage match.
+[28-May-2016 22:42:57]  <BGTB2005> Do I need to dress it up in fancy words or since I have a stated plan just put forward the dice for it?
+[28-May-2016 22:43:12]  <IllFlower> DO IT
+[28-May-2016 22:44:56]  *** JDAM|ThinkPad <~A@156.39.191.12> has quit IRC (Quit: Leaving)
+[28-May-2016 22:45:17]  <BGTB2005> which does "IT" refer to?
+[28-May-2016 22:45:58]  <IllFlower> PUNCH SOMETHING
+[28-May-2016 22:46:06]  <BGTB2005> :|
+[28-May-2016 22:46:13]  <Calica> rasslin' time, BGTB2005 
+[28-May-2016 22:46:28]  <Calica> BGTB2005: I'd say just say what you're doing and put up the dice
+[28-May-2016 22:46:56]  <BGTB2005> Satori tackles and wrestles with Higashiyama
+[28-May-2016 22:47:02]  <BGTB2005> @dice use 4 5
+[28-May-2016 22:47:02]  <Omnipresence> 14BGTB2005: Used 4 5 = 9. Bank now has 1 1 2 2 4 4 = 14.
+[28-May-2016 22:48:39]  <IllFlower> @dice
+[28-May-2016 22:48:39]  <Omnipresence> 14IllFlower: Bank has 1 1 1 1 5 5 5 6 6 6 6 7 = 50.
+[28-May-2016 22:49:21]  <IllFlower> Higashiyama rolls out from underneath Satori, avoiding her but also releasing Noriko.
+[28-May-2016 22:49:24]  <IllFlower> @dice use 5 5
+[28-May-2016 22:49:24]  <Omnipresence> 14IllFlower: Used 5 5 = 10. Bank now has 1 1 1 1 5 6 6 6 6 7 = 40.
+[28-May-2016 22:49:33]  <IllFlower> YO CALICA
+[28-May-2016 22:49:47]  <Calica> yo
+[28-May-2016 22:50:00]  <Calica> do I have any dice that would help
+[28-May-2016 22:50:18]  <Calica> maybe Noriko but BGTB2005 saved her probably so that probably doesn't have justification?
+[28-May-2016 22:50:37]  <Rig> Noriko scrambles away from the ruckus when she gets free.
+[28-May-2016 22:50:44]  <IllFlower> "it's better to try"
+[28-May-2016 22:50:55]  <Calica> @dice add 1d6 >! better to try
+[28-May-2016 22:50:55]  <Omnipresence> 14: Rolled 4 = 4. Bank now has 2 2 3 3 4 4 = 18.
+[28-May-2016 22:51:50]  <Calica> Emiko sees Higashiyama rolling out and tries to pin her herself, keeping her from getting into a more offensive position.
+[28-May-2016 22:51:54]  <Calica> @dice use 4 4
+[28-May-2016 22:51:54]  <Omnipresence> 14Calica: Used 4 4 = 8. Bank now has 2 2 3 3 = 10.
+[28-May-2016 22:52:19]  <IllFlower> offensive like "FUCK FUCK FUCK FUCK"
+[28-May-2016 22:53:01]  <IllFlower> Higashiyama manages to get on her feet, making Emiko's pin rather useless indeed.
+[28-May-2016 22:53:10]  <Calica> more like the middle finger, I'd assume.  Except I think there's a more offensive gesture in Japan
+[28-May-2016 22:53:14]  <IllFlower> @dice use 5 6
+[28-May-2016 22:53:14]  <Omnipresence> 14IllFlower: Used 5 6 = 11. Bank now has 1 1 1 1 6 6 6 7 = 29.
+[28-May-2016 22:54:05]  <IllFlower> She turns on her heel and delivers a sharp blow to the back of Satori's neck, attempting to knock her out.
+[28-May-2016 22:54:10]  <IllFlower> Who knows if that shit actually works.
+[28-May-2016 22:54:21]  <IllFlower> @dice use 6 6
+[28-May-2016 22:54:21]  <Omnipresence> 14IllFlower: Used 6 6 = 12. Bank now has 1 1 1 1 6 7 = 17.
+[28-May-2016 22:56:50]  <Rig> Too bad there aren't any folding chairs around.
+[28-May-2016 22:59:48]  <BGTB2005> Catching the motion in her peripheral vision, Satori chants a quick incantation to summon a protective barrier
+[28-May-2016 22:59:52]  <BGTB2005> @dice add d10
+[28-May-2016 22:59:52]  <Omnipresence> 14BGTB2005: Rolled 5 = 5. Bank now has 1 1 2 2 4 4 5 = 19.
+[28-May-2016 23:00:48]  <BGTB2005> hmm
+[28-May-2016 23:03:34]  <BGTB2005> yo Calica could I borrow a 3?
+[28-May-2016 23:04:08]  <Calica> sure
+[28-May-2016 23:04:39]  <Calica> Emiko sees Satori struggling with an incantation, and provides a chant of her own to augment the tenuous barrier.
+[28-May-2016 23:04:44]  <Calica> @dice use 3
+[28-May-2016 23:04:44]  <Omnipresence> 14Calica: Used 3 = 3. Bank now has 2 2 3 = 7.
+[28-May-2016 23:05:13]  <BGTB2005> @dice use 4 5
+[28-May-2016 23:05:13]  <Omnipresence> 14BGTB2005: Used 4 5 = 9. Bank now has 1 1 2 2 4 = 10.
+[28-May-2016 23:06:16]  <IllFlower> All right, someone else can raise.
+[28-May-2016 23:07:21]  <Calica> well I can only raise with one die so if BGTB2005 has a turn then he can go
+[28-May-2016 23:07:31]  <BGTB2005> I don't see this as ending well for any of us
+[28-May-2016 23:07:53]  <Calica> we can fold and hold dice for a follow-up maybe
+[28-May-2016 23:08:01]  <BGTB2005> yeah
+[28-May-2016 23:09:00]  <BGTB2005> Fold
+[28-May-2016 23:10:02]  <Calica> Emiko notices that both her and Satori's breath is running ragged.  She puts her hands up in the "I surrender" gesture, knowing she's outmatched.
+[28-May-2016 23:10:37]  <IllFlower> A small crowd has gathered to watch the commotion.
+[28-May-2016 23:11:13]  <IllFlower> "Nothing to see here," Higashiyama says. "This girl just had a seizure and we needed to keep her from hurting herself."
+[28-May-2016 23:11:21]  <Rig> Noriko has the feeling she should have attempted to sneak out in the mess.
+[28-May-2016 23:12:39]  <IllFlower> "All right, so you seem to have caught on to my little game," the officer says to Noriko in a low voice. "What do I have to do to keep you quiet?"
+[28-May-2016 23:13:58]  <Rig> What do we want? Info about Adachi?
+[28-May-2016 23:14:28]  <Rig> Also, my fiance wants me to make dinner. She says that my time to play a high school girl is over. :P
+[28-May-2016 23:14:48]  <Rig> *fiancee(?) French, amirite
+[28-May-2016 23:14:57]  <IllFlower> Cool, then we negotiate next time. I've gotta go up to the city soon.
+[28-May-2016 23:15:00]  <Calica> I mean, we want the fires and such to stop.  But maybe we can discuss this next session, since Rig's fiancee wants him to make dinner
+[28-May-2016 23:15:06]  <IllFlower> "ée" for fem, "é" for mal
+[28-May-2016 23:15:14]  <Calica> And yeah, double e.  Should also be an acute accent, and what IllFlower said
+[28-May-2016 23:15:18]  <IllFlower> Say hi to her from me!
+[28-May-2016 23:15:34]  <IllFlower> I've never met her but I swear I'm not as strange as she thinks I am!
+[28-May-2016 23:15:40]  <Rig> I will. Thanks for running the session and letting us fail to raid the police station.
+[28-May-2016 23:15:42]  <IllFlower> We'll pick up next week. Thanks for playing!
