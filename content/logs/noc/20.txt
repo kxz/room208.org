@@ -1,0 +1,337 @@
+---
+title: Novus Ordo Conservatorum session 20
+---
+[11-Jun-2016 20:19:51]  <IllFlower> Last time, our heroes didn't quite convince Higashiyama to stop giving up information on Sanada to Rinzen.
+[11-Jun-2016 20:20:28]  <IllFlower> Now it's a deadlock. Do they out her, or bargain with her for their advantage?
+[11-Jun-2016 20:21:43]  <Rig> A good question.
+[11-Jun-2016 20:22:24]  <Rig> Where did we end last time?
+[11-Jun-2016 20:22:45]  <IllFlower> 23:12 <IllFlower> "All right, so you seem to have caught on to my little game," the officer says to Noriko in a low voice. "What do I have to do to keep you quiet?"
+[11-Jun-2016 20:24:07]  <IllFlower> BGTPhone and Calica are holding on to a 4 and 3 from last time, respectively.
+[11-Jun-2016 20:24:59]  <Rig> Any thoughts on where we should go from here? Do we out her or do we leverage this somehow?
+[11-Jun-2016 20:25:15]  <Rig> I'm thinking leveraging it will come back to bite us.
+[11-Jun-2016 20:25:49]  <Calica> How can we even leverage this?
+[11-Jun-2016 20:25:55]  <BGTPhone> Satori would probably go with outing her
+[11-Jun-2016 20:26:11]  <IllFlower> Blackmail!
+[11-Jun-2016 20:26:43]  <IllFlower> I'm kind of appalled by how often I have to repeat this.
+[11-Jun-2016 20:27:25]  <BGTPhone> (Satori: "But that's wrong!")
+[11-Jun-2016 20:28:44]  <Calica> IllFlower: yeah, but what would we blackmail her to do
+[11-Jun-2016 20:29:18]  <IllFlower> Lead you to Adachi?
+[11-Jun-2016 20:29:21]  <IllFlower> Turn double agent?
+[11-Jun-2016 20:29:24]  <IllFlower> Buy a cake?
+[11-Jun-2016 20:30:20]  <IllFlower> Cut you in on whatever Rinzen is giving her for the info?
+[11-Jun-2016 20:31:06]  <Rig> Taking on Adachi sounds dangerous and likely to go about as well as taking on the police station.
+[11-Jun-2016 20:31:25]  <IllFlower> I never said you had to do so *directly*...
+[11-Jun-2016 20:31:44]  <Rig> Psh, like we're subtle.
+[11-Jun-2016 20:31:53]  <IllFlower> Oh. Right.
+[11-Jun-2016 20:32:43]  <Rig> "We want to get to Adachi," Noriko says quietly, more from lack of air than a desire not to be overheard.
+[11-Jun-2016 20:34:36]  <IllFlower> Higashiyama leans in close to Noriko. "And why would I lead you to him?"
+[11-Jun-2016 20:35:48]  <Rig> "Because you want us to keep quiet," Noriko says as though this conversation began with that premise.
+[11-Jun-2016 20:36:03]  <IllFlower> Well, it did.
+[11-Jun-2016 20:36:07]  <IllFlower> So technically correct.
+[11-Jun-2016 20:36:33]  <BGTPhone> The best kind of correct
+[11-Jun-2016 20:37:25]  <IllFlower> "You know what he does to people who turn on him, right?"
+[11-Jun-2016 20:37:55]  <BGTPhone> Set them on fire?
+[11-Jun-2016 20:38:24]  <Rig> "Does it involve multiple attempted arsons?"
+[11-Jun-2016 20:38:25]  <Calica> "We've seen what he's trying to do to the informant, with your help, yes."
+[11-Jun-2016 20:39:01]  <IllFlower> "So if I help you, what are your assurances that he won't do the same to me?"
+[11-Jun-2016 20:40:13]  *** AttObl <~chatzilla@2602:306:ccc6:8ea0:44a3:b743:6e36:8690> has quit IRC (Quit: ChatZilla 0.9.92 [Firefox 47.0/20160604131506])
+[11-Jun-2016 20:41:38]  *** AttObl <~AttObl@2602:306:ccc6:8ea0:c75:f52a:d467:b088> has joined #madokamadness
+[11-Jun-2016 20:41:47]  <Rig> "He doesn't have to know, does he?"
+[11-Jun-2016 20:43:26]  <IllFlower> "He's going to start getting suspicious the moment his information goes away. And, no offense, but I don't know how well you can keep secrets."
+[11-Jun-2016 20:43:55]  <IllFlower> Conflict?
+[11-Jun-2016 20:44:51]  <Rig> Sure.
+[11-Jun-2016 20:45:04]  <IllFlower> Let's talk the talk, then.
+[11-Jun-2016 20:45:13]  <IllFlower> @dice new 9d6
+[11-Jun-2016 20:45:13]  <Omnipresence> 14IllFlower: Rolled 2 3 3 3 3 4 5 6 6 = 35. Bank now has 2 3 3 3 3 4 5 6 6 = 35.
+[11-Jun-2016 20:45:26]  <Rig> Stakes for our side being getting info on Adachi's whereabouts?
+[11-Jun-2016 20:45:38]  <IllFlower> Yeah, basically.
+[11-Jun-2016 20:45:54]  <Calica> @dice new 3d6 6d6 3
+[11-Jun-2016 20:45:54]  <Omnipresence> 14Calica: Rolled 1 2 3 4 4 5 6 6 6 6 = 43. Bank now has 1 2 3 4 4 5 6 6 6 6 = 43.
+[11-Jun-2016 20:46:15]  <IllFlower> Who's doing the actual talking?
+[11-Jun-2016 20:46:19]  <Rig> Calica will take the lead here?
+[11-Jun-2016 20:46:28]  <IllFlower> Fine by me.
+[11-Jun-2016 20:46:39]  <IllFlower> The dice seem to like him.
+[11-Jun-2016 20:46:40]  <BGTPhone> Emiko does have that winning smile
+[11-Jun-2016 20:46:48]  <Calica> she does
+[11-Jun-2016 20:47:47]  <IllFlower> Okay, I think it's appropriate if Calica raises first.
+[11-Jun-2016 20:50:51]  <Calica> alright
+[11-Jun-2016 20:53:00]  <Calica> "If you're that worried about us keeping secrets, you're definitely going to be in trouble one way or the other, given what we already know about you.  You asked how you can keep us quiet and we answered."
+[11-Jun-2016 20:53:03]  <Calica> @dice use 5 6
+[11-Jun-2016 20:53:03]  <Omnipresence> 14Calica: Used 5 6 = 11. Bank now has 1 2 3 4 4 6 6 6 = 32.
+[11-Jun-2016 20:54:09]  <IllFlower> "Then why would I tell you anything if I'm screwed either way?"
+[11-Jun-2016 20:54:12]  <IllFlower> @dice use 5 6
+[11-Jun-2016 20:54:12]  <Omnipresence> 14IllFlower: Used 5 6 = 11. Bank now has 2 3 3 3 3 4 6 = 24.
+[11-Jun-2016 20:55:01]  <IllFlower> "I'm asking what you're going to do to protect your source. A dead one isn't very informative."
+[11-Jun-2016 20:55:04]  <IllFlower> @dice use 4 6
+[11-Jun-2016 20:55:04]  <Omnipresence> 14IllFlower: Used 4 6 = 10. Bank now has 2 3 3 3 3 = 14.
+[11-Jun-2016 20:58:47]  <Calica> the source, here, being her, right?
+[11-Jun-2016 20:59:42]  <IllFlower> Yeah.
+[11-Jun-2016 21:01:27]  <Calica> "When we find Adachi, we won't mention you at all.  We will, however, try to end the attacks he's doing on his former members."  Emiko speaks with a confidence that is, admittedly, perhaps unearned.
+[11-Jun-2016 21:01:43]  <Calica> @dice use 4 6
+[11-Jun-2016 21:01:43]  <Omnipresence> 14Calica: Used 4 6 = 10. Bank now has 1 2 3 4 6 6 = 22.
+[11-Jun-2016 21:03:34]  <Calica> "But really, there are two things we can do.  We can find Adachi, with your help, or we can find the police station, without it."
+[11-Jun-2016 21:03:39]  <Calica> @dice use 4 6
+[11-Jun-2016 21:03:39]  <Omnipresence> 14Calica: Used 4 6 = 10. Bank now has 1 2 3 6 = 12.
+[11-Jun-2016 21:03:56]  <IllFlower> Considering you're *in* the police station, I would hope so. ;)
+[11-Jun-2016 21:04:33]  <BGTPhone> Pff
+[11-Jun-2016 21:05:30]  <IllFlower> Hm, I don't like these dice. I think I'm going to give.
+[11-Jun-2016 21:07:07]  <IllFlower> "All right, all right. I get it.
+[11-Jun-2016 21:07:22]  <IllFlower> "Magic turns you into a stubborn fool, apparently."
+[11-Jun-2016 21:08:10]  <IllFlower> Higashiyama pulls out her phone.
+[11-Jun-2016 21:08:53]  <IllFlower> "I'm meeting Adachi in person tomorrow. I'll turn on my phone's location tracking so you can follow me. It's up to you what you do with that information."
+[11-Jun-2016 21:09:17]  <Calica> hahaha
+[11-Jun-2016 21:10:39]  <IllFlower> "Don't blow it."
+[11-Jun-2016 21:10:43]  <Rig> That will end well.
+[11-Jun-2016 21:11:28]  <BGTPhone> Yep
+[11-Jun-2016 21:11:55]  <Calica> can't go wrong in any way whatsoever
+[11-Jun-2016 21:12:22]  <IllFlower> You could call the police and point them to that location...
+[11-Jun-2016 21:12:43]  <IllFlower> I'm not saying fight the gangsters.
+[11-Jun-2016 21:13:08]  <Rig> You're saying we should blackmail the gangsters.
+[11-Jun-2016 21:13:51]  <IllFlower> OH *NOW* YOU'RE ALL ABOUT BLACKMAIL
+[11-Jun-2016 21:14:31]  <Calica> IllFlower: in favor of blackmailing the police, against blackmailing gangsters
+[11-Jun-2016 21:15:51]  <IllFlower> How exactly would you blackmail Adachi, anyway?
+[11-Jun-2016 21:16:21]  <Rig> Dunno.
+[11-Jun-2016 21:16:30]  <IllFlower> See?
+[11-Jun-2016 21:17:02]  <IllFlower> Anyway, what's the plan?
+[11-Jun-2016 21:18:26]  <Rig> I'm kinda leaning toward just calling the police and pointing them to the meetup location.
+[11-Jun-2016 21:19:03]  <IllFlower> I mean, that would actually make sense...
+[11-Jun-2016 21:19:19]  <Rig> We'd be breaking narrative consistency.
+[11-Jun-2016 21:19:27]  <IllFlower> In that it makes sense?
+[11-Jun-2016 21:19:56]  <BGTPhone> I almost want to follow that plan just to see how it blows up on us
+[11-Jun-2016 21:20:34]  <Rig> In that it makes sense, yes.
+[11-Jun-2016 21:20:47]  <Rig> But yeah, I like that plan. It probably won't result in more hospital time.
+[11-Jun-2016 21:20:56]  <Calica> yeah, it's a good plan
+[11-Jun-2016 21:23:00]  <IllFlower> Hooray!
+[11-Jun-2016 21:23:25]  <IllFlower> So let's have everyone's favorite mission, a stakeout mission!
+[11-Jun-2016 21:23:28]  *** Icon <~icon@covering.space> has joined #madokamadness
+[11-Jun-2016 21:23:42]  <BGTPhone> Yay
+[11-Jun-2016 21:24:30]  <IllFlower> Roll your dice, folks.
+[11-Jun-2016 21:24:37]  <Rig> Physical?
+[11-Jun-2016 21:24:47]  <IllFlower> Yeah.
+[11-Jun-2016 21:25:01]  <IllFlower> I'm going to roll demonic influence because eh.
+[11-Jun-2016 21:25:10]  <IllFlower> @dice new 4d6 5d10
+[11-Jun-2016 21:25:10]  <Omnipresence> 14IllFlower: Rolled 1 2 2 3 3 4 5 6 9 = 35. Bank now has 1 2 2 3 3 4 5 6 9 = 35.
+[11-Jun-2016 21:25:50]  <Rig> @dice new 7d6 1d4
+[11-Jun-2016 21:25:50]  <Omnipresence> 14Rig: Rolled 1 1 3 4 4 5 5 6 = 29. Bank now has 1 1 3 4 4 5 5 6 = 29.
+[11-Jun-2016 21:26:17]  <Calica> d4?
+[11-Jun-2016 21:26:34]  <Rig> For Higashiyama.
+[11-Jun-2016 21:26:44]  <IllFlower> She's not technically your opponent...
+[11-Jun-2016 21:26:55]  <Rig> @dice new 7d6
+[11-Jun-2016 21:26:55]  <Omnipresence> 14Rig: Rolled 1 1 3 4 5 5 6 = 25. Bank now has 1 1 3 4 5 5 6 = 25.
+[11-Jun-2016 21:27:02]  <Calica> @dice new 3d6 6d6
+[11-Jun-2016 21:27:02]  <Omnipresence> 14Calica: Rolled 1 2 3 4 4 5 5 6 6 = 36. Bank now has 1 2 3 4 4 5 5 6 6 = 36.
+[11-Jun-2016 21:27:04]  <Rig> Isn't she though?
+[11-Jun-2016 21:27:27]  <BGTPhone> @dice new 8d6
+[11-Jun-2016 21:27:27]  <Omnipresence> 14BGTPhone: Rolled 2 2 2 3 3 4 5 6 = 27. Bank now has 2 2 2 3 3 4 5 6 = 27.
+[11-Jun-2016 21:27:29]  <IllFlower> No, she's at least trying to help you out here.
+[11-Jun-2016 21:29:36]  <Rig> What are the stakes here?
+[11-Jun-2016 21:29:52]  <IllFlower> Whether you get the police to the correct location, presumably.
+[11-Jun-2016 21:30:46]  <Rig> Sounds good.
+[11-Jun-2016 21:30:49]  <IllFlower> Higashiyama's icon blips on at a department store downtown not far from the police station.
+[11-Jun-2016 21:31:17]  <IllFlower> It's a train ride away, which she presumably knows. It looks like she's not going much of anywhere yet.
+[11-Jun-2016 21:31:23]  <IllFlower> @dice use 3 4
+[11-Jun-2016 21:31:23]  <Omnipresence> 14IllFlower: Used 3 4 = 7. Bank now has 1 2 2 3 5 6 9 = 28.
+[11-Jun-2016 21:31:28]  <IllFlower> All see.
+[11-Jun-2016 21:33:41]  <Rig> Can we see by waiting?
+[11-Jun-2016 21:34:33]  <IllFlower> You have to get to where she is first to keep following, I'd say.
+[11-Jun-2016 21:35:39]  <Rig> So, we'll take the train closer to where Higashiyama?
+[11-Jun-2016 21:36:31]  <IllFlower> Yeah.
+[11-Jun-2016 21:37:01]  <Calica> So should we just see by taking the train?
+[11-Jun-2016 21:37:08]  <IllFlower> Isn't that easy?
+[11-Jun-2016 21:37:44]  <Rig> Noriko and the group catch the train and head closer to the department store. The group camps nearby, looking like a group of high schoolers hanging out and trying not to draw too much attention.
+[11-Jun-2016 21:37:56]  <Rig> @dice use 3 4
+[11-Jun-2016 21:37:56]  <Omnipresence> 14Rig: Used 3 4 = 7. Bank now has 1 1 5 5 6 = 18.
+[11-Jun-2016 21:38:55]  <Calica> @dice use 2 5
+[11-Jun-2016 21:38:55]  <Omnipresence> 14Calica: Used 2 5 = 7. Bank now has 1 3 4 4 5 6 6 = 29.
+[11-Jun-2016 21:39:43]  <BGTPhone> @dice use 3 4
+[11-Jun-2016 21:39:43]  <Omnipresence> 14BGTPhone: Used 3 4 = 7. Bank now has 2 2 2 3 5 6 = 20.
+[11-Jun-2016 21:41:03]  <IllFlower> For raises I think you should gently encourage Higashiyama to GET A FUCKING MOVE ON
+[11-Jun-2016 21:41:34]  <Rig> She's shopping. I'm sure she has a life outside of being a rat.
+[11-Jun-2016 21:42:00]  <Rig> Calica's got the highest dice. Do you wanna raise?
+[11-Jun-2016 21:43:08]  <Calica> sure.  I'm thinking of sending an ambiguously worded text.
+[11-Jun-2016 21:43:09]  <BGTPhone> (Satori: "First she was a bird, then she was a mole, now she's a rat?")
+[11-Jun-2016 21:45:37]  <Rig> I think ambiguously worded and ambiguously threatening texts sound good.
+[11-Jun-2016 21:47:28]  <Calica> New message sent (timestamp): "Is shopping really the most important thing to do right now?"
+[11-Jun-2016 21:47:37]  <Calica> @dice use 4 5
+[11-Jun-2016 21:47:37]  <Omnipresence> 14Calica: Used 4 5 = 9. Bank now has 1 3 4 6 6 = 20.
+[11-Jun-2016 21:48:31]  <IllFlower> There's no response, but the little icon starts to move, plinging out the door and down the street.
+[11-Jun-2016 21:48:40]  <IllFlower> @dice use 3 6
+[11-Jun-2016 21:48:40]  <Omnipresence> 14IllFlower: Used 3 6 = 9. Bank now has 1 2 2 5 9 = 19.
+[11-Jun-2016 21:50:52]  <IllFlower> SOMEONE ANYONE
+[11-Jun-2016 21:51:08]  <Calica> Rig or BGTPhone?
+[11-Jun-2016 21:51:32]  <Rig> I'll try something.
+[11-Jun-2016 21:51:42]  <BGTPhone> Driving atm
+[11-Jun-2016 21:51:59]  <Calica> DRIVING?
+[11-Jun-2016 21:53:06]  <Rig> Any thoughts on how to raise here? I was debating telling Higashiyama to hurry up, but that's not much.
+[11-Jun-2016 21:54:34]  <IllFlower> DON'T DRIVE AND EMDOG
+[11-Jun-2016 21:55:08]  <IllFlower> Rig: Stand outside and subtly let her know you're watching.
+[11-Jun-2016 21:55:12]  <IllFlower> SUBTLY
+[11-Jun-2016 21:55:22]  <IllFlower> Or try to get ahead of where she's going so you're ready for the next thing.
+[11-Jun-2016 21:57:50]  <Rig> "Let's try to get ahead of her," Noriko suggests. She leads them down a side street that loops around and gets them in front of Higashiyama's little dot.
+[11-Jun-2016 21:57:56]  <Rig> @dice show
+[11-Jun-2016 21:57:56]  <Omnipresence> 14Rig: Bank has 1 1 5 5 6 = 18.
+[11-Jun-2016 21:58:00]  <Rig> @dice use 1 5
+[11-Jun-2016 21:58:00]  <Omnipresence> 14Rig: Used 1 5 = 6. Bank now has 1 5 6 = 12.
+[11-Jun-2016 21:59:48]  <IllFlower> Higashiyama looks to be headed in their direction for a little while, but suddenly ducks down a narrow alley.
+[11-Jun-2016 21:59:51]  <IllFlower> @dice use 1 5
+[11-Jun-2016 21:59:51]  <Omnipresence> 14IllFlower: Used 1 5 = 6. Bank now has 2 2 9 = 13.
+[11-Jun-2016 22:00:52]  <IllFlower> For BGTPhone's safety, I'm going to skip him...
+[11-Jun-2016 22:01:19]  <IllFlower> The little icon appears to go into a building, and then vanishes. Shit.
+[11-Jun-2016 22:01:21]  <IllFlower> @dice use 9 2
+[11-Jun-2016 22:01:21]  <Omnipresence> 14IllFlower: Used 2 9 = 11. Bank now has 2 = 2.
+[11-Jun-2016 22:03:14]  *** BGT|Mobile <~AndChat42@100.3.193.19> has joined #madokamadness
+[11-Jun-2016 22:03:15]  *** BGTPhone <~AndChat42@66.87.148.5> has quit IRC (Read error: Connection reset by peer)
+[11-Jun-2016 22:04:05]  <Rig> "Do we follow her?" Noriko asks the others.
+[11-Jun-2016 22:04:23]  <Calica> @dice show
+[11-Jun-2016 22:04:23]  <Omnipresence> 14Calica: Bank has 1 3 4 6 6 = 20.
+[11-Jun-2016 22:06:21]  <Calica> "We've gotten this far, I don't think we should let her get away."
+[11-Jun-2016 22:06:23]  <BGTB2005> @dice new 2 2 2 3 5 6
+[11-Jun-2016 22:06:23]  <Omnipresence> 14BGTB2005: Rolled 2 2 2 3 5 6 = 20. Bank now has 2 2 2 3 5 6 = 20.
+[11-Jun-2016 22:06:30]  *** BGT|Mobile <~AndChat42@100.3.193.19> has quit IRC (Client Quit)
+[11-Jun-2016 22:07:23]  *** Medicine <~Vick@d67-193-23-119.home3.cgocable.net> has quit IRC (Quit: Leaving)
+[11-Jun-2016 22:07:43]  <Rig> Noriko frowns. "We could just call the police now."
+[11-Jun-2016 22:08:50]  <IllFlower> That'll probably be a follow-up.
+[11-Jun-2016 22:11:46]  <Rig> Like that'd be a give and we'd follow up?
+[11-Jun-2016 22:12:22]  <Calica> What would the conflict be with that follow up?
+[11-Jun-2016 22:12:44]  <IllFlower> Yeah. But you'd be down dice you could hold onto if you wait to give until you raise.
+[11-Jun-2016 22:12:54]  <IllFlower> The conflict would be getting the police to take you seriously...
+[11-Jun-2016 22:13:03]  <Rig> Yeah, and I'd get to keep a 1. :P
+[11-Jun-2016 22:13:16]  <IllFlower> I think you can win, though.
+[11-Jun-2016 22:13:40]  <BGTB2005> this current conflict?
+[11-Jun-2016 22:13:50]  <IllFlower> Yeah.
+[11-Jun-2016 22:13:59]  <Calica> You said it's Demonic Influence, right?
+[11-Jun-2016 22:14:03]  <IllFlower> I have... 2. So yeah.
+[11-Jun-2016 22:14:11]  <Rig> True.
+[11-Jun-2016 22:14:13]  <Calica> yeah
+[11-Jun-2016 22:14:26]  <Rig> Should I write a see for us?
+[11-Jun-2016 22:15:42]  <IllFlower> shoot
+[11-Jun-2016 22:17:16]  <Calica> go ahead
+[11-Jun-2016 22:17:37]  <BGTB2005> I don't mind
+[11-Jun-2016 22:19:33]  <Rig> After some hesitation Noriko leads the group to the building that the dot disappeared into. They loiter outside the door for a moment before heading inside, hoping not to be ambushed.
+[11-Jun-2016 22:19:46]  <Rig> @dice use 5 6
+[11-Jun-2016 22:19:46]  <Omnipresence> 14Rig: Used 5 6 = 11. Bank now has 1 = 1.
+[11-Jun-2016 22:19:58]  <Calica> @dice use 6 6
+[11-Jun-2016 22:19:58]  <Omnipresence> 14Calica: Used 6 6 = 12. Bank now has 1 3 4 = 8.
+[11-Jun-2016 22:20:03]  <BGTB2005> @dice use 5 6
+[11-Jun-2016 22:20:03]  <Omnipresence> 14BGTB2005: Used 5 6 = 11. Bank now has 2 2 2 3 = 9.
+[11-Jun-2016 22:21:32]  <IllFlower> Okay, someone can raise and put this conflict out of its misery.
+[11-Jun-2016 22:21:53]  <Calica> BGTB2005?
+[11-Jun-2016 22:22:10]  <Calica> your turn, if it wasn't forfeited for RPing while driving
+[11-Jun-2016 22:23:58]  <BGTB2005> drawing a blank, sorry
+[11-Jun-2016 22:25:25]  <Rig> Luckily the building has a screen that tells you where the secret Rinzen meeting is being held.
+[11-Jun-2016 22:28:01]  <Rig> I really cannot raise.
+[11-Jun-2016 22:29:09]  <IllFlower> Calica should do it.
+[11-Jun-2016 22:29:23]  <IllFlower> And then call the police.
+[11-Jun-2016 22:31:44]  <Calica> Emiko hears some noise in a conference room a floor above.  She directs Noriko and Satori to the various staircases so as to surround the room.  She then begins dialing the Japanese equivalent of 9 1 1 into her phone...
+[11-Jun-2016 22:31:48]  <Calica> @dice use 1 3
+[11-Jun-2016 22:31:48]  <Omnipresence> 14Calica: Used 1 3 = 4. Bank now has 4 = 4.
+[11-Jun-2016 22:31:54]  <Calica> @dice show IllFlower 
+[11-Jun-2016 22:31:54]  <Omnipresence> 14Calica: Bank has 2 = 2.
+[11-Jun-2016 22:32:11]  <IllFlower> Cool. I give.
+[11-Jun-2016 22:32:37]  <IllFlower> It's 1-1-0, by the way.
+[11-Jun-2016 22:32:50]  <Rig> I knew that!
+[11-Jun-2016 22:33:16]  <Calica> because you lived on the military base, right?
+[11-Jun-2016 22:33:16]  <IllFlower> You lived there!
+[11-Jun-2016 22:33:17]  <Rig> The commercials on AFN in Japan constantly reminded anyone bored enough to watch.
+[11-Jun-2016 22:33:51]  <IllFlower> Okay, time to raise. Again I'm too lazy to do any character drafting so I'm DIing this.
+[11-Jun-2016 22:33:54]  <IllFlower> @dice new 4d6 5d10
+[11-Jun-2016 22:33:54]  <Omnipresence> 14IllFlower: Rolled 2 2 3 3 4 5 5 5 6 = 35. Bank now has 2 2 3 3 4 5 5 5 6 = 35.
+[11-Jun-2016 22:33:57]  <Rig> There was also a good commercial about how talking slower and louder does not make people speak English suddenly.
+[11-Jun-2016 22:34:17]  <Calica> I thought you already DI'd?
+[11-Jun-2016 22:34:22]  <IllFlower> Shit, people told me it was better than Rosetta Stone!
+[11-Jun-2016 22:34:28]  <IllFlower> Calica: Follow-up. Roll new dice. Talking.
+[11-Jun-2016 22:34:39]  <Calica> oh, okay, so we all roll new dice
+[11-Jun-2016 22:34:51]  <IllFlower> Nah, just you. You're on the phone with the police. :p
+[11-Jun-2016 22:35:03]  <IllFlower> Stakes are convincing the police that this isn't just a dumb prank call...
+[11-Jun-2016 22:35:20]  <IllFlower> You get to keep the 4, though.
+[11-Jun-2016 22:36:05]  <Calica> @dice add 3d6 6d6
+[11-Jun-2016 22:36:05]  <Omnipresence> 14Calica: Rolled 1 1 1 2 2 3 3 3 4 = 20. Bank now has 1 1 1 2 2 3 3 3 4 4 = 24.
+[11-Jun-2016 22:36:13]  <Calica> ouch
+[11-Jun-2016 22:36:29]  <IllFlower> This may not go well.
+[11-Jun-2016 22:36:43]  <IllFlower> WE'VE GOT TWENTY-FIVE MINUTES
+[11-Jun-2016 22:36:52]  <IllFlower> Actually, Calica, you should raise first.
+[11-Jun-2016 22:36:54]  <Calica> and she can't use her dazzling smile because it's over the phone
+[11-Jun-2016 22:37:09]  <IllFlower> You do know names, though! Maybe that'll be convincing enough.
+[11-Jun-2016 22:37:20]  <Calica> maybe something where she remembers someone's na-yeah
+[11-Jun-2016 22:37:34]  <BGTB2005> plus we have magic; she'll find a way
+[11-Jun-2016 22:38:49]  <Calica> "Hello, police? This is Minako Rokujou.  I have some evidence of a crime going on here."
+[11-Jun-2016 22:38:53]  <Calica> @dice use 3 4
+[11-Jun-2016 22:38:53]  <Omnipresence> 14Calica: Used 3 4 = 7. Bank now has 1 1 1 2 2 3 3 4 = 17.
+[11-Jun-2016 22:39:05]  <IllFlower> lol
+[11-Jun-2016 22:39:11]  <IllFlower> loooooll
+[11-Jun-2016 22:40:30]  <IllFlower> "All right, ma'am, just give me a moment."
+[11-Jun-2016 22:40:33]  <IllFlower> @dice use 2 5
+[11-Jun-2016 22:40:33]  <Omnipresence> 14IllFlower: Used 2 5 = 7. Bank now has 2 3 3 4 5 5 6 = 28.
+[11-Jun-2016 22:40:42]  <IllFlower> "What's your current location?"
+[11-Jun-2016 22:41:27]  <IllFlower> Damn. Emiko thought they could locate cell phones, and she was too busy following Higashiyama to really pay attention to where she was.
+[11-Jun-2016 22:41:33]  <IllFlower> @dice use 5 5
+[11-Jun-2016 22:41:33]  <Omnipresence> 14IllFlower: Used 5 5 = 10. Bank now has 2 3 3 4 6 = 18.
+[11-Jun-2016 22:43:32]  <Calica> Emiko, hopefully not compromising her position, goes towards Noriko and whispers.
+[11-Jun-2016 22:43:43]  <Calica> "Uh, do you know where we are?  Like, what office building this is?"
+[11-Jun-2016 22:44:09]  <Calica> @dice add 2d8 >! does Noriko know where we are?
+[11-Jun-2016 22:44:09]  <Omnipresence> 14: Rolled 4 8 = 12. Bank now has 1 1 1 2 2 3 3 4 4 8 = 29.
+[11-Jun-2016 22:45:09]  <Calica> luckily, somewhat unlike Emiko, Noriko is smart and paid attention to where we were ;)
+[11-Jun-2016 22:45:15]  <Calica> does Rig want to say any words
+[11-Jun-2016 22:45:56]  <Rig> Noriko rattles off a street address that she saw as they entered the building.
+[11-Jun-2016 22:46:55]  <Calica> Emiko repeats it to the 110 operators in case they didn't hear it.
+[11-Jun-2016 22:47:01]  <Calica> @dice use 2 8
+[11-Jun-2016 22:47:01]  <Omnipresence> 14Calica: Used 2 8 = 10. Bank now has 1 1 1 2 3 3 4 4 = 19.
+[11-Jun-2016 22:48:41]  <IllFlower> Great, and now a raise...
+[11-Jun-2016 22:51:35]  <Calica> what should I even raise with
+[11-Jun-2016 22:52:32]  <IllFlower> Maybe with some names or something. Make up details about what's going on, I dunno.
+[11-Jun-2016 22:52:38]  <BGTB2005> maybe try mentioning Higashiyama?
+[11-Jun-2016 22:54:11]  <IllFlower> Throwing her under the bus, huh?
+[11-Jun-2016 22:54:53]  <Calica> "Also, I don't know if you can do this, but if possible, can you contact Officer Inamura and get her to the scene?  I had minor contact with her on a related issue and I believe she might be working this case."
+[11-Jun-2016 22:55:06]  <Calica> @dice add 2d8 >! names I guess
+[11-Jun-2016 22:55:06]  <Omnipresence> 14: Rolled 2 5 = 7. Bank now has 1 1 1 2 2 3 3 4 4 5 = 26.
+[11-Jun-2016 22:55:19]  <IllFlower> WHAT ABOUT ADACHI DAMMIT
+[11-Jun-2016 22:55:42]  <IllFlower> THE GUY WE WERE TRYING TO BUST
+[11-Jun-2016 22:55:46]  <IllFlower> `_`
+[11-Jun-2016 22:56:38]  <Calica> yeah, scratch that line and replace it with "Also, I think I heard one of them say 'Adachi' several times.  The way she said it, it seems he's pretty important?"
+[11-Jun-2016 22:56:51]  <Calica> @dice use 4 5
+[11-Jun-2016 22:56:51]  <Omnipresence> 14Calica: Used 4 5 = 9. Bank now has 1 1 1 2 2 3 3 4 = 17.
+[11-Jun-2016 22:57:23]  <IllFlower> @dice
+[11-Jun-2016 22:57:23]  <Omnipresence> 14IllFlower: Bank has 2 3 3 4 6 = 18.
+[11-Jun-2016 22:57:51]  <IllFlower> You still haven't described an actual crime yet. :p
+[11-Jun-2016 22:58:22]  <IllFlower> But I'll pretend all of the necessary details were communicated.
+[11-Jun-2016 22:58:33]  <Calica> oops >_<
+[11-Jun-2016 22:59:53]  <IllFlower> "Ma'am, I'm sorry, but I don't understand what's going on."
+[11-Jun-2016 22:59:58]  <IllFlower> @dice use 3 6
+[11-Jun-2016 22:59:58]  <Omnipresence> 14IllFlower: Used 3 6 = 9. Bank now has 2 3 4 = 9.
+[11-Jun-2016 23:00:33]  <IllFlower> A loud stomp comes from the floor above. Seems like a commotion might be breaking out... which also makes it hard to be heard...
+[11-Jun-2016 23:00:38]  <IllFlower> @dice use 3 4
+[11-Jun-2016 23:00:38]  <Omnipresence> 14IllFlower: Used 3 4 = 7. Bank now has 2 = 2.
+[11-Jun-2016 23:02:34]  <Calica> Emiko points the phone towards the loud stomp, and then tries to find the perfect voice that won't be heard from the room but will be on the other side of the phone: "I think they were discussing information on a recent series of arsons...I think one of them might be about to hurt the other..."
+[11-Jun-2016 23:02:38]  <Calica> @dice use 3 4
+[11-Jun-2016 23:02:38]  <Omnipresence> 14Calica: Used 3 4 = 7. Bank now has 1 1 1 2 2 3 = 10.
+[11-Jun-2016 23:04:09]  <IllFlower> Raise?
+[11-Jun-2016 23:05:26]  <Calica> "I think I found some dangerous people, if you don't come quickly I'm worried I might be in danger too..."
+[11-Jun-2016 23:05:30]  <Rig> Falsify this police report! Raise with gunshots!
+[11-Jun-2016 23:05:33]  <Calica> @dice use 2 2
+[11-Jun-2016 23:05:33]  <Omnipresence> 14Calica: Used 2 2 = 4. Bank now has 1 1 1 3 = 6.
+[11-Jun-2016 23:06:47]  <IllFlower> "All right, we'll send out a dispatch. Stay safe."
+[11-Jun-2016 23:07:31]  <IllFlower> Give.
+[11-Jun-2016 23:11:04]  <IllFlower> Just a sec, sorry.
+[11-Jun-2016 23:16:04]  <Rig> Everything okay?
+[11-Jun-2016 23:16:26]  <IllFlower> Yeah, just had to take a phone call.
+[11-Jun-2016 23:16:29]  <IllFlower> Ironically enough.
+[11-Jun-2016 23:17:08]  <IllFlower> Emiko sneaks her way back out of the building.
+[11-Jun-2016 23:17:12]  <IllFlower> "All right, the police are on their way," she says.
+[11-Jun-2016 23:19:55]  <Rig> "Hopefully that solves some of our problems."
+[11-Jun-2016 23:23:47]  <IllFlower> Hopefully.
+[11-Jun-2016 23:24:05]  <IllFlower> We good on this?
+[11-Jun-2016 23:24:28]  <Calica> I think this isn't a bad ending point
+[11-Jun-2016 23:24:33]  <Calica> nobody even got thrown out a window!
+[11-Jun-2016 23:24:55]  <IllFlower> Shit, man, are we even still playing the same campaign?
+[11-Jun-2016 23:25:11]  <Rig> Hahaha.
+[11-Jun-2016 23:25:22]  <Rig> It's nice that no one is dying or being seriously injured that often.
+[11-Jun-2016 23:25:50]  <IllFlower> Mission accomplished.
+[11-Jun-2016 23:26:02]  <IllFlower> What say we stop here and pick up with experience shit next time?
+[11-Jun-2016 23:26:17]  <Calica> works for me
+[11-Jun-2016 23:26:19]  <IllFlower> And then we can move into a new arc.
+[11-Jun-2016 23:26:28]  <Rig> Cool.
+[11-Jun-2016 23:26:35]  <IllFlower> Think about what kind of experience changes you want to make!
+[11-Jun-2016 23:26:43]  <Rig> Will do.
+[11-Jun-2016 23:26:55]  <Calica> will do
+[11-Jun-2016 23:27:01]  <Rig> Thanks for running this arc.
+[11-Jun-2016 23:27:02]  <IllFlower> Thanks for playing, everyone. We'll be back two weeks from now.
