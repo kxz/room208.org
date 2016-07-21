@@ -2,8 +2,8 @@
 
 This is the [nanoc](http://nanoc.ws/) repository used to build the [Room
 208 website](https://room208.org/).
-It requires at least Ruby 2.1, [Bundler](http://bundler.io/), and
-[Bower](http://bower.io/).
+It requires at least Ruby 2.2, [Bundler](http://bundler.io/), [Bower]
+(http://bower.io/), and [Interstat](https://github.com/kxz/interstat).
 To get a working copy in `output/`, run the following commands:
 
     $ bundle install
