@@ -1,0 +1,16 @@
+---
+title: Activity statistics
+---
+
+%h2#subsite-heading Activity statistics
+
+%nav#home-nav.inline-dd
+  %dl
+    - ['127.0.0.1', 'madokamadness', 'trashheap', 'yackfest'].each do |channel|
+      %dt ##{channel}
+      %dd
+        %a{href: "https://stats.room208.org/#{channel}/"} Last 30 days
+      %dd
+        %a{href: "https://stats.room208.org/#{channel}/week.html"} 7 days
+      %dd
+        %a{href: "https://stats.room208.org/#{channel}/day.html"} 24 hours

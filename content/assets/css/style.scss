@@ -121,6 +121,20 @@ img, video {
   height: auto;
 }
 
+.inline-dd {
+  dt {
+    margin-top: 0.5em;
+  }
+
+  dd {
+    display: inline;
+
+    + dd::before {
+      content: "\2022";
+    }
+  }
+}
+
 ol, ul {
   margin: 1em 0 1em 2.5em;
 }
@@ -228,21 +242,9 @@ article {
     margin-bottom: 0.5em;
   }
 
-  dt {
-    margin-top: 0.5em;
-  }
-
   .title {
     font-style: italic;
     font-weight: 100;
-  }
-
-  dd {
-    display: inline;
-
-    + dd::before {
-      content: "\2022";
-    }
   }
 }
 
