@@ -6,7 +6,7 @@ data_sources:
 deploy:
   default:
     kind: 'rsync'
-    dst: 'room208.org:/srv/room208'
+    dst: 'vit.room208.org:/srv/room208'
     options: ['-avz', '--rsh=ssh']
 
 title: 'Room 208'
