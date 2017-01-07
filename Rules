@@ -112,6 +112,10 @@ route '/blog/atom.haml' do
   '/blog/atom.xml'
 end
 
+route '/robots.txt' do
+  '/robots.txt'
+end
+
 route '/**/*' do
   if item.binary?
     item.identifier.to_s
