@@ -7,7 +7,7 @@ deploy:
   default:
     kind: 'rsync'
     dst: 'vit.room208.org:/srv/room208'
-    options: ['-avz', '--rsh=ssh']
+    options: ['-avz', '--delete', '--rsh=ssh']
 
 title: 'Room 208'
 base_url: 'https://room208.org'
