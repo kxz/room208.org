@@ -92,7 +92,11 @@ route '/bower_components/jquery-timeago/jquery.timeago.js' do
   '/assets/js/jquery.timeago.js'
 end
 
-route '/bower_components/overpass/Webfonts/*' do
+route '/bower_components/overpass/webfonts/overpass-mono-webfont/*.{css,eot,ttf,woff,woff2}' do
+  "/assets/fonts/overpass-mono/#{File.basename(item.identifier.to_s)}"
+end
+
+route '/bower_components/overpass/webfonts/overpass-webfont/*.{css,eot,ttf,woff,woff2}' do
   "/assets/fonts/overpass/#{File.basename(item.identifier.to_s)}"
 end
 

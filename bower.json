@@ -13,6 +13,6 @@
     "jquery": "~2.1.4",
     "jquery-timeago": "~1.4.3",
     "waypoints": "~4.0.0",
-    "overpass": "*"
+    "overpass": "~3.0.0"
   }
 }
