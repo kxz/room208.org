@@ -3,6 +3,9 @@ text_extensions: ['haml', 'html', 'js', 'markdown', 'scss', 'txt']
 data_sources:
   - type: filesystem
 
+prune:
+  auto_prune: true
+
 deploy:
   default:
     kind: 'rsync'
