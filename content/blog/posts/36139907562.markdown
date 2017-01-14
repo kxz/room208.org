@@ -1,0 +1,12 @@
+---
+created_at: 2012-11-20 15:18:43.000000000 +00:00
+tags:
+- video
+- automata
+- gameoflife
+- selfhosting
+---
+
+<%= render '/blog/_youtube.haml', id: 'xP5-iIeKXE8' %>
+
+“And here’s a model of a model of an iron molecule, modeled in iron.”

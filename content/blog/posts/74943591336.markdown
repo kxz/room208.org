@@ -1,0 +1,18 @@
+---
+title: Dichotomy now available in the Tumblr Theme Garden
+url: http://www.tumblr.com/theme/38335
+created_at: 2014-01-29 15:00:00.000000000 +00:00
+tags:
+- dichotomy
+- theme
+- tumblr
+---
+
+The recent [3.0 release of
+Dichotomy](http://blog.room208.org/post/74885758562) is now available
+through the Tumblr Theme Garden, for your one-click installation
+pleasure. Note that Tumblr has a nasty tendency to reset user theme
+settings when upgrading themes, so existing Dichotomy users will want to
+visit the [Customize page](http://www.tumblr.com/customize) and make a
+copy of their current preferences before taking the plunge. (Though,
+honestly, black and white and gray ought to be enough for anyone.)

@@ -1,0 +1,52 @@
+---
+title: Some stuff about names in the I/O visual novel
+created_at: 2014-06-14 01:43:21.000000000 +00:00
+tags:
+- io
+- visualnovel
+- appellationappraisal
+---
+
+I spent a lot of time groaning at these, so I figured I’d get it all out
+of my system by slamming it all into a blog post. Yeah, spoilers.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+I’ve presented names here in the original order, because that makes it
+easier to talk about the wordplay involved.
+
+## Hinata, Mutsuki, and Sakuya
+
+Let’s start with the obvious dualities here. Hinata is the sun; Mutsuki
+and Sakuya are the moon. Hinata is the day; Mutsuki and Sakuya are the
+night. Both of the girls’ names reference beginnings, incidentally.
+Mutsuki (spelled <span lang="ja">睦月</span>, as opposed to the *I/O*
+character’s <span lang="ja">夢月</span>) is the traditional name for the
+first month of the lunar calendar, and Sakuya (as explained in the game)
+refers to the new moon or the first day of each lunar month on which it
+falls.
+
+## Isaiah Nagy and Izawa Nami (Ereshkigal)
+
+The pronunciation has been beaten with a stick in Isaiah’s case, but
+it’s not hard to spot the reference here to Izanagi and Izanami, two of
+the chief deities of Shinto. Nami’s name has the added bonus of sounding
+like the Japanese for “and now, a wave,” which is funny considering all
+of the flood myth stuff that goes on in the middle of the VN. Maybe I’m
+reaching. Then again, maybe not.
+
+## Izumo Tsukasa (Enlil)
+
+Japan’s old Izumo province was known as “the land of the gods,” while
+the name Tsukasa refers to one who is in charge of or responsible for
+something. Fitting, given Enlil’s imperious nature.
+
+## Igarashi Kousaku (Nergal)
+
+Written with the more usual characters <span lang="ja">工作</span>,
+*kousaku* can mean either “workmanship” or “maneuvering” (think
+politics). Nergal does plenty of both throughout. The common surname
+Igarashi is written with the characters for “fifty storms,” and that man
+also does have a temper…

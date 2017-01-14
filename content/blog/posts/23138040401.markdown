@@ -1,0 +1,13 @@
+---
+title: Peter Root, "Ephemicropolis"
+url: http://www.peterroot.com/index.php?/projects/ephemicropolis/
+created_at: 2012-05-16 01:07:05.000000000 +00:00
+tags:
+- art
+---
+
+<figure markdown="1">
+[![](/blog/media/tumblr_m43cb4FWVi1qhcb4p.jpg)](http://www.peterroot.com/index.php?/projects/ephemicropolis/)
+</figure>
+
+Another miniature city sculpture, this time made from 150,000 staples.

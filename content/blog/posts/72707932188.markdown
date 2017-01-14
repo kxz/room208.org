@@ -1,0 +1,22 @@
+---
+created_at: 2014-01-08 23:46:00.000000000 +00:00
+tags:
+- anime
+- graph
+- statistics
+- theroadtowashington
+---
+
+![](/blog/media/tumblr_mz3wpdrrAe1qim2zwo1_500.png)
+
+[Lies, damned lies, and
+statistics](http://blog.room208.org/post/40124947004), part II.
+
+This graph covers only anime with a regular TV airing, as defined by
+AniDB, from which I pulled all of this data. Series are indexed by the
+date of their premiere, naively sorted into season buckets in blocks of
+three calendar months.
+
+*Oreimo* aired in autumn 2010. Indeed, autumn has a pattern of having
+longer titles in most years. What does that, or anything else about this
+graph, tell us? You tell me.

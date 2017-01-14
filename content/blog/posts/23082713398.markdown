@@ -1,0 +1,35 @@
+---
+created_at: 2012-05-15 02:46:00.000000000 +00:00
+tags:
+- css
+- tumblr
+- webdev
+- video
+---
+
+<%= render '/blog/_video.haml', url: '/blog/media/tumblr_m41md0PJ4R1qim2zw.mp4' %>
+
+Those of you who know me know that I’m not a huge fan of reblogged
+posts, so I usually hide them from my dashboard. Sometimes, though, I
+want to take a peek at their contents. I was playing around with some
+custom CSS and arrived at the following:
+
+    .not_mine.is_reblog {
+        opacity: 0.1;
+        overflow: hidden;
+        max-height: 20px !important;
+        -moz-transition: all 0.5s linear;
+        -webkit-transition: all 0.5s linear;
+        transition: all 0.5s linear;
+    }
+
+    .not_mine.is_reblog:hover {
+        opacity: 1;
+        max-height: 10000px !important;
+    }
+
+~~There’s a `transition` rule for general posts already, so all I need
+to do is override the default styles and styles on hover.~~
+\[<ins>**Edit:** Tumblr changed the dashboard style sheets to no longer
+provide a transition by default. I’ve added the appropriate code
+above.</ins>\] It’s functional *and* pretty. Win-win!

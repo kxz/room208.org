@@ -1,0 +1,15 @@
+---
+title: And don’t let the door hit you on the way out
+created_at: 2015-12-15 05:36:54.000000000 Z
+tags:
+- room208
+- tumblr
+- webdev
+---
+
+After [ages of complaining about Tumblr](/blog/tags/tumblr.html), I
+finally went and did something about it. This is something I hacked up
+in a couple of hours using Tumblr’s JSON export and a static site
+generator. Maybe someday I’ll post the source code.
+
+You know where to complain if something’s broken.

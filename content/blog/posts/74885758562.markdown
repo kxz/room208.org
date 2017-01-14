@@ -1,0 +1,24 @@
+---
+title: Dichotomy 3.0
+url: https://github.com/kxz/dichotomy/releases/tag/v3.0
+created_at: 2014-01-29 00:26:00.000000000 +00:00
+tags:
+- dichotomy
+- theme
+- tumblr
+---
+
+Whoa, look at that shiny “3”! This version of Dichotomy introduces:
+
+-   A “left-handed” layout option that switches the placement of posts
+    and navigation.
+
+-   Refined mobile styles, and the option to always turn them on
+    regardless of device.
+
+-   Fixes for the “never miss another post” teaser, and code to suppress
+    the whole-page sliding one.
+
+-   A rewritten, slightly less pedestrian README.
+
+-   Magic fairy dust.

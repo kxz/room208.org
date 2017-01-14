@@ -1,0 +1,31 @@
+---
+created_at: 2013-09-27 15:39:57.000000000 +00:00
+tags:
+- git
+- programming
+- followeroutreach
+---
+
+@[mnxmnkmnd](http://mnxmnkmnd.tumblr.com/)
+[wrote](http://mnxmnkmnd.tumblr.com/post/62218478184/a1616da-once-more-d69589f-line-endings-b97ea85):
+
+>     a1616da once more
+>     d69589f line endings
+>     b97ea85 renames
+>     e9d7c07 some notes in preaparation for moving out init
+>     acb94d4 make renames work
+>     f169acf more rename
+>     94c444e this is sad
+>     5cfe32d semicolons
+>     1aaadf9 typos
+>     d251997 lineendings in Run were screwed up
+>     845ccd4 this log is going to look funny when i'm not involved
+>     27f695e holy hell do i hate line endings
+>
+> lab’s going well. breaking new ground. major advancements
+
+It might be time for you to learn the dark art of rewriting your Git
+history. Speaking for myself, if it weren’t for `git commit --amend` and
+`git rebase -i`, people would think I wrote all my code drunk.[^1]
+
+[^1]: I do, but that’s not important.

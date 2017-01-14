@@ -1,0 +1,14 @@
+---
+title: The internet is for functions that invisibly mess with HTML comments
+created_at: 2015-04-05 04:34:08.000000000 +00:00
+tags:
+- tumblr
+- webdev
+- javascript
+- porn
+- morningtoncrescent
+---
+
+In other news, I’ve discovered that the Tumblr dashboard defines a
+JavaScript function called `Tumblr.porn()`. It is, as you might expect,
+useless – not quite a no-op, but almost essentially so.

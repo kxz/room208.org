@@ -1,0 +1,30 @@
+---
+created_at: 2014-09-02 13:07:04.000000000 +00:00
+tags:
+- japanese
+- translation
+- followeroutreach
+---
+
+@[mnxmnkmnd](http://tmblr.co/mSE73dbawHqAKxEbHe8B_2g){:.tumblelog}
+[writes](http://mnxmnkmnd.tumblr.com/post/96428381803/its-important-to-get-experienced-consultants-when):
+
+> incidentally, the other scanlators’ translation of this bugs me out.
+>
+> > In the past, Japan was only divided into “this” and “that” realm.
+> > However at one point in time, “yomi”, the name of “that” realm, was
+> > engulfed in chaos due to the dead.
+>
+> that’s just so unnatural. what does that quote thing even correspond
+> to in japanese? it’s ridiculous in english.
+
+It’s common for Japanese text to use quotation marks for emphasis or to
+indicate idiosyncratic usage, which isn’t considered improper to the
+degree that it is with English. Incidentally, the construction “the name
+of ‘that’ realm” also probably arises from translating the set phrase
+<span lang="ja">XというY</span> too literally; a direct translation would
+be “the Y named/called X,” but nine times out of ten this sounds
+redundant or out of place in English, and a simple appositive would
+suffice instead.
+
+The more you know.

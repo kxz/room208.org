@@ -1,0 +1,15 @@
+---
+created_at: 2014-09-01 15:52:32.000000000 +00:00
+tags:
+- anime
+- gif
+- monthlygirlsnozaki
+---
+
+![](/blog/media/tumblr_nb8c3kJeNi1qim2zwo1_500.gif)
+
+*Monthly Girls’ Nozaki*, episode 9.
+
+I tried some image compositing to make the flowers in the background
+loop smoothly, but there just weren’t enough frames to do it properly.
+Oh, well. This will just have to do.

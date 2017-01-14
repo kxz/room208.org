@@ -1,0 +1,50 @@
+---
+title: Area Woman Who Swallowed Fly Completely Unaware of Impending Doom
+created_at: 2014-12-16 17:17:03.000000000 +00:00
+tags:
+- yakshaving
+- theroadtowashington
+- bulletedliststorm
+- sysadmin
+---
+
+I [crossgraded](https://wiki.debian.org/CrossGrading) the entire
+userspace of my Debian 7.7 server from 32- to 64-bit this morning,
+because
+
+-   I’d been [running a mostly 32-bit userspace on top of a 64-bit
+    kernel](https://www.linode.com/docs/migrate-to-linode/disk-images/switching-to-a-64bit-kernel)
+    for a while to take advantage of the Linode service upgrades that
+    became available earlier this year, but that was starting to cause
+    problems, including
+
+-   an inability to correctly install
+    [therubyracer](https://github.com/cowboyd/therubyracer), because of
+
+-   [a longstanding
+    bug](https://github.com/cowboyd/therubyracer/issues/284) that causes
+    therubyracer to look for a 32-bit version of libv8, which is only a
+    problem because
+
+-   Bundler insists on downloading a 64-bit binary version of the libv8
+    gem, corresponding to the kernel version, even though the Ruby it’s
+    running is a 32-bit binary that can’t load those modules anyway; but
+    all this is only a problem because
+
+-   I needed to get Danbooru running on Ruby 2.1.5 and therefore the
+    gems in my old 1.9.3 installation had to be rebuilt, because
+
+-   Danbooru development runs at the pace of albert, its owner and
+    developer, and he [randomly changed the upstream code to depend on
+    Ruby
+    2.1.5](https://github.com/r888888888/danbooru/commit/53844af8dc4d1da5d2d027dce43597549b01a5ad)
+    in between minor versions, but I wanted to upgrade regardless,
+    because
+
+-   there was a fix for a problem where Pixiv uploads to [the imageboard
+    I run](https://room208.org/booru/) were breaking, which only
+    happened in the first place because
+
+-   Pixiv changed their image page layout.
+
+QED.

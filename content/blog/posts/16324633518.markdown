@@ -1,0 +1,13 @@
+---
+title: Wat
+url: https://www.destroyallsoftware.com/talks/wat
+created_at: 2012-01-23 01:11:49.000000000 +00:00
+tags:
+- programming
+---
+
+Most of this talk by Gary Bernhardt centers around how unpredictable
+JavaScript’s type coercion is, except presented in a fashion that makes
+it funny and not just frustrating. A little humor can take the edge off
+of using a language where [even `typeof` can’t get it
+straight](http://javascript.crockford.com/survey.html) sometimes.

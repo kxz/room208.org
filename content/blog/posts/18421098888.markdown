@@ -1,0 +1,13 @@
+---
+created_at: 2012-02-28 03:57:58.000000000 +00:00
+tags:
+- gif
+- lookaroundyou
+---
+
+![](/blog/media/tumblr_m034cmeS3i1qim2zwo1_500.gif)
+
+This is from <cite>Look Around You</cite> season 1, episode 5
+(“Sulphur”). Subtle shifts in the blue background really killed
+compression for this image, so I ended up treating changes in color
+value of less than 7 percent as no change for transparency purposes.

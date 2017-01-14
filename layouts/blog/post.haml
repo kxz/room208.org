@@ -1,2 +1,3 @@
 - render '/blog/base.haml' do
-  = render '/blog/_post.haml'
+  - render '/blog/_post.haml' do
+    = yield

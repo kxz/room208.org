@@ -1,0 +1,21 @@
+---
+created_at: 2012-06-20 00:41:00.000000000 +00:00
+tags:
+- morningtoncrescent
+- music
+---
+
+@[fioraaeterna](http://fioraaeterna.tumblr.com/) writes:
+
+> Let's play Mornington Crescent! I'll start at South Wimbledon. While I
+> certainly wouldn't wish to reveal my whole strategy quite yet, I'll
+> give at least a little hint -- remember it's a Tuesday, so the
+> roundabout rules apply. This lets me threaten a quick crossover
+> through Bayswater into Redbridge via the green line. The final step
+> might be hard to spot though, so be cautious...!
+
+<%= render '/blog/_youtube.haml', id: 'GrBLCOpHxvo' %>
+
+I’ve found that the Disabato offense is quite weak to the Howlett
+interchange, especially on players who still aren’t used to the 1995
+amendments on hand signals at Give Way signs.

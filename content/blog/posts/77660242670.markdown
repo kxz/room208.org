@@ -1,0 +1,109 @@
+---
+created_at: 2014-02-24 02:45:00.000000000 +00:00
+tags:
+- keyboardmashfiction
+- photo
+---
+
+![](/blog/media/tumblr_inline_n1hbhx5kWg1qhcb4p.jpg)
+
+When I went back to Landry the next day, the smell of charred
+electronics was still lingering in the air. I’d nicked the air freshener
+that had been sitting on the counter of my hotel bathroom in the hopes
+of masking the odor, but even with the station’s interior ventilation on
+full blast, nothing really helped. Lacking for better options, I found
+myself leaning over and sticking my nose into the fragrance cartridge
+every so often as I pored through Landry’s logs and computer code on one
+of its sleek, glossy terminals.
+
+The damage had been minimal this time, thankfully, limited to one
+network switch that was simply swapped out for a spare. Sabina was
+positively beaming at the small scope of the trouble. “Maybe things are
+starting to look up,” she said as she passed by my workstation. “Nothing
+blew up this time, right? Does this count as threat mitigation?”
+
+“It counts if you’re willing to take the credit for it,” I said, not
+bothering to take my eyes away from the screen.
+
+<!-- more -->
+
+“Oh, perfect. I can submit this for my next performance review.”
+
+“You guys have performance reviews?” I scrunched my face in distaste,
+not at Sabina’s response but at a particularly inscrutable line of
+diagnostic output.
+
+“We do now that I have something to brag about,” Sabina said, with a
+chuckle.
+
+“And meanwhile I’m the one sitting in front of the computer…”
+
+“You’re the one who volunteered for it.”
+
+“I’m beginning to regret doing that,” I said sullenly. “Spending all my
+time up at Sudalis doing nothing made me forget just how much of a pain
+debugging is. It’s not worth it, I’m telling you.”
+
+“Not even for the bonus?”
+
+“Not unless that bonus is…” I flicked my eye to the clock in the corner
+of the monitor. “Four hours of my life back.”
+
+I finally removed my hands from the keyboard and put them behind my
+head, leaning back in the chair in exasperation. An upside-down image of
+Sabina’s cheerful face greeted me in return.
+
+“Taking a break?” she asked.
+
+“No. I’ve figured out what’s going on.”
+
+“Really?”
+
+“Yeah. But, uh, before I tell you…” I spun the office chair around so
+that I no longer had to crane my neck to look at Sabina. “I have to ask,
+who wrote the station’s legacy message handling component?”
+
+“That’d be me. Why do you want to know?”
+
+I felt my breathing get a little shallower. Diplomacy was not exactly my
+strong point. “Um, uh, well, I just wanted to – uh –”
+
+Sabina laughed. “I’m just kidding. Some contractors ported over the
+control software from the old station setup. Let me guess, it sucks.”
+
+I sighed in relief. “Yeah. It’s terrible. I’m surprised this entire
+station didn’t burn down long before you got here.”
+
+“So what’s wrong?”
+
+“I’d prefer to explain what isn’t, because that list’s a lot shorter.”
+
+“I had a feeling.” Sabina shook her head as she dragged a nearby chair
+up next to me. Sitting down, she nudged me over so she could get a good
+look at the screen. “Lay out the scene for me.”
+
+I mimed my head exploding, complete with the sound of a bomb burst.
+“That’s about the long and the short of it. There’s buffer overflows,
+missed bounds checks, stale pointers,” I said, ticking each of the items
+off on my fingers as I went, “and on top of that the source code
+comments are composed entirely of out-of-context movie quotes.”
+
+“That last one’s worthy of the gallows.”
+
+“I’d say. Anyway, what’s really stupid is that none of this would matter
+if it weren’t for the fact that the clown does some really extreme stuff
+with the comms signal. The messages are padded with a bunch of random
+noise that’s *barely* within the specs. As bad as this code is, it’d
+handle pretty much every normal message fine. The ones from the clown,
+though… the control computer’s memory will turn to garbage faster than
+you can say… uh…” I trailed off, losing my train of thought. “Help me
+out here. What’s, like, a clown catchphrase?”
+
+“Don’t ask me. I always thought clowns were really creepy. Besides,
+aren’t you supposed to be the clown expert?”
+
+“Please, don’t remind me.” I slumped over in my chair, defeated.
+
+Sabina stared at me in bemused silence for a moment. Finally, with a
+voice of mildly sarcastic concern, she said, “I’ll send the drone around
+with some coffee, okay?”

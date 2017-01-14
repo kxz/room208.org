@@ -1,0 +1,150 @@
+---
+title: One long post about one not-so-long visual novel
+created_at: 2012-01-30 02:40:00.000000000 +00:00
+tags:
+- katawashoujo
+- visualnovel
+- review
+---
+
+Thinking back on it, the fact that [<cite>Katawa
+Shoujo</cite>](http://katawa-shoujo.com/) even exists almost seems like
+a miracle in itself. With [a team of twenty or so
+volunteers](http://katawa-shoujo.com/staff.php) working for half a
+decade to make it a reality, I can only imagine the number of places
+where the entire project could have fallen apart. That the game even
+made it to final release is a testament to the team’s dedication. That
+it’s actually pretty good – well, that’s something more than just
+persistence.
+
+A rough, spoilertastic rundown of my thoughts after the break.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+I’ll start with the bad, which in this case was Shizune’s route. I will
+admit that I didn’t get the best impression of her character from the
+Act 1 preview, but my problems with her arc have less to do with her
+personality than the overall plotting. In short, her story suffered from
+a lack of focus; while there were a lot of great ideas sprinkled
+throughout her path, none of them really resolved to my satisfaction.
+Take Hisao’s learning to sign, for example. Overcoming the barrier of
+Shizune’s deafness could have made for an entire story on its own.
+Instead, Hisao seems to pick up the ins and outs of an entirely new
+language within months, if not weeks, and the problem gets shoved aside
+almost as soon as it’s brought up. After all, the story needs to move on
+to Shizune’s tensions with her family, her history with Lilly, her
+friendship-that-might-have-been-more with Misha, her stress from doing
+literally half of the work of the Student Council, blah blah blah… you
+get the idea. At times, I got the sense that Shizune was being pushed
+out of the spotlight in her own route, especially when it came to the
+ridiculous, and largely pointless, interactions with her family. (I will
+grudgingly give a tip of my hat, though, to whoever came up with the
+reference to [Kanou
+Jigorou](https://en.wikipedia.org/wiki/Kan%C5%8D_Jigor%C5%8D), even if
+his given name does sound a lot like “gigolo.”) Needless to say, in the
+midst of all of this, her relationship with Hisao doesn’t get much of a
+chance to develop into something meaningful. Funnily enough, if there
+was a bright spot in the whole mess, it was the route’s heartbreaking
+bad end, which seemed to have more emotional content than the entire
+rest of the path combined.
+
+The clearest contrast I can draw here is to Emi’s storyline. Now, I’ll
+be frank – her route’s not going to win any points for originality, but
+it was simple, to the point, and smoothly executed. Much like its
+heroine, Emi’s arc has a sense of playful self-awareness to it, which
+shows in the dialogue and some of the subversions of expectation
+throughout her story. I particularly liked how Emi’s character turned
+into something more than the one-dimensional exercise-obsessed
+caricature that Act 1 seems to give off. While some of the twists on her
+character type, like her age and sexual experience, are again obvious,
+at least in hindsight, they fit smoothly into the rest of her portrayal.
+My primary quibble with the story lies with Hisao’s occasional
+denseness, especially when Emi manages to get away with avoiding the
+subject of her dad with exactly the same words she used earlier to shrug
+off Hisao’s concern about her limp – the one that later turned into an
+infection and forced her into a wheelchair. Then again, to be fair, it’s
+hardly as egregious as some of Hisao’s behavior in <cite>Katawa
+Shoujo</cite>’s other arcs, let alone the lead-brick obliviousness of
+certain anime leads. Oh, and there’s also the issue of some of the CGs
+reflecting her *\*ahem\** original character design, but the less said
+about that, the better.
+
+Lilly’s path, too, isn’t all that thematically deep. As I’ve mentioned
+in private discussions, though, it seems almost written specifically for
+people who consider her their favorite character, and since I’m one of
+those right sentimental fools, her arc is also my favorite out of the
+five. It’s not shy about being a romantic melodrama; this does
+admittedly work to its detriment in the final chapter, which is a bit
+rushed and predictable, but even then I would be lying if I said that
+the ending didn’t run me through the emotional wringer. Hisao, for his
+part, manages to pull off some amazing maneuvers in courting Lilly, most
+notably with the music box as a going-away gift. Maybe the setup was a
+little too coincidental, but I’ll be damned if that wasn’t the smoothest
+thing I’ve seen a protagonist do in a romantic visual novel. The
+artwork, too, is just beautiful, and perhaps the most consistent of any
+of the routes; the CG of Hisao and Lilly in a Hokkaido wheat field, in
+particular, reminded me strongly of <cite>ef</cite> or <cite>5
+cm/s</cite>, which is a good thing in my book.
+
+Now for the two stories I expected to be the heaviest coming in: Rin’s
+and Hanako’s. I’ll go over the latter first, because it bears a lot of
+similarities to Lilly’s route. In this case, however, that’s not a good
+thing, because, well, Lilly’s not supposed to be the focus any more –
+Hanako is. Yet Acts 2 and 3 of her story felt like a recapitulation of
+many of the events of Lilly’s arc, alongside the painfully slow
+development of Hanako’s character and relationship with Hisao. Things
+don’t really kick off until just before Act 4 begins, and by then it’s
+too late to give the theme that eventually does emerge – Hanako’s
+wanting to be seen as a capable person in her own right, not just
+something to be protected – suitable consideration. I kind of wish that
+Hanako’s bad-end outburst were a part of the main story, not just
+something triggered by a rather incredible regression in protagonist
+sensitivity, as it really lays the essential conflict bare. That and a
+few other scenes, like her revealing the full extent of her scarring to
+Hisao, did stand out in my mind. They’re worth the price of admission if
+you’ve already played through Lilly’s route (plus you get a glimpse of
+[Hanako’s adorable pouting
+face](http://media.tumblr.com/tumblr_lyxvisYyda1qhcb4p.jpg)), but not
+enough by themselves to make up for the route’s flaws.
+
+Rin’s path does a better job of showing the obstacles that the main
+couple has to overcome to really make their relationship work.
+Unfortunately, one of those obstacles is Hisao’s own personality at the
+beginning of the arc, where his insistence that Rin go forward with her
+debut exhibition comes off as insensitive and irrationally exuberant. I
+do have to cut the writer some slack, since Hisao is rather star-struck
+at this point, but it’s frustrating to see him do it all the same, and
+it’s hard not to feel that Hisao and Rin are just talking past each
+other in an endless circle because of it. The route does manage to break
+through and end on a high note, though, and in a natural fashion that
+avoids turning Rin’s personality upside-down while still clearly showing
+that she does trust Hisao. I feel compelled here to drop in a mention of
+Rin’s “neutral” end, which brings up an interesting dilemma. Would she
+be better off seizing a rare, promising chance at developing her talent
+as an artist, or staying at Yamaku and learning to open up to Hisao and
+her other classmates? Ultimately, I’m not sure there’s a good answer.
+
+On the overall, <cite>Katawa Shoujo</cite> met my expectations, and in
+fact simply blew them away at the best of times. I was especially
+impressed with how polished the presentation was; the music was a real
+highlight, so much so that I’d occasionally just leave the game open
+while I did other things just so I could leave the soundtrack on in the
+background. Fortunately, it’s available for [free
+download](http://katawashoujo.blogspot.com/2012/01/katawa-shoujo-soundtrack-up-for.html)
+now, so I don’t have to do that any more. The artwork was spottier,
+particularly with some of the CGs, and there were a few noticeable
+instances of suboptimal editing in the scripts, but I didn’t find these
+issues too distracting. If you can get past the unfortunate two-word
+description of <cite>Katawa Shoujo</cite> as “cripple porn,” you’ll find
+a visual novel with sensitivity and a good bit of heart to it, and for
+that I am grateful to the developers who spent so much time putting it
+together.
+
+Oh, one last thing. Iwanako doesn’t play all that much of a role in the
+plot, aside from the prologue and her letter in each of the arcs. I
+can’t say that she should have been more prominent – in the story, she’s
+mostly a symbol of how Hisao overcomes his past burdens, and I’m fine
+with that. I can’t be the only one curious, though, as to how a story
+like this would play out from her perspective.

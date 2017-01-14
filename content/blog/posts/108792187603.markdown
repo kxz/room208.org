@@ -1,0 +1,19 @@
+---
+created_at: 2015-01-22 03:10:00.000000000 +00:00
+tags:
+- tumblr
+- theme
+- whinybugzilla
+---
+
+I’m a Tumblr theme developer. I have various bug reports and feature
+requests that I’d like to send in, not least regarding [my continued
+inability to edit my theme’s
+description](http://blog.room208.org/post/79772827394). Tumblr’s
+official venue for discussion of the theme API is [a Google
+Group](http://groups.google.com/group/tumblr-themes) that has been dead
+for months, and was rarely trafficked by Tumblr devs even before it
+died. So, readers: Do I have any recourse for getting things fixed,
+beyond [complaining a
+lot](https://github.com/tumblr/ios-extension-issues) and hoping someone
+notices?

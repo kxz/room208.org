@@ -1,0 +1,45 @@
+---
+title: New look, same great taste
+created_at: 2012-04-08 21:00:00.000000000 +00:00
+tags:
+- room208
+---
+
+<div style="display: table; width: 100%;">
+
+<div style="display: table-cell; width: 50%; vertical-align: top;" markdown="1">
+
+## Side One
+{:style="margin: 0;"}
+
+1.  Cascade
+2.  <s>Ill Flower</s>
+3.  Flak
+4.  Bird Wings
+5.  Dead Skin Cells
+6.  Lifeforms
+7.  <s>Eggshell</s>
+8.  Among Myselves
+
+</div>
+
+<div style="display: table-cell; width: 50%; vertical-align: top;" markdown="1">
+
+## Side Two
+{:style="margin: 0;"}
+
+1.  Domain
+2.  Spineless Jelly
+3.  Interstat
+4.  <s>Vertical Pig</s>
+5.  Cerebral
+6.  Life Form Ends
+7.  VIT
+8.  <s>Omnipresence</s>
+9.  <s>Room 208</s>
+10. **<s>Elaborate Burn</s>**
+11. Little Brother
+
+</div>
+
+</div>

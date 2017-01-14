@@ -1,0 +1,17 @@
+---
+title: Git Koans
+url: http://stevelosh.com/blog/2013/04/git-koans/
+created_at: 2013-04-08 21:08:28.000000000 +00:00
+tags:
+- git
+- programming
+---
+
+Steve Losh:
+
+> The novice thought for a few moments, then asked: “Surely some of
+> these could be made more consistent, so as to be easier to remember in
+> the heat of coding?”
+>
+> Master Git snapped his fingers. A hobgoblin entered the room and ate
+> the novice alive. In the afterlife, the novice was enlightened.

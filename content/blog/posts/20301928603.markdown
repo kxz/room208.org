@@ -1,0 +1,33 @@
+---
+created_at: 2012-04-01 19:26:00.000000000 +00:00
+tags:
+- aprilfools
+- javascript
+---
+
+It’s patch time!
+
+    diff --git a/dichotomy.html b/dichotomy.html
+    index 608a614..4ea860e 100644
+    --- a/dichotomy.html
+    +++ b/dichotomy.html
+    @@ -445,5 +445,19 @@ nav li {
+     <li><a href="{RSS}">RSS</a></li>
+     </ul>
+     </nav>
+    +
+    +<script>
+    +(function () {
+    +    var as = document.getElementsByTagName('a');
+    +    for (var i = 0; i < as.length; i++) {
+    +        as[i].onmouseover = (function (b) {
+    +            return function () {
+    +                b.style.position = 'relative';
+    +                b.style.top = (2 - Math.random() * 4) + 'em';
+    +            };
+    +        }(as[i]));
+    +    }
+    +}());
+    +</script>
+     </body>
+     </html>

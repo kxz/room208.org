@@ -28,6 +28,7 @@ GEM
       tilt
     hamster (3.0.0)
       concurrent-ruby (~> 1.0)
+    kramdown (1.13.2)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -70,6 +71,7 @@ DEPENDENCIES
   builder
   guard-nanoc (~> 2.0)
   haml (~> 4.0)
+  kramdown
   nanoc (~> 4.0)
   nokogiri
   sass (~> 3.2)
@@ -77,4 +79,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.12.0
+   1.13.7

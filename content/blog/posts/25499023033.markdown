@@ -1,0 +1,24 @@
+---
+created_at: 2012-06-20 11:14:31.000000000 +00:00
+tags:
+- theroadtofaust
+- programming
+---
+
+@[fioraaeterna](http://fioraaeterna.tumblr.com/) writes:
+
+> Ignore names that aren't anime characters: static const char \*
+> romaji\[\] =
+> {"a","e","i","o","u","ka","ke","ki","ko","ku","sa","se","shi","so","su","ta","chi","tsu","te","to","na","ne","ni","no","nu","ha","he","hi","ho","fu","ma","me","mi","mo","mu","ra","re","ri","ro","ru"};while(1){int
+> n=(rand()%4)+2;for(int i=0; i&lt;n;
+> i++){printf("%s",romaji\[rand()%40\]);}printf("\\n");}
+
+There may be
+[prerequisites](https://code.google.com/p/lorem-ipsum-generator/wiki/ApiOverview).
+
+    import lipsum
+
+    g = lipsum.Generator()
+    for i in xrange(0, 5):
+        print g.generate_sentence(),
+    print

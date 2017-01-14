@@ -1,0 +1,13 @@
+---
+created_at: 2013-06-25 01:18:02.000000000 +00:00
+tags:
+- tumblr
+- theme
+- webdev
+- userinterfacedesign
+- video
+---
+
+<%= render '/blog/_video.haml', url: '/blog/media/tumblr_moxcx96MIO1qim2zw.mp4' %>
+
+Is the word “excessive” not in the vocabulary of Tumblr’s UI designers?

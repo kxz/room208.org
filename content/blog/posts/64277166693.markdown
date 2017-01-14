@@ -1,0 +1,22 @@
+---
+created_at: 2013-10-17 05:28:31.000000000 +00:00
+tags:
+- ruby
+- rubyonrails
+- programming
+---
+
+> And we can even add weird things like `Array#forty_two`. You cannot
+> read the comment here, but it says, ‘Equal to `self[41]`. Also known
+> as accessing “the reddit”.’ This sort of came out of a thread on
+> reddit where somebody was complaining so loudly – why we would care to
+> add `second` and `third` and `fourth` to `Array`. 'This is redundant!
+> There’s already a mathematical approach to doing the same thing!’ It
+> doesn’t make sense to them. It was *weird*. Like, why would somebody
+> care about this level of aesthetics? And just to spite them, I added
+> `forty_two`.
+
+[David Heinemeier Hansson](http://vimeo.com/17420638#t=31m06s), creator
+of Ruby on Rails, on why [it monkey-patches the Ruby `Array` class to
+provide a `forty_two`
+method](https://github.com/rails/rails/blob/master/activesupport/lib/active_support/core_ext/array/access.rb#L50-L53)

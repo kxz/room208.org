@@ -1,0 +1,21 @@
+---
+created_at: 2015-03-24 00:12:23.000000000 +00:00
+tags:
+- google
+- tumblr
+- askmeme
+- autocomplete
+- morningtoncrescent
+---
+
+![](/blog/media/tumblr_nlowknqyv11qim2zwo1_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo8_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo2_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo6_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo3_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo5_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo9_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo10_500.png)
+![](/blog/media/tumblr_nlowknqyv11qim2zwo4_500.png)
+
+Google Suggest introduces itself in the style of a Tumblr ask meme.

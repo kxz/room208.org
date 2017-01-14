@@ -1,0 +1,18 @@
+---
+created_at: 2013-03-18 03:08:18.000000000 +00:00
+tags:
+- photo
+- morningtoncrescent
+---
+
+![](/blog/media/tumblr_mju61upmG21qim2zwo1_500.jpg)
+
+    idmtx.ss:43: Parse error: Unclosed T_EMOTIONAL_OPENING.
+
+                 return m->displayPointer;
+            }
+            // fuck my code-mangled life
+        }
+    ~~~~^
+
+    Build failed with 2 errors and 137 warnings.

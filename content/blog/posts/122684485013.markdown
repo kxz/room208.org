@@ -1,0 +1,19 @@
+---
+title: 'Everything Becomes F: The Perfect Insider (Japanese)'
+url: http://www.f-noitamina.com
+created_at: 2015-06-28 16:33:36.000000000 +00:00
+tags:
+- everythingbecomesf
+- anime
+- webdev
+---
+
+<figure markdown="1">
+[![](/blog/media/tumblr_inline_nqnxrjRsfY1qhcb4p_540.jpg)](http://www.f-noitamina.com/)
+</figure>
+
+An adaptation of Hiroshi Mori’s sci-fi mystery novel, which won the
+first Mephisto Prize back in 1996. It’s airing in noitaminA this winter,
+animated by A-1 Pictures with character designs by Inio Asano of
+*Oyasumi Punpun* fame. Gotta say, I really like what they’re doing with
+the website.

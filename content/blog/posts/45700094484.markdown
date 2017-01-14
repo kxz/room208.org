@@ -1,0 +1,31 @@
+---
+title: Not Greedy, Just Clueless
+url: http://www.escapistmagazine.com/articles/view/columns/experienced-points/10226-Not-Greedy-Just-Clueless
+created_at: 2013-03-18 21:34:15.000000000 +00:00
+tags:
+- gaming
+- ea
+- microtransactions
+---
+
+Shamus Young, on why EA’s business practices enrage customers, and how
+blaming “greed” is ultimately an error of attribution:
+
+> About twenty-five years ago, fast food places invented the idea of the
+> value meal, combo meal, or whatever you call it when you order one
+> item to get several. Before this, you had to order your burger, fries,
+> and a drink individually. With a combo meal, you could just order a
+> single item for a single price. Sure, maybe you used to get a small
+> drink and now you get a medium and you didn’t usually get fries and
+> now you do, but by gathering up the items under a single price point
+> the restaurant can make things more convenient, get you to buy more
+> food, and leave you with the impression that you somehow saved money.
+> This was smart. This was a system devised by people who understood
+> what consumers wanted and how they behaved.
+>
+> The stupid way around would be to make more money by charging people
+> for small items. Charge for napkins. Charge for condiments. Charge for
+> the cup, the ice, the tray, and the utensils. Charge people to enter
+> the store, charge them to talk with other patrons, charge them for the
+> bathroom, for window seats, for privacy, and for access to WiFi. This
+> is how EA has been selling their games.

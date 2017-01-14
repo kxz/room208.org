@@ -1,0 +1,83 @@
+---
+title: Changing post types and the new dashboard
+created_at: 2015-02-08 00:49:07.000000000 +00:00
+tags:
+- tumblr
+- webdev
+---
+
+As you probably well know by now, Tumblr rolled out [a new dashboard
+design](http://staff.tumblr.com/post/109422757605/big-update-tumblr)
+towards the end of last month. The new design no longer has any standard
+HTML forms, instead moving to
+[Backbone.js](http://documentcloud.github.io/backbone/), and thus the
+method for changing post types outlined in [my previous
+guide](http://blog.room208.org/post/64244275772) no longer works. I
+spent about an hour today poking around to see if I could find an easy
+way to update the Backbone.js model and save it to the server, but alas,
+all that minified JavaScript proved too much for me. There still is at
+least one difficult way to do this, however.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+First, open up the post edit page in your favorite web inspector, and
+head over to the network traffic pane. Make sure it’s recording requests
+and responses. In Chrome, for instance, look for the bright red “record”
+circle in the top left corner – if it’s grayed out, click it to start
+recording.
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_nlh1lnAzGT1qhcb4p_500.png)
+</figure>
+
+Now, go back to the edit page itself and click the *Save* button without
+making any changes. Return to the inspector and look for a request made
+to `https://www.tumblr.com/svc/post/update`.
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_nlh1lynHgy1qhcb4p_500.png)
+</figure>
+
+Open it up and copy the request body, which should be a JSON object.
+This is a bit hard to find in Chrome; you’ll need to go to the *Headers*
+tab and click *View source* next to *Request Payload* to get what you’re
+looking for.
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_nlh210mNhi1qhcb4p_500.png)
+</figure>
+
+Head to the console and paste what you’ve just copied. Locate the field
+named `post[type]` and change its value as before. In the figure, I’m
+changing the post type from `quote` to `text`, and assigning the whole
+object to a new variable called `alteredJSONData` for convenience.
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_nlh24vs8yp1qhcb4p_500.png)
+</figure>
+
+Now we’ll use the page’s jQuery object to make our altered request in
+the console, while still maintaining the security headers Tumblr uses:
+
+    jQuery.ajax("/svc/post/update", {
+        data: JSON.stringify(alteredJSONData),
+        type: "POST",
+        contentType: "application/json",
+        dataType: "json",
+        processData: false
+    });
+
+You’ll get a response object back if the request was successfully made.
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_nlh25gIvrB1qhcb4p_500.png)
+</figure>
+
+Now reload the dashboard and the post in question should appear with its
+type changed. It’s a hack, but it works.
+
+------------------------------------------------------------------------
+
+**Updated March 19, 2015** to add screenshots.

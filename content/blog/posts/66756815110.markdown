@@ -1,0 +1,12 @@
+---
+title: Speak Ruby in Japanese
+url: http://www.sarahmei.com/blog/2010/09/04/speak-ruby-in-japanese/
+created_at: 2013-11-12 05:47:18.000000000 +00:00
+tags:
+- ruby
+- japanese
+- programming
+---
+
+I am mildly disappointed by the fact that the Japanese Ruby community
+doesn’t have an amusing non-loanword colloquialism for “hash rocket.”

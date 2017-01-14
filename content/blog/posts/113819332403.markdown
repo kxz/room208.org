@@ -1,0 +1,106 @@
+---
+title: The Artistic World of Bakemonogatari
+created_at: 2015-03-16 22:13:21.000000000 +00:00
+tags:
+- bakemonogatari
+- anime
+- translation
+---
+
+Someone posted [scans (well, photos) of the *Bakemonogatari Key
+Animation Note*](http://imgur.com/a/0MQRn) on /r/anime the other day,
+mentioning that “There’s an afterword by the visual director, Nobuyuki
+Takeuchi, at the end if anyone wants to translate it.”
+
+Well, here we are. Let’s do this.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+> # The Artistic World of *Bakemonogatari*
+>
+> *Bakemonogatari* Visual Director Nobuyuki Takeuchi
+>
+> On the subject of creating the artistic world of *Bakemonogatari*, I
+> had some reference material in mind when I asked Ryubido’s Mr.
+> Hisaharu Iijima to create the very first storyboards. It was just a
+> book that I happened to own myself, a photo collection called *Under
+> Construction: The Nippori Toneri Line, 13 March 2001* by Sadahiro
+> Koizumi (pub. Little Gallery, 2001). The atmosphere of the photos
+> printed there matched my image of the town that *Bakemonogatari*’s
+> characters lived in. I had a meeting in the stairwell where I showed
+> the book to Director \[Akiyuki\] Shinbou and Mr. \[Tatsuya\] Oishi,
+> and they both liked it as well, so I asked Mr. Iijima for a few
+> storyboards based on the photos.
+>
+> Mr. Nisio Isin’s original novel doesn’t describe the town where
+> Araragi and the other characters live in very much detail, so I was
+> anxious about how to depict it on screen. Araragi mentions that it’s
+> in the “countryside,” but I wondered if that couldn’t mean less of a
+> vast pastoral landscape, and more of an emotional “countryside.”
+> Araragi is a bit oblique, so I thought that he might have been looking
+> at the town he lives in from a more interpretive angle, and seeing it
+> with all its modern buildings as having the features of an emotional
+> “countryside.”
+>
+> Thinking of it that way, we no longer had to depict a literal country
+> town, so I tried to visualize the kind of scenery that you can see in
+> every city in Japan, no matter the region. The one common point that I
+> thought of was the sight of something under construction, and I felt
+> that this photobook overlapped with the world that Araragi lives in.
+>
+> I thought a contrast with large buildings under construction, and the
+> cold inhumanity of concrete, would emphasize the feeling of alienation
+> that leads Araragi to dismiss the town where he lives as
+> “countryside.” Back in the old days, I went on bicycle tours, and I’d
+> spend nights camping out in places like the old National Railway
+> terminal and Sapporo’s office district. There were always so many
+> people passing by, but I had no connection to them, and I had a strong
+> feeling of being alone, which I think came from that contrast with all
+> the huge, artificial concrete buildings. Looking at Mr. Koizumi’s
+> photobook was like a flashback to that time.
+>
+> From that overlap between Mr. Koizumi’s photobook and the world of the
+> work, I asked for the storyboards using the photos as a reference, and
+> had Mr. Iijima fill in the details of textures and so forth. I made
+> him pledge to stick closely to the photos when drawing the boards to
+> preserve realism in the contrast. When I laid out each cut, I made
+> calculations to bring out that realism by deepening the difference
+> between the characters and the contrasting objects. One technique I
+> used was to place electric poles, posts, and such around the screen to
+> use as an easy basis for comparison.
+>
+> Moreover, although the buildings under construction shown on-screen
+> don’t have any meaning in themselves, I wanted to use their size and
+> inhuman feeling as a substitute for the mob characters (the people
+> passing by in the background). Ordinarily, there would be secondary
+> characters in the background serving as the mob, but in
+> *Bakemonogatari* that role is taken by the buildings.
+>
+> Although I proposed using the photographs as a basis for the entire
+> world in this way, I left their translation onto the storyboards to
+> Mr. Iijima. The interesting things that Mr. Iijima thought up, like
+> the colorings of the sky, probably set a direction for the rest of the
+> work. I think it’s thanks to him that we were able to create an
+> artistic world that doesn’t exist in any other work, something
+> different from any anime up to this point.
+
+My transcription of the original text follows.
+
+> # 化物語の美術世界
+>
+> 「化物語」ビジュアルディレクター・武内宣之
+>
+> 化物語の美術世界を作るにあたって、竜美堂の飯島寿治さんに一番最初にイメージボードをお願いする際、参考にして頂いたものがあります。自分が個人的に持っていた本なのですが、小泉定弘さんの『工事中：尾久橋通り、日暮里・舎人線を歩く、2001年3月13日』（リトルギャラリー刊、2001）という写真集です。掲載されている写真の雰囲気が化物語の登場人物が暮らす町のイメージに合うのではないかと考え、打ち合わせ階段で新房監督と尾石さんに見て頂いたところお二人にも評判が良かったので、いくつかの写真を美術ボードを作るときの参考にさせて頂きました。
+>
+> 阿良々木君たちが住むこの架空の田舎町について西尾維新先生の原作小説では細かい描写はあまりありませんでした。画面で表現する場合どうしたらいいか悩んでいたとき、阿良々木君は「田舎」と言っているけど、それは田園が広がる牧歌的な風景を「田舎」という言葉で現しているのではなく、もっと心情的なレベルで「田舎」と言っているのではないかと考えてみました。阿良々木君はちょっと斜めから物を解釈するところがあるのではないかと思っていて、現代的なビルが建っていたとしても自分が住む町の風土全体に対して心情で「田舎」と見ているのではないかと。
+>
+> そう考えれば、いわゆる田舎町の表現にとらわれる必要はなくなり、では日本全国どこへ行っても同じような地方都市の風景ってどういうものだろうとイメージしていった結果、何かが建築途中の風景というのが一つ共通のものになるのではないかと思い当たって、この写真集の世界が彼らが住む世界に重なるように感じました。\
+> 自分の住む町を「田舎」と突き放すような阿良々木君の疎外感、吸血鬼という存在としての孤独感についても、大きい建築物との対比やコンクリートの無機質さでそうした感じを浮き彫りにできるのではないかと。自分が昔、自転車旅行をしていたとき、旧国鉄のターミナル駅や札幌のオフィス街で野宿したときに、行き交う人は沢山いるのに自分とまったく関わりがなくて孤独さを強く感じたものでした。その感覚は人工的なコンクリートの大きい建築物と対比されてより強く引き起こされていたように思います。小泉さんの写真集を見たときそうした感覚をフラッシュバックのように思い出したのです。
+>
+> そうした作品世界と小泉さんの写真集とのイメージの重なりをもとに、写真を参考に美術ボードをお願いするにあたっては、質感などのディティール〔ママ〕などは潰してもらっています。また写真を参考にボードを描くと対比がしっかりしてリアルさが最初から担保されるのですが、実際に自分が各カットのレイアウトを作るに当たっても、キャラクターと対比物との大きさの違いを奥行きある描き方でコントロールして、リアルさが出るよう計算しています。手法としては、電柱やポストなど、わかりやすく自分たちの身近にあるものを画面に配置することで大きさの基準がしっかりして表現がしやすくなります。\
+> また、画面に映る建築物それ自体に意味はありませんが、その大きさや無機質感で、モブ（背景に描かれる通行人などの群衆）の代わりに、建物で描写をしたいと考えました。普通は背景の上に脇役としてモブを描いてそうした表現をしますが、化物語ではその脇役の役割自体を建物にさせています。
+>
+> 全体的な世界観のイメージ作りはこうした形で写真も参考として頂いて提案していったのですが、ボードへの具体的な落とし込み方については飯島さんにお任せでした。空の色味の付け方など、飯島さんの考える面白さがこうした方向性だったのかもしれません。うまくボードに落とし込んで下さったお陰で他の作品にはない、それまでのアニメとは違う美術世界にできたのではないかと思っています。
+{:lang="ja"}

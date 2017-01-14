@@ -1,0 +1,11 @@
+---
+created_at: 2012-05-15 02:18:13.000000000 +00:00
+tags:
+- anime
+- theplacepromisedinourearlydays
+- unixshell
+---
+
+![](/blog/media/tumblr_m41kwjBdYS1qhcb4p.jpg)
+
+Really, Hiroki? Working directory in your `$PATH`? Come on, man.

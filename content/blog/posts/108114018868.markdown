@@ -1,0 +1,20 @@
+---
+created_at: 2015-01-14 23:19:00.000000000 +00:00
+tags:
+- tumblr
+- tumblrapi
+- webdev
+- whinybugzilla
+---
+
+I poked around today to see if I could use the Tumblr API to change the
+type of an existing post, a task that [I’ve previously shown how to do
+with form twiddling](http://blog.room208.org/post/64244275772). It turns
+out that the API cheerfully ignores the `type` parameter in requests,
+which I probably should have checked before spending a couple of hours
+on installing stuff and putting together the foundations of a
+simple-yet-classy web app in Flask. Oh, well.
+
+Long story short: If you want to change the type of a post, messing
+around with the dashboard’s HTML remains the only way to do it that I
+know of. Surely Tumblr could actually support this in its UI?

@@ -1,0 +1,10 @@
+---
+title: Realtime Web Messaging over Animated GIFs
+url: https://github.com/videlalvaro/gifsockets
+created_at: 2012-09-14 16:17:20.000000000 +00:00
+tags:
+- webdev
+- gif
+---
+
+Tumblr oughta love this.

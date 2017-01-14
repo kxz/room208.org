@@ -1,0 +1,14 @@
+---
+title: 'tumblr-utils: Utilities for dealing with Tumblr blogs'
+url: https://github.com/bbolli/tumblr-utils
+created_at: 2014-05-04 14:13:09.000000000 +00:00
+tags:
+- tumblr
+- software
+---
+
+Do you like Python? How about not leaving all of your blog posts subject
+to the whims of the cloud? If you answered “yes” to both of those
+questions, you’ll love `tumblr_backup.py`, a blog archiving script
+that’s everything that Tumblr’s own backup application [failed to
+be](http://blog.room208.org/post/25042592200). Go check it out.

@@ -1,0 +1,27 @@
+---
+created_at: 2012-02-22 07:45:42.000000000 +00:00
+tags:
+- keyboardmashfiction
+- photo
+---
+
+![](/blog/media/tumblr_lzs8q0LLbB1qhcb4p.jpg)
+
+When the signal does come through, it’s already been through something
+like ten or eleven repeaters, and we don’t get the luxury of exact
+reproduction at any of those junctures. Even if the error rate at each
+hop were just one percent, after this many retransmissions, we’d end up
+losing a tenth of the data. It’s more like five percent, of course, and
+that means we have to cope with nearly half of the stream being in some
+garbled state when it finally gets to us.
+
+Working with this technology is like trying to reconstruct the Mona Lisa
+from a printout that’s been through the wash. Twice.
+
+The engineers wanted to build a sophisticated error correction system to
+handle it all, but eventually even they gave up. We have enough data by
+now that we can basically guess at the overall patterns, anyway. I’m
+sure the more empirically-minded lab members are throwing fits at this
+every night, but it’s what keeps the funding coming in. High scientific
+ideals are one thing, but being able to feed myself and my girlfriend is
+another, and I don’t let the former get in the way of the latter.

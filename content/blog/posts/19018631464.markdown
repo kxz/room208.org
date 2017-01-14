@@ -1,0 +1,85 @@
+---
+created_at: 2012-03-09 21:47:00.000000000 +00:00
+tags:
+- keyboardmashfiction
+- teleprompter
+- photo
+---
+
+<figure markdown="1">
+![](/blog/media/tumblr_m0n0ewJGeY1qhcb4p.jpg)
+</figure>
+
+It was cold outside. Bitterly cold, the kind of cold that you dragged
+indoors with you. I was shivering up and down, wishing that the base had
+some kind of bath so that I could soak myself in a tub of warm water and
+never leave it. No such luck, of course. Work beckoned.
+
+A passing snowstorm had knocked out the power between shifts, meaning
+that all of the communications equipment had to be rebooted. That took
+twenty minutes on a good day, and someone – me – had to babysit the
+morass of machines as they spun up to make sure nothing was permanently
+broken. I wondered what the point was. Even the clown had been silent
+for months, relegated to the status of a well-executed prank in the back
+of my mind. All that was left were the automated messages from stations
+that still hadn’t updated to newer standards, probably at the insistence
+of old men who didn’t want to lose their jobs.
+
+Yep, there I was, sitting in silence as forty-year-old boxes built to
+implement 250-year-old protocols whirred to life around me, having
+another one of my minor existential crises. I was just shy of
+twenty-four and not far out of college, an experience that was supposed
+to equip me with all the knowledge I’d need to work on creating the
+future. Instead, I was stuck working thirty hours a week inside a
+prefabricated concrete altar to the past, on top of some hill in the
+middle of dead frozen nowhere.
+
+I pulled myself into the converted broom closet that passed for a break
+room, and brewed myself a cup of cheap instant coffee to while away the
+time until the machines came back. Reboots were the only time I ever
+drank coffee. I didn’t even really like the taste all that much, but I
+figured I needed to do something to keep my hands from subconsciously
+fidgeting with the switches. I’d learned my lesson after the first time
+I accidentally brought down the station. I got yelled at, of course –
+when someone eventually noticed, a couple of days after the fact.
+
+Back in the machine room, the diagnostic displays had finally lit up.
+Hidden among the reams of mostly useless debugging information was an
+indication that the message queues were empty. So we hadn’t missed
+anything. I slumped over in the operator’s chair and thought about
+taking a nap.
+
+------------------------------------------------------------------------
+
+I woke up to the sound of the internal line ringing, having not fully
+realized that I’d fallen asleep in the first place. I feebly reached for
+the control console and hunted for the “voice only” button with my
+outstretched fingers. Even if I had been in a presentable state, I was
+in no mood to look at someone else’s face.
+
+“Oh, good, you’re still alive. I was worried you might have frozen to
+death,” said the disembodied voice of my boss. He topped his statement
+of concern with a loud guffaw, obviously pleased at his bad joke.
+
+Had I been lucid enough to be sarcastic, I might have responded with
+something like “glad to know you care about me so much that you didn’t
+bother canceling my shift, bastard,” instead of just the “yeah, I’m
+fine” that I actually said.
+
+“Nice to hear. How much longer are you supposed to be on duty?”
+
+I looked at the clock. Two hours had gone by while I was under. I must
+have been more tired than I thought. “About three more hours.”
+
+“Okay, that’s great. I need you for something. We’ve got a guy at Landry
+who says he’s been getting messages with forged origin headers.”
+
+I bolted straight up in my chair. I’d never told my boss, or anyone else
+for that matter, about the clown transmissions, and he was too oblivious
+to check the logs. “Where from?”
+
+“I don’t remember, exactly. I think he said the, uh… Talingen system?
+It’s obviously wrong. I mean, nobody lives way out there in deep space.
+Anyway, I thought you might be able to help work out what’s going on.”
+
+My interstellar pen pal was back.

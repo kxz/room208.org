@@ -1,0 +1,69 @@
+---
+title: The traditional visual novel save system needs to die
+created_at: 2013-04-08 18:21:00.000000000 +00:00
+tags:
+- visualnovel
+- mechanics
+- userinterfacedesign
+---
+
+I wrote this in about 15 minutes, so some of the phrasing here might not
+be up to scratch. Bear with me.
+
+For the majority of visual novels, saves do not represent what we might
+ordinarily think of when we think of game save states: a self-contained
+snapshot of game progress. Progress is instead tracked globally,
+independent of any particular save. What most visual novels term “saves”
+are really composed of just two things: (1) a list of choices the player
+has made, and (2) the specific scene or line from which to resume
+gameplay. Choices made when resuming from one saved game often affect
+what’s available when resuming from another. *Remember11* sticks out in
+my mind as one particularly infamous example of the confusion this
+causes, but this problem affects nearly all visual novels that use a
+traditional save system to some extent.
+
+The problematic nature of this abstraction is compounded by the fact
+that most visual novels don’t provide a way to easily jump from one
+scene to another. Instead, the player is often expected to “save” before
+every major decision point, and resume from there should he or she have
+picked the wrong choice, or want 100% completion, or need a refresher on
+what’s happened since then. Forgot to save? Tough luck. You’ll have to
+fast-forward through text you’ve already seen in order to get back to
+where you were before, dragging yourself out of the game’s narrative
+frame. This is a terrible user experience, and it’s almost never one
+that’s justified by narrative considerations. Unless the visual novel is
+itself about the drudgery of boring, repetitive tasks, in which case I
+question why anyone would feel the need to play it at all, this puts a
+completely unnecessary burden on the player.
+
+The whole metaphor around visual novel saves needs to be rearranged.
+Here’s how I’d like to see it:
+
+-   Saves wholly encapsulate player progress. I should be able to play
+    one save without accidentally changing what happens in another. A
+    new game should be a new game, regardless of what I’ve done in
+    previous ones. “New Game+” options might, in cases where they’re
+    clearly delineated, be an exception. *Might.*
+
+-   The player can freely, and easily, jump to any scene that’s already
+    been unlocked, without having to go through and play that path
+    again. Just being able to replay a certain scene isn’t good enough,
+    because that carries no information about the choices the player has
+    made. Various games provide a flowchart; the last one I played that
+    did this was *Virtue’s Last Reward*, which did a good job overall of
+    avoiding this kind of save confusion. Visual novels that don’t have
+    a branching narrative, or that don’t want to give away the
+    importance of certain choices, can provide a simple summary ballot,
+    where the user can say, all at once, “I want to **spend the
+    afternoon with Asuna**, then **go to the park**, and **follow the
+    stray kitten**.” There’s always the option for players to go through
+    old scenes in the traditional fashion, should they need a refresher.
+
+-   Finally, what used to be “saves” now become “bookmarks” that the
+    player can create and name in order to quickly pick up with certain
+    choices at a specific point. This is useful in case the player needs
+    to consult the information there, such as in a mystery VN, or just
+    has a favorite scene that he or she wants to file away and revisit
+    in the future.
+
+Okay, that’s all. Have fun.

@@ -1,0 +1,16 @@
+---
+title: Hong Seon Jang, "Type City"
+url: http://www.davidbsmithgallery.com/work/detail/type-city
+created_at: 2012-05-14 22:48:00.000000000 +00:00
+tags:
+- typography
+- art
+---
+
+<figure markdown="1">
+[![](/blog/media/tumblr_m41b8efTwL1qhcb4p.jpg)](http://www.davidbsmithgallery.com/work/detail/type-city)
+</figure>
+
+A miniature urban landscape built from hundreds of old metal type
+blocks, on display at the [David B. Smith
+Gallery](http://www.davidbsmithgallery.com/gallery) in Denver.

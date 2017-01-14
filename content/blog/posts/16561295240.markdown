@@ -1,0 +1,17 @@
+---
+title: etckeeper
+url: http://joey.kitenet.net/code/etckeeper/
+created_at: 2012-01-27 03:44:00.000000000 +00:00
+tags:
+- software
+---
+
+I’ve always tended to make configuration changes first and messily back
+them out later when they end up not working. Since I probably won’t lose
+that bad habit any time soon, the next best thing I can do is make the
+second half of this process easy. Enter etckeeper, which puts /etc under
+version control. In addition to wrapping your favorite DVCS, etckeeper
+also keeps track of file permissions for sensitive data and integrates
+with common package managers. The way it uses the user’s “real” login
+name instead of root for commits is a nice touch, useful for keeping
+track of who did what on servers with multiple admins.

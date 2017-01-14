@@ -1,9 +1,0 @@
-%p
-  - if @item[:asking_url]
-    @<a href="#{h(@item[:asking_url])}">#{h(@item[:asking_name])}</a> writes:
-  - else
-    An anonymous correspondent writes:
-%blockquote
-  %p
-    = h @item[:question]
-= rewrite_img_srcs @item[:answer]

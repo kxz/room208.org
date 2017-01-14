@@ -1,0 +1,12 @@
+---
+title: Tumblr's Markdown Link is a Lie!
+url: http://onethingwell.org/post/1680780219/tumblr-markdown
+created_at: 2013-08-09 00:22:51.000000000 +00:00
+tags:
+- markdown
+- tumblr
+---
+
+TL;DR: If you want endless footnote salad and breadsticks, Tumblr’s
+Markdown parser supports that. As well as [a lot of other
+things](http://michelf.ca/projects/php-markdown/extra/).

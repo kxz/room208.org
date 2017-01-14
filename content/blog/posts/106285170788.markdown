@@ -1,0 +1,39 @@
+---
+created_at: 2014-12-27 03:46:00.000000000 +00:00
+tags:
+- '0x40'
+- music
+- anime
+---
+
+I’ve been a little short on things to do this holiday season, so I
+decided to do the traditional thing and make a resource pack for
+[0x40](http://0x40hues.blogspot.com/), everyone’s favorite Flash tool
+for setting sampled music loops to shifting images of anime characters.
+It currently has five songs, none of which has anything to do with the
+others:
+
+-   **OutKast**, “B.O.B.” (bad choice for a first song to transcribe)
+-   **LCD Soundsystem**, “Us V Them” (by request of
+    @[abandonedsteel](http://tmblr.co/msR8n9sluIH29761hmxMuTA){:.tumblelog})
+-   **The Touch feat. Lina**, “Le Night Dominator”
+-   **The Avalanches**, “Frontier Psychiatrist”
+-   **Stereo Dive Foundation**, “Daisy”
+
+Usage instructions:
+
+1.  Download [the pack](https://room208.org/tmp/0100.zip).
+
+2.  Open
+    [0x40](https://googledrive.com/host/0B8QEardTLm8DQVItUFRpUXgyd3c/0x40%20Hues%20v5.0.swf)
+    and press R when it’s loaded.
+
+3.  Click “Load ZIP” and select `0100.zip`.
+
+4.  Use the menus to select a song.
+
+5.  …
+
+6.  Yeah.
+
+No points for figuring out why it’s called “0100.”

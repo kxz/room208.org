@@ -1,0 +1,21 @@
+---
+created_at: 2013-01-15 03:56:22.000000000 +00:00
+tags:
+- webdev
+- userinterfacedesign
+- epistolaryexpedition
+- tumblr
+- markdown
+---
+
+Dear Tumblr,
+
+1.  Please stop calling `window.focus()` in your login page JavaScript.
+    Amazingly enough, when I switch to another tab after clicking on my
+    Tumblr bookmark, I generally expect that I’ll be interacting with
+    *that* tab. Not yours. Yours can wait.
+
+2.  Is there any reason Markdown preview has been completely, utterly
+    broken for the past several days? I kind of use it. A lot.
+
+~if

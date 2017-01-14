@@ -1,0 +1,199 @@
+---
+title: Changing the type of an existing Tumblr post
+created_at: 2013-10-16 22:48:00.000000000 +00:00
+tags:
+- html
+- webdev
+- tumblr
+---
+
+**Update:** The method detailed in this article does not work on the new
+dashboard rolled out in late January 2015. See [this
+post](http://blog.room208.org/post/110389527808) for further details and
+an alternative strategy. The original post follows.
+
+------------------------------------------------------------------------
+
+Tumblr doesn’t provide any way to change the type of a post in its user
+interface – from a link to a regular text entry, say. This might lead
+you to assume that your only solution is to delete the original and make
+a new post, breaking links and losing notes in the process. As you might
+have guessed from the fact that I’m making this post, however, you would
+be wrong. You just have to be comfortable with twiddling with some
+hidden form fields.
+
+Don’t worry. It’s not *that* complicated.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+The first step, of course, is to pull up the appropriate post’s edit
+page. Simple enough.
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_mus6ot4OFi1qhcb4p.png)
+</figure>
+
+Now it’s time to break out your browser’s DOM inspector. Right-click
+somewhere on the edit form, and click “Inspect Element” or what have
+you. (You might have to turn on developer tools first.)
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_mus78d3MJu1qhcb4p.png)
+</figure>
+
+If you elected to inspect the text entry for the post title, like I did,
+you’ll find yourself somewhere around here:
+
+<pre><code>&lt;div id="post_content"&gt;
+  &lt;div class="main_content regular_form"&gt;
+    &lt;div class="post_type"&gt;
+      &lt;input type="hidden" value="regular" name="post[type]"&gt;
+      &lt;div class="file_upload_overlay offscreen"&gt;&lt;!-- ... --&gt;&lt;/div&gt;
+      &lt;div class="input_wrapper"&gt;
+        <mark>&lt;input class="borderless full title" id="post_one"</mark>‌
+          <mark>name="post[one]" type="text" value=""</mark>‌
+          <mark>autocomplete="off" placeholder="Title"&gt;</mark>
+        &lt;label class="optional" for="post_one"&gt;Optional&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class="textarea_wrapper"&gt;&lt;!-- ... --&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;section class="tag_editor"&gt;&lt;!-- ... --&gt;&lt;/section&gt;
+  &lt;/div&gt;
+  &lt;nav id="post_controls" class="clearfix"&gt;&lt;!-- ... --&gt;&lt;/nav&gt;
+  &lt;ul class="messages errors"&gt;&lt;/ul&gt;
+&lt;/div&gt;</code></pre>
+
+Hm, what’s that say up there? `post[type]`?
+
+<pre><code>&lt;div id="post_content"&gt;
+  &lt;div class="main_content regular_form"&gt;
+    &lt;div class="post_type"&gt;
+      <mark>&lt;input type="hidden" value="regular" name="post[type]"&gt;</mark>
+      &lt;div class="file_upload_overlay offscreen"&gt;&lt;!-- ... --&gt;&lt;/div&gt;
+      &lt;div class="input_wrapper"&gt;
+        &lt;input class="borderless full title" id="post_one"
+          name="post[one]" type="text" value=""
+          autocomplete="off" placeholder="Title"&gt;
+        &lt;label class="optional" for="post_one"&gt;Optional&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class="textarea_wrapper"&gt;&lt;!-- ... --&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;section class="tag_editor"&gt;&lt;!-- ... --&gt;&lt;/section&gt;
+  &lt;/div&gt;
+  &lt;nav id="post_controls" class="clearfix"&gt;&lt;!-- ... --&gt;&lt;/nav&gt;
+  &lt;ul class="messages errors"&gt;&lt;/ul&gt;
+&lt;/div&gt;</code></pre>
+
+Bingo. We just have to change the `value` of this hidden field, submit
+the form with the button as usual, and we’ll have successfully changed
+the post type. You can use one of `regular` (for text posts), `note`
+(for answers to asks – but note that the question is stored elsewhere
+and can’t be changed), `photo`, `quote`, `link`, `chat`, `audio`, or
+`video`. I want this to be a quote post instead of a regular one, so:
+
+<pre><code>&lt;input type="hidden" value="<mark>quote</mark>" name="post[type]"&gt;</code></pre>
+
+And let’s save the post…
+
+<figure markdown="1">
+!["Post cannot be
+empty."](/blog/media/tumblr_inline_mus8jcWev61qhcb4p.png)
+</figure>
+
+Huh. Wait, what?
+
+Right, so the other thing I forgot to mention is that the order of
+fields in a Tumblr post differs from type to type. You might think that
+the main content would be in a field named `content`, the title in one
+named `title`, and so forth, but that’s apparently too logical for
+Tumblr. What *actually* happens is that there are three fields called,
+generically enough, `post[one]`, `post[two]`, and `post[three]`, which
+take on different meanings depending on the post type:
+
+<table><thead><tr><th>Type</th>
+  <th><code>post[one]</code></th>
+  <th><code>post[two]</code></th>
+  <th><code>post[three]</code></th>
+</tr></thead><tbody><tr><td><strong>Text</strong></td>
+  <td>Title</td>
+  <td>Content</td>
+  <td>&ndash;</td>
+</tr><tr><td><strong>Answer</strong></td>
+  <td>&ndash;</td>
+  <td>Answer</td>
+  <td>&ndash;</td>
+</tr><tr><td><strong>Photo</strong></td>
+  <td>&ndash;</td>
+  <td>Caption</td>
+  <td>&ndash;</td>
+</tr><tr><td><strong>Quote</strong></td>
+  <td>Quote</td>
+  <td>Source</td>
+  <td>&ndash;</td>
+</tr><tr><td><strong>Link</strong></td>
+  <td>Title</td>
+  <td>URL</td>
+  <td>Caption</td>
+</tr><tr><td><strong>Chat</strong></td>
+  <td>Title</td>
+  <td>Content</td>
+  <td>&ndash;</td>
+</tr><tr><td><strong>Audio</strong></td>
+  <td>&ndash;</td>
+  <td>Caption</td>
+  <td>&ndash;</td>
+</tr><tr><td><strong>Video</strong></td>
+  <td>Embed URL</td>
+  <td>Caption</td>
+  <td>&ndash;</td>
+</tr></tbody></table>
+
+So since I’m converting a title-less text post to a quote post, Tumblr
+thinks I’m actually trying to submit an empty quote with the original
+body text as the source, and that obviously won’t do. Fortunately, there
+are two easy ways around this problem. The first is to change the
+`name`s of the form fields in the inspector:
+
+<pre><code>&lt;div id="post_content"&gt;
+  &lt;div class="main_content regular_form"&gt;
+    &lt;div class="post_type"&gt;
+      &lt;input type="hidden" value="regular" name="post[type]"&gt;
+      &lt;div class="file_upload_overlay offscreen"&gt;&lt;!-- ... --&gt;&lt;/div&gt;
+      &lt;div class="input_wrapper"&gt;&lt;!-- ... --&gt;&lt;/div&gt;
+      &lt;div class="textarea_wrapper"&gt;
+        &lt;div id="post_two_manual_toolbar" class="manual_toolbar"&gt;
+          &lt;!-- ... --&gt;
+        &lt;/div&gt;
+        &lt;div class="resize_textarea_container"&gt;
+          &lt;textarea class="full borderless resize_y" id="post_two"
+            name="post[<mark>one</mark>]" style="height: 234px; min-height: 85px;"
+            autofocus=""&gt;&lt;!-- ... --&gt;&lt;/textarea&gt;
+          &lt;span onclick="return false;" tabindex="-1"
+            class="resize_textarea_anchor"&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class="resize_textarea_clearfix"&gt;&lt;/div&gt;
+        &lt;div class="textarea_shim"&gt;&lt;!-- ... --&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;section class="tag_editor"&gt;&lt;!-- ... --&gt;&lt;/section&gt;
+  &lt;/div&gt;
+  &lt;nav id="post_controls" class="clearfix"&gt;&lt;!-- ... --&gt;&lt;/nav&gt;
+  &lt;ul class="messages errors"&gt;&lt;/ul&gt;
+&lt;/div&gt;</code></pre>
+
+I didn’t change the `id` here, but remember that what actually matters
+when submitting the form is the `name`, not the `id`. Note that you may
+also have to change the `name`s of fields you haven’t used to keep them
+from clashing with your renamed ones.
+
+The other option, of course, is to just copy-paste everything where it
+needs to go. This one works best if you don’t have any linebreaks in the
+content you’re moving.
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_mus9g82FFn1qhcb4p.png)
+</figure>
+
+Either way, we can now submit the form and be on our merry way.

@@ -1,0 +1,20 @@
+---
+created_at: 2015-01-14 08:24:00.000000000 +00:00
+tags:
+- anime
+- graph
+- statistics
+- theroadtowashington
+---
+
+![](/blog/media/tumblr_ni5rdlTEv11qim2zwo2_r1_500.png)
+
+[Lies](http://blog.room208.org/post/40124947004), [damned
+lies](http://blog.room208.org/post/72707932188), and statistics, part
+III.
+
+This graph is based on data for the 770 broadcast TV anime that AniDB
+lists as both starting and ending between January 1, 2009, and December
+31, 2014, inclusive. Lest you think I’m exaggerating with the title of
+this post, the correlation coefficient for that linear regression line
+is 0.0107. Existent, I guess.

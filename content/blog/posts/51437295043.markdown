@@ -1,0 +1,13 @@
+---
+title: gif.js
+url: http://jnordberg.github.io/gif.js/
+created_at: 2013-05-27 01:27:19.000000000 +00:00
+tags:
+- gif
+- webdev
+- javascript
+---
+
+A GIF encoder implemented in JavaScript, for when you want to… uh,
+in-browser… I actually can’t think of a use case for this. Maybe if you
+have a pathological aversion to `setTimeout`? It is kinda cool, though.

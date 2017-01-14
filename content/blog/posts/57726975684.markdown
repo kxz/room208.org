@@ -1,0 +1,13 @@
+---
+title: Dichotomy 2.4
+url: https://bitbucket.org/kxz/dichotomy/compare/v2.4..v2.3
+created_at: 2013-08-08 20:14:21.000000000 +00:00
+tags:
+- dichotomy
+- theme
+- tumblr
+---
+
+The latest version of Elaborate Burn’s custom theme contains fixes for
+display on mobile devices, which were made necessary by Tumblr’s
+continuing insistence on making its branding more intrusive. Lovely.

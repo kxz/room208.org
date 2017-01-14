@@ -1,0 +1,13 @@
+---
+title: 'Oxford Dictionaries USA Word of the Year 2012: ‘to gif’'
+url: http://blog.oup.com/2012/11/oxford-dictionaries-usa-word-of-the-year-2012-gif/
+created_at: 2012-11-13 02:37:00.000000000 +00:00
+tags:
+- gif
+---
+
+<figure markdown="1">
+[![](/blog/media/wordoftheyear-2012-GIF-final.gif)](http://blog.oup.com/2012/11/oxford-dictionaries-usa-word-of-the-year-2012-gif/)
+</figure>
+
+Tumblr oughta love this, part II.

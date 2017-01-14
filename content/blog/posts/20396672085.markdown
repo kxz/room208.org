@@ -1,0 +1,90 @@
+---
+title: 'A quick guide to Analogue: A Hate Story''s endings'
+created_at: 2012-04-03 05:44:00.000000000 +00:00
+tags:
+- visualnovel
+- analogue
+- guide
+---
+
+Obviously, massive spoilers after the break. (And here’s where I take up
+space so the next paragraph doesn’t show up on the Tumblr archive page.
+Someone really ought to change that behavior, you know?)
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+Note that once one of the AIs notifies you of the reactor troubles,
+there is no way to switch to the other one.
+
+1.  **\*Hyun-ae leaves home, in the care of a new friend.** Take
+    \*Mute’s questions to \*Hyun-ae. Give them to her in order up to
+    question 8, then read the new documents she provides you with. When
+    she asks you for your opinions, answer in a supportive manner.
+    Eventually, she’ll ask you to decrypt block 7 and read the documents
+    there.
+
+    Once you’ve done so, \*Hyun-ae will ping you, and tell you to show
+    her “the obvious question”: \*Mute’s ninth question. Do that, and
+    read and show her the diary entry that she unlocks. Again, tell her
+    that you trust her when she asks.
+
+    You’ll get dropped back to the home menu. Speak to her one last
+    time. Your response to her first question about ridiculousness
+    doesn’t matter; answer the next two questions by saying that while
+    the two of you don’t have a chance together, you can take her with
+    you anyway. When prompted to download \*Hyun-ae’s core at the
+    terminal, say “yes”.
+
+2.  **The former bride falls in love for the first time.** Much the same
+    as the previous ending; just tell her in the last conversation that
+    you can be together with her. If you made a save at that question,
+    good for you!
+
+    I feel like these first two endings are the easiest to get, and
+    don’t need to be explained here, but for the sake of completeness…
+
+3.  **The investigator leaves alone.** Once you get super-user access,
+    run `download` at any time, without taking an AI personality if
+    offered.
+
+4.  **The security program is relieved of her duties.** Note that \*Mute
+    has to believe that you’re male or lesbian in order to offer to come
+    along with you. I believe the latter has to do with your response to
+    the situation in block 2, about Oh So-jin’s affair.
+
+    When \*Mute gives you her questions, don’t show them to \*Hyun-ae;
+    instead, give them to her, until she asks you why you’re not doing
+    as you’ve been told. Say “no” to her first couple of conjectures,
+    then tell her (twice) that you want to hear the story from her. Keep
+    unlocking new documents until you get the block 8 logs. Show them to
+    her in order, then speak to her when she pings you. Tell her you’ve
+    seen everything, then that you’ll take her with you. Answer “yes” to
+    the terminal download prompt.
+
+5.  **Harem ending.** I thought this was some kind of joke, but
+    apparently it’s not – it just requires you to use knowledge you
+    can’t have in-character. Notice the document ID search above the
+    block index? You can use this to manually unlock documents that the
+    AIs haven’t given you access to, which you can in turn use to
+    mollify \*Mute.
+
+    Ignore the questions she gives you for \*Hyun-ae – looking at any
+    one of them will trigger the meltdown sequence, which will block off
+    this ending. Instead, open the Pale Bride’s “I’ll kill them all!”
+    diary entry by entering its ID (6-EUY22) into the search box, and
+    show it to \*Mute. She’ll react to it as she does in the other
+    branches. Press on, and show her “Forever silenced” (7-EUX25). Tell
+    her the diary entry is real when she asks, then sit back and watch
+    the two AIs make up. You’ll get the opportunity to download both of
+    them when the time comes, and be treated to an 8-bit version of the
+    credits music.
+
+If you want 100% log completion, don’t show \*Mute’s message for Smith
+Kyung-sam in block 6 to \*Hyun-ae; she’ll say she made a mistake and
+remove your access, leaving you with a one-document hole in your logs.
+
+------------------------------------------------------------------------
+
+**Updated July 16, 2012** to correct an ID number mistake. Mea culpa.

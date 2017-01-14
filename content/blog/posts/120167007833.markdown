@@ -1,0 +1,36 @@
+---
+created_at: 2015-05-29 05:48:09.000000000 +00:00
+tags:
+- tumblr
+- webdev
+- followeroutreach
+---
+
+@[sunbinamra](http://sunbinamra.tumblr.com/) writes:
+
+> Hi! First off, thank you so much for the post about changing type of
+> Tumblr post - I've managed to turn a couple of posts from text to
+> photo. However, I'm a complete novice when it comes to codes, hacks,
+> etc. and in both cases I end up with a blank ghost image at the
+> beginning that I can't seem to get rid of. Do you have any idea what
+> might be causing this? Thanks again!
+
+I suspect that since the post type conversion doesn’t have a value for
+the image field, Tumblr inserts a reference to a nonexistent image
+instead. (This isn’t your fault; it’s just a quirk of how the data is
+stored on the server.) Ordinarily, you’d be able to delete it using the
+dashboard, but the button to do so only appears when you hover over the
+image. Since the image doesn’t actually exist, it’s displayed with a
+height of zero pixels. Can’t really hover over that.
+
+What you can do, though, is simulate a click on the delete button. To do
+this, open up the broken post’s edit page, and paste the following in
+the developer console:
+
+    $('.remove-button').first().click();
+
+If you haven’t added any other images yet, the standard *Upload photos*
+and *Add photo from web* options should appear inside the edit form,
+indicating that Tumblr thinks there are no longer any images attached to
+the post. In either case, save once you’ve changed the images to your
+liking, and you should be on your merry way.

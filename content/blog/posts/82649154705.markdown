@@ -1,0 +1,31 @@
+---
+title: "“Madoka: Rebellion” for C programmers"
+created_at: 2014-04-14 02:41:00.000000000 +00:00
+tags:
+- madoka
+- c
+- programming
+- anime
+- morningtoncrescent
+---
+
+You accidentally forget a bounds check before
+`memcpy(beloved, love, sizeof(heart))`. Someone runs your program and
+overwrites some important pointers with the values at `love`. This
+causes the executing computer to break free from program control, upon
+which it proceeds to write a film that pulls in over two billion yen in
+box office receipts. Flush with cash, the computer hands in its two
+weeks’ notice and retires to a private island in the south Pacific.
+Meanwhile, you get fired after failing another code review.
+
+But that’s okay, because that all happened inside *Thankless Programming
+Job Simulator 2013*. As revenge, you uninstall the game, then write and
+execute a program that exhausts all available memory, all the while
+shouting through endlessly flowing tears:
+
+> I CONTROL YOU, <s>MADOKA</s> COMPUTER! YOU CAN’T WIN!
+
+## Exercise
+
+With whom did you make a contract when you clicked “I Agree” to the
+Visual Studio EULA? Is this contract legally binding?

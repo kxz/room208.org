@@ -1,0 +1,43 @@
+---
+created_at: 2012-02-21 07:18:00.000000000 +00:00
+tags:
+- roadgeek
+- npr
+---
+
+@[central-avenue](http://central-avenue.tumblr.com/), [“bad road signs
+explained”](http://central-avenue.tumblr.com/post/17995535398/bad-road-signs-explained):
+
+![](/blog/media/tumblr_lzqelgd8xI1qhcb4p.jpg)
+
+Two points:
+
+1.  The “School Days” wording is actually standard here, or at least
+    widespread, as is the specificity of the times listed, which I
+    believe are set down by law at some level.
+
+2.  From [last week’s <cite>Wait, Wait… Don’t Tell Me!</cite> Lightning
+    Round](http://www.npr.org/2012/02/18/147079871/lightning-fill-in-the-blank):
+
+    > **Peter Sagal:** Michigan residents are complaining about a new
+    > street sign that sets a speed limit of 25 miles per hour between
+    > *blank* and *blank*.
+    >
+    > **Kyrie O'Connor:** Between two cities.
+    >
+    > **Sagal:** No. It’s [25 miles per hour between the hours of 6:49
+    > and 7:25 a.m., 7:52 and 8:22 a.m., 8:37 and 9:07 a.m., 2:03 and
+    > 2:33 p.m., 3:04 and 3:34 p.m., and 3:59 and 4:29
+    > p.m.](http://www.theoaklandpress.com/articles/2012/02/15/news/doc4f3a9b01c0115536425773.txt?viewmode=fullstory)
+    >
+    > **O'Connor:** I should have gotten that.
+    >
+    > **Sagal:** You should have.
+    >
+    > **Mo Rocca:** You had to get all the numbers right.
+
+3.  Of course, we could avoid most of this by using an LED sign that’s
+    only visible when the turn restriction is in effect, like those
+    found at intersections near railroad crossings. Those are cool.
+
+4.  I can’t count.

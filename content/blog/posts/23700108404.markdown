@@ -1,0 +1,18 @@
+---
+title: Patema Inverted "Beginning of the Day" 2nd PV
+url: https://www.youtube.com/watch?v=2z2M5TxT6_4
+created_at: 2012-05-24 23:45:00.000000000 +00:00
+tags:
+- anime
+- patema
+---
+
+<%= render '/blog/_youtube.haml', id: '2z2M5TxT6_4' %>
+
+Here’s the preview for the upcoming second batch of prologue episodes,
+featuring the film’s other main character Eiji.
+
+A second chapter of the “Another Side” companion manga is also out; you
+can grab [a translated
+version](http://anonscanlations.blogspot.com/2012/05/inverted-patema-as-ch-2.html)
+from /a/non scanlations.

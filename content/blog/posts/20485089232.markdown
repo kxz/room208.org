@@ -1,0 +1,18 @@
+---
+created_at: 2012-04-04 21:20:00.000000000 +00:00
+tags:
+- tumblr
+- ghostery
+---
+
+@[meursaultmustdie](http://meursaultmustdie.tumblr.com/)
+[writes](http://meursaultmustdie.tumblr.com/post/20484516310/ok-i-dont-know-if-its-just-me-but-ghosterys):
+
+> ok I don’t know if it’s just me but Ghostery’s interfering with the
+> Tumblr navigation thingies that show up at the top of a post. The
+> Reblog, Like, and Dashboard buttons don’t show up when I have it on.
+
+The Tumblr interface buttons are included in an `<iframe>` from another
+Tumblr domain, which Ghostery is probably tripping over. You need to
+whitelist assets.tumblr.com; I don’t know the exact method for doing
+this, but the option probably exists somewhere.

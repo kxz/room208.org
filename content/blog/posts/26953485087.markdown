@@ -1,0 +1,40 @@
+---
+created_at: 2012-07-11 03:30:15.000000000 +00:00
+tags:
+- quote
+- dilbert
+- meeting
+---
+
+> For years I employed the “Final Suggestion Maneuver” in meetings in
+> which I knew that opinions would vary and that only my own opinion has
+> any value. In other words, I used it in every meeting I ever attended.
+> The success rate of this approach is nothing short of astonishing… It
+> works like this.
+>
+> 1.  Let everybody else make moronic suggestions.
+>
+> 2.  Stay uninvolved while the participants shred each other’s
+>     suggestions like crisp cabbage in a Cuisinart. Watch as they
+>     develop intense personal dislikes that will last their entire
+>     careers.
+>
+> 3.  Toward the end of the allotted meeting time, when patience is thin
+>     and bladders are full, offer your suggestion. Describe it as a
+>     logical result of the good thoughts you’ve heard at the meeting,
+>     no matter how ridiculous that might be.
+>
+> If you time it right, all the participants will be feeling a sense of
+> incredible frustration and physical discomfort and will realize that
+> your suggestion is the fastest way to end the horror of the meeting.
+> By disguising your suggestion as a composite of the participants’
+> thoughts you minimize their need to attack you to defend their
+> hard-argued positions.
+>
+> You’ll look like the rational deal-maker while the other participants
+> look like partisan whiners. The only downside is that you won’t be
+> singularly identified with the idea if it works. But that’s typically
+> not a problem, since most ideas don’t work. And your boss takes credit
+> for the ones that do.
+
+– Scott Adams, *The Dilbert Principle*, pp. 125-126

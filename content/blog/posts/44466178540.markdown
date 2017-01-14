@@ -1,0 +1,30 @@
+---
+created_at: 2013-03-03 17:29:00.000000000 +00:00
+tags:
+- tumblr
+- whinybugzilla
+- userinterfacedesign
+- epistolaryexpedition
+- webdev
+---
+
+Dear Tumblr,
+
+This new photo uploader is terrible. The one thing it does right is
+adding drag-and-drop; aside from that, there is no excuse for:
+
+-   Blocking the browser trying to generate an “instant preview” data
+    URI, especially for large images.
+
+-   Showing no indication that an image is currently uploading, which
+    makes it nearly impossible to figure out if a post succeeded.
+
+-   Long waits if you click “Create post” while a photo is still being
+    processed, with only a spinner in the bottom-right corner.
+
+-   Absolutely useless error messages, which are admittedly a carryover
+    from the previous photo posting page.
+
+At least you fixed Markdown previews.
+
+~if

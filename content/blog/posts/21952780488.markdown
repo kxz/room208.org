@@ -1,0 +1,89 @@
+---
+title: Damned if you do, damned if you don't
+created_at: 2012-04-28 02:36:01.000000000 +00:00
+tags:
+- visualnovel
+- analogue
+- overanalysis
+---
+
+![](/blog/media/tumblr_m35xsuFHQD1qhcb4p.jpg)
+
+Multiple-choice questions are the bread and butter of visual novels, so
+much so that two action options and a mouse cursor are all you need to
+make a quick “otaku view” gag. (The above screenshot is from episode 9
+of <cite>Genshiken</cite>, a series that makes no bones about parodying
+the excesses of fan behavior.) Yes, the choices are often misleading, or
+ultimately irrelevant to the plot, but nobody really questions their
+presence.
+
+In this regard, <cite>Analogue</cite> hews fairly closely to convention,
+especially in comparison to some of Christine Love’s earlier work.
+<cite>Digital</cite> doesn’t even tell you what you’re posting on the
+BBSes that form the bulk of the game, for instance; you have to fill
+that in from the replies you get to your messages. However,
+<cite>Analogue</cite> differs from most other visual novels in one key
+way – [the interface is part of the
+story](http://blog.room208.org/post/20104357078) – and this has some
+interesting consequences, which I’ll explain after the break. Spoilers
+ahead, of course.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+Remember how \*Hyun-ae tries to give you the opportunity to introduce
+yourself when you first log on to the ship’s computers?
+
+![](/blog/media/tumblr_m35zjbducf1qhcb4p.png)
+
+Unfortunately, millennia of isolation have apparently left her language
+parsing facilities in an unusable state, and she eventually abandons
+free text input for the binary questions that you use to interact with
+her and \*Mute for the rest of the game. Mechanics-wise, they’re no
+different from any old visual novel choice system – you still move your
+mouse cursor onto an option and click to proceed. The critical nuance is
+that the AIs, *in story*, are providing you with both the questions and
+the answers, and that means that the choices give you some insight into
+the way they think.
+
+Take the little interrogation that you get from \*Mute after you first
+boot her up. If you tell her that you’re female and unmarried, she goes
+on to ask you this:
+
+![\*Mute: "So how old are you, then?" Options: "I'm under 18" / "I'm an
+old lady"](/blog/media/tumblr_m3613f7pqh1qhcb4p.png)
+
+She does look and act young enough for this to be a throwaway joke on
+her part, but in the context of the <cite>Mugunghwa</cite>’s neo-Joseon
+society, it’s evident that her choice of possible answers means more
+than that, and the logs’ various references to women getting married in
+their early teens back this up. In fact, the oldest bride mentioned on
+the family trees, Heo Min-jung, was just 18 or 19 years old on her
+wedding day. \*Mute clearly seems to expect that women be married by the
+time they hit their twenties, and there’s no way to tell her otherwise.
+
+Here’s another, subtler example. On \*Hyun-ae’s paths, if you tell her
+that the two of you have no chance of being together (romantically), she
+pleads with you to just download her core and free her from the
+loneliness of deep space:
+
+![\*Hyun-ae: "Please?" Options: "I'll take you" /
+"No"](/blog/media/tumblr_m362qoE9AV1qhcb4p.png)
+
+Note how much gentler the first choice’s wording is. It’s plausible that
+this is a deliberate choice on \*Hyun-ae’s part to discourage you from
+picking the other option, by turning it into an uncomfortably blunt
+one-word response. She didn’t need to persuade me, of course, but those
+more cautious about bringing along someone with her history might yet be
+subconsciously swayed to her side by the dichotomy she presents. Given
+that she’s facing a potential eternity of isolation if she fails, I
+don’t blame her for playing some mind games.
+
+Freedom of expression, and the limitations placed on it by society and
+individuals alike, form one of <cite>Analogue</cite>’s major themes. We
+see this writ large in the logs, from the numerous merely unsent letters
+to the horrible abuse Hyun-ae’s parents exact on her. In a way, by
+calling attention to how it puts its own restrictions on your
+interactions with the characters, the game brings this idea closer to
+home for us as the players – the medium forms part of the message.

@@ -1,0 +1,231 @@
+---
+title: Creating animated GIFs from the shell using FFmpeg and ImageMagick
+created_at: 2013-04-24 20:03:00.000000000 +00:00
+tags:
+- gif
+- bash
+- ffmpeg
+- imagemagick
+---
+
+Regular readers will know that I [post GIF animations on this
+blog](http://blog.room208.org/tagged/gif) from time to time. Since I’m
+trapped in the 1980s, I like to create them from the command line using
+everyone’s favorite open source video and image manipulation tools,
+[FFmpeg](http://ffmpeg.org/) and
+[ImageMagick](http://www.imagemagick.org/). In this article, I’ll detail
+how I do this, while trying my hardest to ignore the fact that tools
+like [gifsicle](http://www.lcdf.org/gifsicle/) exist.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+## Extracting frames
+
+The first thing I usually do is create a directory to hold all the files
+that’ll be generated in the process of making my new animation.
+
+    $ mkdir anim && cd anim
+
+Next, I use FFmpeg to pull the frames I want from the video. Let’s say
+that the scene I want is in a file called `video.mkv`, starts at 14:55
+in, and lasts for approximately 5 seconds. I’ll use this command to
+extract each frame into its own PNG file:
+
+    $ ffmpeg -ss 14:55 -i video.mkv -t 5 -s 480x270 -f image2 %03d.png
+
+Let’s break down what each of these arguments means:
+
+1.  `-ss 14:55` gives the timestamp where I want FFmpeg to start, as [a
+    duration
+    string](https://ffmpeg.org/ffmpeg-utils.html#time-duration-syntax).
+    Specifying this option first tells FFmpeg to make a fast,
+    approximate guess as to where the timestamp is, which means it may
+    be a second or so off. If I were to put it *after* `-i`, FFmpeg
+    would instead start decoding the video from the beginning, and wait
+    for my frames to show up. That’s more exact, but obviously a fair
+    bit slower, and I’m willing to bet you’re as impatient as I am. It’s
+    generally faster to just tweak the approximated timestamp until
+    FFmpeg starts in the right place.
+
+2.  `-i video.mkv` specifies the input file, obviously.
+
+3.  `-t 5` says how much I want FFmpeg to decode, using the same
+    duration syntax as for `-ss`.
+
+4.  `-s 480x270` tells FFmpeg to resize the video output to 480 by 270
+    pixels. I do this primarily because I usually post to Tumblr, which
+    has several size limits on posted GIFs. You can change or remove
+    this if you want glorious high-definition GIFs (hat tip to
+    [LORd](https://github.com/raskug)).
+
+5.  `-f image2` selects the output format, a series of still images.
+
+6.  `%03d.png` is a `printf` format string specifying the output
+    filenames. What I’m saying here is that I want my output files as a
+    series of PNG images called `001.png`, `002.png`, `003.png`, and so
+    on. The `image2` encoder also supports GIF, but its output is
+    dithered to hell, so I don’t use that option.
+
+FFmpeg outputs a bunch of information about the video before it starts
+encoding frame images. Somewhere inside of there, there’s a message that
+goes something like this:
+
+    Stream #0:0: Video: h264 (High), yuv420p, 1280x720 [SAR 1:1 DAR 16:9],
+    23.81 fps, 23.81 tbr, 1k tbn, 47.95 tbc (default) (forced)
+
+I note that the video is encoded at 23.81 frames per second, or 24 since
+I don’t care for the fractional part. It’ll be important later when we
+generate the GIF file.
+
+Okay, now I have a giant pile of sequentially numbered frames. It’s time
+to put them back together again.
+
+## Selecting frames
+
+At this point, I briefly leave the command line and open up my favorite
+image previewer to figure out where exactly the scene I want begins and
+ends, writing down the frame numbers for later reference.
+
+For anime images, which constitute the majority of GIFs I make, it’s
+also important to note the animation’s actual frame rate. Most anime is
+drawn on twos or threes, meaning that drawings are actually updated only
+every two or three frames. Here’s an example from *Polar Bear Cafe*:
+
+<figure markdown="1">
+![A series of stills from "Polar Bear Cafe", showing individual drawings
+repeated for three
+frames.](/blog/media/tumblr_inline_mlrxbt43o51qz4rgp.png)
+</figure>
+
+With this information in hand, I go to whip up a `seq` invocation. `seq`
+is a Unix tool that generates, helpfully, *seq*uences of numbers. Let’s
+say my scene starts at frame 10, ends at frame 72, and is animated on
+threes. The following command will output the appropriate list of image
+filenames:
+
+    $ seq -f %03g.png 10 3 72
+
+The `-f` option specifies a format string, kind of like the one I passed
+to FFmpeg earlier. I’ve used `%g` instead of `%d` here, though, due to
+syntax differences. The following arguments say to start counting at 10,
+give me every third number, and stop at 72. (If I wanted every single
+number between 10 and 72 inclusive, I could omit the `3` and just say
+`seq 10 72`.) With the format string, then, I now have my filenames:
+`010.png`, `013.png`, `016.png`, etc.
+
+## Creating the animation
+
+Whew. We’re almost there. Now it’s time to get down to business and
+actually make the GIF file I want. I use backticks to substitute the
+`seq` command I write in the last step into a call to ImageMagick’s
+`convert` utility.
+
+    $ convert -delay 1x8 `seq -f %03g.png 10 3 72` \
+              -coalesce -layers OptimizeTransparency animation.gif
+
+As with the `ffmpeg` invocation earlier, argument order matters to
+`convert`, so be careful. Here’s a step-by-step explanation of this
+command:
+
+1.  `-delay 1x8` says that the animation should play a frame every 1/8
+    of a second. I computed this number by looking at the frame rate of
+    the original video (24) and dividing by the number of frames each
+    drawing plays for (3). Note that most browsers slow down animations
+    that play faster than 20 frames per second, or 1/50 second per
+    frame. Most videos play back at between 25 and 30 fps, so you may
+    have to drop every other frame or so if you care about accuracy of
+    playback speed.
+
+2.  And here’s the `seq` invocation again.
+
+3.  `-coalesce` apparently “fully define\[s\] the look of each frame of
+    an \[sic\] GIF animation sequence, to form a ‘film strip’
+    animation,” according to [the
+    documentation](http://www.imagemagick.org/script/command-line-options.php#coalesce).
+    No, I don’t know what that means, just that it’s necessary for
+    ImageMagick to do its thing.
+
+4.  `-layers OptimizeTransparency` tells ImageMagick to replace portions
+    of each frame that are identical to the corresponding parts of the
+    preceding frame with transparency, saving on file size.
+
+5.  And `animation.gif` is the output filename, duh.
+
+After this, I have a GIF that I can now post on all the interwebs.
+
+## ImageMagick tricks
+
+Well, mostly. Remember how I mentioned Tumblr has a size limit? That
+applies both to image dimensions *and* file size. GIF animation is
+hardly the most efficient video compression scheme out there, so
+sometimes it’s necessary to pull out some extra ImageMagick features in
+order to squeeze things down.
+
+First is the `-fuzz` option:
+
+    $ convert -fuzz 1% -delay 1x8 `seq -f %03g.png 10 3 72` \
+              -coalesce -layers OptimizeTransparency animation.gif
+
+This tells ImageMagick to treat pixels whose color values differ by less
+than 1% as the same color, giving the `OptimizeTransparency` action more
+pixels to chop away. This is especially good because videos tend to have
+shifting noise patterns in dark areas, which change every frame. A
+reasonable fuzz value puts the kibosh on this problem. Set it too high,
+though, beyond about 3%, and frames will start bleeding into each other.
+I guess it’s cool if you’re into psychedelia.
+
+Next is playing around with the dithering options. There are two ways to
+go about this. One is to turn dithering off entirely, using the
+`+dither` option. (Yes, I know that `+` looks like it would turn
+dithering *on*, but it’s actually the opposite of the “normal” `-dither`
+option…) This works well for images that have few smooth gradients of
+color, and reduces shifting dither noise that inflates file size.
+
+    $ convert +dither -delay 1x8 `seq -f %03g.png 10 3 72` \
+              -coalesce -layers OptimizeTransparency animation.gif
+
+The other possible dithering change is ordered dithering. This is rather
+visible, but may look better than turning off dithering when smooth
+color transitions would cause banding. In order to use ordered
+dithering, I first need to work out the number of color levels I can use
+while still fitting in the GIF format’s 256 color limit.
+
+    $ convert -delay 1x8 `seq -f %03g.png 10 3 72` \
+              -ordered-dither o8x8,8 \
+              -coalesce -layers OptimizeTransparency \
+              -append -format %k info:
+
+Note the two changes I’ve made here:
+
+1.  `-ordered-dither o8x8,8` means “use an 8-by-8 pixel dithering
+    pattern with 8 color levels.” I’ll change that last `,8` part
+    depending on how many colors are in the final image.
+
+2.  I’ve replaced the output filename with the options
+    `-append -format %k info:`, which essentially mean “tell me how many
+    colors total are in all the frames of this animation.”
+
+I tweak this command line, changing `o8x8,8` to `o8x8,7` or `o8x8,9` and
+so forth, until I find the highest number that gives me a result of 256
+or fewer colors. I then go and put the output filename back, after a
+`+map` option to ensure that all frames use the color map generated by
+the dithering operation:
+
+    $ convert -delay 1x8 `seq -f %03g.png 10 3 72` \
+              -ordered-dither o8x8,8 \
+              -coalesce -layers OptimizeTransparency \
+              +map animation.gif
+
+The ImageMagick manual has [more details on handling
+video](http://www.imagemagick.org/Usage/video/).
+
+## Conclusion
+
+Don’t do this.
+
+**Updated May 21, 2014** to give more detailed information about
+duration specification and timestamp approximation, and fix some
+inconsistencies pointed out by
+@[all-eternals-deck](http://tmblr.co/m6Y4R1s2xrJUcLwQTivwZ2Q){:.tumblelog}.

@@ -1,0 +1,76 @@
+---
+created_at: 2013-07-27 16:49:00.000000000 +00:00
+tags:
+- keyboardmashfiction
+- photo
+---
+
+![](/blog/media/tumblr_inline_mqltbah4jr1qz4rgp.jpg)
+
+The Landry comms station was about six hundred miles from the giant
+snowdrift I called home, two and a half hours on the express maglev
+service interrupted by a transfer about a third of the way through. In
+other words, on the scale of interstellar messaging, basically a
+rounding error away.
+
+For most of the five minutes I spent inside the main building, I could
+only think to myself that I’d drawn the short straw in getting assigned
+to Sudalis. The tech my boss had sent me to meet, a woman about my age
+who introduced herself as Sabina, gave me the rundown as we walked down
+to the control room. Landry had a recently renovated interior, modern
+equipment, and an automated monitoring system. I got the uneasy feeling
+that, even though all these niceties meant that Sabina had much less
+work to do, she was still getting paid a fair sight more than I was.
+
+Most of this resentment went away when, upon opening the control room’s
+main door, we were greeted by the sound of alarms blaring like five fire
+drills all happening at once. Sabina cursed to herself, then promptly
+grabbed my arm and made for the nearest exit. Her build was rather
+slight, but she had the grip of a teenager who liked to take joyrides on
+fast-moving cargo transports. “I had a feeling this would happen,” she
+said as we pushed open an emergency exit leading to the rear of the
+building. The smell of burning metal wafted across my nose. “We should
+have just met in a coffee shop instead. Care for a cup?”
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+As I tried not to burn my tongue on the espresso I’d just bought, Sabina
+explained to me that Landry had been suffering from a string of
+apparently unrelated equipment failures, at a pace of about once every
+three to four weeks. A couple of months ago, for instance, a central
+switch had developed a catastrophic short that touched off an electrical
+fire. Even with automatic deployment of suppressant gas, the fire got
+bad enough that two whole racks of hardware were eventually written off,
+and the station had to be shut down for an entire day while the mildly
+toxic suppressant ventilated from the building. This was followed some
+time later by a literal explosion, although fortunately a small one, in
+an underground tank used to store coolant. Again, the complex was
+evacuated. No one was hurt, but it seemed only a matter of time.
+
+“I never really liked my job, but at least I didn’t hate it, you know?”
+Sabina said, swirling a stirrer idly around her half-empty cup. “I was
+willing to put up with most anything as long as I got paid, but putting
+my life on the line was never in the job description.”
+
+“Oh. Well, that’s not why I came here, but you have my sym–”
+
+“But isn’t it? Here’s the thing: This all started happening maybe three
+days after we got that first clown message. Suspicious? You tell me.”
+
+I resisted. To my mind, whoever had sent the clown messages was just an
+idle prankster, not someone with a taste for wanton destruction. “It’s
+probably just a coincidence. You have all these new shiny gadgets. Maybe
+they’ve got, uh, unpredictable failure modes,” I said, wishing I could
+come up with a way to characterize the problem that sounded less like a
+technical euphemism.
+
+“If they can forge headers that are supposed to be authenticated, who
+knows what else they’re capable of doing? God knows that with all those
+moving parts, there’s going to be at least one hole big enough to drive
+a clown car through.”
+
+“Clown cars aren’t very big, you know. That’s the whole gimmick.”
+
+Sabina sighed. “Just drink your damn coffee.”

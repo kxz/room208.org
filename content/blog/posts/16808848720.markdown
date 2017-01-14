@@ -1,0 +1,24 @@
+---
+created_at: 2012-01-31 06:22:26.000000000 +00:00
+tags:
+- tumblr
+---
+
+@[queentakesking](http://blog.redono.org/) wrote a post a while back on
+[what would be needed to decentralize
+Tumblr](http://blog.redono.org/post/11925825689/a-proposal-on-decentralizing-tumblr),
+essentially turning it from a service with a single provider into a
+protocol with many implementations. I’m not sure how I didn’t realize it
+when the proposal was first posted, but a lot of the desired
+functionality already exists in some interoperable fashion. Reblogs, in
+particular, could be implemented in part with trackbacks, which Movable
+Type first introduced ten years ago and have since made their way to
+WordPress and a lot of other self-hosted blogging software; this would
+handle the essential functionality of pinging authors. Quoting the
+original text is harder, given that there’s no standard way of
+indicating a post’s actual content in an HTML page, but it isn’t an
+intractable problem, and should at least be trivial for reblogs between
+users of the same service. Similarly, following other users is largely a
+solved problem given that RSS exists. Essentially, if you want a look at
+what a decentralized Tumblr might entail, take a look at the blogosphere
+circa… oh, 2006.

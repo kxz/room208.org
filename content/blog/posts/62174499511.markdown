@@ -1,0 +1,32 @@
+---
+title: The Slow Winter (PDF)
+url: https://www.usenix.org/system/files/1309_14-17_mickens.pdf
+created_at: 2013-09-24 19:49:00.000000000 +00:00
+tags:
+- programming
+- hardware
+- cpu
+---
+
+James Mickens reminisces about when hardware architecture was easy and
+fun in *;login:* magazine:
+
+> Anything that you invented would be amazing, and the laws of physics
+> were actively trying to help you succeed. Your friend would say, “I
+> wish that we could predict branches more accurately,” and you’d think,
+> “maybe we can leverage three bits of state per branch to implement a
+> simple saturating counter,” and you’d laugh and declare that such a
+> stupid scheme would never work, but then you’d test it and it would be
+> 94% accurate, and the branches would wake up the next morning and read
+> their newspapers and the headlines would say OUR WORLD HAS BEEN SET ON
+> FIRE. You’d give your buddy a high-five and go celebrate at the bar,
+> and then you’d think, “I wonder if we can make branch predictors even
+> more accurate,” and the next day you’d start XOR’ing the branch’s PC
+> address with a shift register containing the branch’s recent branching
+> history, because in those days, you could XOR anything with anything
+> and get something useful, and you test the new branch predictor, and
+> now you’re up to 96% accuracy, and the branches call you on the phone
+> and say OK, WE GET IT, YOU DO NOT LIKE BRANCHES, but the phone call
+> goes to your voicemail because you’re too busy driving the speed boats
+> and wearing the monocles that you purchased after your promotion at
+> work.

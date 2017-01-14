@@ -1,0 +1,17 @@
+---
+created_at: 2014-03-21 17:05:31.000000000 +00:00
+tags:
+- noitamina
+- anime
+- video
+---
+
+<%= render '/blog/_youtube.haml', id: 'l03lLXvUx7k' %>
+
+While we’re on the subject of noitaminA, the block’s been celebrating
+its tenth anniversary with a few specials. This one’s a charming short
+film called *Poulette’s Chair* (*Poulette no Isu*), directed by
+independent filmmaker Hiroyasu Ishida. Ishida previously released the
+one-man project *Rain Town* in 2011, and he’s also got [a Pixiv
+page](http://www.pixiv.net/member.php?id=56398) if you’re into that kind
+of thing.

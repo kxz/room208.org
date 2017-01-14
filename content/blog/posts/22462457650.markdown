@@ -1,0 +1,38 @@
+---
+created_at: 2012-05-05 19:04:00.000000000 +00:00
+tags:
+- keyboardmashfiction
+- appendix
+- mechanics
+---
+
+The core of magic in Sayuri’s world is the *magical field*, which covers
+a magically-endowed being’s immediate vicinity and gives a medium for
+his or her abilities. Outside of a field, magical powers simply have no
+effect; this means that offensive magic is essentially useless on a
+non-magical target, though defensive abilities can still be used as the
+wielder is always surrounded by his or her own field. In particular, the
+field provides an intrinsic barrier against external physical harm;
+magical girls have been known to survive falls from skyscrapers, oxygen
+deprivation, point-blank shootings, and various other things that would
+surely kill a normal human being. It does not confer protection against
+diseases or self-inflicted injury, however.
+
+When two magical fields are in close proximity, about ten to fifteen
+meters, they begin to grow in size and attract each other in a process
+called *magical resonance*. Even novice users of magic can typically
+detect other magical beings nearby through these fluctuations. Highly
+experienced magicians can suppress some of the resonance at longer
+distances by manipulating their own fields, thus achieving a limited
+degree of stealth, but in close quarters it is virtually impossible to
+go undetected.
+
+Two resonating fields will eventually become close enough to touch,
+creating a conduit for offensive powers. Once formed, this channel is
+relatively difficult to break; especially tenacious one-on-one fights
+have been fought at distances of over thirty meters. In addition, the
+strength of magical field resonance increases proportionally to the
+number of fields involved, such that the linked fields of five or six
+magical beings can easily cover the entirety of a soccer pitch. Those
+concerned about collateral damage, needless to say, try to avoid large
+battles at all costs.

@@ -1,0 +1,22 @@
+---
+created_at: 2014-03-19 16:34:00.000000000 +00:00
+tags:
+- l10n
+- webdev
+- theme
+- tumblr
+- whinybugzilla
+---
+
+It’s more than a little strange that Tumblr supports (well,
+[“supports”](http://blog.room208.org/post/17756259414)) localization for
+[theme content](http://www.tumblr.com/docs/en/localizing_themes), but
+not for any [custom
+variables](http://www.tumblr.com/docs/en/custom_themes#appearance-options)
+that you might define. I guess I just have to blindly hope that my
+theme’s non-English-speaking users can all figure out what “Mobile
+Styles Everywhere” means, instead of presenting the option text to them
+in their own respective languages.
+
+I guess those who cannot remember gettext are condemned to reimplement
+it, poorly.

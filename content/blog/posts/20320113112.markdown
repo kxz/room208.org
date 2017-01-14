@@ -1,0 +1,34 @@
+---
+created_at: 2012-04-02 00:23:05.000000000 +00:00
+tags:
+- programming
+- aprilfools
+---
+
+Oh, I forgot this one.
+
+    diff -r abeb5b203296 omnipresence/plugins/youtube.py
+    --- a/omnipresence/plugins/youtube.py   Sun Feb 19 21:28:04 2012 -0500
+    +++ b/omnipresence/plugins/youtube.py   Sun Apr 01 19:07:54 2012 +0000
+    @@ -1,4 +1,6 @@
+    +import datetime
+     import json
+    +import random
+     import urllib
+
+     from zope.interface import implements
+    @@ -41,6 +43,12 @@
+                 else:
+                     views = ''
+
+    +            now = datetime.datetime.now()
+    +            if now.month == 4 and now.day == 1 and 12 <= now.hour and random.random() < 0.5:
+    +                result['link'][0]['href'] = random.choice(['http://www.youtube.com/watch?v=oHg5SJYRHA0',
+    +                                                           'http://www.youtube.com/watch?v=QH2-TGUlwu4',
+    +                                                           'http://www.youtube.com/watch?v=MKzqP4-0Z6M'])
+    +
+                 messages.append(u'%s\x02%s\x02%s: %s'
+                                   % (number, result['title']['$t'], views,
+                                      result['link'][0]['href'].split('&', 1)[0]))
+
+And if you’re reading this on the Tumblr dashboard, God help you.

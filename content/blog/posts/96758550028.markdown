@@ -1,0 +1,51 @@
+---
+created_at: 2014-09-06 04:04:00.000000000 +00:00
+tags:
+- chinese
+- japanese
+- linguistics
+- orthography
+- followeroutreach
+---
+
+So a discussion about the relationship between written Chinese and
+Japanese recently popped up on my dashboard. I hate reblog chains, so
+I’ll just link to
+@[mnxmnkmnd](http://tmblr.co/mSE73dbawHqAKxEbHe8B_2g){:.tumblelog}’s
+[response](http://mnxmnkmnd.tumblr.com/post/96518596868/zersk-whyareallthegoodurlsalreadyused)
+and give my own take on this.
+
+First, let’s get this out of the way: The modern Chinese and Japanese
+orthographies are generally not mutually intelligible. The primary
+problem isn’t even just one of vocabulary, but the fact that basic
+morphological and syntactic elements are expressed in different scripts
+in each language, since Japanese morphosyntax is expressed largely
+through kana. I would use tense, but Chinese doesn’t even have tense, so
+let’s look at how adverbs are indicated instead. Here, Chinese uses the
+affix character <span lang="zh">地</span>, while Japanese instead uses
+varying kana conjugations ending in <span lang="ja">に</span> or <span
+lang="ja">く</span>. These are, of course, nothing alike.
+
+That being said, the two languages *do* share [a large written
+vocabulary](https://en.wikipedia.org/wiki/Sino-Japanese_vocabulary).
+China and Japan’s long shared histories make tracing all this out rather
+complicated, but if you want a sloppy summary, there were two large
+borrowings. First, way back in the single-digit centuries AD, Japanese
+took a lot of existing Middle Chinese words. Then, in Japan’s Meiji era,
+a whole bunch of kanji neologisms were coined for imported concepts, and
+a lot of these made their way back to China. You’re not going to be able
+to figure out even a majority of what’s written in one language with
+only a knowledge of the other, but some sentences will be pretty
+transparent.
+
+But then, of course, there are the differing simplifications and
+preferred expressions for certain phrases, which throws a wrench into
+the perhaps 20 percent (I made this number up) mutual comprehensibility
+rate. At this point, it’s getting late, so I won’t keep going.
+
+TL;DR: The original analogy is silly. Maybe if the comparison had been
+between English and German instead. You get the vague ability to pick
+out some words that look similar, but the grammar is nowhere near the
+same, and what is that weird ß thing?
+
+P.S. Someone should find actual papers on this.

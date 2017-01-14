@@ -1,0 +1,13 @@
+---
+created_at: 2015-08-04 15:47:10.000000000 +00:00
+tags:
+- garageband
+- music
+- audio
+---
+
+<%= render '/blog/_audio.haml', url: '/blog/media/tumblr_nskeimNU8F1qim2zwo1.mp3' %>
+
+Three hours in GarageBand for a three-minute tune. Worth it, I’d say.
+
+    <Rig> Totally gonna use this for B-roll cyberpunk city footage.

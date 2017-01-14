@@ -1,0 +1,21 @@
+---
+title: A public service announcement
+created_at: 2014-02-27 05:39:00.000000000 +00:00
+tags:
+- linguistics
+- webdev
+- theroadtowashington
+---
+
+So [Hemingway](http://hemingwayapp.com/)’s the latest of these web-based
+language analyzers to come on the scene, claiming to provide easy
+identification of stylistic weaknesses in prose. Here are a few hints:
+If it marks down entire parts of speech, like Hemingway does adverbs,
+it’s probably useless. If on top of that it misidentifies words like
+*frilly*, *lively*, and *lovely* as adverbs based on their suffixes,
+it’s definitely useless. If [it thinks *teh* (sic) repeated 31 times is
+good prose](http://languagelog.ldc.upenn.edu/nll/?p=10416)… well, you
+can figure that one out for yourself.
+
+I suppose I shouldn’t expect much from a webapp that frequently advises
+you to use “0 or fewer” adverbs, though.

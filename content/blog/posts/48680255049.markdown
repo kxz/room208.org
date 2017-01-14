@@ -1,0 +1,21 @@
+---
+title: Where are monsters in call stacks
+created_at: 2013-04-23 07:11:38.000000000 +00:00
+tags:
+- programming
+- debugging
+- theroadtofaust
+---
+
+> 1.  **kxz:** I spent about 15 minutes running into an obscure bug in
+>     some image manipulation library I was using
+> 2.  **kxz:** I was so tired that I wondered to myself "is this real,
+>     or am I having a bad dream"
+> 3.  **xeniera:** it's really sad when dreaming about obscure bugs is
+>     something that seems plausible
+> 4.  **kxz:** well, debugging particularly bad issues has a lot in
+>     common with dreaming
+> 5.  **kxz:** things don't work like they're supposed to, you wander
+>     around lost someplace with no clear logic, and the directions you
+>     get ultimately point you somewhere totally useless
+> {:.dialogue}

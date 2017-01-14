@@ -1,0 +1,20 @@
+---
+title: OpenSSL Valhalla Rampage
+url: http://opensslrampage.org/
+created_at: 2014-04-17 20:36:55.000000000 +00:00
+tags:
+- openssl
+- openbsd
+- programming
+- security
+---
+
+A (Tumblr!) blog documenting the OpenBSD team’s [recently-initiated
+remodeling of
+OpenSSL](https://pay.reddit.com/r/netsec/comments/232mte/openbsd_has_started_a_massive_stripdown_and/).
+I hate to be too hard on the OpenSSL developers, since they’ve already
+gotten more than enough flak these past couple of weeks, but some of the
+code that’s being chucked out is just horrifying – for example, [private
+key material may sometimes be used as a PRNG entropy
+source](http://opensslrampage.org/post/83007010531/well-even-if-time-isnt-random-your-rsa-private-key).
+I know keys look random, but come *on*.

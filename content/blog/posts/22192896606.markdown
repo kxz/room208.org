@@ -1,0 +1,16 @@
+---
+title: 'Introducing pathod: a pathological HTTP server'
+url: http://corte.si/posts/code/pathod/announce0_1.html
+created_at: 2012-05-01 14:28:00.000000000 +00:00
+tags:
+- webdev
+- software
+---
+
+A small HTTP server that lets you easily craft diabolical responses,
+like one that sends 50 random bytes, pauses for six seconds, sends
+another 50, pauses again, sends a final 2 KB, then terminates the
+connection. Those of you who have noticed my recent struggles with
+[Omnipresence](https://bitbucket.org/kxz/omnipresence)’s URL sniffing
+functionality will understand why something like this is a testing
+godsend.

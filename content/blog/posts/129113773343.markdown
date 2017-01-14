@@ -1,0 +1,36 @@
+---
+created_at: 2015-09-15 01:31:08.000000000 +00:00
+tags:
+- tumblr
+- webdev
+- whinybugzilla
+---
+
+Tumblr has started making link posts point to an interstitial redirect
+on `t.umblr.com`, instead of directly to the actual page. In the spirit
+of [Google’s incredibly annoying
+redirector](http://webapps.stackexchange.com/questions/25175/why-does-google-search-use-redirects-instead-of-direct-links),
+the URLs are hideous:
+
+    http://t.umblr.com/redirect?t=ZDEwZGUwNGIxMmVlNTAxMTNiOTAzYWQ
+    yYjY1ZTdmMjM2MzAwN2NmYSxFSnRleTUxQw%3D%3D&u=aHR0cDovL3d3dy5mL
+    W5vaXRhbWluYS5jb20%3D
+
+`t` appears to be a Base64-encoded token specific to the post, while `u`
+is just the Base64-encoded URL. The redirector at least checks that the
+token matches the URL so that it can’t be used for phishing by setting
+an arbitrary target, which raises the question of why the URL is there
+in the first place, in a format that’s opaque to human readers.
+
+Not following Google’s example, the redirect is performed as an HTML
+`<meta>` refresh. This is stupid for a multitude of reasons, not the
+least of which is that it [confuses clients that aren’t Web
+browsers](https://www.google.com/search?q=site%3At.umblr.com). Moreover,
+while Google waits until the link is clicked on to replace the URL, so
+the status bar remains useful, Tumblr doesn’t. This means that there’s
+no visible indication of where a link really points if you’re not on the
+dashboard.
+
+What is the point of all this? Analytics, most likely, though of course
+given Tumblr’s remarkable lack of communication about its platform the
+real reason is anyone’s guess. What I do know is that it’s dumb.

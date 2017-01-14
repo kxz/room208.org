@@ -1,0 +1,15 @@
+---
+created_at: 2012-05-04 22:02:49.000000000 +00:00
+tags:
+- epistolaryexpedition
+- tumblr
+- theroadtowashington
+---
+
+Dear Tumblr,
+
+Is there any particular reason that making even the smallest of edits to
+my theme’s HTML completely wipes out my custom appearance options, or do
+you just hate freedom?
+
+~if

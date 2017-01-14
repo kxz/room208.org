@@ -1,0 +1,14 @@
+---
+created_at: 2012-05-28 03:58:00.000000000 +00:00
+tags:
+- anime
+- working!!
+- gif
+---
+
+![](/blog/media/tumblr_m4psdyUXmw1qim2zwo1_500.gif)
+
+Nazuna saves the day once again. *Working!!* (first season) episode 6.
+
+No dithering, since it caused quite a bit of visible noise, but I did
+apply a little fuzziness on color comparisons between frames.

@@ -1,6 +1,0 @@
-- if @item[:title]
-  %h1= h(@item[:title])
-- if @item[:body]  # imported from Tumblr
-  = rewrite_img_srcs @item[:body]
-- else
-  = @item.compiled_content

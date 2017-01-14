@@ -1,0 +1,21 @@
+---
+title: 'Waapuro: A dead-simple hiragana and katakana romanization library'
+url: https://pypi.python.org/pypi/waapuro
+created_at: 2014-12-29 22:51:28.000000000 +00:00
+tags:
+- python
+- japanese
+- romanization
+- theroadtofaust
+---
+
+I put my first package on PyPI. Then I found a bug, so I made a point
+release to fix it! There are probably more of those lurking, which you
+can report [over on GitHub](https://github.com/kxz/waapuro/issues).
+
+Just like so many others before me, I wrote this library to scratch an
+itch, namely [providing romanized pronunciations for Omnipresence’s
+WWWJDIC
+plugin](https://github.com/kxz/omnipresence/commit/2bed7169f1fc4c2cc9273721d2efe2d9b8463484).
+(Speaking of which, if I ever get that bot’s code into a less shameful
+state, I should put it on PyPI too…)

@@ -1,0 +1,17 @@
+---
+created_at: 2014-12-15 02:23:00.000000000 +00:00
+tags:
+- webdev
+- epistolaryexpedition
+- whinybugzilla
+- tumblr
+---
+
+Dear Tumblr,
+
+Nice of you to only remember whether I’ve seen the new dashboard tour in
+a local cookie, so that I can see it every time I log on with a new
+device. I really do love clicking on a baby blue button labeled “Hey
+alright” over and over again before I can actually read anything.
+
+~if

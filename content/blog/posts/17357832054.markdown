@@ -1,0 +1,40 @@
+---
+title: UI-related things I'd like to see in (more) visual novels
+created_at: 2012-02-10 04:24:38.000000000 +00:00
+tags:
+- visualnovel
+- userinterfacedesign
+---
+
+-   Art designed to be displayed at 16:9 or 16:10, or at least a user
+    interface that takes advantage of the extra space provided by
+    widescreen displays. VNs in East Asian languages could place the
+    text vertically in that area, perhaps.
+
+-   Vectorized or high-resolution sprites, so that the game can be
+    played at a resolution larger than the typical 800×600.
+
+-   In fact, while I’m at it, resizable text.
+
+-   A “branch rewind” system that makes it possible to pick some
+    combination of choices and skip straight to the resulting branch,
+    instead of having to use manual saves.
+    [<cite>Flanca</cite>](http://at2006.haeleth.net/game.php?id=7) has
+    something like this in its “index” (thanks to
+    @[mnxmnkmnd](http://mnxmnkmnd.tumblr.com/) for pointing this out).
+
+-   Individual scene replays, which <cite>Katawa Shoujo</cite> did very
+    well along with the “instant replay” backlog accessible during the
+    game.
+
+-   Better keyboard control. Most visual novels provide some keyboard
+    navigation, but it’s almost always incomplete somehow, such as not
+    working for choice selection. There’s no reason I shouldn’t be able
+    to use the arrow keys and Enter at a minimum. For bonus points,
+    number the choices 1, 2, 3, etc. and make them selectable with the
+    appropriate key. And for the love of God, please *document* all of
+    the shortcuts somewhere in the manual, or make them configurable.
+    (Just don’t be like the PC version of <cite>Remember11</cite>, which
+    mapped PS2 buttons onto keyboard keys.)
+
+Any other ideas?

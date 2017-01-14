@@ -1,0 +1,21 @@
+---
+created_at: 2014-02-11 15:28:27.000000000 +00:00
+tags:
+- epistolaryexpedition
+- tumblr
+- theme
+- webdev
+---
+
+Dear Tumblr,
+
+Have you considered allowing more than one file in a theme? Because as
+it stands now, you’re basically forcing theme developers to inline
+several kilobytes of CSS and JavaScript for every page request. That’s a
+pretty jaw-droppingly stupid waste of bandwidth.
+
+I mean, sure, it’s *your* bandwidth. You can do what you want with it.
+
+I’m just saying, it’s pretty stupid.
+
+~if

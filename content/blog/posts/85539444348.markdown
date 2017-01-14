@@ -1,0 +1,9 @@
+---
+created_at: 2014-05-12 17:40:32.000000000 +00:00
+tags:
+- tumblr
+- whinybugzilla
+---
+
+Anyone noticed how Tumblr doesn’t notify you about answers to questions
+you’ve asked unless you follow the respondent? What’s up with that?

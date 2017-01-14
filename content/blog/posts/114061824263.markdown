@@ -1,0 +1,21 @@
+---
+created_at: 2015-03-19 18:43:31.000000000 +00:00
+tags:
+- tumblr
+- webdev
+- followeroutreach
+---
+
+An anonymous correspondent writes:
+
+> I am begging you to do a screenshot tutorial of how to change the type
+> of your post with the web inspector. I get so close and I don't know
+> why it's not working
+
+Ask and ye shall receive: I’ve updated [the
+guide](http://blog.room208.org/post/110389527808) with some screenshots
+from Chrome as a visual reference. If you still run into trouble, some
+of the required post fields, as covered in [the original version of the
+tutorial](http://blog.room208.org/post/64244275772), may be empty. Try
+rearranging the JSON fields if necessary, and when all else fails, look
+at the contents of the AJAX response object for error messages.

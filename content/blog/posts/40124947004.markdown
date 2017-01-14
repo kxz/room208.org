@@ -1,0 +1,14 @@
+---
+title: Lies, damned lies, and statistics
+created_at: 2013-01-09 22:59:02.000000000 +00:00
+tags:
+- anime
+- statistics
+- theroadtowashington
+---
+
+Mean AniDB rating of all 303 television anime that both began and ended
+between January 1, 2010, and December 31, 2012: **4.97 ± 1.83**.
+
+Mean AniDB rating for the seven series out of the above whose titles
+contain the Japanese pronoun *boku*: **5.63 ± 1.82**.

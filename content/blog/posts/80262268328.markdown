@@ -1,0 +1,14 @@
+---
+created_at: 2014-03-21 14:40:23.000000000 +00:00
+tags:
+- silverspoon
+- anime
+- gif
+---
+
+![](/blog/media/tumblr_n2sjfbT03L1qim2zwo1_500.gif)
+
+It’s just like one of those old-timey zoetrope films.
+
+*Silver Spoon* 2x10,
+`convert -sigmoidal-contrast 10,50% -colorspace Gray`.

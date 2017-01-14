@@ -1,0 +1,17 @@
+---
+created_at: 2012-07-16 19:33:00.000000000 +00:00
+tags:
+- epistolaryexpedition
+- theme
+- tumblr
+- css
+---
+
+Dear Tumblr,
+
+Can we get support for alpha values in custom theme colors? Pretty
+please? [Abusing text
+fields](https://bitbucket.org/kxz/dichotomy/src/7ca742d889ef/dichotomy.html#cl-21)
+just to use `rgba()` feels dirty.
+
+~if

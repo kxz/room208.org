@@ -1,0 +1,17 @@
+---
+title: Glitch News
+url: http://glitchnews.tumblr.com/
+created_at: 2013-09-15 20:33:00.000000000 +00:00
+tags:
+- glitch
+- news
+- morningtoncrescent
+---
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_mt6p5elZ5S1qhcb4p.png)
+</figure>
+
+News photos, mostly from Japanese sources, as they might be interpreted
+by a malfunctioning JPEG renderer. Above: [The Fukushima Daiichi nuclear
+power plant](http://glitchnews.tumblr.com/post/61220058703/1).

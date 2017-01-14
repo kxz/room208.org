@@ -1,0 +1,18 @@
+---
+created_at: 2014-05-18 18:19:48.000000000 +00:00
+tags:
+- openssl
+- libressl
+- security
+- c
+- programming
+---
+
+[The LibreSSL developers discuss OpenSSL’s incredible flexibility in the
+face of impossible
+situations](https://www.youtube.com/watch?v=GnBbhXBDmwU#t=41m27s):
+
+> **Ted Unangst:** But the good news is, if the size of `socklen_t`
+> changes while your program is running –
+>
+> **Bob Beck:** OpenSSL will cope!

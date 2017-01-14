@@ -1,0 +1,31 @@
+---
+created_at: 2012-05-22 04:44:00.000000000 +00:00
+tags:
+- visualnovel
+- mechanics
+---
+
+So I had this idea for a visual novel mechanic, probably inspired by
+playing too many <cite>Infinity</cite> series games, where the player
+takes the role of a “ghost” who can’t actually talk to any of the
+characters, but can interact with their environment when no one’s
+looking. At the beginning and end of every scene, you would get a chance
+to either remove objects from the “stage,” or place things that you’ve
+taken in previous scenes. One scene might be set in a kitchen, for
+instance, where you’d get the opportunity to take a knife from the
+counter and later conveniently leave it at the scene of a particularly
+tense fight.
+
+I have a feeling this has been done before, but I can’t recall where.
+
+**Edit:** I suppose I should mention that the idea was to have the
+stage-setting replace choices as the primary plot branching mechanism.
+Going back to the knife example, let’s say the climactic dust-up is
+between Alice, who is relatively weak physically, and Mallory, who’s
+fairly strong. Leaving the knife for Alice in that scene would thus mean
+the difference between her getting overpowered almost immediately and
+her having a shot at fending for herself. (In fact, my biggest qualm
+with this concept is that it could quickly turn into a combinatorial tar
+pit given enough manipulable objects and scenes.) A few people have
+showed me adventure games with a “ghost director” mechanic at their
+core, but they all seemed fairly linear plot-wise.

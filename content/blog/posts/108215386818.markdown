@@ -1,0 +1,24 @@
+---
+title: Dichotomy 4.0
+url: https://github.com/kxz/dichotomy/releases/tag/v4.0
+created_at: 2015-01-16 01:35:34.000000000 +00:00
+tags:
+- dichotomy
+- theme
+- tumblr
+---
+
+After eight months of sitting dormant in a pre-release branch, here’s a
+brand-new major version of Dichotomy – major because it makes a couple
+of backwards-incompatible changes to custom settings. Sorry! I’m trying
+to keep those to a minimum for future releases.
+
+But enough about that. Let’s talk about the new features instead! They
+include support for avatars (finally) and using profile header images as
+backgrounds, streamlined desktop layout options, updates to Google
+Analytics code, and a few tiny fixes here and there.
+
+Version 4.0 will be available on the Tumblr Theme Garden shortly – at
+least I hope so. As usual, if you have any problems, [drop me a message
+on Tumblr](http://blog.room208.org/ask) or [report an issue on
+GitHub](https://github.com/kxz/dichotomy/issues).

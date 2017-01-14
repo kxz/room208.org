@@ -1,0 +1,53 @@
+---
+created_at: 2012-03-29 04:48:45.000000000 +00:00
+tags:
+- visualnovel
+- analogue
+- userinterfacedesign
+---
+
+![](/blog/media/tumblr_m1mnp4p8ZZ1qhcb4p.png)
+
+“Why won’t this stupid thing let me tab-complete commands, dammit? It’s
+not seriously expecting me to type them all out, is it?”
+
+------------------------------------------------------------------------
+
+One of the things I enjoy about Christine Love’s visual novels is that
+they expand the interface beyond the usual “click through pages of text
+and occasionally make a choice” paradigm. The command line above, for
+instance, is the way you first interact with a new game of
+<cite>Analogue</cite>, while the main story itself is explored (with the
+assistance of some AI helpers) through a graphical document browser that
+can be launched from the initial text-mode shell. Even if what you’re
+doing is in some sense essentially the same as with a regular VN –
+reading long stretches of words on a screen – it feels like you’re
+making some effort to discover the story on your own, rather than having
+it just presented to you.
+
+The layering of two different interfaces does an interesting job of both
+distancing you from and bringing you further into the game’s plot. On
+the one hand, the presence of another environment external to the main
+archive reinforces your position as an outsider looking in on the
+characters’ past; appropriate, as you play the role of someone sent in
+to merely salvage the documents, not read them. On the other, though, it
+also makes the game seem more real – this is how you’d actually be
+interacting with the story if you were in the player character’s shoes,
+remotely interfacing with the computers of a starship floating dead in
+space. <cite>Analogue</cite> even explains why you can only give the AIs
+information in the form of binary choices. It’s all impressively thought
+out.
+
+I’m also a fan of [the
+soundtrack](http://isaacschankler.bandcamp.com/album/analogue-a-hate-story-ost),
+which plays a big role in setting the atmosphere: isolated,
+minimalistic, but not devoid of humanity.
+
+------------------------------------------------------------------------
+
+<cite>Analogue</cite> is, as with Love’s other visual novels, fairly
+short; out of the five available endings, I’ve already finished one, and
+that in just two and a half hours to boot. I’ll probably come back here
+later with more detailed thoughts on the story proper once I’ve tackled
+the other four. My initial impressions, though, are already very
+positive.

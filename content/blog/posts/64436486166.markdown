@@ -1,0 +1,12 @@
+---
+created_at: 2013-10-19 01:18:02.000000000 +00:00
+tags:
+- whinybugzilla
+- theroadtowashington
+---
+
+I’ve been using the
+\#[whinybugzilla](http://blog.room208.org/tagged/whinybugzilla) tag
+completely unaware that Bugzilla actually has a feature called
+[whining](http://www.bugzilla.org/docs/tip/en/html/whining.html).
+Frickin’ software developers.

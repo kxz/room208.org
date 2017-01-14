@@ -1,0 +1,23 @@
+---
+created_at: 2012-02-05 19:25:37.000000000 +00:00
+tags:
+- anime
+- neongenesisevangelion
+- programming
+---
+
+@[spinor](http://spinor.tumblr.com/) writes:
+
+> What is the true nature of the Evangelion?
+
+I think a programmatic approach would work best here.
+
+    import random
+
+    def the_evangelion():
+        return random.choice([incomprehensible_religious_symbolism,
+                              implausible_post_apocalyptic_backstory,
+                              directorial_substitute_for_therapy,
+                              constant_tsundere_antics,
+                              infinite_fandom_speculation,
+                              generalizations_by_nonviewers_like_me])()

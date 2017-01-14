@@ -1,0 +1,28 @@
+---
+created_at: 2012-02-15 21:39:00.000000000 +00:00
+tags:
+- anime
+- nisemonogatari
+- gif
+---
+
+![](/blog/media/tumblr_lzgeug2j6F1qim2zwo1_500.gif)
+
+Araragi dodging sharp projectiles like he’s in medieval France.
+
+    #!/bin/sh
+    ffmpeg -ss 0:10:24 -i "[Commie]_Nisemonogatari_-_06_[7A02B0A3].mkv" \
+      -t 0:00:07 -s 480x270 -f image2 %03d.png
+    # some manual culling of frames goes here
+    convert -delay 1x12 *[02468].png -coalesce \
+      -layers OptimizeTransparency pencils.gif
+
+FFmpeg’s animated GIF encoder seems to use a predetermined palette
+instead of picking one based on the input frames. It’s pretty tragic. On
+the other hand, trying to do resize operations with ImageMagick is slow
+as hell.
+
+Most anime is drawn on twos, meaning that the content only actually
+changes every two frames. Hence the `convert` invocation picks out just
+the even-numbered images and halves the framerate. Arguably, you could
+do this with FFmpeg’s `-r` parameter, but who cares.

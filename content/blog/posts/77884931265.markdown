@@ -1,0 +1,53 @@
+---
+created_at: 2014-02-26 05:59:00.000000000 +00:00
+tags:
+- webdev
+- tumblr
+- markdown
+- whinybugzilla
+---
+
+So Tumblr added @-mentions not too long ago.
+
+Here’s what you type into the WYSIWYG editor:
+
+    @abandonmentprobability
+
+It gets displayed as:
+
+> [abandonmentprobability](http://blog.room208.org/)
+
+If you switch to HTML mode, the markup looks like (without newlines):
+
+    <a class="tumblelog">
+        abandonmentprobability
+    </a>
+
+Unless you save the post first, in which case you get:
+
+    <a class="tumblelog" href="http://tmblr.co/msgaYTlPKdo0sLlHh4mXlOg">
+        abandonmentprobability
+    </a>
+
+If you try to use an @-mention in plain text or Markdown mode,
+meanwhile, the resulting markup is:
+
+    @abandonmentprobability
+
+Notice anything missing? To get a proper link, you actually have to use
+(again, sans newlines):
+
+    <a class="tumblelog">
+        abandonmentprobability
+    </a>
+
+But be careful when you try to quote that markup in your post, because
+if you don’t escape it somehow, it’ll get transformed into:
+
+    <a class="tumblelog" href="http://tmblr.co/msgaYTlPKdo0sLlHh4mXlOg">
+        abandonmentprobability
+    </a>
+
+Even in the middle of an indented Markdown code block.
+
+Seriously, get it together, guys.

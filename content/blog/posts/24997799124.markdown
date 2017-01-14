@@ -1,0 +1,174 @@
+---
+created_at: 2012-06-13 02:43:00.000000000 +00:00
+tags:
+- keyboardmashfiction
+- theroadtofaust
+- photo
+---
+
+![](/blog/media/tumblr_m5jbh12SHP1qhcb4p.jpg)
+
+Travis wanted, at that moment, to be looking at anything but what he was
+seeing then. It wasn’t that the logs on his screen were long and dry –
+well, yes, they were, but that was something he was used to looking at
+day in and day out. No, this was anything but boring, and not in a good
+way.
+
+“Javier,” Travis called over to the other side of the office. It was
+already past 6:00, and most everyone else had already cleared out of the
+networking cluster. “Could you look at this? I want to make sure I’m
+reading this right.”
+
+Unlike his remaining co-worker, Javier still seemed to have some life in
+him. He’d been at this job for three years already, but you couldn’t
+tell by looking; he still had the energy of someone who hadn’t even yet
+graduated from college. It was that cheerful innocence that enabled him
+to walk over to Travis’ desk with an excited smile, oblivious to the
+hint of dread in his colleague’s summons.
+
+“This server,” Travis said, pointing to a highlighted entry on his
+screen. He paused for a moment, snapping his fingers as if they were the
+ignition to his idling brain. “Sterling oh-eight here… that’s an
+encrypted file storage node in Houston, right?”
+
+“Yeah, I’m pretty sure it’s high clearance,” Javier added, in a
+matter-of-fact tone.
+
+Travis’ finger slid further down the line of text on his monitor,
+stopping underneath the name of the transmission protocol.
+
+“So unencrypted network traffic leaving it would be… very bad?”
+
+He threw a glance in Javier’s direction, seeking confirmation for what
+his strangled intonation indicated he already knew.
+
+Javier, however, seemed largely unfazed by the news. He simply responded
+to Travis’ question with another.
+
+“Wait, where’s the other end of that connection?”
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+“Lassie? He hasn’t been in for… uh, I mean, since Monday.”
+
+The smell of coffee in the lab was overwhelming, even to Peter, and he
+basically lived on the stuff. True, there wasn’t all that much else in
+the place that could give off a distinctive odor; this was a physics
+research workspace, not an auto repair shop. Still, it was enough to
+give him visions of being an inch tall, nearly drowning inside a coffee
+mug. A radio in the corner of the lab was running down the latest
+headlines, one of which was the announcement that their agency – NASA –
+had successfully landed the new probe *Virtue* on a low-period comet.
+Unfortunately, a camera malfunction meant that photos and video were not
+yet available, and might not ever be.
+
+“Is he sick, or on leave, or…?” Peter trailed off.
+
+The bespectacled woman in a lab coat looked away for a moment – *Come to
+think of it, why do the people down here wear lab coats? It’s not like
+physics is particularly messy,* Peter thought – and then turned back to
+meet his gaze. “I don’t really know,” she said. “He… just didn’t show
+up. It’s been three days now, and we haven’t heard anything from him.”
+
+Peter couldn’t help but sound a bit agitated. “Nothing at all?”
+
+“No. The only thing I can think of is that his anniversary is coming up,
+but he’s never taken off for it before.”
+
+“You think he just up and went on vacation?”
+
+The woman flinched slightly, as if Peter were about to deal her a
+physical blow, but his stance hadn’t changed one iota.
+
+“It’s not that. His wife died a little over three years ago. Hit by a
+stray bullet during a police shootout.”
+
+“Oh,” Peter said, with a sound more like a strained exhalation than
+human speech. “I’m sorry.”
+
+“They’d only been married six months. It… was just too soon, and he
+really took it hard. This time of year was always rocky for him, but not
+to this extent. I think Doug tried to get in touch with him yesterday,
+but as far as I know, nothing came of it. I’m starting to get really
+worried – who knows if he’s gone and done something stupid or –”
+
+“I’m sure he’s okay,” Peter interrupted. He didn’t really mean it, but
+he’d take an empty assurance over being forced to come to terms with a
+stranger’s problems any day.
+
+The woman stopped, taking a deep breath. “You’re right… this – no – I’m
+sorry you had to see that. But I honestly don’t know where he is right
+now, or what might have happened to him.”
+
+“Okay. Thank you.” A curt nod.
+
+On his way out of the lab building, Peter stopped by a vending machine
+and bought a cheap soda. He wasn’t a fan of carbonated drinks, but they
+were still better than stale coffee.
+
+------------------------------------------------------------------------
+
+Tim Lassiter sat hunched over his laptop, the backlit display serving as
+the only significant illumination in the otherwise darkened hotel room.
+The only sound to be heard in the room was the press and release of a
+single key in an insistent beat.
+
+Tap, tap, tap, tap…
+
+His breathing was perfectly still, devoid of the rhythm that
+characterized a typical living person. Definite bags had formed beneath
+his eyes, which looked simultaneously crazed and tired, bloodshot and
+glassy, impatient and exhausted. His hair was tied in unkempt knots, and
+he clearly had not shaved in several days. But none of that was material
+any more. The only one that could have seen the state Tim had sunk to
+was Tim himself, and he no longer had eyes for anything but the frames
+flicking past on his computer screen.
+
+Tap, tap, tap, tap…
+
+The images Tim was paging through were not themselves labeled, but a
+series of cryptic filenames flashed in the title bar: *Virtue ccd devA
+00583 104855 20211016 b*, *c*, *d*, *e*, *f*…
+
+He’d known, when he first copied them to his computer, that what he was
+doing was against every rule on information security that he had ever
+had drilled into his head. And he’d been sloppy in his haste to transfer
+the files, definitely enough to lead anyone who wanted to find the
+culprit straight to him. But once he’d laid eyes on the images
+themselves, none of that mattered to him any more.
+
+Tap, tap, tap, tap…
+
+The photos were somewhat dark and a little shaky, but the artistic
+quality was of no concern. Rocks and dust ringed the edges of the
+picture, as if they were merely a decorative frame. At the center was a
+block of ice, pebbles suspended in its frozen substrate, and buried
+about a meter from its surface was a single perfectly preserved human
+body, one that looked like it belonged to a woman in her late twenties.
+The way she was encased in the ice made her appear to be in nothing more
+than a deep slumber, eyes closed and a look of tranquility on her face.
+Her arms were spread wide, as if about to embrace an invisible figure,
+and immediately below her right breast was a knotted scar, like that
+left from a bullet wound.
+
+The tapping stopped. Tim had finally slumped over in his chair, his long
+reverie coming to an end. As his eyelids slowly shut, a hoarse whisper
+escaped from his mouth. The name “Gina” seemed to extinguish itself
+right as it became audible, the last flickers of a longing candle that
+had burned all the way to its end.
+
+------------------------------------------------------------------------
+
+Anonymous writes:
+
+> I’m not really sure what kind of question to ask, so I think I’ll go
+> for more of a prompt. In an attempt to better understand the nature of
+> the universe and of celestial bodies, NASA has sent out a probe to
+> sample the core of one of the oldest known comets. At the core, rather
+> than ice and intergalactic dust (pardon the scientific inaccuracies),
+> they find a human in slumber. What is the story?
+
+The winner of my [keyboard-mash fiction
+challenge](http://blog.room208.org/post/22234122955).

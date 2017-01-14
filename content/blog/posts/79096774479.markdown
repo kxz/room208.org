@@ -1,0 +1,25 @@
+---
+title: GIFGIF
+url: http://gifgif.media.mit.edu/
+created_at: 2014-03-09 21:41:02.000000000 +00:00
+tags:
+- gif
+- gifgif
+- datascience
+---
+
+[![](/blog/media/tumblr_inline_n26utmnxRS1qhcb4p.png)](http://gifgif.media.mit.edu/)
+
+Tumblr oughta love this, part 3:
+
+> An animated gif is a magical thing. It contains the power to convey
+> emotion, empathy, and context in a subtle way that text or emoticons
+> simply can’t.
+>
+> GIFGIF is a project to capture that magic with quantitative methods.
+> Our goal is to create a tool that lets people explore the world of
+> gifs by the emotions they evoke, rather than by manually entered tags.
+
+This one’s another time-wasting-for-science project out of the MIT Media
+Lab. Ars Technica has [more
+details](http://arstechnica.com/science/2014/03/watch-funny-gifs-all-day-for-science/).

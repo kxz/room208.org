@@ -1,0 +1,11 @@
+---
+created_at: 2013-06-04 05:29:00.000000000 +00:00
+tags:
+- theroadtofaust
+- morningtoncrescent
+---
+
+Today on *The Road to Faust*: Name an amendment to the United States
+Constitution, and I’ll give you my uninformed commentary about whatever
+item on the current [Hacker News](http://news.ycombinator.com/) front
+page shares that number.

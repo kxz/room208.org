@@ -1,25 +1,7 @@
 #!/usr/bin/env ruby
 
 preprocess do
-  @items.find_all('/blog/posts/*.yaml').each do |post|
-    post[:kind] = 'article'
-    post[:created_at] = Date.parse(post[:date])
-
-    if post[:audio_url]
-      post[:audio_url] = rewrite_media_url(post[:audio_url])
-      if !post[:audio_url].end_with?('o1.mp3')
-        post[:audio_url] += 'o1.mp3'
-      end
-    end
-    if post[:photos]
-      post[:photos].each do |photo|
-        photo[:original_size][:url] = rewrite_media_url(photo[:original_size][:url])
-      end
-    end
-    if post[:video_url] && post[:video_type] != 'youtube'
-      post[:video_url] = rewrite_media_url(post[:video_url])
-    end
-  end
+  @items.find_all('/blog/posts/*').each { |i| i[:kind] = 'article' }
 
   articles_by_month.each do |date, posts|
     metadata = {title: date.strftime('%B %Y'), posts: posts.map { |i| i.identifier }}
@@ -49,6 +31,8 @@ compile '/blog/index.yaml' do
 end
 
 compile '/blog/posts/*' do
+  filter :erb
+  filter :kramdown
   layout '/blog/post.haml'
 end
 

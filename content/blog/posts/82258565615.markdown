@@ -1,0 +1,13 @@
+---
+created_at: 2014-04-10 03:23:22.000000000 +00:00
+tags:
+- tumblr
+- openssl
+- webdev
+- security
+---
+
+There’s a hideous irony in Tumblr warning their users to change their
+passwords in the wake of Heartbleed, when up until recently they didn’t
+even support HTTPS for anything other than the login page. Transmitting
+session keys in cleartext cookies after encrypted authentication? Sure!

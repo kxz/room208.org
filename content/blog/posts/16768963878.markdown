@@ -1,0 +1,12 @@
+---
+title: Lies, damned lies, and FAQ answers
+created_at: 2012-01-30 18:40:00.000000000 +00:00
+tags:
+- tumblr
+---
+
+By the way, [the Tumblr FAQ](http://www.tumblr.com/help) is lying when
+it says that “Read More is only available for Text posts that are
+created using the Rich Text Editor.” You can actually do it in the raw
+HTML and Markdown editing modes by simply inserting `<!-- more -->`
+where you want the “Read More” break to be. Yeah, it’s that easy.

@@ -1,0 +1,30 @@
+---
+title: Patema Inverted (Sakasama no Patema) "Beginning of the Day" PV
+url: https://www.youtube.com/watch?v=L468334vD6I
+created_at: 2012-02-24 20:47:00.000000000 +00:00
+tags:
+- anime
+- patema
+---
+
+<%= render '/blog/_youtube.haml', id: 'L468334vD6I' %>
+
+So Yoshiura’s new film is getting a prologue, to be released on Nico
+Nico Douga sometime this weekend. This is the trailer for that short
+<del>film</del> Web series, which I guess makes it a preview of a preview. How
+recursive.
+
+It looks like <cite>Patema</cite>’s going to take <cite>Pale
+Cocoon</cite>’s endless underground aesthetic and turn up the grungy
+desolation a few notches. Most of the sci-fi elements seen there and in
+<cite>Time of Eve</cite> seem to be absent, though (note the utter lack
+of minimalistic transparent displays). It’s just a big world waiting to
+be explored through innocent eyes.
+
+**Edit:** I use the phrase “endless underground aesthetic” a lot.
+
+**Edit II:** &lt;[Nitya](http://mnxmnkmnd.tumblr.com/)&gt; are you
+seeing this? this is moe S.T.A.L.K.E.R.
+
+**Edit III:** Correction above. Here’s [the Nico Nico
+channel](http://ch.nicovideo.jp/channel/patema), by the way.

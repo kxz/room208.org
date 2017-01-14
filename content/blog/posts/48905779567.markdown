@@ -1,0 +1,11 @@
+---
+created_at: 2013-04-26 03:28:00.000000000 +00:00
+tags:
+- audio
+- garageband
+- music
+---
+
+<%= render '/blog/_audio.haml', url: '/blog/media/tumblr_mlueyyo2fC1qim2zwo1.mp3' %>
+
+This is why you don’t let me near GarageBand.

@@ -1,0 +1,40 @@
+---
+created_at: 2012-02-23 08:29:00.000000000 +00:00
+tags:
+- keyboardmashfiction
+---
+
+![](/blog/media/tumblr_lzu4zuM9IK1qhcb4p.png)
+
+I was on duty at the listening post when the anomalous messages first
+registered. The sender tags were obviously fake, seeing as how they
+contained an encoded image of a clown’s face instead of coordinates.
+That wasn’t the part that got to me, nor was it the actual payload,
+which consisted of my name repeated over and over. It wasn’t exactly a
+secret that I worked there; my name was listed as one of the staff on
+the base’s public net node. It was creepy, sure, but not unusual.
+
+No, what got under my skin was the location of the origin node.
+
+Okay, if you don’t know the structure of first-generation interstellar
+net messages from memory because, for instance, you’re a person with a
+life, one that doesn’t revolve around technology that’s centuries out of
+date, there are two ways to figure out where they come from. The first
+is the sender-provided identification tag, which is only useful when
+communicating with people other than douchebags with pictures of clown
+faces. The second is the diagnostic information added at each relay.
+Each of them has a vague idea of the direction and strength of the
+incoming signal, and from that they can reckon where in space it
+actually came from.
+
+And this data told me that the message I had just received came from a
+binary solar system with no habitable planets, hundreds of light-years
+away from any known civilization.
+
+I sent a reply to the indicated coordinates, expecting it to vanish off
+into the void. *Hello, this is Sudalis Comms Outpost. Haha, you got me.
+Now quit messing around.*
+
+But not an hour later, I got a response from the clown.
+
+*I don’t mess around.*

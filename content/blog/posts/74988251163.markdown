@@ -1,0 +1,99 @@
+---
+title: Using custom fonts with Dichotomy
+created_at: 2014-01-29 23:30:00.000000000 +00:00
+tags:
+- dichotomy
+- typography
+- css
+- followeroutreach
+---
+
+@[abandonedsteel](http://abandonedsteel.tumblr.com/)
+[writes](http://abandonedsteel.tumblr.com/post/74972082075/dichotomy-3-0):
+
+> Just one question - do you, perhaps, have suggestions for alternate
+> monospace fonts? And if so, how would I use them in this theme?
+
+Certainly. The most important thing to note when selecting a typeface is
+that Dichotomy expects normal, bold, and italic styles to all have the
+same character width. For instance, links turn bold when the mouse
+cursor moves over them, and if the typeface you’re using has normal and
+bold fonts with different character widths, you’re going to end up with
+text jumping all over the place.
+
+A small digression about browser font synthesis: If you ask for a bold
+font in a font family that doesn’t contain one, most browsers will fake
+one by simply doubling some pixels horizontally. Needless to say, this
+means that the mock bold font will not have the same character width as
+the original. Browsers will also synthesize italic fonts when needed by
+applying a uniform slant to the glyphs, but the character width isn’t
+affected by this process, and so it’s okay if the typeface doesn’t have
+italics. If it does, though, it had better also have a separate bold
+italic font, otherwise bold synthesis will ruin everything again.
+
+Dichotomy uses [Ubuntu Mono](http://font.ubuntu.com/) by default, which
+conveniently has regular, bold, italic, and bold-italic variants. Early
+versions used [Lekton](http://lektongroups.blogspot.co.uk/), which I
+liked but unfortunately committed the cardinal sin of having an italic
+without a bold italic.
+
+## Okay, okay, so how do you do it?
+
+In short, head over to *Advanced options*, and enter something like the
+following in the *Custom CSS* box:
+
+    body {
+        font-family: "MyFace", monospace;
+    }
+
+You’d replace `"MyFace"` with the name of your preferred font family, of
+course, preserving the quotes. That `monospace` at the end is important
+to ensure that people who can’t use the font you specified still get
+something monospaced. Don’t leave home without it.
+
+## System fonts
+
+It’d be great if we could pick a monospaced font family that’s already
+installed on everyone’s computers, so we wouldn’t have to add code to
+download the font files from elsewhere. Sadly, it’s slim pickings here.
+[Consolas](https://en.wikipedia.org/wiki/Consolas) comes with Windows
+and Office these days, and may be your best bet on this route. OS X
+ships a decent version of Courier, but Courier New on Windows is thin
+and spindly and hard to read and I hate it. Don’t use it.
+
+## Web fonts
+
+Okay, so let’s take a look at some downloadable web fonts. This option
+requires more work, but it carries the advantage that most browsers will
+automatically download the required font files, sidestepping the problem
+of default system availability. Ordinarily, I would point you to [Google
+Fonts](https://www.google.com/fonts) and say, “Search away!” But even
+though they provide options for searching by various font attributes,
+fixed width is not among them. Never fear, though, because I’ve compiled
+a shortlist of typefaces available there that satisfy our criteria:
+
+-   [Anonymous Pro](https://www.google.com/fonts/specimen/Anonymous+Pro)
+-   [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata)
+-   [Source Code
+    Pro](https://www.google.com/fonts/specimen/Source+Code+Pro)
+
+(Yow, that really *was* short.) To use one of these fonts, you’ll need
+to follow the *Open \[font name\] in Google Fonts* link near the top of
+the specimen page. Check the appropriate styles to include – you’ll want
+at least *Normal 400* and *Bold 700*, as well as any italic variants if
+they’re present – then scroll down to step 3. Select the `@import` tab,
+and copy and paste the code there *at the top* of your custom CSS,
+before any other declarations. Then change the font family name as I
+mentioned above, and save.
+
+If you’re using Dichotomy with custom HTML, this won’t work properly due
+to an oversight in versions up to 3.0 – but in that case I trust you can
+read [the diff fixing this
+problem](https://github.com/kxz/dichotomy/commit/d5ebe4b4e4a3626e8172967e9b0cac0d7f40775a)
+and make changes to the code accordingly.
+
+## Any questions?
+
+I hope this guide was reasonably clear, but if not, you can always send
+me e-mail or [grumble to me via Tumblr
+asks](http://blog.room208.org/ask).

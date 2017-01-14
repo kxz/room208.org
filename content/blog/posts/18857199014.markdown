@@ -1,0 +1,19 @@
+---
+created_at: 2012-03-06 19:45:54.000000000 +00:00
+tags:
+- programming
+- javascript
+---
+
+@[spinor](http://spinor.tumblr.com/), [on type behavior in
+JavaScript](http://spinor.tumblr.com/post/18839193970/the-surprisingly-elegant-javascript-type-model):
+
+> Prototype-based OO is pretty interesting. That said, orthogonally,
+> type coercion is still a bad idea.
+
+Type coercion is okay in some limited cases. Being able to write
+`"You have " + n + " cows"` for an integer `n` without having to
+explicitly convert it to a string first saves on obvious boilerplate. My
+primary issue with JavaScript’s coercion behavior is that it violates
+the principle of least surprise from here to next Sunday. (See [my
+earlier post on “Wat”](/post/16324633518).)

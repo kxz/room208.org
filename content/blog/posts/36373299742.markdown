@@ -1,0 +1,81 @@
+---
+title: evangelion-open-source/CHANGELOG
+created_at: 2012-11-23 20:36:32.000000000 +00:00
+tags:
+- programming
+- anime
+- neongenesisevangelion
+- morningtoncrescent
+---
+
+## 1.0pre
+
+After his plans for a new version of Royal Space Force get the kibosh,
+Hideaki Anno drowns his sorrows with a guy from King Records. He happens
+to come back home having just reached the Ballmer Peak. Struck by
+drunken inspiration, Anno bashes out the initial implementation of
+Evangelion while heavily intoxicated.
+
+## 1.0alpha1
+
+Sometime in 1994, Anno is finally happy enough with his work to put down
+an official-sounding version number. The ending is still a stub, but he
+figures he’ll get around to it eventually.
+
+## 1.0alpha2 through 1.0alpha5
+
+Resource leaks at Gainax, as well as some nutcases with bags of sarin,
+force Anno to perform several rewrites throughout 1995. Despite these
+setbacks, he remains confident in his progress, and announces a public
+beta will open in October.
+
+## 1.0beta1 (codename “Television Series”)
+
+First public release. Though he wants to release further alphas before
+opening up the code, Anno can’t bear to let his earlier schedule slip,
+and ultimately pushes out a beta in October as promised. Despite the
+unfinished ending implementation still lingering from the early alphas,
+Evangelion becomes wildly popular upon its release, and is incorporated
+into a large number of core anime libraries.
+
+## 1.0beta2 (“Death and Rebirth”); 1.0rc1 (“End”)
+
+Anno succumbs to scope creep, and goes back to add new features. He
+finally implements an ending in 1.0rc1, released in 1998, though he’s
+not quite happy with it.
+
+## 1.0rc2 (“Revival”)
+
+Anno rolls in a few patches to fix lingering bugs, and promises that 1.0
+is just around the corner.
+
+## That whole period between 1998 and 2006
+
+The project sits abandoned on SourceForge. Anno, in an apparent fit of
+boredom, moves on to writing new software, while downstream maintainers
+accumulate growing patchsets in an attempt to rectify Evangelion’s worst
+inconsistencies.
+
+## 1.0
+
+Anno sends the first message to the evangelion-announce mailing list in
+eight years, giving a 2007 release date for Evangelion 1.0 as if nothing
+had happened. Furthermore, he moves Evangelion onto a rapid release
+schedule, promising 2.0 and further versions in six-month rolling
+cycles, with a completely rewritten ending to arrive in 4.0.
+
+## 1.01
+
+To no one’s surprise, Anno pushes back 2.0’s release date to summer
+2009. In the interim, he puts out a maintenance release in April 2008.
+
+## 1.11
+
+Version 1.1 never sees the light of day, thanks to an April Fool’s Day
+hoax in *Newtype* involving a vacuum cleaner and an Asuka body pillow.
+Anno instead numbers the next release 1.11, which just adds to the
+confusion. Only later does he realize “1.2” might have been clearer.
+
+## 2.0
+
+I run out of software development jokes.

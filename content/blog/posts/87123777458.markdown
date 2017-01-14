@@ -1,0 +1,25 @@
+---
+title: Help break the latest version of Dichotomy
+url: https://github.com/kxz/dichotomy/tree/develop
+created_at: 2014-05-28 19:20:00.000000000 +00:00
+tags:
+- dichotomy
+- tumblr
+- theme
+- prereleaseplea
+---
+
+I’m getting ready to roll out a slew of changes as part of Dichotomy 4.0
+(*four* point oh!), and they need to be run through their paces. New
+features already implemented include support for background images and
+avatar display using Tumblr’s new [global appearance
+options](https://www.tumblr.com/docs/en/custom_themes#global_appearance),
+more streamlined layout settings, and hypoallergenic fairy dust. An
+improved responsive design that better adjusts to varying screen sizes
+is also on the cards. If you’d like to help out, visit
+@[dichotomy-test](http://tmblr.co/mm2Cvq0gJ47fGByOThZhYbQ){:.tumblelog}
+or slap the [raw
+HTML](https://github.com/kxz/dichotomy/raw/develop/dichotomy.html) into
+your theme editor, and report bugs either [on
+GitHub](https://github.com/kxz/dichotomy/issues) or [by dropping them in
+my ask box](http://blog.room208.org/ask). Thanks!

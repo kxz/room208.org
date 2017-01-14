@@ -1,0 +1,9 @@
+---
+created_at: 2012-06-20 01:07:04.000000000 +00:00
+tags:
+- theroadtofaust
+---
+
+Put the name of an anime character in my ask box and I’ll reply with
+five sentences of automatically generated lorem ipsum. Offer valid until
+Tumblr bans me for being a spambot.

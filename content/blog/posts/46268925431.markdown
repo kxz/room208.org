@@ -1,0 +1,28 @@
+---
+title: Dichotomy 2.1
+url: https://bitbucket.org/kxz/dichotomy/compare/v2.1..v2.0
+created_at: 2013-03-25 19:13:00.000000000 +00:00
+tags:
+- dichotomy
+- theme
+- tumblr
+---
+
+Updates to Elaborate Burn’s custom theme:
+
+-   Content Midground, which sets the background color for block quotes
+    and other elements, is no longer determined by a single text field,
+    but two separate color and opacity fields. This makes changing the
+    setting easier for users unfamiliar with CSS.
+
+    (Tumblr only recently added the `{RGBcolor:}` theme tag that makes
+    this possible. It outputs colors as an RGB triplet in the form
+    `123,45,67`, instead of the default hex `#7b2d43` given by
+    `{color:}`.)
+
+-   The base font size for narrow viewports, such as mobile devices, has
+    been increased from 14px to 18px for ease of reading.
+
+-   The default link to Tumblr’s archive page can now be hidden.
+
+-   Largely meaningless version numbers have been added.

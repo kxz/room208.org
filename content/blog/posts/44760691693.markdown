@@ -1,0 +1,18 @@
+---
+created_at: 2013-03-07 03:49:00.000000000 +00:00
+tags:
+- tumblr
+- whinybugzilla
+- userinterfacedesign
+- webdev
+---
+
+I don’t know how I forgot to mention this in [my litany of complaints
+about the new photo uploader](http://blog.room208.org/post/44466178540),
+but here’s another glaring flaw: Clicking “Preview this post” will
+sometimes disable all of the save buttons, meaning that you’ll have to
+either start a new post or hack away at the form in a DOM inspector to
+actually publish what you were previewing.
+
+Oh, who am I kidding? Nobody actually bothers looking at their posts
+before they publish them anyway. \*cough\*

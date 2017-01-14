@@ -1,0 +1,29 @@
+---
+created_at: 2013-04-09 14:27:56.000000000 +00:00
+tags:
+- tumblr
+- theme
+- epistolaryexpedition
+---
+
+Dear Tumblr,
+
+Thank you for adding this new “sticky iframe” that repositions itself
+with JavaScript whenever I scroll the page. Until now, I hadn’t grasped
+why the blog controls needed to be at the top right of the viewport at
+all costs, but now I understand that that space is sacred. It belongs to
+you, and you alone!
+
+Just kidding. I [modified two lines of
+CSS](https://bitbucket.org/kxz/dichotomy/compare/60b0c60..fe60d85#diff)
+in order to restore the original behavior, leaving the JavaScript that
+does iframe position checks twice every second functionally inert.
+
+Meanwhile, [theme localization is still fundamentally
+broken](http://blog.room208.org/post/17756259414), but who has the time
+to think about all that?
+
+Still, you know, these changes would bother me less, even annoying and
+unnecessary as they are, were they at least *documented* somewhere.
+
+~if

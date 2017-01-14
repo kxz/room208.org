@@ -1,0 +1,17 @@
+---
+title: '"But what if I''m making paper?"'
+created_at: 2014-01-16 02:51:00.000000000 +00:00
+tags:
+- programming
+---
+
+Places where I won’t mind if you misspell *calendar*:
+
+-   Handwritten notes
+-   Text messages
+-   Blog posts
+-   Hastily written e-mails
+
+Places where I’ll damn well mind if you misspell *calendar*:
+
+-   Function names in a date/time API

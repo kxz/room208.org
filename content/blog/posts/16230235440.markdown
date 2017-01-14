@@ -1,0 +1,13 @@
+---
+created_at: 2012-01-21 16:19:00.000000000 +00:00
+tags:
+- anime
+- music
+- amagami
+---
+
+<%= render '/blog/_youtube.haml', id: '_Vt5mshB3zM' %>
+
+The <cite>Amagami SS+</cite> opening lays on enough vocal filters to
+make me think GLaDOS is on the mic. How does anyone consider this
+listenable?

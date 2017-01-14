@@ -1,0 +1,33 @@
+---
+created_at: 2014-02-18 15:53:00.000000000 +00:00
+tags:
+- servantxservice
+- video
+- music
+- anime
+---
+
+<%= render '/blog/_video.haml', url: '/blog/media/tumblr_n15j2dDEcX1qim2zw.mp4' %>
+
+Anime opening and closing sequences are usually rather perfunctory; even
+good music can’t mask the fact that they’re mostly there to put a bunch
+of names in front of your face. *Servant × Service* is one of those rare
+series that manages to buck this trend with an opening animation that’s
+actually compelling in its own right. The sequence smoothly incorporates
+the credits and characters into a dynamic version of the show’s office
+locale that mixes animation and photography – on the one hand
+reinforcing the environment, on the other literally physically
+deconstructing it with reckless whimsical abandon. The use of
+natural-looking typography not only keeps the text of the credits from
+sticking out like a sore thumb, but also leaves the show’s distinctly
+human mark on a setting that is often bland and impersonal. Backed by
+peppy theme music sung by the female voice cast, the opening does a
+perfect job of establishing the show’s lighthearted, comedic tone. It’s
+something to look forward to at the beginning of every episode, unlike
+most of its largely skippable anime credit brethren, and no less than an
+integral part of *Servant × Service*’s charm. Future animators, take
+note.
+
+(Aside: Surely the entire reason you save a post as a draft is to revise
+it later, right? Then why in the world does Tumblr hide the “Edit”
+command for drafts behind an opaque gear menu?)

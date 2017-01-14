@@ -1,0 +1,17 @@
+---
+title: The definitive guide to forms based website authentication
+url: http://stackoverflow.com/questions/549/the-definitive-guide-to-forms-based-website-authentication/477578#477578
+created_at: 2013-05-22 04:19:42.000000000 +00:00
+tags:
+- webdev
+- authentication
+---
+
+Stack Overflow’s community-written guide on how to properly implement
+cookie-based authentication. Count how many best practices your favorite
+website doesn’t adhere to, then despair as you realize that this list
+doesn’t even touch on things like
+[CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery).
+
+(My posting this totally has nothing to do with anything I might have
+read about five minutes ago on my dashboard.)

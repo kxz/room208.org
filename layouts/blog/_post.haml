@@ -1,5 +1,11 @@
 %article
-  = render "/blog/_#{@item[:type] || 'text'}.haml"
+  - if @item[:title]
+    %h1
+      - if @item[:url]
+        %a{href: @item[:url]}= h @item[:title]
+      - else
+        = h @item[:title]
+  = @item.compiled_content
   %footer
     %dl
       %dt Posted

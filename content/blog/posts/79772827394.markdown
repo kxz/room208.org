@@ -1,0 +1,22 @@
+---
+title: Dichotomy 3.1
+url: https://github.com/kxz/dichotomy/releases/tag/v3.1
+created_at: 2014-03-16 16:48:00.000000000 +00:00
+tags:
+- dichotomy
+- theme
+- tumblr
+---
+
+This version of Dichotomy forces a fixed container width even for pages
+with narrow content, adds support for Google Analytics’ Universal
+Tracking snippet, and resolves a couple of other minor issues.
+
+Who knows when this version will be available through the Tumblr Theme
+Garden. I can apparently push changes through GitHub, but if I try to
+update the theme description Tumblr complains about “invalid theme
+HTML.” I’m guessing they don’t mean “invalid” the same way the W3C does,
+because Tumblr mangles the markup so badly that [it’s literally
+impossible to have a blog with valid
+HTML](http://validator.w3.org/check?uri=http%3A%2F%2Fsafe.txmblr.com%2Ftheme%2Fpreview%2F38335).
+Sigh.

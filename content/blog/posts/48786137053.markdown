@@ -1,0 +1,17 @@
+---
+created_at: 2013-04-24 18:08:00.000000000 +00:00
+tags:
+- gif
+- yuyushiki
+- imagemagick
+- anime
+---
+
+![](/blog/media/tumblr_mlruee76Dp1qim2zwo1_500.gif)
+
+Also from *Yuyushiki* episode 3. I did [some fiddling with
+ImageMagick](https://gist.github.com/anonymous/5454118) in order to make
+the image loop seamlessly, as the original video doesn’t have Yuzuko and
+Yukari ducking back behind the bed.
+
+Tumblr’s error messages continue, as always, to be totally unhelpful.

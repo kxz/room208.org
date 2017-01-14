@@ -1,0 +1,17 @@
+---
+created_at: 2013-06-05 14:59:58.000000000 +00:00
+tags:
+- theroadtofaust
+---
+
+@[spinor](http://spinor.tumblr.com/) writes:
+
+> I've always liked the 14th Amendment.
+
+[Google Reader
+alternatives](http://getgini.com/google-reader-alternatives): The title
+of this website reminds me first of the [Gini
+coefficient](https://en.wikipedia.org/wiki/Gini_coefficient), and it
+makes me think that income inequality is somehow correlated with which
+RSS reader people use. Time to put on my amateur
+sociologist/technologist goggles.

@@ -1,0 +1,20 @@
+---
+created_at: 2012-02-05 18:53:41.000000000 +00:00
+tags:
+- anime
+- noitamina
+- blackrockshooter
+---
+
+<%= render '/blog/_youtube.haml', id: '7dfA4SUFbfA' %>
+
+Takanori Aki of Good Smile Company and Hiroaki Matsuura of Sanzigen talk
+about the 3D CG process used in <cite>Black Rock Shooter</cite> on last
+week’s edition of the NHK World program
+[<cite>imagine-nation</cite>](http://www3.nhk.or.jp/nhkworld/english/tv/imagine/archive201201270800.html).
+The refinements shown here do seem blindingly obvious in hindsight, but
+I’m glad to see them starting to make their way into the mainstream.
+
+Via [a post by
+Kagayaki](http://forums.animesuki.com/showpost.php?p=3986584&postcount=411)
+on the AnimeSuki forum.

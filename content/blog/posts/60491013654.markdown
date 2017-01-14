@@ -1,0 +1,14 @@
+---
+created_at: 2013-09-06 23:50:34.000000000 +00:00
+tags:
+- anime
+- screencap
+- servantxservice
+---
+
+![](/blog/media/tumblr_msqa8a0oPp1qim2zwo1_1280.jpg)
+
+**FIGURE 8.16:** Humans generally exhaust their execution stack much
+more rapidly than computers do.
+
+(*Servant × Service*, episode 10.)

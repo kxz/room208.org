@@ -1,0 +1,53 @@
+---
+title: Phusion Passenger and nginx location blocks
+created_at: 2012-03-23 02:53:00.000000000 +00:00
+tags:
+- nginx
+- phusionpassenger
+- rubyonrails
+- bangheadhere
+---
+
+I spent much of yesterday getting [Danbooru](http://trac.donmai.us/) set
+up for [the new Room 208 imageboard](https://room208.org/booru/), and
+one issue in particular wasted a lot of my time. I had nginx configured
+to serve requests to the Danbooru directory through Phusion Passenger,
+using the `passenger_base_uri` directive. No matter what combination of
+settings I tried, however, Passenger invariably refused to start up.
+This in turn meant that requests bounced into the application’s
+`public/` directory, leaving me with a 403 when I tried to access the
+board’s index page.
+
+Now, I’d read somewhere that if a server has a `location /` block, the
+`passenger_enabled` directive has to go inside of it, instead of
+`server`:
+
+    # Doesn't work
+    server {
+        # ...
+        root /my/www/dir;
+        passenger_base_uri /booru;
+        location / {
+            passenger_enabled on;
+        }
+    }
+
+Problem was, of course, that this piece of advice didn’t help, because I
+had no such block for that server. It turns out, though, that if a
+directory specified in `passenger_base_uri` has a corresponding
+`location` block, `passenger_enabled` must be specified *there*:
+
+    server {
+        # ...
+        root /my/www/dir;
+        passenger_base_uri /booru;
+        location /booru/ {  # note path change
+            passenger_enabled on;
+        }
+    }
+
+In short, if you have a `location` block corresponding to the root URL
+of a Passenger application, `passenger_enabled` belongs inside it. Hope
+this keeps at least one other person from self-harm.[^1]
+
+[^1]: No, I didn’t really.

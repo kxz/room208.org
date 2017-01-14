@@ -1,0 +1,20 @@
+---
+created_at: 2015-04-05 04:23:14.000000000 +00:00
+tags:
+- tumblr
+- webdev
+- followeroutreach
+---
+
+An anonymous correspondent writes:
+
+> I'm having issues with your most recent tutorial on changing post
+> types because there never seems to be a request made to
+> svc/post/update, even though I am recording requests and responses
+> when saving the post and have tried many times. Any ideas? It's a text
+> post. Thanks for your time.
+
+I’m not sure what might be causing this, so here’s one random guess –
+have you tried making a dummy change to the post before saving? If there
+are no changes, the dashboard code may detect that nothing’s changed and
+not bother making a request.

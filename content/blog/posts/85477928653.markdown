@@ -1,0 +1,101 @@
+---
+title: Transform any text into a patent application
+url: http://lav.io/2014/05/transform-any-text-into-a-patent-application/
+created_at: 2014-05-12 00:59:00.000000000 +00:00
+tags:
+- software
+- morningtoncrescent
+- python
+---
+
+Sam Lavigne’s written a Python script that takes any text you feed it
+and massages it into something that looks like a patent application. You
+can see [what it does to the Communist
+Manifesto](http://saaaam.s3.amazonaws.com/communist.pdf), or peek at a
+sample of what it produces from this blog’s archives after the break.
+
+<!-- more -->
+
+> # An apparatus and device for planning to follow this spring
+>
+> ## ABSTRACT
+>
+> An apparatus and device for planning to follow this spring. The
+> devices comprise a 3.0 release, a central chamber, an original
+> television, an actual frame, a high bar, an interstellar pen, a
+> half-empty cup, a rapid release, an opaque gear, an intrinsic barrier,
+> a dark art, a break room, a common transport, and a Danbooru
+> directory.
+>
+> ## BRIEF DESCRIPTION OF THE DRAWINGS
+>
+> Figure 13 schematically illustrates the desirable qualities of said
+> hug.
+>
+> Figure 15 is an isometric view of an anime character in my ask.
+>
+> Figure 19 is a perspective view of an easy target for invasion and
+> enslavement.
+>
+> Figure 28 schematically illustrates the next decade of my life.
+>
+> Figure 42 is a cross section of the first episode of the new Black
+> Rock Shooter TV.
+>
+> Figure 47 schematically illustrates a veritable gold mine of loopable
+> animation.
+>
+> Figure 48 is an isometric view of the other offerings in noitaminA
+> this season.
+>
+> Figure 91 illustrates a good bit of romantic fantasy.
+>
+> Figure 92 is a schematic drawing of the new probe *Virtue* on a
+> low-period comet.
+>
+> Figure 101 is a perspective view of the HTML-safe version of the
+> caption.
+>
+> ## DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS
+>
+> The detailed description set forth below in connection with the
+> appended drawings is intended as a description of presently-preferred
+> embodiments of the invention and is not intended to represent the only
+> forms in which the present invention may be constructed or utilized.
+> The description sets forth the functions and the sequence of steps for
+> using the invention in connection with the illustrated embodiments.
+> However, it is to be understood that the same or equivalent functions
+> and sequences may be accomplished by different embodiments that are
+> also intended to be encompassed within the spirit and scope of the
+> invention.
+>
+> The present invention establishes his name as an anime. The invention
+> invented the idea of the value. The present invention shows no
+> indication that an image. The present invention decoding the video
+> from the begins. The device’s a step-by-step explanation of this
+> command. The present invention puts the kibosh on this problem. The
+> present invention feel in spite of the fact. The present invention
+> puts a completely unnecessary burden on the player. The device avoids
+> this kind of saves confusion. The device has the density of a block.
+> The present invention is a veritable gold mine of loopable animation.
+> The invention’s a GIF from the first episode. The invention strikes up
+> a relationship with a mysterious older woman.
+>
+> According to a preferred embodiment, the invention writing a post on
+> this commonality. The device write a long post about my favorite
+> anime. The invention has an italic without a bold italic. The present
+> invention takes a look at some downloadable web. The invention
+> sidesteps the problem of default system. The invention switches the
+> placement of posts and navigation. The device quotes that markup in
+> your post. The device sits in front of the computer. The invention
+> gets a good look at the screen. The present invention does some really
+> extreme stuff with the comms signal. The invention sends the drone
+> around with some coffee. The invention saves a post as a draft. The
+> invention is really something of an accident. The device takes an
+> internet hug without seeks counsel. The present invention received an
+> internet hug from the applicant. The device indicates the conduct of a
+> theoretical action. The present invention is devoured whole by an
+> invisible Burmese python. The invention undermined the emotional
+> narrative that the rest. The present invention constructs a visual
+> language with each installment. The present invention takes the
+> unreality of a witch. The device is just icing on the cake.

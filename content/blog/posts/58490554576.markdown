@@ -1,0 +1,46 @@
+---
+created_at: 2013-08-17 06:45:00.000000000 +00:00
+tags:
+- ffmpeg
+- glitch
+- morningtoncrescent
+- audio
+---
+
+<%= render '/blog/_audio.haml', url: '/blog/media/tumblr_mrnxghujPv1qim2zwo1.mp3' %>
+
+Did you know you can put (almost) arbitrary data into a WAV file’s PCM
+stream? It’s true, and the results sound as mechanical and unlistenable
+as you might expect. In the spirit of the old Everything2 node [“catting
+weird things to
+/dev/audio”](http://everything2.com/title/catting+weird+things+to+%252Fdev%252Faudio),
+here’s how I created this:
+
+    $ curl -s https://raw.github.com/knu/ruby-unf_ext/master/ext/unf_ext/unf/table.hh | \
+      ffmpeg -codec:a pcm_s16le -f s16le -ac 2 -i - -f wav output.wav
+
+A breakdown of the above FFmpeg invocation:
+
+-   `-codec:a` specifies the audio codec I want to use to decode the
+    input data. Here, we’re pretending the C++ header file I fetch using
+    `curl` is actually signed 16-bit little-endian PCM audio data. You
+    may also know this option as `-acodec`.
+
+-   `-f s16le` specifies the input file format, which in this case is
+    basically the same as the audio codec. This is necessary to make
+    FFmpeg understand that we’re providing it with raw data, and not
+    expect file headers or metadata or what have you.
+
+-   `-ac 2` tells FFmpeg to treat the input as having two audio
+    channels, in essence stereo audio. You can leave this off and get
+    mono audio; with the same data, it sounds like it’s being played at
+    half-speed.
+
+-   `-i -` means that the data is coming from standard input.
+
+-   `-f wav` specifies the output file format. You might be thinking,
+    “Wait, didn’t you already use `-f`?” Indeed I did. Options that come
+    before `-i` generally apply to the input stream, while options after
+    it apply to the output stream. Intuitive, huh?
+
+As is my usual admonition, don’t do this.

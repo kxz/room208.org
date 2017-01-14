@@ -1,0 +1,35 @@
+---
+created_at: 2014-03-13 20:43:35.000000000 +00:00
+tags:
+- linguistics
+- japanese
+- phonology
+- followeroutreach
+---
+
+[thefutureghost](http://thefutureghost.tumblr.com/)
+[writes](http://thefutureghost.tumblr.com/post/79430274609/i-think-i-really-like-tokkyuger-it-kind-of):
+
+> I have a question about Japanese. Why are some vowels just like not
+> pronounced? Like, “ichi” is spelled like that, but I don’t think I’ve
+> ever heard that second “i” pronounced. Or like “Yusuke” which sounds
+> like “Yoos-kay”, where the second “u” isn’t pronounced. Or “Asuka”.
+>
+> Are they just like really short vowels (vowel length) and technically
+> are pronounced but my English-speaking ears don’t hear it?
+
+The “traditional” analysis (see, e.g., T.J. Vance, *An Introduction to
+Japanese Phonology*, 1987), is that high vowels are devoiced or elided
+entirely between two voiceless consonants (/p/ /t(s)/ /ch/ /s(h)/ /k/
+/h/), or word-finally after affricates and fricatives (/s/ /sh/ /ch/).
+The apparent motivation for this would be assimilation to the vowel’s
+surrounding environment – it’s “easier” in some sense to pronounce three
+voiceless segments in a row than a “voiceless, voiced, voiceless”
+sequence. There are some differences on the particular phonological
+feature involved ([maybe it’s \[spread glottis\]
+instead?](http://link.springer.com/article/10.1023/A:1011221225072)),
+and [at least one
+study](http://hum2.leidenuniv.nl/ulcl/faculty/vdweijer/jvoice/maekawa.pdf)
+argues that this is a probabilistic occurrence rather than a
+hard-and-fast rule, affected by external circumstances – but that
+information is likely only of interest if you’re a phonologist.

@@ -1,0 +1,50 @@
+---
+created_at: 2014-03-12 02:56:00.000000000 +00:00
+tags:
+- webdev
+- css
+- tumblr
+- theme
+- followeroutreach
+---
+
+[noxki](http://noxki.tumblr.com/) [writes about Tumblr’s sticky
+controls](http://noxki.tumblr.com/post/79163920505/uncontrollable-tumblr-controls):
+
+> Anyway, work around is to make the selector more specific. This great
+> grill ([abandonmentprobability](http://blog.room208.org/)) — I’m
+> assuming you’re a grill since your blog says you’re an onee-chan. But
+> I also claim to be a cute little girl every now and then so I could be
+> wrong — does it by applying the styles to
+> `#tumblr_controls[src*="o.html"]` and
+> `#tumblr_controls.tumblr_sticky_iframe[src*="o.html"]` instead of just
+> the iframe ID. To think I was even considering of forcing it with
+> jQuery. 10 years of shame on me.
+
+I’m the onee-channiest onee-chan to ever onee-chan God’s green earth.
+
+But in all seriousness, selector specificity is only half the story
+here. Boring historical explanation follows for the rest of this
+paragraph: The fact that this still works is really something of an
+accident having to do with the `[src*="o.html"]` attribute selector. I
+originally put that in there to keep these rules from over-matching and
+glomming onto the control banner for mobile devices, which has a
+separate iframe URL and considerably different appearance. Tumblr’s own
+selector used to only have the frame ID and class, but now also has
+`html body` in front of it in what I presume is an attempt to keep
+themes from overriding the buttons’ placement. Fortunately for us,
+[attribute selectors are considered more specific than element
+selectors](http://www.w3.org/TR/selectors/#specificity), so all this
+still works.
+
+The other big, important aspect is that all of Dichotomy’s CSS rules
+regarding the Tumblr controls frame are defined with `!important`.
+Tumblr defines all of *its* rules (namely `position` and `top`) with
+`!important`, so unless we add that to our rules as well, we’ll get
+overridden even though our selector is more specific than theirs.
+
+I really wish Tumblr had the sense to treat things like this as parts of
+their theming API that are documented like anything else. (And for that
+API to be versioned. Can we get some [semver](http://semver.org/) up in
+here?) Until then, it’s hack after hack after hack to “fix” things that
+shouldn’t be broken in the first place.

@@ -1,0 +1,58 @@
+---
+title: It that easy is not
+created_at: 2012-02-17 06:42:00.000000000 +00:00
+tags:
+- l10n
+- programming
+- tumblr
+- theme
+---
+
+I’m not sure how long this has been around, but Tumblr [has some support
+for localizing themes](http://www.tumblr.com/docs/en/localizing_themes),
+which means that you can write a single theme that supports all of the
+languages that Tumblr does. At least that’s how it works in theory. I
+say this because strings like the following indicate that it’s not at
+all complete:
+
+    {lang:Posted on DayOfMonth Month Year}
+    {lang:Posted on Month DayOfMonth Year}
+
+I see things like this way too often, so let me say it loud and clear:
+**The order of date elements varies from language to language.**
+American English typically uses month-day-year (“February 17, 2012”),
+while in German the commonly accepted order is DMY (“17. Februar 2012”).
+A Tumblr theme can’t support both of these conventions without
+language-specific switching, which is what localization strings are
+supposed to eliminate in the first place.
+
+Japanese date support is especially bad, for two reasons. First, the
+order is invariably year-month-day, which Tumblr doesn’t even provide an
+option for. Second, Japanese and Chinese require the use of date
+component suffixes when writing out full dates: 年 for the year, 月 for
+the month, and 日 for the day of the month. (Korean does this as well,
+except with hangul spellings for the Chinese characters.) A
+properly-formatted date looks like this:
+
+    2012年2月17日
+
+Instead, at best, what Tumblr gives you is something like this:
+
+    17 2月 2012
+
+The incorrect order is obvious; the month is the only element that
+retains its suffix because it’s allowed to be an arbitrary string of
+characters, while the other components are required to be numeric.
+
+I don’t mean to rag specifically on Tumblr for this; it’s a problem I’ve
+encountered in numerous places, but one that stuck out to me here since
+I’ve been working on [Dichotomy](http://blog.room208.org/dichotomy) a
+little more lately. The proper solution is to have differing levels of
+detail for each template tag, not a specific order. Most operating
+systems have options for “short” (“2/17/2012”), “medium” (“February 17,
+2012”), and “full” (“Friday, February 17, 2012”) date formats, and I
+think that’s the best example to follow here.
+
+That’s all. I’ll leave the complaining about not having a template tag
+for ISO 8601 date formatting (which I need for `<time>`) for another
+day.

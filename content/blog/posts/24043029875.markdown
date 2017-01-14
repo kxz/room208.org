@@ -1,0 +1,23 @@
+---
+title: The Architecture of Open Source Applications
+url: http://www.aosabook.org/en/index.html
+created_at: 2012-05-30 03:22:51.000000000 +00:00
+tags:
+- programming
+- software
+---
+
+From the authors:
+
+> In these two books, the authors of four dozen open source applications
+> explain how their software is structured, and why. What are each
+> program’s major components? How do they interact? And what did their
+> builders learn during their development? In answering these questions,
+> the contributors to these books provide unique insights into how they
+> think.
+
+A fascinating read, especially when it comes to looking at applications
+that I myself use. The deeply-thought-out designs, like LLVM’s, are
+educational in and of themselves, but it’s also fun to see how programs
+that didn’t start out so well-architected have been forced to evolve
+over time to meet new demands. (MediaWiki, I’m looking at you.)

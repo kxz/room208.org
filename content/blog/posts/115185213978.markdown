@@ -1,0 +1,11 @@
+---
+created_at: 2015-04-01 04:38:45.000000000 +00:00
+tags:
+- tumblr
+- webdev
+- userinterfacedesign
+---
+
+<%= render '/blog/_video.haml', url: '/blog/media/tumblr_nm427zDp841qim2zw_720.mp4' %>
+
+Isn’t it great when your silly jokes cause UI bugs?

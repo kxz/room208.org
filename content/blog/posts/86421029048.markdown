@@ -1,0 +1,110 @@
+---
+title: Roll to dodge magical beam rifle
+created_at: 2014-05-21 17:51:19.000000000 +00:00
+tags:
+- madoka
+- magicalburst
+- dogsinthevineyard
+- roleplaying
+---
+
+Let’s talk about roleplaying games for a moment.
+
+For a little over a year now, I’ve been running a series of campaigns
+set loosely in the same world, one that started as a loose takeoff on
+*Puella Magi Madoka Magica*’s somewhere-after-modern urban take on the
+magical girl genre. I started out using the then-current third draft of
+Ewen Cluney’s [*Magical
+Burst*](http://yarukizerogames.com/tag/magical-burst/), which is openly,
+and visibly, inspired in large part by the *Madoka* TV series. The
+system, to its credit, captures the twisted, surreal aesthetics of the
+show’s universe quite well, with explicit mechanics detailing the
+deleterious effects of magic on the player characters’ mental and
+physical state. It essentially takes the aspect of *Madoka* that has the
+most immediate impact on its viewers, and turns it into a fairly
+straightforward tabletop game.
+
+<!-- more -->
+
+------------------------------------------------------------------------
+
+This first “season” of my campaign went pretty well, all told, but I
+ended up eventually switching away from *Magical Burst* for a number of
+reasons. Some of the problems simply stemmed from the system itself
+still being in a beta state, meaning that the rules had some major
+oversights that I had to patch as we went along. This by itself actually
+wasn’t all that much of an issue; after all, I didn’t have any
+expectations that something still labeled “third draft” would be
+perfect, and the unofficial [*Magical Burst ReWrite*
+project](http://tinyurl.com/MBRewrite) plugged some of the more glaring
+holes.
+
+The apparent conflict between my style of play and *MB*’s was harder to
+resolve. As someone with an obvious narrativist bent, I could only
+scratch my head at some of the things that *MB* required die rolls for.
+The relationship mechanics, in particular, were a constant source of
+bafflement for both myself and my players. As a result, even though the
+player characters often had complicated ties to the NPCs and to each
+other, none of that ended up mattering much when it came to the
+dice-rolling aspects of the game.
+
+*MB*, too, has a heavy emphasis on combat with witches (or *youma*, as
+the rulebook refers to them). Now, for a *Madoka*-like setting, this
+presents a narrative conundrum, because the original series portrays
+them mostly as forces of nature that the antagonists take advantage of,
+rather than as antagonists themselves. Their motivations are never all
+that clearly outlined, if they even exist to begin with. Witches mostly
+became a sideshow in my campaign as a consequence, existing so that the
+players had a chance to use their magic stats and pull off some cool
+moves every once in a while. Their real opponents were human more often
+than not, a case that *MB* handles awkwardly at best.
+
+Perhaps the most fundamental problem, though, lay not with *Magical
+Burst* per se, but just the unavoidable challenge of adapting *Madoka*
+to a roleplaying setting in the first place. What makes *Madoka*’s story
+memorable is arguably a combination of two things. The first is the
+sheer scale of its main conflicts, which take place on an almost
+cosmological level. The battles we see aren’t just battles between
+people; they’re representations of battles between *concepts* – emotion
+against logic, [emotion against
+itself](http://blog.room208.org/post/84717187433) – embodied as people.
+The second is *Madoka*’s willingness to constantly upend the apparent
+rules of its narrative, in a way that remains consistent with itself but
+not necessarily with the viewer’s expectations. Neither of these bode
+well for the ultimately character-driven, mechanical nature of your
+typical roleplaying game.
+
+------------------------------------------------------------------------
+
+These issues by themselves weren’t completely fatal to the *Magical
+Burst* incarnation of my campaign. Ultimately, though, it ended up
+floundering in the face of some player disagreements anyway, so I took
+the opportunity to go back to the drawing board. I knew that I wanted a
+system that put emphasis on the human element, which was already the
+focus of most of the conflict in the game, and perhaps dialed down the
+importance of witches and other supernatural entities. This would push
+me away from *Madoka*’s aesthetic, but, after the experience of a few
+games, it was becoming clear to me that the tension between characters
+with opposing goals was the most interesting thing that had emerged from
+the campaign. The vivid imagery could be left to our imaginations.
+
+Around that time, the suggestion of adapting *Dogs in the Vineyard* to
+our setting came up. Having run *Dogs* before, this was an idea that
+immediately appealed to me, especially in the way that its conflict
+system pushes characters’ motivations straight into the foreground. The
+biggest challenge, of course, was in swapping out the Mormon pioneer
+milieu of the original game for a magical girl facade, but this ended up
+being mostly a cosmetic change – fundamentally, the mechanics of the
+game haven’t been touched.
+
+So far, I’m mostly satisfied with how things have turned out. What the
+current version of my campaign lacks in explicitly supernatural
+goings-on, it makes up for by more firmly grounding the characters’
+respective struggles. The stronger sense of each character’s personality
+in turn informs the decisions the players make, and the plots that I
+construct. Most importantly, it feels less like a series of inexplicable
+things is happening *to* the characters; instead, they’re taking an
+active role in building the narrative, no matter how halting that might
+be from time to time. To me, that’s what makes a game interesting.
+
+And, hey, I can always have a witch bite one of their heads off later.

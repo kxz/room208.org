@@ -1,0 +1,52 @@
+---
+created_at: 2014-03-13 21:04:00.000000000 +00:00
+tags:
+- webdev
+- css
+- tumblr
+- followeroutreach
+---
+
+@[usgmr](http://usgmr.tumblr.com/) writes:
+
+> Woah, oneechan noticed me. haha. Anyway, right! Totally forgot to
+> include !important on the post. It sucks how they actually put this
+> into the whole DOM at all. I mean display: none !important works
+> alright without the hack bec their display attr doesn't have
+> !important. So does that mean they're alright with themes hiding it
+> but not repositioning it? And I wish on the documentation. It's not
+> even complete. {PermalinkPagination} and {ReblogURL} aren't even there
+> when they're so useful.
+
+It’s arguably impossible for Tumblr to keep someone from overriding
+their CSS, in this case. Practically speaking, there’s an infinitude of
+ways to make selectors more specific by matching on attribute values.
+The way I see it – and this is just my blind speculation – Tumblr’s
+motivation for choosing to override the rules they have is mostly driven
+by two practical considerations.
+
+First, they’d like to override older stylesheets that don’t take the new
+control style into account. People tend not to apply `!important` to
+their CSS declarations without a good reason, after all. So they pick
+the two rules that are most likely to be changed by themes, and change
+those back.
+
+After that, Tumblr wants to make it difficult enough to override the
+positioning that most developers won’t bother to do so, in what I
+presume are the interests of consistency. Hence the very specific
+selectors. I have to admit that if
+[Dichotomy](http://blog.room208.org/dichotomy)’s navigation wasn’t fixed
+in the top right corner of the viewport, I probably wouldn’t even have
+noticed.
+
+On the principle of it, though, I think this approach is entirely
+wrongheaded. I’d rather Tumblr make things like the controls an explicit
+part of theme customization, and simply encourage designers to take them
+into account when creating themes. The fact that they operate the Theme
+Garden gives them quite a bit of leverage in encouraging themes not to
+hide the standard controls – they [already do this for other aspects of
+a theme’s
+design](http://www.tumblr.com/docs/en/theme_submission_guidelines). The
+“my way or the highway” attitude doesn’t work well when, ultimately,
+you’re literally giving the user full control over the page’s
+stylesheets.

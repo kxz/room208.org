@@ -1,0 +1,59 @@
+---
+created_at: 2015-07-11 21:40:20.000000000 +00:00
+tags:
+- keyboardmashfiction
+- photo
+---
+
+<figure markdown="1">
+![](/blog/media/tumblr_inline_nrceoebMot1qhcb4p_500.jpg)
+</figure>
+
+Kei’s family lives in a bungalow in a nondescript residential
+neighborhood not far from Shinagawa Station. On this particular Friday
+afternoon, I’m watching as Kei roots through her closet. We’re the only
+ones at home for the moment. Kei’s father is working his desk job at a
+textile importer in Shinjuku, and the two boys, four and six years
+younger than Kei, are at school. Her mother, who would ordinarily be
+with us, is out to buy groceries.
+
+“Aha, found it,” Kei says, pulling a handheld electronic device out of a
+worn cardboard box stashed underneath a shelf of old clothes. The logo
+on the face reads “MISE 8400,” and it resembles a miniature version of a
+keyboard from the eighties. A two-line green LCD screen sits above the
+top row of keys. On the side is a 3.5-inch floppy drive. Kei randomly
+presses a few of the keys down with her free hand, which bounce back
+with a series of resounding clacks.
+
+MISE was one of the first manufacturers of these so-called pocket
+computers, a name that stuck even though pockets spacious enough to fit
+one were rare indeed. Most were capable of running basic programs
+written in an interpreted language called AIM, designed in the 1970s by
+academics attempting to create a teaching tool for new programmers. The
+8400 was released in 1986, at the height of MISE’s success. Over two
+million units were sold. Unfortunately for the Boston-based company, the
+rapid growth of the modern personal computer market during the 1990s
+essentially destroyed any future for pocket machines, and MISE
+eventually folded in 1997. Its remaining assets were bought by HP, who
+put the technology to use in their line of graphing calculators.
+
+Kei flips the 8400’s power switch back and forth a few times, to no
+visible effect. “I was kind of expecting this,” she says. “I haven’t
+touched this thing in a couple of years, so the batteries have probably
+gone bad.” She beckons me downstairs into the kitchen, where she pulls a
+pack of trusty AAs from a drawer. After putting in fresh juice, Kei
+tries to turn the computer on again, and sure enough, the front display
+lights up with a simple prompt: `READY` in blocky, all-capitals English.
+
+“I was only four or five when I first started playing with this, so I
+didn’t know any English words at all,” Kei tells me. “There was
+something magical about turning this box on and having it talk to me in
+a new language, like a kind of secret code.” She taps out the command
+`SAY INTDIAG()`, and presses the “Run” key: immediately, it responds
+with `ROM V2.52 02/15/91 800 K OK`. “Actually, it messed me up when I
+learned English in school later. I knew all these technical terms like
+‘initialize,’ but not more normal words.”
+
+“Were you ever teased about that?” I ask.
+
+“Not really,” Kei says. “I don’t think anyone else knew any better.”
