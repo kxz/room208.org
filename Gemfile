@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'nanoc', '~> 4.0'
+gem 'nanoc', '~> 4.3'
 
-gem 'haml', '~> 4.0'
+gem 'haml', '~> 5.0'
 gem 'kramdown'
 gem 'sass', '~> 3.2'
 gem 'uglifier'

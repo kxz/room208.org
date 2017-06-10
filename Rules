@@ -23,7 +23,7 @@ compile '/blog/{archive,tags}/**/*' do
 end
 
 compile '/blog/atom.haml' do
-  filter :haml, format: :xhtml, attr_wrapper: '"', ugly: true
+  filter :haml, format: :xhtml, attr_wrapper: '"'
 end
 
 compile '/blog/index.yaml' do
@@ -46,7 +46,7 @@ compile '/**/*.scss' do
 end
 
 compile '/**/*.haml' do
-  filter :haml, format: :html5, attr_wrapper: '"', ugly: true
+  filter :haml, format: :html5, attr_wrapper: '"'
   if item.identifier.to_s.start_with? '/error/'
     layout '/error.haml'
   elsif item.identifier.to_s.start_with? '/yackfest/'
@@ -112,4 +112,4 @@ route '/**/*' do
   end
 end
 
-layout '/**/*', :haml, format: :html5, attr_wrapper: '"', ugly: true
+layout '/**/*', :haml, format: :html5, attr_wrapper: '"'
