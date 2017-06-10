@@ -1,0 +1,310 @@
+---
+title: |
+    A quantitative reckoning of Koyomi Araragi’s effectiveness as a
+    protagonist, by ‘Monogatari Series’ arc
+created_at: 2017-06-10T20:40:05Z
+tags:
+- anime
+- bakemonogatari
+- monogatariseries
+---
+
+So one day I was sitting around, thinking that *Monogatari Series* seems
+to have one of the most useless main characters, well, ever. In terms of
+making his friends’ lives better, at least, even if he is a premier
+source of banter and horrifying losses of bodily integrity. In fact,
+Araragi seems to be the *source* of his friends’ troubles more often
+than not.
+
+Well, what better way to test this hypothesis than with numbers? We’ll
+give Araragi one point for every arc where the solution wouldn’t have
+happened without him, and take one away in each case where the problem
+et cetera as above. I’ll go in anime order.
+
+<table>
+<tbody>
+<tr>
+<th>Hitagi Crab</th>
+<td class="numeric"></td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3">
+Araragi introduces Senjougahara to Oshino. Let’s give him some credit.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Mayoi Snail</th>
+<td class="numeric"></td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3" markdown="span">
+None of the arc would happen without Araragi skulking around the park
+trying to avoid his family, and Hachikuji finally gets home and stops
+being so angry. Yes, Araragi isn’t very helpful when it comes to
+actually _finding_ the place, but let’s not nitpick.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Suruga Monkey</th>
+<td class="numeric negative">–1</td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+Not only would there be no problem in the first place but for Araragi,
+but his new girlfriend also has to save him from literal disembowelment.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Nadeko Snake</th>
+<td class="numeric"></td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3">
+You could loosely argue that Nadeko’s infatuation with Araragi is an
+indirect cause of the conflict, but it’s not essential.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Tsubasa Cat</th>
+<td class="numeric negative">–1</td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3" markdown="span">
+See _Suruga Monkey_, above, except replace “new girlfriend” with “new
+vampire shadow familiar.”
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Karen Bee</th>
+<td class="numeric"></td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+Araragi doesn’t do much here.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Tsukihi Phoenix</th>
+<td class="numeric"></td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+Or here!
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Tsubasa Family</th>
+<td class="numeric"></td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3" markdown="span">
+Eh, well, Araragi _kind of_ solves the problem with his sword fuckery.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Tsubasa Tiger</th>
+<td class="numeric negative">–1</td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3">
+Jealousy again, but at least Araragi shuts this one down hard.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Mayoi Jiangshi</th>
+<td class="numeric negative">–1</td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3">
+Fucks up the world, then unfucks it.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Nadeko Medusa</th>
+<td class="numeric negative">–1</td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+Definitely number one on the list of Araragi fuckups.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Shinobu Time</th>
+<td class="numeric negative">–1</td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+Araragi’s basically the sole reason Hachikuji sticks around for so long,
+and he refuses to let her pass on until the very end. Big minus.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Hitagi End</th>
+<td class="numeric"></td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+This arc is just the tail end of Nadeko Medusa. Though it’s tempting,
+it’s not really fair to penalize Araragi for the same thing twice.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Suruga Devil</th>
+<td class="numeric"></td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+No, Araragi’s little pep talk in the middle doesn’t count as essential.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Yotsugi Doll</th>
+<td class="numeric negative">–1</td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+I barely even remember what happens in this arc, but I do know it’s
+Araragi’s fault.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Ougi Formula</th>
+<td class="numeric"></td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+I guess Araragi could have spoken up, but why put that responsibility
+solely on him?
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Sodachi Riddle</th>
+<td class="numeric negative">–1</td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+You were supposed to notice sad Oikura in the corner!
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Sodachi Lost</th>
+<td class="numeric"></td>
+<td class="numeric"></td>
+</tr>
+<tr>
+<td colspan="3">
+Araragi doesn’t solve the problem. Really, nothing gets solved. This is
+a pretty tragic, difficult arc.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Shinobu Mail</th>
+<td class="numeric negative">–1</td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3">
+Jealousy yet again! Araragi really knows how to step on some toes, but
+at least he’s learning how to fix things.
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Koyomi Vamp</th>
+<td class="numeric"></td>
+<td class="numeric positive">+1</td>
+</tr>
+<tr>
+<td colspan="3">
+This arc is a pretty clear victory for Araragi. Well, if you ignore
+Hanekawa getting kidnapped, which he solves, so let’s call that part a
+wash.
+</td>
+</tr>
+</tbody>
+
+<tfoot>
+<tr>
+<th>Total</th>
+<td class="numeric negative">–9</td>
+<td class="numeric positive">+8</td>
+<td class="numeric">=</td>
+<td class="numeric negative">–1</td>
+</tr>
+</tfoot>
+</table>
+
+Hm. Uh… well, guess I was right.

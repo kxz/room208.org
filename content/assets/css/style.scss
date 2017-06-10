@@ -139,12 +139,65 @@ img, video {
   }
 }
 
+.negative {
+  color: #800;
+}
+
+.numeric {
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  white-space: nowrap;
+  width: 1px;
+}
+
 ol, ul {
   margin: 1em 0 1em 2.5em;
 }
 
 p {
   margin: 1em 0;
+}
+
+.positive {
+  color: #080;
+}
+
+table {
+  margin: -0.25em -0.5em 0;
+  border-spacing: 0;
+}
+
+tbody, tfoot {
+  &:nth-child(2n) {
+    th, td {
+      background-color: #eee;
+    }
+  }
+
+  tr:first-child {
+    th, td {
+      padding-top: 0.25em;
+    }
+  }
+
+  tr:last-child {
+    th, td {
+      padding-bottom: 0.25em;
+    }
+  }
+}
+
+td, th {
+  padding: 0 0.5em;
+}
+
+tfoot {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+th {
+  text-align: left;
 }
 
 
