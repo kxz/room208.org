@@ -1,0 +1,304 @@
+[24-Sep-2011 19:09:29]  * Motoko tentatively pokes head into the boys' apartment
+[24-Sep-2011 19:09:43]  <Motoko> Are you the only one here, Lou...?
+[24-Sep-2011 19:10:14]  <Lou> Loki went off to do... something.
+[24-Sep-2011 19:10:26]  <Lou> I didn't ask.
+[24-Sep-2011 19:10:39]  <Motoko> ...
+[24-Sep-2011 19:10:44]  * Motoko turns a little red at the thought
+[24-Sep-2011 19:11:23]  <Lou> Eh...
+[24-Sep-2011 19:11:37]  <Motoko> I guess it's for the better, right? Not like it'd be very conducive to studying...
+[24-Sep-2011 19:11:47]  <Lou> Right.
+[24-Sep-2011 19:12:32]  <Motoko> Anyway, I brought my books and everything, so, um, hope you don't mind my coming in...
+[24-Sep-2011 19:13:08]  * Motoko steps in tentatively and sets books on the nearest table
+[24-Sep-2011 19:13:10]  <Lou> Oh, no.  Thanks for this.  I'd rather not bother you if I could avoid it.
+[24-Sep-2011 19:13:32]  <Lou> Anyway, I'm sorry for having to ask basic questions, but I didn't have much time to learn Japanese, so I don't really know many kanji... I didn't realize that they were used this often.  It seems... inefficient.
+[24-Sep-2011 19:14:32]  <Motoko> You /are/ a high school student, after all.
+[24-Sep-2011 19:14:48]  * Lou looks quizzically at this
+[24-Sep-2011 19:14:55]  <Motoko> I don't know how they thought you'd be able to make it with a crash course like this, though.
+[24-Sep-2011 19:15:29]  <Motoko> It fits into their philosophy of doing everything as abruptly as possible, at least.
+[24-Sep-2011 19:15:58]  <Motoko> Well, let's see what's going on here...
+[24-Sep-2011 19:16:06]  <Lou> Ah.  Yes.  This NERV seems fast.
+[24-Sep-2011 19:16:08]  * Motoko takes Lou's homework sheet and sits at the table
+[24-Sep-2011 19:19:04]  <Motoko> "1. What were the major structural effects of the... the... ugh, Emergency Governmental Powers Re-estab... lishment Act of 2001?"
+[24-Sep-2011 19:19:24]  <Motoko> No wonder you couldn't read this...
+[24-Sep-2011 19:19:37]  <Lou> I've never heard of that...
+[24-Sep-2011 19:19:40]  <Motoko> And the question is so vague!
+[24-Sep-2011 19:20:16]  <Lou> So you didn't learn this at your former schooling?
+[24-Sep-2011 19:20:16]  * Motoko sighs
+[24-Sep-2011 19:21:13]  <Motoko> I /did/, but who has time to remember all of that?!
+[24-Sep-2011 19:21:16]  *** Jack|Cooking is now known as Jack|BRB
+[24-Sep-2011 19:21:20]  *** Jack|BRB <~JustAnoth@75-51-144-130.lightspeed.sntcca.sbcglobal.net> has quit IRC (Quit: Leaving)
+[24-Sep-2011 19:21:49]  <Lou> If we can't learn these things, why do they have us learn them?
+[24-Sep-2011 19:22:16]  <Motoko> Huh?
+[24-Sep-2011 19:22:18]  <Barcode> [[people learn when they are taught]]
+[24-Sep-2011 19:22:30]  <Motoko> Wait, I didn't mean that literally...
+[24-Sep-2011 19:22:35]  <Lou> Oh.
+[24-Sep-2011 19:23:32]  <Motoko> Anyway, the Re-establishment Act was passed after the asteroid strike.
+[24-Sep-2011 19:23:34]  <Lou> The government is what controls people.  If their powers had to be re-established, they must have been lost.  Right?
+[24-Sep-2011 19:23:58]  <Lou> Wait, is it "their" or "its" or some other pronoun.
+[24-Sep-2011 19:24:36]  <Motoko> That's not really all /that/ important...
+[24-Sep-2011 19:25:06]  <Motoko> If you're having trouble with it, just don't bother with it in the first place.
+[24-Sep-2011 19:25:17]  <Lou> Don't bother with pronouns?
+[24-Sep-2011 19:25:59]  <Lou> I don't want to speak ambiguously.  Ambiguity causes misunderstanding causes violence.
+[24-Sep-2011 19:26:02]  <Motoko> No, that's not what I... aagh, just go with your instinct!
+[24-Sep-2011 19:26:19]  <Lou> Sorry.  Okay.
+[24-Sep-2011 19:26:39]  <Lou> An asteroid strike, you said?  In 2001?
+[24-Sep-2011 19:26:49]  <Motoko> Or drag Mr. Ishii around and ask him every time you - I mean, never mind that. Don't actually do that, okay?
+[24-Sep-2011 19:27:30]  <Lou> I know that, people don't like being dragged around, and I don't like grabbing people.
+[24-Sep-2011 19:27:37]  <Motoko> Right, where was I... it was in 2000, wasn't it? You have to know that much, at least.
+[24-Sep-2011 19:28:36]  <Motoko> But most of the national government structure was wiped out, so it took a long time to stabilize.
+[24-Sep-2011 19:29:00]  <Lou> Right.  2000.  Right.  And that destroyed the government.  So the remains acted.  They must have restructured to not be so damaged in the case of more asteroids.
+[24-Sep-2011 19:29:31]  <Motoko> Well, I don't think more asteroids were really on their mind at that point...
+[24-Sep-2011 19:30:00]  <Motoko> I mean, I think they were more concerned with having something that functioned at all.
+[24-Sep-2011 19:30:49]  <Lou> Then the major structural effects would be an overall decrease in the structural elegance of the government.
+[24-Sep-2011 19:30:57]  * Lou uses several English words in the last sentence, not knowing the Japanese
+[24-Sep-2011 19:32:45]  <Motoko> "Structural elegance"...? Sorry, I don't realy follow...
+[24-Sep-2011 19:33:32]  <Motoko> 14English? Oh, right, American moonbase, right, right.
+[24-Sep-2011 19:34:28]  <Lou> Well, you implied that they prioritized quickly restarting government action over forming a system that was overall well made.
+[24-Sep-2011 19:34:37]  <Lou> [heh, he totally speaks French]
+[24-Sep-2011 19:35:47]  <Motoko> I don't think it was /bad/, but they didn't have time to get everything down perfectly...
+[24-Sep-2011 19:36:19]  <Motoko> This was before the Valentine's Day treaty was signed, after all. So there was still war...
+[24-Sep-2011 19:37:05]  <Motoko> Seems so strange, doesn't it? That we were born in the middle of global conflict, and now here we are going to high school just like nothing happened.
+[24-Sep-2011 19:37:44]  <Lou> People don't like things to be abnormal.  They snap back as soon as they can.
+[24-Sep-2011 19:38:12]  * Lou starts writing "Overall quickly poorly designed structure" in hiragana
+[24-Sep-2011 19:38:14]  <Motoko> Yeah...
+[24-Sep-2011 19:38:21]  * Motoko stares out the window at the fake underground sky
+[24-Sep-2011 19:39:25]  <Motoko> 14typing break
+[24-Sep-2011 19:39:36]  <Lou> [okay]
+[24-Sep-2011 19:39:51]  <Lou> [also I thought we were aboveground, we forgot to ask Solstace about that when Alkthash asked...]
+[24-Sep-2011 19:40:42]  <Barcode> iTt was mentioned yesterday
+[24-Sep-2011 19:41:00]  <Alkthash> He said it was above ground. The apartments at least.
+[24-Sep-2011 19:41:14]  <Alkthash> Probably the school and all other stuff not NERV related.
+[24-Sep-2011 19:42:20]  <Lou> [the sky was grey, like the color of a television tuned to an avant-garde film]
+[24-Sep-2011 19:43:22]  <Motoko> 14s/fake underground/real aboveground/, then
+[24-Sep-2011 19:43:28]  <Barcode> Heh.
+[24-Sep-2011 19:43:34]  <Motoko> Hey, Lou?
+[24-Sep-2011 19:43:42]  <Lou> hm?
+[24-Sep-2011 19:44:16]  <Motoko> What was life like for you before you came here? You haven't been living here your whole life, have you?
+[24-Sep-2011 19:45:18]  <Lou> I was in an American base.  I got here a few months ago.
+[24-Sep-2011 19:45:46]  <Motoko> A base?
+[24-Sep-2011 19:46:05]  <ponicalica> (Lou: Didn't someone use «the color of a television tuned to a dead channel» to mean blue in a recent book?)
+[24-Sep-2011 19:46:21]  <Lou> A NERV base, I mean.  Sort of like Cassie.
+[24-Sep-2011 19:46:38]  <Lou> [ponicalica: yes, I don't remember the author's name off the top of my head.  Gaiman maybe?  someone jokey]
+[24-Sep-2011 19:47:04]  <Motoko> Oh, so you've been living in these kinds of surroundings for your entire life...
+[24-Sep-2011 19:47:27]  <Lou> [ponicalica: http://project-apollo.net/headroom/manga/hed000.jpg]
+[24-Sep-2011 19:47:28]  <Omnipresence> 14URL: [project-apollo.net] JPEG image (568 × 729 pixels, 55.9 kilobytes)
+[24-Sep-2011 19:47:37]  <Lou> Something like this, yes.
+[24-Sep-2011 19:47:38]  <Barcode> [roll for deception lou!]
+[24-Sep-2011 19:47:53]  <Lou> [Hey, I haven't technically lied.
+[24-Sep-2011 19:48:04]  <ponicalica> [Lou: >kannada]
+[24-Sep-2011 19:48:05]  <Motoko> 14Barcode: It's not really deceptive, he hasn't outright lied yet except by omission
+[24-Sep-2011 19:48:36]  <Lou> They made me to fight Angels.  So that people like you wouldn't have to get involved, though here you are anyway.
+[24-Sep-2011 19:48:46]  <Lou> Er.  Made me fight.
+[24-Sep-2011 19:48:59]  <Motoko> 14subtle.
+[24-Sep-2011 19:49:00]  <Lou> [That probably doesn't actually work in Japanese, yeah hoo]
+[24-Sep-2011 19:49:30]  <Barcode> [you were speaking in english at the time, ez]
+[24-Sep-2011 19:49:32]  <Motoko> 14"they raised me to fight"
+[24-Sep-2011 19:50:26]  <Motoko> Mm... I just don't understand how they can expect us to do something like this now...
+[24-Sep-2011 19:51:05]  <Lou> I don't either.  I don't know why they're doing this to you.
+[24-Sep-2011 19:51:11]  <Motoko> I still haven't even finished school, and they want me to fight, without even a week's notice!
+[24-Sep-2011 19:52:15]  <Motoko> I thought my life was a little boring before, but this wasn't the solution I wanted!
+[24-Sep-2011 19:53:03]  <Lou> I'm sorry.
+[24-Sep-2011 19:53:18]  <Barcode> [/nick Barcode]
+[24-Sep-2011 19:53:21]  <Motoko> You know, they still haven't mentioned anything back home...
+[24-Sep-2011 19:53:57]  <Lou> Huh?
+[24-Sep-2011 19:57:19]  <Motoko> My mother called me, saying that Satsuki was wondering why I hadn't been to school for the past couple of days, and that she was bound not to tell her anything about where I am...
+[24-Sep-2011 19:57:51]  <Lou> They can't just say that the government needs you to be elsewhere?
+[24-Sep-2011 19:58:14]  *** Jackerel|Fallout <~Mibbit@75-51-144-130.lightspeed.sntcca.sbcglobal.net> has joined #MadokaMadness
+[24-Sep-2011 19:58:31]  <Motoko> Who knows? It's not my decision to make, is it?
+[24-Sep-2011 19:59:10]  <Lou> You might be able to talk to the Commander about it.  If they don't come up with something, people will get more suspicious.
+[24-Sep-2011 19:59:53]  <Motoko> That's not even what I'm really worried about... it's just...
+[24-Sep-2011 20:00:17]  <Lou> It's just what?
+[24-Sep-2011 20:00:55]  <Motoko> I can't even call her myself and tell her I'm all right...
+[24-Sep-2011 20:01:18]  <Lou> Oh.
+[24-Sep-2011 20:01:55]  * Motoko runs hand over eyes
+[24-Sep-2011 20:01:57]  <Lou> I suppose you couldn't just grab a phone somewhere, what with all the tracking, either.
+[24-Sep-2011 20:02:34]  * Motoko shakes head
+[24-Sep-2011 20:03:13]  <Motoko> I just don't want them to have that worry on their shoulders... constantly wondering what's happened to me...
+[24-Sep-2011 20:04:56]  <Motoko> ... sorry, this doesn't have anything to do with you. There's no reason to make this your problem... um, question 2, question 2...
+[24-Sep-2011 20:07:56]  <Motoko> 14Lou, you still alive?
+[24-Sep-2011 20:08:02]  <Lou> [yes]
+[24-Sep-2011 20:08:07]  <Lou> Um...
+[24-Sep-2011 20:08:54]  <Lou> After... 2003, what was... were... the inpact... voice blinding?  Restriction?
+[24-Sep-2011 20:10:48]  <Motoko> Oh, that's... "the impact of the communications censorship laws".
+[24-Sep-2011 20:11:09]  <Lou> Oh.  Yes.  Right.
+[24-Sep-2011 20:12:03]  <Motoko> That's the little eye picture at the beginning of television shows, right?
+[24-Sep-2011 20:12:42]  <Motoko> Saying "this content has been approved for dissemination by the Something-Something Committee"...
+[24-Sep-2011 20:12:46]  <Lou> They don't seem to have done a great job.  Unless Cassie's commercial was intentional.
+[24-Sep-2011 20:13:27]  <Motoko> Well, nobody's perfect...
+[24-Sep-2011 20:16:13]  <Motoko> I think they also nationalized the major media outlets?
+[24-Sep-2011 20:17:17]  <Lou> Mm, okay.
+[24-Sep-2011 20:17:24]  <Lou> Is this in the textbook?
+[24-Sep-2011 20:17:58]  <Motoko> Who knows? I haven't read it yet...
+[24-Sep-2011 20:22:36]  <Lou> It could make this easier.
+[24-Sep-2011 20:22:40]  <Lou> If I could read it...
+[24-Sep-2011 20:23:37]  <Motoko> Are you... /really/ going to be okay in classes?
+[24-Sep-2011 20:25:07]  <Lou> I don't know.  It doesn't really matter.  I'll just find a good two language dictionary somewhere.
+[24-Sep-2011 20:26:53]  <Motoko> Right, right... I'd offer to help, but I guess there's no need!
+[24-Sep-2011 20:27:15]  <Lou> Thanks for this.
+[24-Sep-2011 20:27:56]  <Motoko> Hmmmmmm...~?
+[24-Sep-2011 20:28:59]  <Lou> Uh.  Just.  Now.  Is all.
+[24-Sep-2011 20:29:04]  <Lou> [JACKEREL INFECTION KILL IT]
+[24-Sep-2011 20:29:17]  <Motoko> *exaggerated sigh* Fine, I suppose I don't have a choice...
+[24-Sep-2011 20:29:26]  <Jackerel|Fallout> (( >:D ))
+[24-Sep-2011 20:29:50]  <JBridge> $ Cassie's commercial?
+[24-Sep-2011 20:30:30]  <Barcode> [[the demolition thing which may or may not be canonical]]
+[24-Sep-2011 20:30:36]  <Motoko> Last question... "3. Name three reasons the newly reformed government chose Hakone as the location of its capital city (Tokyo-3)."
+[24-Sep-2011 20:30:52]  <JBridge> $ I don't think I've heard about this. I'll have to ask Alkthash later.
+[24-Sep-2011 20:31:01]  <Lou> Oh!  Because it wasn't sunken, right?
+[24-Sep-2011 20:31:09]  <Motoko> 14JBridge: https://omnipresence.atashi.org/tmp/adeptus-4.html#m-20110918203700184
+[24-Sep-2011 20:31:10]  <Omnipresence> 14URL: [omnipresence.atashi.org] 14Adeptus Evangelion session 4
+[24-Sep-2011 20:31:10]  <Alkthash> [Idea: After some pleading and resorting to various regulations loopholes Cassie manages to convince Yumi to give the pilots a day off. Off style pilot OP, or suggestion to Solstace for a breather episode?]
+[24-Sep-2011 20:31:24]  <Lou> ["OP"?]
+[24-Sep-2011 20:31:35]  <JBridge> $ Ah, right.
+[24-Sep-2011 20:31:44]  <Alkthash> [Jbridge - Cassie said it in character and Solstace didn't overrule it, so I'll assume it's canon]
+[24-Sep-2011 20:31:47]  <Barcode> [Alkthash: Well, depending on how long he rolled for the pilots to be off for....]
+[24-Sep-2011 20:31:50]  <JBridge> $ Heh.
+[24-Sep-2011 20:31:50]  <Alkthash> [RP, type]
+[24-Sep-2011 20:31:59]  <Alkthash> [typo]
+[24-Sep-2011 20:32:05]  <Motoko> 14Alkthash: I did imply an upcoming shopping trip to Shibuya-3 last session...
+[24-Sep-2011 20:32:33]  <Motoko> 14Lou: Hm, that does seem like an awfully important criterion...
+[24-Sep-2011 20:33:11]  * Motoko scribbles down "①  was not underwater" in notebook
+[24-Sep-2011 20:33:48]  <Alkthash> [True. I've just concluded that Cassie really hates high school and will find a way to dodge it. Either by playing hookey thanks to Jacqueline and Loki being bad influences or loophole abuse]
+[24-Sep-2011 20:34:13]  <Lou> Other than that... easy transport from elsewhere?  Maybe there was some kind of spontaneous provisional government there?  Er, here.
+[24-Sep-2011 20:35:34]  <Motoko> Ah, I remember my grandfather being mad that they didn't choose Kyoto.
+[24-Sep-2011 20:36:19]  <Motoko> It was the previous capital, before the Meiji era...
+[24-Sep-2011 20:38:53]  <Motoko> He said the only reason they chose Hakone was because of corruption in the national government.
+[24-Sep-2011 20:41:56]  <Lou> They might not want us to write that.
+[24-Sep-2011 20:44:06]  <Motoko> You're probably right... well, your answers sound as good as any.
+[24-Sep-2011 20:44:29]  <Lou> You don't seem very motivated to get this right.
+[24-Sep-2011 20:47:36]  <Motoko> The teachers usually don't mind as long as you're sort of correct, you know?
+[24-Sep-2011 20:48:01]  <Motoko> And to be honest, I don't think anyone *really* knows why Tokyo-3 is right here...
+[24-Sep-2011 20:48:03]  <Lou> Oh.
+[24-Sep-2011 20:49:18]  <Motoko> People don't bother to ask, anyway. It'd be like asking why the sky is blue.
+[24-Sep-2011 20:49:37]  <Motoko> It is where it is. I can live with that.
+[24-Sep-2011 20:49:50]  <Lou> But they can't, huh.
+[24-Sep-2011 20:50:01]  <Lou> Well, that does it for that, anyway.
+[24-Sep-2011 20:50:51]  <Motoko> Yeah, I guess that's everything...
+[24-Sep-2011 20:51:29]  <Motoko> 14JBridge, this is your cue to awkwardly barge in.
+[24-Sep-2011 20:51:52]  <JBridge> $ Sorry, I haven't been reading for about fifteen minutes or so.
+[24-Sep-2011 20:51:58]  <Motoko> 14Perfect.
+[24-Sep-2011 20:52:11]  <Motoko> Let me know if you need anything else, okay, Lou?
+[24-Sep-2011 20:52:13]  <Lou> [Context is for losers!]
+[24-Sep-2011 20:52:17]  <Lou> Yeah, sure.  Thanks again.
+[24-Sep-2011 20:52:21]  <JBridge> Loki opens the door.
+[24-Sep-2011 20:52:28]  <Alkthash> [Can Cassie join in too? I don't have anything better to do atm]
+[24-Sep-2011 20:52:58]  <Lou> Oh, you're back.
+[24-Sep-2011 20:53:01]  * Motoko looks up at the door, sees Loki with a large red bruise on his cheek
+[24-Sep-2011 20:53:07]  <JBridge> "That I am."
+[24-Sep-2011 20:53:10]  <Motoko> What did you...?
+[24-Sep-2011 20:53:11]  <JBridge> "Don't ask."
+[24-Sep-2011 20:53:15]  <Lou> [JBridge, I said Loki was off doing something else and Lou didn't ask what it was because it's Lo- oh, you're good]
+[24-Sep-2011 20:53:35]  * Motoko nods knowingly to self
+[24-Sep-2011 20:53:52]  <JBridge> "What's up?
+[24-Sep-2011 20:53:53]  <JBridge> "
+[24-Sep-2011 20:54:10]  <Motoko> Nothing much. We were just working on the assignment from today.
+[24-Sep-2011 20:54:33]  <Lou> Have you done it yet?
+[24-Sep-2011 20:54:36]  <Motoko> Actually, we just finished, so I'll let you two do whatever, all right?
+[24-Sep-2011 20:54:42]  <Motoko> See you later, Lou.
+[24-Sep-2011 20:54:48]  * Motoko messes up Lou's hair and walks out
+[24-Sep-2011 20:54:50]  <JBridge> "Assignment?"
+[24-Sep-2011 20:54:52]  <Lou> Yeah, bye- urk
+[24-Sep-2011 20:55:15]  * Motoko 14is entering observer mode
+[24-Sep-2011 20:55:28]  <JBridge> "Oh, right. Homework. Never much cared for the stuff."
+[24-Sep-2011 20:55:36]  <Lou> Uh.  Yes.  Recent events, I think is the term.
+[24-Sep-2011 20:55:42]  *** Jackerel|Fallout <~Mibbit@75-51-144-130.lightspeed.sntcca.sbcglobal.net> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[24-Sep-2011 20:55:50]  <JBridge> "Oh, this is going to be fun.
+[24-Sep-2011 20:56:20]  <JBridge> "Fuck it. Might as well get it over with."
+[24-Sep-2011 20:56:28]  <Lou> It's just three questions.
+[24-Sep-2011 20:57:15]  <JBridge> "is it? Well, that's good. Hopefully."
+[24-Sep-2011 20:57:34]  <JBridge> "Let's see... crap."
+[24-Sep-2011 20:58:14]  <JBridge> "I know nothing about this. I don't know much about American politics, let alone Japanese."
+[24-Sep-2011 20:58:27]  <Lou> Well, neither do I, but apparently it's okay to make things up.
+[24-Sep-2011 20:58:42]  <JBridge> "Only if it sounds like you know the answer."
+[24-Sep-2011 20:58:50]  <Barcode> [@Alkthash: Well, you are/were with Jacqueline, weren't you? then again so was loki, someone will ahve to untangle the canon for me]
+[24-Sep-2011 20:58:55]  <JBridge> "Not to mention that I can't read half these kanji."
+[24-Sep-2011 20:59:30]  <Lou> It's pretty easy to sound as if you're well-educated, or it would be if I could write, anyway.
+[24-Sep-2011 20:59:39]  <Motoko> 14What is it with all of you and kanji? :|
+[24-Sep-2011 20:59:44]  <Alkthash> [As far as I can tell Jacqueline dragged Cassie out the night before school]
+[24-Sep-2011 20:59:50]  <Barcode> [Oh.]
+[24-Sep-2011 21:00:18]  <Lou> [motoko: I thought they were the hard part of Japanese to learn.]
+[24-Sep-2011 21:00:20]  <JBridge> $ Loki's a weeaboo. He's known a couple random kanji for a good while, but didn't take up Japanese study until recently.
+[24-Sep-2011 21:02:43]  <Barcode> [is the ツ in ¯\_(ツ)_/¯ kanji?]
+[24-Sep-2011 21:02:49]  <Lou> [no]
+[24-Sep-2011 21:02:56]  <Barcode> [I was gonna say, it's korean isn't it]
+[24-Sep-2011 21:03:02]  <Barcode> [or wrong again?]
+[24-Sep-2011 21:03:02]  <Lou> [no]
+[24-Sep-2011 21:04:04]  <Lou> [it's katakana, shi]
+[24-Sep-2011 21:04:05]  <Motoko> 14@w tsu (kana) > Barcode
+[24-Sep-2011 21:04:06]  <Omnipresence> 14Barcode: Wikipedia: 14Tsu (kana)14: つ, in hiragana, or ツ in katakana, and the variant form ㋡, is one of the Japanese kana, each of which represents one mora. Both a... — http://en.wikipedia.org/wiki/Tsu_%28kana%29
+[24-Sep-2011 21:04:12]  <Lou> [or not]
+[24-Sep-2011 21:04:15]  <Barcode> [thx]
+[24-Sep-2011 21:04:31]  <Lou> [oh, the angle's different...]
+[24-Sep-2011 21:04:31]  <Barcode> [are kana different from kanji]
+[24-Sep-2011 21:04:34]  <Motoko> 14"shi" looks similar シ but the two dots are stacked above each other and the long stroke goes in the other direction.
+[24-Sep-2011 21:04:42]  <Barcode> [katakana*]
+[24-Sep-2011 21:05:04]  <Lou> [Kana (meaning katakana and hiragana) are syllabrys (sp), where kanji are logogrammatic]
+[24-Sep-2011 21:05:09]  <Motoko> 14hira- and katakana are syllabaries. kanji is an ideographic system, like Chinese characters.
+[24-Sep-2011 21:05:15]  <Barcode> [¯\_(シ)_/¯ ]
+[24-Sep-2011 21:05:17]  <Lou> [logographic]
+[24-Sep-2011 21:06:13]  <JBridge> $ Lolographic?
+[24-Sep-2011 21:06:44]  <Barcode> [legographic]
+[24-Sep-2011 21:07:00]  <Motoko> 14Lou, I'm lazy and conflate words all the time.
+[24-Sep-2011 21:07:15]  <Lou> [I was just correcting my spelling, I keep thinking it's "logogrammatic"]
+[24-Sep-2011 21:08:28]  <JBridge> $Right. Where were we?
+[24-Sep-2011 21:08:41]  <Barcode> [You walked in, looked at lou's homework which is also your homework]
+[24-Sep-2011 21:08:49]  <Barcode> [motoko left just about when you came in]
+[24-Sep-2011 21:09:32]  <JBridge> "Hrm."
+[24-Sep-2011 21:09:33]  <Barcode> [miss mackerel is nowhere to be found, I'm presumably asleep and/or sitting around trying to reconcile the freakout I had a few days(?) earlier]
+[24-Sep-2011 21:09:55]  <Barcode> [well i also have my own apartment at this point so]
+[24-Sep-2011 21:10:01]  <JBridge> "I can't just copy you- they'd notice that."
+[24-Sep-2011 21:10:14]  <Lou> My writing is distinctively bad, I'm sure.
+[24-Sep-2011 21:10:26]  <JBridge> "Likewise."
+[24-Sep-2011 21:11:25]  <JBridge> "The internet shall be my guide. A good search engine and machine translator will have to do."
+[24-Sep-2011 21:12:02]  <Lou> Well, good luck.
+[24-Sep-2011 21:12:08]  <Lou> If you can read the book, that might help...
+[24-Sep-2011 21:15:30]  <JBridge> Around half an hour later, Loki is finally done. Around half of that time was spent getting the grammar right.
+[24-Sep-2011 21:16:14]  <JBridge> "God damn, I feel like an idiot after that."
+[24-Sep-2011 21:16:14]  * Lou switched to writing in a personal notebook.
+[24-Sep-2011 21:16:27]  <JBridge> $ In Lunatic, I take it.
+[24-Sep-2011 21:16:54]  <Lou> [but of course]
+[24-Sep-2011 21:17:12]  <Motoko> 14JBridge: "romuluSngan Hol yIjatlh. He'So' QIchlIj."
+[24-Sep-2011 21:19:46]  <JBridge> $ Hm. I'm not sure where things go from here.
+[24-Sep-2011 21:19:54]  <JBridge> $ This would be a bad place to end, though.
+[24-Sep-2011 21:20:08]  <Lou> [Anyway, bam, anarchic session basically done and without sex jokes.  Take /that/, traditional notions of authoritarian RPing necessity!]
+[24-Sep-2011 21:20:17]  <Lou> [JBridge: Ninja with shotgun, or Alkthash]
+[24-Sep-2011 21:21:05]  <JBridge> $ Cassie has no reason to walk in, though. Maybe she needs help with homework as well?
+[24-Sep-2011 21:21:35]  <Motoko> 14Cassie runs in to report that Jackie's set her hair on fire.
+[24-Sep-2011 21:21:38]  <Lou> [she doesn't like homework. you could elaborate on your injury]
+[24-Sep-2011 21:21:48]  <JBridge> Oh yeah.
+[24-Sep-2011 21:22:03]  <JBridge> $ I don't have any idea what it might've been, though.
+[24-Sep-2011 21:23:12]  <Motoko> 14<Cassie> Oh my God, I didn't know Pilot Jacqueline hated hair dye that much!
+[24-Sep-2011 21:23:16]  <Lou> [Imaaaaaagination]
+[24-Sep-2011 21:23:23]  <Lou> [I'm liking this fire idea]
+[24-Sep-2011 21:23:42]  <JBridge> $ Loki would be the type to play with explosives.
+[24-Sep-2011 21:23:50]  <Lou> [Or you could just end with Loki staring at Lou]
+[24-Sep-2011 21:24:30]  <JBridge> "So Lou, what's your history?"
+[24-Sep-2011 21:25:03]  <Motoko> 14All right, I'm out for now. I'll put logs up later.
+[24-Sep-2011 21:25:18]  <JBridge> $ Danke.
+[24-Sep-2011 21:25:59]  <Lou> Uh, the same as yours?  What were the effects of the 2001 government restarting act, and the 2003 audio blinding act, and the Hakone...
+[24-Sep-2011 21:26:46]  <JBridge> "No, I meant you. What was your life like? What are your parents like? What kind of friends did you have before you moved here? That kind of thing."
+[24-Sep-2011 21:27:27]  <Lou> Why?
+[24-Sep-2011 21:27:49]  <JBridge> "I'd like to know more about my coworkers."
+[24-Sep-2011 21:28:48]  * Lou says warily, "I lived in an American base.  Probably like Cassie.  Most of the details are classified."
+[24-Sep-2011 21:29:29]  <JBridge> "OK. What were the people there like? Do you have any friends there?"
+[24-Sep-2011 21:30:49]  <JBridge> "Family?"
+[24-Sep-2011 21:31:04]  <Lou> ...I suppose they were the same as anybody anywhere, and I had a few friends.
+[24-Sep-2011 21:31:24]  <JBridge> "Tell me about them, then."
+[24-Sep-2011 21:33:06]  * Lou sits back a bit
+[24-Sep-2011 21:33:54]  <Lou> I think I knew somebody like you, now that I think about it.  He wasn't rich, but he generally leaped into things quickly like you do.
+[24-Sep-2011 21:34:20]  <JBridge> "Oh?"
+[24-Sep-2011 21:35:08]  <Lou> Yeah, he died... in training, I mean.  So you probably shouldn't act too much like him.
+[24-Sep-2011 21:35:18]  <JBridge> "...Ah."
+[24-Sep-2011 21:35:56]  <JBridge> Loki's expression becomes something decidedly unlike a grin.
+[24-Sep-2011 21:36:01]  <Alkthash> [We can have the Cassie needs help with homework thing, but that seems played out. I have another idea, if you guys will indulge it]
+[24-Sep-2011 21:36:07]  <Lou> [what?]
+[24-Sep-2011 21:36:12]  <Lou> [I was just going to end it]
+[24-Sep-2011 21:36:42]  <Alkthash> [Oh nvm. Cassie being herself wanted to invite the other pilots to synch training]
+[24-Sep-2011 21:36:51]  <Lou> [right-o]
+[24-Sep-2011 21:37:09]  <Barcode> [Isn't synch-training just a weekly occurrance set up by nerv?]
+[24-Sep-2011 21:37:11]  <Lou> Unpredictability is the Angels' nature.  Just don't get overconfident, and I'm sure you'll be fine...
+[24-Sep-2011 21:37:18]  <Lou> I'm going to go get the lay of the land.
+[24-Sep-2011 21:37:29]  <JBridge> "Taking a walk?"
+[24-Sep-2011 21:37:37]  <Lou> Yeah.
+[24-Sep-2011 21:37:37]  <Lou> /me puts his notebook in a desk and walks out
+[24-Sep-2011 21:37:52]  <JBridge> "See ya."

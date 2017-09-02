@@ -1,0 +1,1641 @@
+[11-Sep-2011 22:38:12]  <Gendo> GET LEADY!  
+[11-Sep-2011 22:38:14]  <Osip_Zhgun[Barcode]> unit four, ready
+[11-Sep-2011 22:38:15]  <Gendo> GET SET!
+[11-Sep-2011 22:38:19]  <Gendo> RET'S GO!
+[11-Sep-2011 22:38:19]  <Motoko> 準備できたよ
+[11-Sep-2011 22:39:25]  <Gendo> Okay, so, recap:  You guys know Angel is coming soon.  
+[11-Sep-2011 22:39:32]  <Gendo> You've been moved into your apartments.
+[11-Sep-2011 22:39:37]  <Lou> Yes, the melty one
+[11-Sep-2011 22:39:45]  <Gendo> Combat training is today.
+[11-Sep-2011 22:39:49]  <Cassie> Spoilers!
+[11-Sep-2011 22:39:52]  <Lou> Finally.
+[11-Sep-2011 22:39:58]  <Motoko> 何ですって？！
+[11-Sep-2011 22:40:06]  <Gendo> Motoko: Don't do that.
+[11-Sep-2011 22:40:09]  <Gendo> >:|
+[11-Sep-2011 22:40:19]  <Osip_Zhgun[Barcode]> [Combat training is ready? also, I am now retconned into a handler right]
+[11-Sep-2011 22:40:24]  <Motoko> Gendo: But we're still in metamode, right? :D
+[11-Sep-2011 22:40:26]  <Loki_Weyland> We're recording, I take it?
+[11-Sep-2011 22:40:30]  <Gendo> Osip_Zhgun[Barcode]: Yup.
+[11-Sep-2011 22:40:34]  <Loki_Weyland> Gotta look good for the chat logs!
+[11-Sep-2011 22:40:46]  <Gendo> Loki_Weyland: ???
+[11-Sep-2011 22:40:54]  <Lou> [Brackets are initiated]
+[11-Sep-2011 22:41:06]  <Lou> [Gendo: The prose adaption, which is due out on shelves in February]
+[11-Sep-2011 22:41:12]  <Lou> [*adaptation]
+[11-Sep-2011 22:41:14]  <Gendo> Oh.
+[11-Sep-2011 22:41:15]  <Osip_Zhgun[Barcode]> [who am I in charge of? Gents, I suppose?]
+[11-Sep-2011 22:41:23]  <Gendo> Osip_Zhgun[Barcode]: Yah.
+[11-Sep-2011 22:41:34]  <Osip_Zhgun[Barcode]> !roll 1d100
+[11-Sep-2011 22:41:34]  <GameServ> 56 == 56
+[11-Sep-2011 22:41:36]  <JackMackerel> Motoko: X-Chat doesn't have language logs, fuckass.
+[11-Sep-2011 22:41:46]  <Loki_Weyland> Pidgin does!
+[11-Sep-2011 22:41:51]  <JackMackerel> Pidgin sux.
+[11-Sep-2011 22:41:52]  <Osip_Zhgun[Barcode]> [great. so, I got 1 degree of failure on depression today. one sec]
+[11-Sep-2011 22:41:55]  <Loki_Weyland> And I'm pretty sure Motoko's recording stuff too.
+[11-Sep-2011 22:41:59]  <Motoko> JackMackerel: Language logs? What?
+[11-Sep-2011 22:42:00]  <Osip_Zhgun[Barcode]> [I mean continue but]
+[11-Sep-2011 22:42:01]  <Loki_Weyland> JackMackerel: It's what works for me.
+[11-Sep-2011 22:42:07]  <JackMackerel> I meant packs.
+[11-Sep-2011 22:42:10]  <JackMackerel> Shush, you.
+[11-Sep-2011 22:42:15]  <Loki_Weyland> No!
+[11-Sep-2011 22:42:26]  <Osip_Zhgun[Barcode]> !roll 1d5
+[11-Sep-2011 22:42:26]  <GameServ> 1 == 1
+[11-Sep-2011 22:42:33]  <Loki_Weyland> Ouch.
+[11-Sep-2011 22:42:36]  <Loki_Weyland> Or is that good?
+[11-Sep-2011 22:42:39]  <Osip_Zhgun[Barcode]> [okay. 2 hours of 1 fatigue due to depression. just fyi all~]
+[11-Sep-2011 22:42:44]  <Motoko> 14JackMackerel: It's not like you would understand anyway!
+[11-Sep-2011 22:42:53]  <Osip_Zhgun[Barcode]> [it was good. the d5 counts depression hours on top of my failure degrees]
+[11-Sep-2011 22:43:02]  <Gendo> So, combat training starts today.
+[11-Sep-2011 22:43:16]  <Gendo> You've gone through the daily motions and teasing and what all.
+[11-Sep-2011 22:43:27]  <Loki_Weyland> Right.
+[11-Sep-2011 22:43:39]  <Gendo> This scene starts in the changing rooms.  You're scheduled to do simulations inside the entry plugs today.
+[11-Sep-2011 22:43:41]  <Motoko> 14We're not roleplaying the teasing? But that's the best part!
+[11-Sep-2011 22:43:54]  <Gendo> Motoko: [I made allowances, see?]
+[11-Sep-2011 22:44:21]  <Osip_Zhgun[Barcode]> [Suppose I'm off somewhere else, then? just requiring coolant vest and all, or are we assuming some plugsuity application is required for the trident too / I mean, well, having to change with kids is a little]
+[11-Sep-2011 22:44:43]  <Cassie> [Love knows no age or gender!]
+[11-Sep-2011 22:44:55]  <Motoko> 14I forgot how much of my little Jackie/Loki thing was roleplay and how much was out-of-game teasing. It even rhymes, almost!
+[11-Sep-2011 22:44:57]  <Gendo> Osip_Zhgun[Barcode]: [I'll leave that up to you.  Did JBridge talk to you about TRIDENT stuff yet?]
+[11-Sep-2011 22:45:08]  <Loki_Weyland> No.
+[11-Sep-2011 22:45:09]  <JackMackerel> (Motoko: wat)
+[11-Sep-2011 22:45:13]  <Osip_Zhgun[Barcode]> [didn't hear anything. I made a little tech writeup, I mighta told you about it, Loki?]
+[11-Sep-2011 22:45:27]  <Loki_Weyland> Specifically, I need to know whether the TRIDENT is next to the EVAs in the Cages.
+[11-Sep-2011 22:45:36]  <Loki_Weyland> And yeah, you did tell me about it.
+[11-Sep-2011 22:45:52]  <Gendo> Osip_Zhgun[Barcode]: [I figured you're most knowledgeable for that >.>]
+[11-Sep-2011 22:45:53]  * JackMackerel spins that damn knife of hers, whistling Twisted Nerve, already dressed and watching the other ladies.
+[11-Sep-2011 22:46:01]  <Osip_Zhgun[Barcode]> [ :3 ]
+[11-Sep-2011 22:46:15]  <Loki_Weyland> $ Oh, right. We're in character now.
+[11-Sep-2011 22:46:19]  <Loki_Weyland> $ Sorry!
+[11-Sep-2011 22:46:19]  <Cassie> "Jaqueline... do you wear your plug suit under your normal clothes?"
+[11-Sep-2011 22:46:20]  * Lou is also ready and waiting.
+[11-Sep-2011 22:46:30]  <Osip_Zhgun[Barcode]> [Oh, those like padded cell rooms? it seems like it'd do better in a hangar - it doesn't really have to be contained, it's a machine.]
+[11-Sep-2011 22:46:33]  * Loki_Weyland is in his plugsuit and ready.
+[11-Sep-2011 22:46:45]  * Motoko is already dressed, somehow14, because I don't know what's going on so I thought that would be expedient
+[11-Sep-2011 22:46:52]  <Loki_Weyland> Well, as ready as I'll ever be for that torture.
+[11-Sep-2011 22:47:05]  <Lou> Is it that bad?
+[11-Sep-2011 22:47:18]  <Gendo> [I don't think I'll detail the torture again.  Because I'm kind of lazy right now >.>]
+[11-Sep-2011 22:47:32]  <Loki_Weyland> $ Heh.
+[11-Sep-2011 22:47:46]  <JackMackerel> "Er... what?"
+[11-Sep-2011 22:48:19]  * JackMackerel blinks. "I just finished dressing, or did something happen with your perception of time...?"
+[11-Sep-2011 22:48:23]  <Osip_Zhgun[Barcode]> [I don't think even NERV would be okay with me changing with the kids but I guess we could say for ease of RPing I need some sorta plugstylesuit to map my actions to the TRIDENT's. but I also don't need synch tests]
+[11-Sep-2011 22:48:35]  <Osip_Zhgun[Barcode]> [I mean it'sj ust like a public pool changing room right]
+[11-Sep-2011 22:48:45]  <Cassie> "Just how you got dressed so fast... sorry pilot Jaqueline, I wasn't paying attention.
+[11-Sep-2011 22:48:45]  <Motoko> 14$x^\frac{1}{2}$
+[11-Sep-2011 22:48:50]  <Gendo> Osip_Zhgun[Barcode]: [Yeah, pretty much.]
+[11-Sep-2011 22:49:16]  <Osip_Zhgun[Barcode]> [yeah, fuck it then. TRIDENT has a buncha biometric bullshit that plugs into a plugsuitlike apparatus. No mechwarrior-ripping-off neurohelmet-only stuff I guess]
+[11-Sep-2011 22:49:33]  <Loki_Weyland> $ Cyberbrains!
+[11-Sep-2011 22:49:44]  <Loki_Weyland> "So, we all ready to go?"
+[11-Sep-2011 22:49:45]  * Osip_Zhgun[Barcode] quietly changes into his synch-suit. [there because I had to be different]
+[11-Sep-2011 22:50:04]  <Cassie> "As ready as Unit-14 will let me be"
+[11-Sep-2011 22:50:15]  <Osip_Zhgun[Barcode]> "Waiting on you all."
+[11-Sep-2011 22:50:26]  <Loki_Weyland> "I like these things. Feels like I'm wearing a space suit. In some sense, I guess I am."
+[11-Sep-2011 22:50:33]  <Motoko> Yes, almost. I feel like I missed the entire morning, you know...?
+[11-Sep-2011 22:50:46]  <Loki_Weyland> Not much happened.
+[11-Sep-2011 22:50:47]  <JackMackerel> "You can scratch through 'em, too!"
+[11-Sep-2011 22:51:16]  <Lou> Ready...
+[11-Sep-2011 22:51:16]  <Loki_Weyland> Get up, eat breakfast, go to synch testing. It'll all probably become routine later on.
+[11-Sep-2011 22:51:36]  <Gendo> Okay, moving on then!
+[11-Sep-2011 22:51:37]  <Osip_Zhgun[Barcode]> "It shall."
+[11-Sep-2011 22:51:44]  <JackMackerel> "Hurry up 'n wait."
+[11-Sep-2011 22:51:46]  <Osip_Zhgun[Barcode]> [yes go ahead]
+[11-Sep-2011 22:52:04]  <Loki_Weyland> Loki starts running toward his EVA, mostly out of impatience.
+[11-Sep-2011 22:52:20]  <Gendo> So, you all go through the excruciating, and questionably necessary decontamination process again.
+[11-Sep-2011 22:52:29]  <Cassie> "You are familiar with procedure zero pilot Jaqueline?" asks Cassie, feebly attempting to make a joke.
+[11-Sep-2011 22:52:33]  <Loki_Weyland> $Oh, right. Forgot that bit.
+[11-Sep-2011 22:52:57]  <Osip_Zhgun[Barcode]> [are the evas in a huge hangar then? and are we doing training today? if not I guess I'll just say I had to do some stomping around in the TRIDENT for the day. maintaining skills nad all]
+[11-Sep-2011 22:52:58]  <Gendo> And yup, free range to your Evas now.
+[11-Sep-2011 22:53:07]  <Osip_Zhgun[Barcode]> [wheeeeeeee]
+[11-Sep-2011 22:53:09]  <JackMackerel> "No, what's that~?"
+[11-Sep-2011 22:53:20]  <Cassie> "Hurry up and wait."
+[11-Sep-2011 22:53:39]  <Loki_Weyland> "My favorite military saying."
+[11-Sep-2011 22:53:52]  * Osip_Zhgun[Barcode] wordlessly walks to his TRIDENT and [do we climb ladders or. whatever, I get in whenever everyone else does :P]
+[11-Sep-2011 22:53:58]  * Motoko tries to shake chemical feeling out of hair
+[11-Sep-2011 22:54:32]  <Gendo> "Today, we've hooked the Eva's system into a computer simulation, so that you can familiarize yourselves with the feel of synching with an Eva and to get a realistic grasp of the Evangelion's motor functions"
+[11-Sep-2011 22:54:33]  * Lou enters his Eva silently
+[11-Sep-2011 22:54:40]  <Cassie> Cassie runs over to Unit-14 and scrambles in, waiting for instructions.
+[11-Sep-2011 22:55:00]  <Motoko> Oh, I actually get a simulation...? That's a pleasant surprise...
+[11-Sep-2011 22:55:03]  <Gendo> Osip_Zhgun[Barcode]: [Yeah, ladders are kind of necessary].
+[11-Sep-2011 22:55:18]  <Osip_Zhgun[Barcode]> [hangar elevators!]
+[11-Sep-2011 22:55:19]  <Loki_Weyland> Loki climbs into the eva.
+[11-Sep-2011 22:55:22]  <JackMackerel> "Ah..."
+[11-Sep-2011 22:55:29]  <Lou> [Ladders are the true power of mankind!]
+[11-Sep-2011 22:55:51]  <Motoko> Weren't we on the verge of destruction or something? Or is that... is time dilation involved somehow?
+[11-Sep-2011 22:55:55]  * JackMackerel clambers in, avoiding such outmoded things like "ladders" or "not remembering this isn't Assassin's Creed".
+[11-Sep-2011 22:56:22]  <Lou> All the more reason to get you trained as soon as possible, right?
+[11-Sep-2011 22:56:24]  * Osip_Zhgun[Barcode] begins attaching the various biometric feedback jacks into his suit. He staves off the preliminary startup checks as the machine is to be running in simulation mode.
+[11-Sep-2011 22:56:25]  <Gendo> As soon as each of you enters your Eva, and gets seated, the Plugs seal off and fill with LCL.
+[11-Sep-2011 22:56:43]  * Motoko 14is forced into Eva by the power of Gendo's narration!
+[11-Sep-2011 22:57:00]  <Loki_Weyland> "I don't know if I'll ever get used to the taste of this stuff."
+[11-Sep-2011 22:57:20]  * Osip_Zhgun[Barcode] activates the TRIDENT's cockpit computer and [if I've done this simulation thing before, begins entering the information needed to enter simulation mode.]
+[11-Sep-2011 22:57:28]  <Cassie> "If you've ever bitten your tongue it's like that. Only everywhere."
+[11-Sep-2011 22:57:33]  <JackMackerel> "It smells like... rape."
+[11-Sep-2011 22:57:46]  <Motoko> 14Lou: Yeah, maybe, but it doesn't feel any more organized than last time...
+[11-Sep-2011 22:57:46]  <Loki_Weyland> "That's a lovely image, Jackie."
+[11-Sep-2011 22:57:50]  <Lou> ...
+[11-Sep-2011 22:57:57]  <Cassie> "Rape has a smell now?"
+[11-Sep-2011 22:58:02]  <Motoko> 14JackMackerel: You're supposed to be ROLE-PLAYING, idiot
+[11-Sep-2011 22:58:25]  <JackMackerel> (But it's a direct quote!!! ;~;)
+[11-Sep-2011 22:58:30]  <Loki_Weyland> .$ From what?
+[11-Sep-2011 22:58:35]  <Lou> Command, can we start the simulation?
+[11-Sep-2011 22:58:36]  <Loki_Weyland> $ Mari?
+[11-Sep-2011 22:58:44]  <Loki_Weyland> "Yes, let's."
+[11-Sep-2011 22:58:45]  <Motoko> 14/kick JackMackerel You're not very good at this!
+[11-Sep-2011 22:58:54]  <Lou> [oh shit back in a minute!]
+[11-Sep-2011 22:59:07]  <JackMackerel> (The EVA dub, Loki. When Asuka arrives, iirc.)
+[11-Sep-2011 22:59:12]  <Loki_Weyland> $ Ah.
+[11-Sep-2011 22:59:14]  <Gendo> "Right, Lou, the simulations are loading.  Give it a minute or so.."
+[11-Sep-2011 22:59:20]  <Osip_Zhgun[Barcode]> [Apocryphal technobabble: The TRIDENT relies on a rather cumbersome hydrodynamic inertial dampener surrounding the outside of the cockpit pod as opposed to LCL within. Nonetheless the TRIDENT also requires a neurohelmet, which appears to be a bulky, metallic version of this thing: http://4.bp.blogspot.com/_0BoO175xieM/SFxciy8-vwI/AAAAAAAADa0/ms7eiutmnD8/s400/IMG_2659.JPG (except without the hammer and sickle ofc)
+[11-Sep-2011 22:59:20]  <Omnipresence> 14URL: [4.bp.blogspot.com] JPEG image (324 × 400 pixels, 22.5 kilobytes)
+[11-Sep-2011 22:59:45]  <Osip_Zhgun[Barcode]> [It contains enough padding to secure against the harsher jostles that may breach the limits of the hydrodynamic dampener.]
+[11-Sep-2011 22:59:46]  * Motoko watches an incredible amount of indecipherable debugging information fly past on the consoles
+[11-Sep-2011 23:00:01]  <Gendo> As Dr. Murai finishes his sentence, the Evnagelion's vision coms online, the plug blackening, as wireframe scenery begins to form.
+[11-Sep-2011 23:00:13]  <Loki_Weyland> $ Little does Motoko know that it's just the manual for Photoshop.
+[11-Sep-2011 23:00:37]  <Osip_Zhgun[Barcode]> Before Gendo's post at 4PDT, Osip types in the information necessary to connect to the hangar's simulation network.
+[11-Sep-2011 23:00:38]  <Motoko> "Layer blending mask"...?
+[11-Sep-2011 23:00:49]  <Cassie> "Is this the same VR system that they used in NERV Toronto Dr. Murai?"
+[11-Sep-2011 23:00:50]  <Osip_Zhgun[Barcode]> [hand controls~]
+[11-Sep-2011 23:00:52]  <Gendo> The wireframe eventually fleshes out, and becomes a fairly realistic rendering of Tokyo-3.
+[11-Sep-2011 23:01:21]  <Lou> [back!]
+[11-Sep-2011 23:01:25]  <JackMackerel> )wb.)
+[11-Sep-2011 23:01:49]  <Gendo> "This system is built off of the VR system in Toronto, but is much more advanced"
+[11-Sep-2011 23:01:51]  <Lou> [I don't know what about roleplaying makes my parents decide it's a good time for chickens]
+[11-Sep-2011 23:01:58]  <Osip_Zhgun[Barcode]> [lol]
+[11-Sep-2011 23:02:04]  * JackMackerel hmms and tries to jerk the controls to punch a nearby 3D building.
+[11-Sep-2011 23:02:06]  <Loki_Weyland> $ Chickens?
+[11-Sep-2011 23:02:23]  <Lou> [We raise some chickens.  We have to move the coop occasionally, because they scorchedearth the ground.]
+[11-Sep-2011 23:02:27]  <Gendo> "The controls haven't been connected yet, Jacqueline.
+[11-Sep-2011 23:02:28]  <Gendo> "
+[11-Sep-2011 23:02:32]  * Motoko looks around the simulated rendering in some awe
+[11-Sep-2011 23:02:57]  <Lou> [Btw, about your note, Loki_Weyland, I was thinking of having the symbol be a country flag or something, and having Lou be confused/uncomfortable about it]
+[11-Sep-2011 23:02:57]  <Gendo> All of a sudden, the other Evangelions pop into existence.
+[11-Sep-2011 23:03:03]  <Motoko> Oh, it's the 14[editors insert a landmark name here later]!
+[11-Sep-2011 23:03:07]  <Loki_Weyland> $ That should work.
+[11-Sep-2011 23:03:09]  <JackMackerel> "Aw, darn."
+[11-Sep-2011 23:03:19]  <Gendo> Motoko: [Tokyo-3 tower[
+[11-Sep-2011 23:03:20]  <Osip_Zhgun[Barcode]> [I'm in here, right?]
+[11-Sep-2011 23:03:26]  <Gendo> Osip_Zhgun[Barcode]: Yes you are.
+[11-Sep-2011 23:03:35]  <Loki_Weyland> $ This looks cool. Hey, think we could run Crysis on this thing?
+[11-Sep-2011 23:03:39]  <Osip_Zhgun[Barcode]> [oh okay sorry. I'll be sure to note "evas" means "evas and T-RIDEN-T, for sake of quickness"]
+[11-Sep-2011 23:03:41]  <Motoko> 14Gendo: There's actually a Tokyo-3 Tower? That's pretty unoriginal!
+[11-Sep-2011 23:03:43]  <Osip_Zhgun[Barcode]> [Loki_Weyland not a chance]
+[11-Sep-2011 23:03:44]  <Loki_Weyland> $Sorry, that was supposed to be dialog.
+[11-Sep-2011 23:03:45]  <JackMackerel> ( Pfft. )
+[11-Sep-2011 23:03:50]  <Lou> [Motoko: "Tokyo-3"]
+[11-Sep-2011 23:03:58]  <Lou> [thatsthejoke.jpg]
+[11-Sep-2011 23:04:00]  <Cassie> [So Unit-05 is the AMERICA FUCK YEAH EVA?]
+[11-Sep-2011 23:04:08]  <Gendo> Yumi's voice comes over the channel "A-alright.  Controls have been connected."
+[11-Sep-2011 23:04:39]  <Lou> "Ready."
+[11-Sep-2011 23:04:44]  <Cassie> "Understood"
+[11-Sep-2011 23:04:45]  * JackMackerel now tries punching a building.
+[11-Sep-2011 23:04:47]  <Gendo> "First things first, try to take a step," Says Dr. Murai.
+[11-Sep-2011 23:04:51]  <Motoko> 14Gendo: Wait, so, are the controls physical at all?
+[11-Sep-2011 23:05:08]  * Osip_Zhgun[Barcode] blinks apathetically at the landscape. "In Russia, we did these tests in real-time." In the simulation, the T-RIDEN-T widens its stance and flexes its arms. "Ready."
+[11-Sep-2011 23:05:09]  <Gendo> JackMackerel: Because LOL inexperienced in complex simulations, make an agility check :P
+[11-Sep-2011 23:05:12]  <Lou> [There are trigger things.  It's pretty weird.]
+[11-Sep-2011 23:05:18]  <Loki_Weyland> Loki taps his fingers on the controls.
+[11-Sep-2011 23:05:34]  <Loki_Weyland> $ Woah, I just got around ten posts at once.
+[11-Sep-2011 23:05:44]  <JackMackerel> !roll 1d32
+[11-Sep-2011 23:05:44]  <GameServ> 22 == 22
+[11-Sep-2011 23:05:45]  <Loki_Weyland> $ Don't be surprised if my connection derps out again.
+[11-Sep-2011 23:05:47]  * Lou attempts a step.
+[11-Sep-2011 23:05:48]  <Motoko> 14I thought, you know, LCL = neural interface medium, so maybe we're just floating in a simulation.
+[11-Sep-2011 23:05:55]  <Gendo> Motoko: [My understanding is that there are physical controls, but those act as a rough guideline for what you want to do.  Most of the it is mental, hence, synch scores.]
+[11-Sep-2011 23:06:13]  <Loki_Weyland> Loki starts to walk, cautiously.
+[11-Sep-2011 23:06:21]  <Gendo> JackMackerel: You want a d100, and get lower than your Agility.
+[11-Sep-2011 23:06:22]  <Motoko> 14Gendo: So the primary control mechanism is by mental motion?
+[11-Sep-2011 23:06:26]  * Osip_Zhgun[Barcode] easily steps forward, and takes a few more to turn and face the Evas. His time on base and time at home have granted him the understanding that this lesson provides. [you cool with this?]
+[11-Sep-2011 23:06:27]  <JackMackerel> (Alright.)
+[11-Sep-2011 23:06:32]  <JackMackerel> !roll 1d100
+[11-Sep-2011 23:06:32]  <GameServ> 88 == 88
+[11-Sep-2011 23:06:36]  <Osip_Zhgun[Barcode]> [oh god lol]
+[11-Sep-2011 23:06:42]  <Loki_Weyland> Gotta keep that Square Cube Law in mind.
+[11-Sep-2011 23:06:46]  <JackMackerel> (:<)
+[11-Sep-2011 23:06:49]  <Gendo> Oh, also, this is the first time you all have seen the TRIDENT.
+[11-Sep-2011 23:07:03]  <Loki_Weyland> What's that thing?
+[11-Sep-2011 23:07:06]  <Osip_Zhgun[Barcode]> [nobody saw me get into it. it was hiding behind the other evas, as it was half the height]
+[11-Sep-2011 23:07:09]  <JackMackerel> "Hey. Why can't we have dinosaur mechs~?"
+[11-Sep-2011 23:07:21]  <Cassie> Cassie takes a confident step. She's run this drill so many times in NERV Toronto, it's practically automatic.
+[11-Sep-2011 23:07:22]  <Lou> [so did I step or what.  I should know what I"m doing, anyhow]
+[11-Sep-2011 23:07:28]  <Loki_Weyland> Loki assumes the foreign mech is the target, and looks for how to bring up his weapon.
+[11-Sep-2011 23:07:39]  <Gendo> JackMackerel: You attempt to punch the building, and fall facefirst.  Luckily feedback is disabled, but it still makes a very realistic looking dust cloud.
+[11-Sep-2011 23:07:48]  <Gendo> Everyone who attempted a step makes it.
+[11-Sep-2011 23:07:50]  <JackMackerel> "Goddammit..."
+[11-Sep-2011 23:08:02]  <Lou> "I'm glad you're with is, Mr. Zhgun..."
+[11-Sep-2011 23:08:03]  <Loki_Weyland> Nice try, Jackie.
+[11-Sep-2011 23:08:05]  * JackMackerel gets up, and brushes herself off. Or tries to.
+[11-Sep-2011 23:08:08]  * Motoko reaches to touch the nearest visible control panel, falls over in the Eva instead
+[11-Sep-2011 23:08:11]  <JackMackerel> "SILENCE~!"
+[11-Sep-2011 23:08:13]  <Loki_Weyland> Sadly, you are not Godzilla.
+[11-Sep-2011 23:08:15]  <Gendo> Osip_Zhgun[Barcode]: [The TRIDENT is present in the simulation."
+[11-Sep-2011 23:08:17]  * Lou glances at JacquerIforgethowtospellthis sadly
+[11-Sep-2011 23:08:30]  <Loki_Weyland> Now wazzat thing over there?
+[11-Sep-2011 23:08:40]  <Loki_Weyland> And how do I bring up my gun?
+[11-Sep-2011 23:09:19]  <Gendo> An unknown male voice comes over the com:  "Loading weapons library now"
+[11-Sep-2011 23:09:22]  <Lou> That's the tee riden tee.  It's a mechanical unit that will be assisting us, or fighting instead of us, if we can't get people trained...
+[11-Sep-2011 23:09:36]  <Loki_Weyland> Ah.
+[11-Sep-2011 23:09:38]  <Motoko> Wait, 14Yumi-chan, I haven't even touched anything yet and... how do I - no, wait a moment, I'm still on the ground! Hey!
+[11-Sep-2011 23:09:40]  <Osip_Zhgun[Barcode]> "I can not help much with this exercise but I'm glad to be here too." Osip's TRIDENT stands still, sweeping the Evas with its chin-mounted gun while its eyes take turns tracking as Lou explains. [I was typing something out here]
+[11-Sep-2011 23:09:40]  <Loki_Weyland> So, don't shoot at the Metal Gear.
+[11-Sep-2011 23:10:20]  <JackMackerel> "Huh. Yeah, it looks like a REX. I hope it doesn't have to rely too much on that radar dome~"
+[11-Sep-2011 23:10:22]  <Cassie> "Which scenario will we be running today?"
+[11-Sep-2011 23:10:35]  <Lou> No, it's called a tee riden tee... or a "trident", if you really want...
+[11-Sep-2011 23:10:48]  <Loki_Weyland> Yeah, I'll go with TRIDENT.
+[11-Sep-2011 23:10:58]  <Gendo> Yumi:  "Motoko, just r-relax, and, um.... Really try to focus.  Your Eva should respond to your mental commands pretty well.  Think about taking a step, and it should do it".
+[11-Sep-2011 23:11:02]  <JackMackerel> "You pronounce it Trident, I'm sure~"
+[11-Sep-2011 23:11:05]  <Osip_Zhgun[Barcode]> Osip adapts the colloquialism. "But yes, this *is* the "Trident". Property of Russia, on loan to NERV as per UN's request."
+[11-Sep-2011 23:11:08]  * Motoko 14is clearly the only one having trouble with this "piloting" thing
+[11-Sep-2011 23:11:20]  * JackMackerel tries to take a step forward, hopes she doesn't have to roll agility again.
+[11-Sep-2011 23:11:38]  <Osip_Zhgun[Barcode]> "Do not feel so bad that you will not get an opportunity to use it - you will find your Evas more than powerful enough."
+[11-Sep-2011 23:11:58]  <Motoko> 14Gendo: Mental commands...? You don't mean...
+[11-Sep-2011 23:12:05]  <JackMackerel> "I know. This thing fits me like a glove!"
+[11-Sep-2011 23:12:09]  * Osip_Zhgun[Barcode] warms up a bit, practicing strafing and short hops.
+[11-Sep-2011 23:12:19]  <Gendo> Dr. Murai:  "The Scenario today is nothing too bad.  More of a game, really."
+[11-Sep-2011 23:12:23]  * Motoko attempts to stand up, does so rather shakily
+[11-Sep-2011 23:12:23]  <Osip_Zhgun[Barcode]> [not using jumpjets unless the simulation grants me unlimited uses till the scenario starts]
+[11-Sep-2011 23:12:25]  <JackMackerel> "I like games~"
+[11-Sep-2011 23:12:29]  <Gendo> [Guys, slow down a bit o____o]
+[11-Sep-2011 23:12:38]  <JackMackerel> (We should take turns talking...)
+[11-Sep-2011 23:12:40]  <Cassie> "Do I at least get to kill something today?"
+[11-Sep-2011 23:12:44]  <Motoko> 14I know, right? I'VE FALLEN DOWN AND I ALMOST CAN'T GET UP
+[11-Sep-2011 23:12:45]  <Osip_Zhgun[Barcode]> [jsut trying to keep up with *them*!]
+[11-Sep-2011 23:13:15]  <JackMackerel> "I'm with Cass with this~"
+[11-Sep-2011 23:13:17]  <Gendo> Loki_Weyland: You notice that the weapons loaded aren't your standard Pallet Rifles.
+[11-Sep-2011 23:13:18]  <JackMackerel> *on this
+[11-Sep-2011 23:13:27]  <Loki_Weyland> Hm.
+[11-Sep-2011 23:13:35]  <Gendo> They look like something from your childhood.
+[11-Sep-2011 23:13:45]  <Osip_Zhgun[Barcode]> [everyone is holding baby's rattles]
+[11-Sep-2011 23:13:46]  <Loki_Weyland> What is this thing?
+[11-Sep-2011 23:13:49]  <Loki_Weyland> Wait...
+[11-Sep-2011 23:13:49]  <Gendo> Namely, they are ridiculously oversized Laser Tag guns.
+[11-Sep-2011 23:13:57]  <Loki_Weyland> ...
+[11-Sep-2011 23:13:58]  <Osip_Zhgun[Barcode]> [guess I'm holding one too]
+[11-Sep-2011 23:13:58]  <Lou> ...what are these?
+[11-Sep-2011 23:14:03]  <Osip_Zhgun[Barcode]> [or is my chin gun now a laser tag gun]
+[11-Sep-2011 23:14:06]  <Loki_Weyland> These looks stupid.
+[11-Sep-2011 23:14:10]  <Cassie> "...Seriously?"
+[11-Sep-2011 23:14:17]  <Motoko> Where did these guns come from?
+[11-Sep-2011 23:14:27]  *** JackMackerel <~JustAnoth@c-67-169-29-77.hsd1.ca.comcast.net> has left #MadokaMadness
+[11-Sep-2011 23:14:31]  <Osip_Zhgun[Barcode]> [goddamnit]
+[11-Sep-2011 23:14:36]  <Gendo> Osip_Zhgun[Barcode]: Your simulated weapons have been altered, yes.
+[11-Sep-2011 23:14:41]  *** JackMackerel <~JustAnoth@c-67-169-29-77.hsd1.ca.comcast.net> has joined #MadokaMadness
+[11-Sep-2011 23:14:43]  <Loki_Weyland> $ Before you said they're laser tag guns, I was assuming it was based off our memories. I was going to have Loki's be an M41A Pulse Rifle.
+[11-Sep-2011 23:14:47]  <Osip_Zhgun[Barcode]> [k. I just have the chin gun right now, and the armor plates on my back]
+[11-Sep-2011 23:14:50]  <JackMackerel> (What the heck?)
+[11-Sep-2011 23:14:55]  <Loki_Weyland> JackMackerel: (16:14:31) Osip_Zhgun[Barcode]: [goddamnit]
+[11-Sep-2011 23:14:55]  <Loki_Weyland> (16:14:36) Gendo: Osip_Zhgun[Barcode]: Your simulated weapons have been altered, yes.
+[11-Sep-2011 23:14:55]  <Loki_Weyland> (16:14:40) JackMackerel [~JustAnoth@c-67-169-29-77.hsd1.ca.comcast.net] entered the room.
+[11-Sep-2011 23:15:05]  <JackMackerel> (Thanks)
+[11-Sep-2011 23:15:16]  <JackMackerel> (Does AEJack have her knives?)
+[11-Sep-2011 23:15:18]  <Loki_Weyland> $ OH, YOU'RE WELCOME.
+[11-Sep-2011 23:15:22]  <Osip_Zhgun[Barcode]> [:}]
+[11-Sep-2011 23:15:39]  <Gendo> The unknown male voice comes over the coms again "Unfortunately, we don't have enough data to thoroughly model an Angel's combat behaviour."
+[11-Sep-2011 23:15:55]  <Loki_Weyland> So, what'll we be fighting?
+[11-Sep-2011 23:15:59]  * Osip_Zhgun[Barcode] angles the chin gun up and to the side so it appears in his Trident's field of view. He raises an eyebrow at the chevron-marked laser, but otherwise does not react.
+[11-Sep-2011 23:16:05]  <Loki_Weyland> Clay pigeons?
+[11-Sep-2011 23:16:11]  <Gendo> Dr. Murai cuts in: "So, we decided that the best experience you can get for dynamic combat is against each other."
+[11-Sep-2011 23:16:20]  <Loki_Weyland> Hoo boy.
+[11-Sep-2011 23:16:20]  <Osip_Zhgun[Barcode]> [dohohoho]
+[11-Sep-2011 23:16:25]  <Lou> ...
+[11-Sep-2011 23:16:25]  <Loki_Weyland> This is going to be interesting.
+[11-Sep-2011 23:16:34]  <Motoko> ... this isn't going to end well ...
+[11-Sep-2011 23:16:38]  <Loki_Weyland> $ Do I have my naginata as well?
+[11-Sep-2011 23:16:39]  <Lou> Do we have teams?
+[11-Sep-2011 23:17:02]  <Cassie> "Oooh this will be fun" says Cassie with the first hint of excitement the others have heard in her voice
+[11-Sep-2011 23:17:10]  <JackMackerel> "Woo, deathmatch~!"
+[11-Sep-2011 23:17:12]  <Osip_Zhgun[Barcode]> "I suppose AT fields are defenseless against the power of our tagging lasers," Osip dryly remarks.
+[11-Sep-2011 23:17:32]  <Gendo> "Yes, you will be grouped into teams."
+[11-Sep-2011 23:17:46]  <Loki_Weyland> Who's with who?
+[11-Sep-2011 23:17:48]  <Osip_Zhgun[Barcode]> [^^aaaaaaaand there I go ruining everything again with my robot]
+[11-Sep-2011 23:18:01]  <Gendo> Loki_Weyland: You have your naginata, or at least a polearm resemling it.  It's obviously been modded to fit the game, somehow...
+[11-Sep-2011 23:18:09]  <JackMackerel> (What about me >:|)
+[11-Sep-2011 23:18:13]  <Loki_Weyland> $ Hm.
+[11-Sep-2011 23:18:20]  <Cassie> [So Cassie has her Prog Spear too?]
+[11-Sep-2011 23:18:25]  <Gendo> [SLOW DOWN!  PLEASE!  ;_;]
+[11-Sep-2011 23:18:37]  <Lou> [Laser tagging naginata!]
+[11-Sep-2011 23:18:41]  <Gendo> All Melee weapons are present, and adjusted.
+[11-Sep-2011 23:18:43]  <JackMackerel> (Endrance is so cute when he's flustered~)
+[11-Sep-2011 23:18:50]  <Motoko> 14Gendo: I'm already slowing down! >_>
+[11-Sep-2011 23:19:07]  <Lou> [I'm Rei-ing as hard as I can!!]
+[11-Sep-2011 23:19:18]  <JackMackerel> (unf unf)
+[11-Sep-2011 23:19:34]  <Gendo> [I'm a little scatter-brained right now and distracted by family, sorry]
+[11-Sep-2011 23:19:59]  <Loki_Weyland> $ We'll try to distract you as best we can!
+[11-Sep-2011 23:20:29]  <Gendo> [And lets retcon the laser-tag to paintball.  Weapons make more sense that way]
+[11-Sep-2011 23:20:34]  <Loki_Weyland> $ Yeah.
+[11-Sep-2011 23:20:38]  <Motoko> 14I'm busy moving the logs from the log viewer to static HTML files, since the regular logs will roll off log rotation pretty soon
+[11-Sep-2011 23:20:51]  <Loki_Weyland> $Ah.
+[11-Sep-2011 23:20:52]  <Osip_Zhgun[Barcode]> [k. change "yellow chevrons" to "orange-tipped barrel"]
+[11-Sep-2011 23:21:05]  <Osip_Zhgun[Barcode]> [in other words just "k"]
+[11-Sep-2011 23:21:19]  <Loki_Weyland> $ NOTE TO SELF: READ THE PLAYER NOTES. IT'S PAINTBALL, NOT LASER TAG.
+[11-Sep-2011 23:21:45]  <Gendo> [Also, this probably won't get to be roleplayed out, unless you guys want to put off Angel combat for another session]
+[11-Sep-2011 23:21:46]  <Cassie> [So lets say melee weapons look like LARP gear then?]
+[11-Sep-2011 23:22:03]  <Loki_Weyland> $ Wiffle bats!
+[11-Sep-2011 23:22:05]  <Cassie> [I say Angel this session]
+[11-Sep-2011 23:22:16]  <Loki_Weyland> $ I agree.
+[11-Sep-2011 23:22:26]  <Gendo> [Alright]
+[11-Sep-2011 23:22:42]  <Osip_Zhgun[Barcode]> [perhaps we can just write up RPing stuff later if we want for the combat]
+[11-Sep-2011 23:22:44]  <Osip_Zhgun[Barcode]> training*
+[11-Sep-2011 23:22:50]  <Loki_Weyland> $Yeah, that's a good idea.
+[11-Sep-2011 23:22:57]  <Lou> [Writing out of order works for books, and it works for roleplay too!!]
+[11-Sep-2011 23:23:06]  <Loki_Weyland> $ Besides, I want to write this scene.
+[11-Sep-2011 23:23:18]  <Gendo> As you guys are playing with your weapons, the simulation suddenly goes black.
+[11-Sep-2011 23:23:22]  <JackMackerel> "Goddammit."
+[11-Sep-2011 23:23:26]  <Loki_Weyland> ...Shit.
+[11-Sep-2011 23:23:35]  <Lou> Sir?
+[11-Sep-2011 23:23:47]  <Gendo> Motoko: Pretend we had enough time in the simulation for you to get the basics of movement and stuff down.
+[11-Sep-2011 23:23:49]  <JackMackerel> "Oh, wait, no one panic, it's like this every damn first episode, monster suddenly attacks~"
+[11-Sep-2011 23:23:49]  * Osip_Zhgun[Barcode] blinks and checks his computer. The computer is still running but the simulation has ended. "Something wrong, Commander?"
+[11-Sep-2011 23:23:51]  <Cassie> "I thought they finally got rid of the multiple Evas crashing the system glitch" mutters Cassie
+[11-Sep-2011 23:23:59]  <Motoko> 14(having just managed to get back on her feet) What's going on?
+[11-Sep-2011 23:24:21]  <Loki_Weyland> Crap. I hate technical errors.
+[11-Sep-2011 23:24:33]  <JackMackerel> "Thousand yen says it's a kaiju."
+[11-Sep-2011 23:24:33]  <Loki_Weyland> Every LAN party I've been to, something always goes wrong.
+[11-Sep-2011 23:24:52]  * Osip_Zhgun[Barcode] pings the server, etc.
+[11-Sep-2011 23:24:54]  <Cassie> "Kaiju?"
+[11-Sep-2011 23:24:56]  <Gendo> Yumi:  "Ummm, the Magi is detecting an Angel.  A big one".
+[11-Sep-2011 23:25:01]  <Motoko> 14JackMackerel: Thousand yen says it's Dr. Murai got distracted by a kaiju movie.
+[11-Sep-2011 23:25:02]  <Loki_Weyland> I hope Jackie's not ri- SHIT.
+[11-Sep-2011 23:25:17]  <Cassie> "Not a word Pilot Jaqueline. Not a word."
+[11-Sep-2011 23:25:18]  <JackMackerel> "You all can pay me later~"
+[11-Sep-2011 23:25:26]  <Loki_Weyland> We didn't bet anything!
+[11-Sep-2011 23:25:26]  <Lou> The one from before?
+[11-Sep-2011 23:25:31]  * Osip_Zhgun[Barcode] rolls for willpower
+[11-Sep-2011 23:25:36]  <Osip_Zhgun[Barcode]> !roll 1d100
+[11-Sep-2011 23:25:36]  <GameServ> 50 == 50
+[11-Sep-2011 23:25:41]  <Gendo> Dr. Murai:  "We're getting the Evas prepped for deployment, it'll take a couple minutes"
+[11-Sep-2011 23:25:45]  <Loki_Weyland> Great.
+[11-Sep-2011 23:25:46]  <Motoko> ... well, at least I got the simulator time I wanted ... but not nearly enough of it ...
+[11-Sep-2011 23:26:02]  <Gendo> Even inside the entry plugs, you guys feel the dull rumble of a distant blast.
+[11-Sep-2011 23:26:16]  <Gendo> Someone on the com shouts "SHIT!"
+[11-Sep-2011 23:26:20]  * Osip_Zhgun[Barcode] immediately starts powering up the Trident. "Commander, what is the fastest way out of this hangar? I am moving to intercept!"
+[11-Sep-2011 23:26:21]  <Cassie> "It should be fine pilot Motoko. If all else fails, getting the Eva worked up and pointing it at the target seems to work."
+[11-Sep-2011 23:26:28]  <Loki_Weyland> Hey, if anyone dies, I call dibs on their stuff.
+[11-Sep-2011 23:27:10]  <Cassie> "What possible use would you have for girls clothes pilot Loki?"
+[11-Sep-2011 23:27:10]  <Osip_Zhgun[Barcode]> The air vibrates with a mechanical wail as the Trident's reactor turbine spins up to optimal speed.
+[11-Sep-2011 23:27:11]  <Motoko> Well, Cassie, if nothing else works out...
+[11-Sep-2011 23:27:14]  <Gendo> Colonel Ishihara appears on the link:  "Osip, at the far end of the hangar is an elevator that will take you to the surface.  Use it.".
+[11-Sep-2011 23:27:31]  <Loki_Weyland> Nothing conventional, but I'd find a use for 'em.
+[11-Sep-2011 23:27:46]  <JackMackerel> "If I die, Loki and Cassie get to keep my knives. Hey, guys, what about the rest of us?!"
+[11-Sep-2011 23:27:53]  <Loki_Weyland> $ Motoko Was that supposed to be OOC?
+[11-Sep-2011 23:27:58]  <Gendo> [now I need to go find all my charts and stuff]
+[11-Sep-2011 23:28:01]  <Osip_Zhgun[Barcode]> "Roger that." Osip disengages the leg locks and begins running for the elevator. The entry plugs vibrate slightly with each receding step.
+[11-Sep-2011 23:28:12]  <Osip_Zhgun[Barcode]> [should I roll for agility as I hurry or is that dumb and stupid]
+[11-Sep-2011 23:28:23]  <Gendo> Osip_Zhgun[Barcode]: Don't worry about it.
+[11-Sep-2011 23:28:25]  <Osip_Zhgun[Barcode]> [k]
+[11-Sep-2011 23:28:42]  <Lou> I don't think this is the time, Mr. Weyland.
+[11-Sep-2011 23:28:47]  <Motoko> 14Loki_Weyland: Hm? No, that was in response to Cassie's first comment.
+[11-Sep-2011 23:28:50]  <Loki_Weyland> $ Ah.
+[11-Sep-2011 23:28:52]  <Gendo> The vision of the Cage returns to your plugs.
+[11-Sep-2011 23:29:04]  <Loki_Weyland> There's always a time for jokes, Lou. Gotta keep those spirits up!
+[11-Sep-2011 23:29:08]  * Osip_Zhgun[Barcode] begins riding to the surface. He itches to fire his jump jets.
+[11-Sep-2011 23:29:16]  <Lou> ...
+[11-Sep-2011 23:29:32]  <Osip_Zhgun[Barcode]> [http://www.youtube.com/watch?v=Y5Qo9iAB9q0&feature=BFa&list=PL251A0692AED4D1B9&lf=mh_lolz&shuffle=583592]
+[11-Sep-2011 23:29:33]  <Omnipresence> 14URL: [www.youtube.com] 14Neon Genesis Evangelion OST 1 - Decisive Battle - YouTube
+[11-Sep-2011 23:29:36]  <Gendo> The male voice comes over the com:  "MAGI are running an analysis.  Evangelions will be deployed in 5"
+[11-Sep-2011 23:29:39]  <JackMackerel> "Hurry it up, hurry it up, longer we wait, the more time the thing gets to prepare~"
+[11-Sep-2011 23:29:39]  <Motoko> If Loki_Weyland were to trip and fall face-first while in his Eva, I think that would be hilarious...
+[11-Sep-2011 23:30:03]  <Osip_Zhgun[Barcode]> [lmk if I get to the surface earlier, and if so, what I can do]
+[11-Sep-2011 23:30:14]  <Motoko> 14Can we intermission sometime soon? Wrists again.
+[11-Sep-2011 23:30:16]  <Lou> [fuck fuck fuck chickens agh]
+[11-Sep-2011 23:30:32]  <Cassie> [Commercial break?]
+[11-Sep-2011 23:30:32]  <JackMackerel> @ship Lou/Roosters
+[11-Sep-2011 23:30:32]  <Omnipresence> 14JackMackerel: Ship request successful! <3
+[11-Sep-2011 23:30:39]  <Gendo> [Let's take a brief commercial break now]
+[11-Sep-2011 23:30:45]  <Gendo> -ENTERING META-
+[11-Sep-2011 23:30:49]  * Motoko cues cliffhanger music
+[11-Sep-2011 23:30:53]  <Loki_Weyland> Right.
+[11-Sep-2011 23:30:57]  <Loki_Weyland> I have a friend to help, actually.
+[11-Sep-2011 23:31:00]  <JackMackerel> (Insert Cruel Angels' Thesis heere)
+[11-Sep-2011 23:31:06]  <Loki_Weyland> FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF-
+[11-Sep-2011 23:31:11]  <Gendo> brb
+[11-Sep-2011 23:31:16]  <Loki_Weyland> We're trying to get the sound working on his Shuttle/.
+[11-Sep-2011 23:31:23]  <Osip_Zhgun[Barcode]> Shuttle?
+[11-Sep-2011 23:31:44]  <Loki_Weyland> @w Shuttle PC
+[11-Sep-2011 23:31:46]  <Omnipresence> 14Loki_Weyland: Wikipedia (full-text): 14Shuttle Inc.14: Shuttle (TAIEX:2405) is a Taiwan-based manufacturer of motherboards, barebone computers, complete PC systems, and monitors. Thro... — http://en.wikipedia.org/wiki/Shuttle_Inc.
+[11-Sep-2011 23:31:47]  <JackMackerel> (Hey, hey guys, when Solstace's game is done, how many of you are interested in a GURPS/Adeptus mashup?)
+[11-Sep-2011 23:32:00]  <Loki_Weyland> I've already mentioned my interest.
+[11-Sep-2011 23:32:26]  <JackMackerel> (I'll need a co-GM, though, I'm slow as fuck when it comes to RP.)
+[11-Sep-2011 23:32:36]  <Osip_Zhgun[Barcode]> how would that work
+[11-Sep-2011 23:32:57]  <JackMackerel> (It's basically Infantry EVA. :V)
+[11-Sep-2011 23:33:32]  <JackMackerel> (EVAs are combat suits instead of 8359045839045839045890whatever tall humanoids. Also, will implement stuff from Fallout RPG.
+[11-Sep-2011 23:33:52]  <Osip_Zhgun[Barcode]> how would they go berserk then?
+[11-Sep-2011 23:34:04]  <Osip_Zhgun[Barcode]> also this means you're making W.A.L.K.E.R., then? :P
+[11-Sep-2011 23:34:32]  <JackMackerel> (:V)
+[11-Sep-2011 23:34:48]  <Gendo> Also, I'd like to apologize for my extra-slowness today.  I'm coming down with a bit of a summer cold, so I'm not all here at the moment.
+[11-Sep-2011 23:34:49]  <JackMackerel> (Yeah. I was thinking Berserk only happens if the pilot's... unstable.)
+[11-Sep-2011 23:34:57]  <Motoko> JackMackerel: GURPde(r)ptus?
+[11-Sep-2011 23:35:10]  <Osip_Zhgun[Barcode]> gurp derp
+[11-Sep-2011 23:35:31]  <Cassie> Hey Jackerel, what's your Eva's number again?
+[11-Sep-2011 23:35:42]  <Gendo> 13
+[11-Sep-2011 23:35:43]  <JackMackerel> 1.
+[11-Sep-2011 23:35:44]  <JackMackerel> 13.
+[11-Sep-2011 23:35:45]  <JackMackerel> Fuck.
+[11-Sep-2011 23:35:49]  <Osip_Zhgun[Barcode]> four~
+[11-Sep-2011 23:36:01]  <Osip_Zhgun[Barcode]> Gendo: NP. I've been sleeping on and off for like 4 hours since I got home this morning from a party. I'm pretty hardy but I've been in bad shape today too. :P
+[11-Sep-2011 23:36:07]  <Motoko> Can somebody try highlighting me in the middle of a line?
+[11-Sep-2011 23:36:21]  <Gendo> And then Motoko said "No soap, radio"!
+[11-Sep-2011 23:36:24]  <Gendo> Like that?
+[11-Sep-2011 23:36:35]  * JackMackerel gently carresses Motoko discreetly, softly.
+[11-Sep-2011 23:36:44]  <Motoko> Try again.
+[11-Sep-2011 23:36:51]  <Osip_Zhgun[Barcode]> the PPCs flew through the air, Motoko - ing azure paths into the Clanner's torso.
+[11-Sep-2011 23:36:56]  <Cassie> Is this in Eva, or out of Eva?
+[11-Sep-2011 23:37:02]  <Motoko> Okay, that woeks. Thanks.
+[11-Sep-2011 23:37:04]  <Motoko> * works
+[11-Sep-2011 23:37:06]  <Lou> jailbreak! x_x
+[11-Sep-2011 23:37:10]  <Lou> [er]
+[11-Sep-2011 23:37:12]  <Osip_Zhgun[Barcode]> the chickens?
+[11-Sep-2011 23:37:16]  <Osip_Zhgun[Barcode]> no worries we haven't started
+[11-Sep-2011 23:37:19]  <Lou> [yes but]
+[11-Sep-2011 23:37:21]  <Lou> [oh okay.]
+[11-Sep-2011 23:37:30]  <Cassie> Use your fellow pilot's head as a battering ram?
+[11-Sep-2011 23:37:32]  <Osip_Zhgun[Barcode]> cluck cluck cluck
+[11-Sep-2011 23:37:33]  <Lou> [Thankg oodness for Gendo's shitty typing speed]
+[11-Sep-2011 23:37:37]  <Motoko> Irssi's "highlight on nick mention" only covers occurrences at the beginning of a line, for some reason.
+[11-Sep-2011 23:38:06]  <Loki_Weyland> You should use Pidgin!
+[11-Sep-2011 23:38:19]  <Lou> [so what happened to the alien monstrosity business]
+[11-Sep-2011 23:38:20]  <Osip_Zhgun[Barcode]> Ангел должен умереть!
+[11-Sep-2011 23:38:24]  <Gendo> Lou: It's not really the typing speed at the moment.  It's more the reading/processing speed.
+[11-Sep-2011 23:38:34]  <Osip_Zhgun[Barcode]> Lou: it was about to happen and then we paused
+[11-Sep-2011 23:38:42]  <Osip_Zhgun[Barcode]> or rather it happened and then we stopped before attacking it
+[11-Sep-2011 23:38:52]  <Motoko> Loki_Weyland: ahahaha no. I just added a highlight for "Motoko" in this channel. ;)
+[11-Sep-2011 23:39:00]  <Loki_Weyland> Heh.
+[11-Sep-2011 23:39:31]  <Motoko> Pidgin's IRC support is pretty tragicomic, kind of like Irssi's XMPP support actually.
+[11-Sep-2011 23:39:32]  <Lou> [I actually had to chase one of the fuckers down, hate hate hate]
+[11-Sep-2011 23:39:35]  <Gendo> Oh, for the record, the unknown male voice on the com is another tech.
+[11-Sep-2011 23:39:45]  <Gendo> Name is Ryuuzou Takehara.
+[11-Sep-2011 23:39:47]  <Loki_Weyland> Thought so.
+[11-Sep-2011 23:39:49]  <Loki_Weyland> Hm.
+[11-Sep-2011 23:39:50]  <JackMackerel> Lou: Ugh, I hate that.
+[11-Sep-2011 23:40:08]  <Motoko> Gendo: >Ryuuzou
+[11-Sep-2011 23:40:19]  <Lou> [It's like Ocarine of Time, except I can't stab them]
+[11-Sep-2011 23:40:31]  <Gendo> Hasn't been formally introduced yet, but I think that "unknown male voice" makes him sound more mysterious than he is.
+[11-Sep-2011 23:40:43]  <Gendo> Motoko: I stole the name from somewhere.  I don't remember.
+[11-Sep-2011 23:40:54]  <Gendo> I think it was the VA of some Angel Beats character.  
+[11-Sep-2011 23:40:56]  <Osip_Zhgun[Barcode]> ugryuu~
+[11-Sep-2011 23:40:57]  <Lou> But really what are we doing what hapepend
+[11-Sep-2011 23:41:08]  <Gendo> Lou: Currently on Intermission.
+[11-Sep-2011 23:41:08]  <Lou> oh.  nothing.
+[11-Sep-2011 23:41:13]  <Osip_Zhgun[Barcode]> Lou: EHNJEL appeared, hten we intermission'd
+[11-Sep-2011 23:41:18]  <Cassie> How was Angel Beats anyways? I thought about picking it up at the store, but bought FLCL instead.
+[11-Sep-2011 23:41:24]  <JackMackerel> Wise choice.
+[11-Sep-2011 23:41:26]  <Gendo> Cassie: Don't buy it.
+[11-Sep-2011 23:41:33]  * Lou goes out to confections to get some popcorn, milk duds
+[11-Sep-2011 23:41:33]  <JackMackerel> Gendo: You did read Aeon Natum Engel, right?
+[11-Sep-2011 23:41:39]  <Gendo> JackMackerel: Nope.
+[11-Sep-2011 23:41:43]  <Lou> [It's pretty good]
+[11-Sep-2011 23:41:54]  <Gendo> Motoko: How are the wrists?
+[11-Sep-2011 23:42:08]  <Motoko> Gendo: Better now, just needed a break.
+[11-Sep-2011 23:42:14]  <Gendo> Okay.
+[11-Sep-2011 23:42:27]  <Osip_Zhgun[Barcode]> Motoko: You ever considered physio? Or, well…looking up stretches?
+[11-Sep-2011 23:42:30]  <Gendo> Gimme a second to try to gather myself, and then we'll restart.
+[11-Sep-2011 23:42:31]  <JackMackerel> ...wrists. `-`
+[11-Sep-2011 23:43:22]  <Motoko> Osip_Zhgun[Barcode]: I usually take frequent breaks, but that's harder to do during RP sessions. It's not a real issue if we intermission, though.
+[11-Sep-2011 23:43:24]  <Loki_Weyland> Cassie: Angel Beats was cool. Nothing great, though.\
+[11-Sep-2011 23:43:32]  <Loki_Weyland> TK was the best part of that show.
+[11-Sep-2011 23:43:36]  <Gendo> Cassie: Also Angel Beats had a terrible ending.
+[11-Sep-2011 23:43:37]  <Loki_Weyland> @yt Angel Beats TK
+[11-Sep-2011 23:43:37]  <Omnipresence> 14Loki_Weyland: YouTube: 14The very best of TK - Angel Beats [HD] (HQ)14, 36,885 views: http://www.youtube.com/watch?v=ybvEv7759yg
+[11-Sep-2011 23:43:37]  <Osip_Zhgun[Barcode]> Arright.
+[11-Sep-2011 23:43:53]  <Gendo> Alright.
+[11-Sep-2011 23:43:57]  <Gendo> About to restart.....
+[11-Sep-2011 23:44:06]  <Osip_Zhgun[Barcode]> http://upload.wikimedia.org/wikipedia/commons/9/93/Space_activity_suit.jpg Osip is (not) wearing this
+[11-Sep-2011 23:44:07]  <Omnipresence> 14URL: [upload.wikimedia.org] JPEG image (192 × 350 pixels, 31.3 kilobytes)
+[11-Sep-2011 23:44:18]  <Loki_Weyland> Ha ha ha, no.
+[11-Sep-2011 23:44:21]  <Osip_Zhgun[Barcode]> :P
+[11-Sep-2011 23:44:28]  <Lou> [hott]
+[11-Sep-2011 23:44:57]  <Osip_Zhgun[Barcode]> the way I'm thinking of it it's plugsuit + bulky ports everywhere + metal tank crewman ushanka
+[11-Sep-2011 23:45:01]  <Gendo> ....
+[11-Sep-2011 23:45:05]  <Osip_Zhgun[Barcode]> giant metal tank crewman ushanka*
+[11-Sep-2011 23:45:15]  <Gendo> I think I need to change the range on this Angel's attack.
+[11-Sep-2011 23:45:28]  <Motoko> 覚悟しました
+[11-Sep-2011 23:45:33]  <Gendo> 60dm is way too small for this scale of battle.
+[11-Sep-2011 23:45:58]  <Motoko> 600m? That's nothing to scoff at...
+[11-Sep-2011 23:46:04]  <Osip_Zhgun[Barcode]> in battletech that's good range
+[11-Sep-2011 23:46:09]  <Motoko> Oh, wait, no, that's 60Dm. >_>
+[11-Sep-2011 23:46:15]  <Lou> [I'm so glad decameters get some use in this game]
+[11-Sep-2011 23:46:16]  <Gendo> Oh.
+[11-Sep-2011 23:46:21]  <Gendo> I need to doublecheck that, then.
+[11-Sep-2011 23:46:22]  <Motoko> 60dm would be... 6m. x_x
+[11-Sep-2011 23:46:25]  <Osip_Zhgun[Barcode]> oh whoops.
+[11-Sep-2011 23:46:34]  <Gendo> It probably is 60Dm, but I noted it wrong.
+[11-Sep-2011 23:46:37]  <Gendo> Gotta double check.
+[11-Sep-2011 23:46:45]  <Cassie> [Decameters are glad they get to be used at all]
+[11-Sep-2011 23:46:50]  <Motoko> Why can't they just use normal unprefixed meters like everyone else...
+[11-Sep-2011 23:46:53]  <Lou> [it's actually 60 dam]
+[11-Sep-2011 23:46:57]  <Osip_Zhgun[Barcode]> http://www.youtube.com/watch?v=7QNU7thTu_Y&feature=fvwp&NR=1 all mecha fans like papa roach, this is a fact
+[11-Sep-2011 23:46:57]  <Omnipresence> 14URL: [www.youtube.com] 14EVA - 01: THE BEAST_AMV (PaPa RoAcH - dead cell) - YouTube
+[11-Sep-2011 23:47:09]  <Lou> [motoko: because it's hacked up from a system that uses meters by unit changing]
+[11-Sep-2011 23:47:21]  <Motoko> "Each decameter (dm) is equal to 10 meters." p92
+[11-Sep-2011 23:47:35]  <Osip_Zhgun[Barcode]> so did they just fuck that up then
+[11-Sep-2011 23:47:40]  <Lou> [Well, 4chan isn't expected to understand metric]
+[11-Sep-2011 23:47:44]  <Lou> [or anything, amirite]
+[11-Sep-2011 23:47:46]  <Osip_Zhgun[Barcode]> :}
+[11-Sep-2011 23:48:02]  <Loki_Weyland> Osip_Zhgun[Barcode]: Why did you link this?
+[11-Sep-2011 23:48:18]  <Gendo> Motoko: Okay, so, 600m.  That's a lot more acceptable.
+[11-Sep-2011 23:48:19]  <Osip_Zhgun[Barcode]> It was related to a song related to the one I linked earlier
+[11-Sep-2011 23:48:28]  <Osip_Zhgun[Barcode]> that's all.
+[11-Sep-2011 23:48:39]  <Motoko> 4CHAN: NOT caSE seNSitivE
+[11-Sep-2011 23:48:44]  <Gendo> -END OF INTERMISSION-
+[11-Sep-2011 23:48:58]  <JackMackerel> >:|
+[11-Sep-2011 23:49:08]  <Loki_Weyland> $ We back in character now?
+[11-Sep-2011 23:49:10]  <Gendo> Alright, so Osip_Zhgun[Barcode], you're the first aboveground.
+[11-Sep-2011 23:49:11]  <Motoko> 14I wonder if they're taking errata.
+[11-Sep-2011 23:49:25]  * Osip_Zhgun[Barcode] surveys the landscape for the Angel. [perception?]
+[11-Sep-2011 23:49:30]  <Lou> [I'm telling you, decameter is dam, whores]
+[11-Sep-2011 23:49:45]  * Osip_Zhgun[Barcode] starts taking jogging steps out of the elevator, surveying the*
+[11-Sep-2011 23:49:48]  <Gendo> A minute or so later, the Evas appear above ground, too.
+[11-Sep-2011 23:49:50]  <Osip_Zhgun[Barcode]> [and watching my step ofc]*
+[11-Sep-2011 23:50:06]  <Gendo> Osip_Zhgun[Barcode]: Awareness check, if you have it.  Otherwise, perception.
+[11-Sep-2011 23:50:28]  <Osip_Zhgun[Barcode]> [I got awareness "+10". So I just add 10 to my perception roll right?
+[11-Sep-2011 23:50:32]  <Osip_Zhgun[Barcode]> [subtract*]
+[11-Sep-2011 23:50:40]  <Osip_Zhgun[Barcode]> !roll 1d100
+[11-Sep-2011 23:50:40]  <GameServ> 98 == 98
+[11-Sep-2011 23:50:45]  <Osip_Zhgun[Barcode]> [okay, so I fail.]
+[11-Sep-2011 23:50:51]  <Gendo> Yeah, that's a fail.
+[11-Sep-2011 23:50:59]  <Gendo> I think.
+[11-Sep-2011 23:51:04]  <Osip_Zhgun[Barcode]> [it's a blatant one]
+[11-Sep-2011 23:51:17]  <Gendo> Actually, it depends on what the Angel rolled.
+[11-Sep-2011 23:51:22]  <Osip_Zhgun[Barcode]> [38 + 10 is my perception if awarness adsd  +10, that's still 5 degrees of failure - oh right]
+[11-Sep-2011 23:51:22]  <Gendo> (lemme do that.
+[11-Sep-2011 23:51:26]  <Osip_Zhgun[Barcode]> [wait what the hell, how does
+[11-Sep-2011 23:51:33]  <Osip_Zhgun[Barcode]> [oh rigth. well, go ahead, I remember that being in the rules]
+[11-Sep-2011 23:51:47]  <JackMackerel> "Do we have a HUD that feeds information to one another? I don't see it."
+[11-Sep-2011 23:51:53]  <Gendo> Yeah, you fail hardcore.
+[11-Sep-2011 23:52:03]  <JackMackerel> "It shouldn't be hard to pick out, it's a damn kaiju!"
+[11-Sep-2011 23:52:25]  <Osip_Zhgun[Barcode]> "This is Osip Zhgun. I have ZERO confirmation on the Angel's location. Does anyone else have contact?"
+[11-Sep-2011 23:52:30]  <Loki_Weyland> $ Do I roll as well?
+[11-Sep-2011 23:52:33]  <Cassie> "It could be invisible for all we know pilot Jaqueline."
+[11-Sep-2011 23:52:37]  * Osip_Zhgun[Barcode] keeps jogging down the main street, keeping his eyes open
+[11-Sep-2011 23:52:55]  <Gendo> All characters get to make awareness/perception checks.
+[11-Sep-2011 23:53:01]  <Cassie> [The image of a TRIDENT jogging cracks me up. Shorts and sweat bands optional]
+[11-Sep-2011 23:53:03]  <Loki_Weyland> !roll d100
+[11-Sep-2011 23:53:03]  <GameServ> 85 == 85
+[11-Sep-2011 23:53:03]  <Motoko> 14Are we just skipping the spawn location thing and sticking it straight in the middle of...?
+[11-Sep-2011 23:53:10]  <Loki_Weyland> $ ...Shit.
+[11-Sep-2011 23:53:12]  <Lou> !roll d100
+[11-Sep-2011 23:53:12]  <GameServ> 93 == 93
+[11-Sep-2011 23:53:15]  <Cassie> !roll d100
+[11-Sep-2011 23:53:15]  <GameServ> 93 == 93
+[11-Sep-2011 23:53:16]  <Motoko> !roll d100
+[11-Sep-2011 23:53:16]  <GameServ> 28 == 28
+[11-Sep-2011 23:53:17]  <Lou> [goddamn man]
+[11-Sep-2011 23:53:26]  <Osip_Zhgun[Barcode]> [motoko makes it]
+[11-Sep-2011 23:53:35]  <JackMackerel> "Cass, even if it's invisible, it shouldn't be hard. Thing's too large to keep its cloak in check..."
+[11-Sep-2011 23:53:36]  <Motoko> 14Gendo, that's 28 <= 32 = pass.
+[11-Sep-2011 23:53:39]  <JackMackerel> !roll d100
+[11-Sep-2011 23:53:39]  <GameServ> 87 == 87
+[11-Sep-2011 23:53:41]  <Cassie> That's kinda eerie that me and Lou got the same failure roll.
+[11-Sep-2011 23:53:44]  <JackMackerel> (Epic fail)
+[11-Sep-2011 23:53:59]  <Gendo> (actually, I think this check is slightly different.  Lemme go look it up(
+[11-Sep-2011 23:54:03]  <Osip_Zhgun[Barcode]> [Cassie - think of it as a speed that allows me to see things reasonably well. sprinting speed means THUMP THUMP THUMP THUMP *screen is a blur, even if my cockpit isn't shaking*]
+[11-Sep-2011 23:54:35]  <Motoko> 14Well, at least I'm capable of doing *something* useful, right?!
+[11-Sep-2011 23:54:56]  <Lou> [motoko has been promoted to Spotter]
+[11-Sep-2011 23:55:02]  <Cassie> [I know, I'm just joking]
+[11-Sep-2011 23:55:06]  <JackMackerel> "Everyone, check those corners... who knows if it's ranged?"
+[11-Sep-2011 23:55:10]  <Gendo> Oh wait.
+[11-Sep-2011 23:55:17]  <Loki_Weyland> "I got nothin'."
+[11-Sep-2011 23:55:25]  <Gendo> I was doing this wrong.
+[11-Sep-2011 23:55:33]  <Gendo> Angel failed its check >.>
+[11-Sep-2011 23:55:40]  <Cassie> "At this point we don't know anything. Can't the Magi triangulate the blue pattern to give us a better idea?"
+[11-Sep-2011 23:55:41]  <Loki_Weyland> $ Pfft.
+[11-Sep-2011 23:55:46]  <Osip_Zhgun[Barcode]> [text us up, scotty]
+[11-Sep-2011 23:56:50]  <JackMackerel> "Don't we have AT Field sensors or something? Seriously, it shouldn't be hard!" Jacqueline sounded annoyed. The longer it took, the longer she couldn't kill it...
+[11-Sep-2011 23:57:08]  <Osip_Zhgun[Barcode]> [hold on for gendow we don't even know if we actually failed]
+[11-Sep-2011 23:57:16]  <Gendo> On the moutain to the west of the city limits, you see a shimmering mass, gargantuan in proportions.
+[11-Sep-2011 23:57:32]  <Lou> I'm sure it will try to kill us soon en- there we go.
+[11-Sep-2011 23:57:38]  <Cassie> "I wonder if it bleeds rainbows"
+[11-Sep-2011 23:57:42]  <Loki_Weyland> A-ha!
+[11-Sep-2011 23:57:48]  <Loki_Weyland> !roll d100
+[11-Sep-2011 23:57:48]  <GameServ> 14 == 14
+[11-Sep-2011 23:57:54]  <JackMackerel> "Well, at least we don't have to stand around like a bunch of chumps... alright, boys n' girls! Let's go ruin its shit!"
+[11-Sep-2011 23:57:55]  <Loki_Weyland> $OK, I passed that.
+[11-Sep-2011 23:58:01]  <Loki_Weyland> Hell yeah!
+[11-Sep-2011 23:58:02]  * JackMackerel charges toward it head one, deploying her knives.
+[11-Sep-2011 23:58:03]  <Motoko> It's... almost beautiful.
+[11-Sep-2011 23:58:06]  <Gendo> Behind the veil, you see a gargantuan mass of... what appears to be vague humanoid bodies, taking shape and flailing before re-assimilating with the host body.
+[11-Sep-2011 23:58:09]  <Loki_Weyland> Loki readies his Pallet Gun.
+[11-Sep-2011 23:58:23]  <Loki_Weyland> ...What the hell are those things?
+[11-Sep-2011 23:58:31]  * Lou readies rifle
+[11-Sep-2011 23:58:34]  <Loki_Weyland> I mean, yeah. They're Angels, or parts of one big Angel.
+[11-Sep-2011 23:58:38]  <Gendo> This flood of bodies sometimes spills over, with the animate corpses attempting to flee before melting back into the Angel....
+[11-Sep-2011 23:58:39]  <Loki_Weyland> But what the fuck are they?
+[11-Sep-2011 23:58:52]  <Cassie> Cassie readies her prog spear
+[11-Sep-2011 23:58:56]  <Osip_Zhgun[Barcode]> On a leftward glance Osip catches the shimmering mass. "Contact!" He sidesteps into a slide to stop and get a better view on the Angel, shearing asphalt skyward.
+[11-Sep-2011 23:59:20]  <JackMackerel> "Looks like something from a bad horror movie~... I wonder what'll happen if I cut those corpses free?"
+[11-Sep-2011 23:59:20]  <Gendo> [Alright, initiative, I believe]!
+[11-Sep-2011 23:59:24]  <Osip_Zhgun[Barcode]> "This…what IS this?"
+[11-Sep-2011 23:59:25]  * Motoko stares at the Angel, with a look halfway between horror and sympathy
+[11-Sep-2011 23:59:29]  <Cassie> "I think they are scouts like from the recording":
+[11-Sep-2011 23:59:40]  <Loki_Weyland> Seems likely.
+[11-Sep-2011 23:59:45]  <Lou> !roll d10
+[11-Sep-2011 23:59:45]  <GameServ> 7 == 7
+[11-Sep-2011 23:59:49]  <Osip_Zhgun[Barcode]> [d10?]
+[11-Sep-2011 23:59:52]  <Loki_Weyland> It can probably control them remotely, then.
+[11-Sep-2011 23:59:55]  <Lou> [10]
+[11-Sep-2011 23:59:57]  <Loki_Weyland> Or they're autonomous.
+[12-Sep-2011 00:00:04]  <Osip_Zhgun[Barcode]> [oh right, initiative]
+[12-Sep-2011 00:00:05]  <Lou> Osip_Zhgun[Barcode]: [d10 + Ag bonus]
+[12-Sep-2011 00:00:13]  <Gendo> Dr. Murai:  "The MAGI reading is in.  Codename for the Angel is .... Tsvael?!? Are you kidding me? "
+[12-Sep-2011 00:00:14]  <Cassie> !roll d10
+[12-Sep-2011 00:00:14]  <GameServ> 10 == 10
+[12-Sep-2011 00:00:18]  <Loki_Weyland> Either way, they'll still be a problem when they're not attached to the blob.
+[12-Sep-2011 00:00:18]  <Osip_Zhgun[Barcode]> !d10
+[12-Sep-2011 00:00:19]  <Lou> They're trying to flee...
+[12-Sep-2011 00:00:21]  <Lou> Command, orders?
+[12-Sep-2011 00:00:27]  <Osip_Zhgun[Barcode]> !roll d10
+[12-Sep-2011 00:00:27]  <GameServ> 10 == 10
+[12-Sep-2011 00:00:40]  <Loki_Weyland> Dr. Murai? What's the problem?
+[12-Sep-2011 00:00:47]  <JackMackerel> "Tsvael?"
+[12-Sep-2011 00:00:52]  <Motoko> 14Gendo, what's the initiative check against?
+[12-Sep-2011 00:00:56]  <Osip_Zhgun[Barcode]> [***I'm gonna preface my roll results thsi way, with the stars, to be easier to pick out. 10 + my agility bonus = 10 + 4 = 14***]
+[12-Sep-2011 00:01:00]  <JackMackerel> "Someone up there needs to knock it off with Lovecraft~"
+[12-Sep-2011 00:01:05]  <Lou> [Motoko, roll d10 and add your ag bonus (= floor (ag/10))][
+[12-Sep-2011 00:01:19]  <Cassie> [So right mine would be 13 then]
+[12-Sep-2011 00:01:36]  <Gendo> Colonel Ishihara:  "The Angel appears to be a distance fighter.  Careful, that blast we felt earlier seems to be some kind of concentrated AT power."  (Rising Cross, to be exact)
+[12-Sep-2011 00:01:38]  <Motoko> 14Lou: Pass/fail would be, then...?
+[12-Sep-2011 00:01:41]  <Motoko> !roll d10+3
+[12-Sep-2011 00:01:42]  <GameServ> (9) + 3 == 12
+[12-Sep-2011 00:01:50]  <Loki_Weyland> So, get up close and hack its shit apart?
+[12-Sep-2011 00:01:56]  <Loki_Weyland> Or would that be a bad idea/
+[12-Sep-2011 00:01:58]  <Loki_Weyland> ?
+[12-Sep-2011 00:02:13]  <Lou> [Motoko: It's not that sort of test.  We move in order of highest initiative first, is all.]
+[12-Sep-2011 00:02:13]  <Gendo> Dr. Murai:  "Tsvael = Shit of God.  Roughly translated"
+[12-Sep-2011 00:02:20]  <Loki_Weyland> ...Wow.
+[12-Sep-2011 00:02:21]  <Osip_Zhgun[Barcode]> [pff]
+[12-Sep-2011 00:02:26]  <Lou> What
+[12-Sep-2011 00:02:26]  <Motoko> 14Lou: Oh, I see.
+[12-Sep-2011 00:02:33]  * JackMackerel bursts into demented laughter. "That's funny~"
+[12-Sep-2011 00:02:42]  <JackMackerel> (( GENDO JACK IS RUNNING STRAIGHT AT THE THINGY~)
+[12-Sep-2011 00:02:56]  * Osip_Zhgun[Barcode] raises an eyebrow at the name.
+[12-Sep-2011 00:03:03]  <Osip_Zhgun[Barcode]> !roll 1d100
+[12-Sep-2011 00:03:04]  <GameServ> 23 == 23
+[12-Sep-2011 00:03:09]  <Cassie> "Lets just kill Tsvael and be done with it."
+[12-Sep-2011 00:03:12]  * Osip_Zhgun[Barcode] resists the urge to jump in front of jacqueline.
+[12-Sep-2011 00:03:22]  <Osip_Zhgun[Barcode]> [I needta distract!]
+[12-Sep-2011 00:03:36]  <Cassie> [Strafe!}
+[12-Sep-2011 00:03:38]  <JackMackerel> "DINNER BELL'S RINGIN', BOYS!"
+[12-Sep-2011 00:03:39]  * Motoko completely ignores what everyone else is saying and just continues to stare at the Angel
+[12-Sep-2011 00:03:41]  <Gendo> Colonel Ishihara:  The plan is:  Close the gap, try to move the fight away from the city.
+[12-Sep-2011 00:03:55]  <Loki_Weyland> Sounds good.
+[12-Sep-2011 00:03:57]  <JackMackerel> (Okay, I'm imagining the faces Mari makes during her fight with the final Angel. :V)
+[12-Sep-2011 00:04:04]  <JackMackerel> (ZA BEASTO)
+[12-Sep-2011 00:04:15]  <Loki_Weyland> Hey, sweet cheeks! This way!
+[12-Sep-2011 00:04:23]  * Lou starts moving towards Tsavel semicautiously
+[12-Sep-2011 00:04:31]  <Osip_Zhgun[Barcode]> [Whenever Osip gets off his ass and moves, as per turn order] "Affirmative. I'm going to close in. Wait for it to focus on me, then attack!" Osip runs full-tilt to close with the Angel, navigating city blocks as well as possible.
+[12-Sep-2011 00:04:40]  <Loki_Weyland> Loki attempts to fire on the Angel, and runs in the direction closest to the edge of the city.
+[12-Sep-2011 00:04:55]  <Lou> [Gendo, you need to sort out initiative, man]
+[12-Sep-2011 00:04:56]  <Cassie> Cassie runs forward towards the angel. Noting Motoko's lack of movement she says "Don't make yourself a target! Move!"
+[12-Sep-2011 00:05:02]  <Gendo> [I need some way to keep track of initiatives.  A google doc be okiay?]
+[12-Sep-2011 00:05:05]  <Loki_Weyland> $ Er, the way that'll lead both him and Tsvael out of the city the quickest.
+[12-Sep-2011 00:05:06]  <Osip_Zhgun[Barcode]> [shore]
+[12-Sep-2011 00:05:07]  <JackMackerel> (Yeah, do that.)
+[12-Sep-2011 00:05:10]  <Loki_Weyland> $ Sure.
+[12-Sep-2011 00:05:19]  <Motoko> 14I have no idea what's going on anymore, slow down a bit >_>
+[12-Sep-2011 00:05:21]  * Osip_Zhgun[Barcode] stops typing, waits for results of this turn
+[12-Sep-2011 00:05:35]  <Lou> 10 initiative here
+[12-Sep-2011 00:05:45]  <Motoko> 14If we attack in order, presumably that prevents us from all running at the same time...
+[12-Sep-2011 00:05:47]  <Loki_Weyland> $OK, from now on we don't do shit until Gendo asks us what we do.
+[12-Sep-2011 00:05:55]  <Osip_Zhgun[Barcode]> [^that]
+[12-Sep-2011 00:06:06]  <Gendo> https://docs.google.com/document/d/1A1hFEm7Y_vjPACnfmxyvOqPKfMW0GWD9XGZzs_a8D1g/edit?hl=en_US  Character name, and initiative.
+[12-Sep-2011 00:06:06]  <Omnipresence> 14URL: Error: 14Redirected more times than rediection_limit allows.14.
+[12-Sep-2011 00:06:24]  <Loki_Weyland> !roll d100
+[12-Sep-2011 00:06:24]  <GameServ> 32 == 32
+[12-Sep-2011 00:06:32]  <JackMackerel> !roll d100
+[12-Sep-2011 00:06:32]  <GameServ> 83 == 83
+[12-Sep-2011 00:06:34]  <JackMackerel> (FUCK)
+[12-Sep-2011 00:06:39]  <Gendo> Initiative = 1d10 + agility bonus
+[12-Sep-2011 00:06:54]  <Gendo> Agility bonus = 10s digit of your Agility score.
+[12-Sep-2011 00:07:03]  <Loki_Weyland> !roll d10 + 3
+[12-Sep-2011 00:07:03]  <GameServ> 8 == 8
+[12-Sep-2011 00:07:08]  <Osip_Zhgun[Barcode]> [Jacqueline frees herself from the molasses encasing her, then begins to move?]
+[12-Sep-2011 00:07:20]  <Loki_Weyland> Lowest number goes first?
+[12-Sep-2011 00:07:24]  <Gendo> Highest.
+[12-Sep-2011 00:07:30]  <Loki_Weyland> $Ah.
+[12-Sep-2011 00:07:39]  <Osip_Zhgun[Barcode]> [oh okay, so then jacqueline found a jetpack somwhere]
+[12-Sep-2011 00:07:58]  <Gendo> JackMackerel: We're missing you......
+[12-Sep-2011 00:08:00]  <JackMackerel> !roll 1d10
+[12-Sep-2011 00:08:00]  <GameServ> 1 == 1
+[12-Sep-2011 00:08:05]  <JackMackerel> >:|
+[12-Sep-2011 00:08:06]  <Lou> [Barcode first, then.]
+[12-Sep-2011 00:08:08]  <Loki_Weyland> $...Wow.
+[12-Sep-2011 00:08:18]  <Gendo> Yup.
+[12-Sep-2011 00:08:34]  <JackMackerel> (( 1 + 32 = 33 WOO MATH)
+[12-Sep-2011 00:08:42]  <Lou> [Your bonus, Jackerel, have some sense]
+[12-Sep-2011 00:08:46]  <Lou> [Your initiative is 4]
+[12-Sep-2011 00:08:47]  <Loki_Weyland> $ So, start this round over?
+[12-Sep-2011 00:09:19]  <Gendo> Barcode:  Unfortunately, the AT field hasn't been neutralized yet.  But it's your call.
+[12-Sep-2011 00:09:44]  <Motoko> 14So where's the battle happening? There's a bunch of information on collateral and stuff in the manual, or are we just skipping that for expediency?
+[12-Sep-2011 00:09:56]  <JackMackerel> (( 10s? argh)
+[12-Sep-2011 00:09:59]  <Lou> [It's outside the city.]
+[12-Sep-2011 00:10:31]  <Gendo> Motoko: Angel is AT sniping from outside the city.  I'm keeping track of collateral, but this battle should go relatively smoothly, aside from us being clueless as to how to do a battle.
+[12-Sep-2011 00:10:42]  <Cassie> [Cassie knows the angel has an AT field right?]
+[12-Sep-2011 00:10:47]  <Motoko> 14Gendo: I'm going through the manual right now so :|
+[12-Sep-2011 00:10:48]  <Gendo> Yes.
+[12-Sep-2011 00:10:48]  <Osip_Zhgun[Barcode]> Osip jumps towards the Angel [this counts as some sort of evasive bonus right? :P] and fires a Single shot. [god I forget how combat works]
+[12-Sep-2011 00:11:16]  <Osip_Zhgun[Barcode]> [jump = jets]
+[12-Sep-2011 00:11:20]  <Cassie> Cassie closes the distance between her and Tzvael and tries to neutralize it's AT field.
+[12-Sep-2011 00:11:21]  <Osip_Zhgun[Barcode]> [also: the shot is a ploy!]
+[12-Sep-2011 00:11:29]  <Gendo> Sounds good.
+[12-Sep-2011 00:12:07]  <Gendo> [I need to see if how exactly the shot vs AT field thing works, fi it does.]
+[12-Sep-2011 00:13:02]  <Gendo> Oh, cool, seems I calculated the Angel's wounds incorrectly.
+[12-Sep-2011 00:13:04]  <Gendo> OH WELL
+[12-Sep-2011 00:13:39]  <Osip_Zhgun[Barcode]> ["The Angel fires its Core at Osip in a last-ditch attempt as it realizes that "dead bodies" are a terrible protection system"]
+[12-Sep-2011 00:13:43]  <Lou> [Motoko should be up next]
+[12-Sep-2011 00:13:50]  <Cassie> [So it looks like a glowing humanoid right?]
+[12-Sep-2011 00:14:04]  <Lou> [It looks like an orgy of zombies]
+[12-Sep-2011 00:14:08]  <JackMackerel> (With a bunch of bodies around... what Lou said.)
+[12-Sep-2011 00:14:15]  <Lou> [or zorgy for short]
+[12-Sep-2011 00:14:22]  <Osip_Zhgun[Barcode]> [I was gonna say zomborgy, but that works better]
+[12-Sep-2011 00:14:32]  <Loki_Weyland> $ Granfalloon?
+[12-Sep-2011 00:14:46]  <Gendo> Cassie: No, it's not a glowing humanoid.
+[12-Sep-2011 00:14:57]  <Gendo> It has no discernable constant shape.
+[12-Sep-2011 00:15:01]  <Gendo> It keeps changing.
+[12-Sep-2011 00:15:02]  <Motoko> 14Do all of us go and then things get calculated?
+[12-Sep-2011 00:15:04]  <Lou> [Yeah, does seem like Granfalloon]
+[12-Sep-2011 00:15:24]  <Gendo> Motoko: I'd like to do the calculating one at a time.
+[12-Sep-2011 00:15:46]  <Osip_Zhgun[Barcode]> [We wouldn't see the results of the calculations before each turn though do we?]
+[12-Sep-2011 00:15:48]  * Motoko 14waits for the effects of the first two moves, then?
+[12-Sep-2011 00:15:50]  <Lou> [and so, everybody slowed the fuck down.]
+[12-Sep-2011 00:15:51]  <Osip_Zhgun[Barcode]> [before each person goes next*]
+[12-Sep-2011 00:16:31]  <Gendo> From what I'm getting from this terribly organized pdf, Barcode basically drew its attention.
+[12-Sep-2011 00:16:44]  <Gendo> Looking up AT neutralization now.
+[12-Sep-2011 00:17:00]  <Osip_Zhgun[Barcode]> [firebatvoice: you got my attention]
+[12-Sep-2011 00:17:14]  <Cassie> Yeah, the AE manual is kinda shit about having all the stuff you need close together.
+[12-Sep-2011 00:17:50]  <Lou> [/nick Guy_Montag]
+[12-Sep-2011 00:18:07]  <Gendo> [lol, I forgot to do something.]
+[12-Sep-2011 00:18:07]  <JackMackerel> (I suggest writing down all the important shit in one handy dandy Google doc.
+[12-Sep-2011 00:18:23]  <Loki_Weyland> $ Good idea.
+[12-Sep-2011 00:18:46]  <Lou> [pah, planning]
+[12-Sep-2011 00:19:27]  <Motoko> 14I really have no idea how combat even works...
+[12-Sep-2011 00:19:31]  <Gendo> [I'm terribly unfamiliar with this system, sorry]
+[12-Sep-2011 00:19:41]  <Loki_Weyland> $ Hey! Less gabbing, more stabbing!
+[12-Sep-2011 00:19:50]  <Osip_Zhgun[Barcode]> [it's okay, throw what you needh elp with in hre and we'l try to help if possible]
+[12-Sep-2011 00:19:59]  <Motoko> 14Presumably as the sole AT Tactician, Motoko has to do ... something special ...
+[12-Sep-2011 00:20:12]  <Osip_Zhgun[Barcode]> [I've read a decent amount of the DH combat and I read all of jellyon up t and excluding the fluff so]
+[12-Sep-2011 00:20:19]  <Lou> [As the newbie, you fall flat on your face, then go completely berserk after it rape us]
+[12-Sep-2011 00:20:26]  <Gendo> [Well, I just remembered that you were all supposed to roll against fear as soon as you saw the damned thing]
+[12-Sep-2011 00:20:35]  <Gendo> [talk about anti-climactic >..>]
+[12-Sep-2011 00:20:40]  <Osip_Zhgun[Barcode]> [fuck! okay well let's try the fear thing then]
+[12-Sep-2011 00:20:51]  <Lou> [seriously]
+[12-Sep-2011 00:20:52]  <Loki_Weyland> $ Let's skip it for now.
+[12-Sep-2011 00:21:06]  <Gendo> I'll just have you guys roll on your turns.
+[12-Sep-2011 00:21:10]  <Osip_Zhgun[Barcode]> ["osip realizes this was a bad idea as he is retroactively frozen in fear in mid-air"]
+[12-Sep-2011 00:21:11]  <Loki_Weyland> $ OK.
+[12-Sep-2011 00:21:26]  <Gendo> Osip_Zhgun[Barcode]: Roll and get under your willpower.
+[12-Sep-2011 00:21:41]  <Osip_Zhgun[Barcode]> !roll d100
+[12-Sep-2011 00:21:41]  <GameServ> 92 == 92
+[12-Sep-2011 00:21:44]  <Osip_Zhgun[Barcode]> [wonderful]
+[12-Sep-2011 00:21:46]  <Motoko> 14Osip_Zhgun[Barcode]: I don't even know what options are available to me, so yeah.
+[12-Sep-2011 00:22:08]  <Osip_Zhgun[Barcode]> [this will be embarassing.]
+[12-Sep-2011 00:22:18]  <Loki_Weyland> $ Is something wrong with GameServ?
+[12-Sep-2011 00:22:28]  <Gendo> Osip_Zhgun[Barcode]: What's your willpower?
+[12-Sep-2011 00:22:44]  <Osip_Zhgun[Barcode]> [***Sorry about that. Yeah, my WP is 40. So, 5 degrees of failure.***]
+[12-Sep-2011 00:22:44]  <Motoko> 14Gendo: Not 92+, I'm willing to bet...
+[12-Sep-2011 00:22:49]  <Loki_Weyland> $ When my turn comes around, I'm using my own dice.
+[12-Sep-2011 00:23:15]  <Motoko> 14Loki_Weyland, if GameServ hates you, there's nothing we can do!
+[12-Sep-2011 00:23:15]  <JackMackerel> (I'm going last, aren't I?)
+[12-Sep-2011 00:23:32]  <Loki_Weyland> $ What, you don't have your own dice?
+[12-Sep-2011 00:23:39]  <Cassie> So how do I calc AT points exactly?
+[12-Sep-2011 00:23:46]  <Cassie> Is it just my synch score?
+[12-Sep-2011 00:23:46]  <Lou> [You bet, Jackerel~]
+[12-Sep-2011 00:23:50]  <Osip_Zhgun[Barcode]> [I have a single d20 that my cousin stole from someone's dorm during one res party. yeah don't ask]
+[12-Sep-2011 00:24:07]  <Motoko> 14Loki_Weyland: Well, it's easier if we just roll with a single mechanism, also I seem to be doing okay ;)
+[12-Sep-2011 00:24:12]  <Gendo> Osip_Zhgun[Barcode]: As you approach the monstrousity, the terror of the shambling mass of bodies sets in.  YOu being to laugh hysterically, and are blinded by emotion to the point that you can't tell friend from foe.
+[12-Sep-2011 00:24:22]  <Loki_Weyland> $ I didn't buy these dice for nothing!
+[12-Sep-2011 00:24:30]  <Lou> [You have to set up an AT spread first, Cassie.]
+[12-Sep-2011 00:24:31]  <Gendo> Also, add 5 insanity points.
+[12-Sep-2011 00:24:43]  <Osip_Zhgun[Barcode]> [so much for the strong silent type]
+[12-Sep-2011 00:24:50]  *** ponicalica <~william@dhcp05388.highsouth-resnet.unc.edu> has quit IRC (Ping timeout: 192 seconds)
+[12-Sep-2011 00:25:02]  <Motoko> 14... again, as the Tactician, is there something I should be doing? >_>
+[12-Sep-2011 00:25:12]  <Gendo> Motoko: We'll get to it when we get to it >.>
+[12-Sep-2011 00:25:16]  <Lou> [It's not your turn you whiner]
+[12-Sep-2011 00:25:33]  <Gendo> Osip_Zhgun[Barcode]: I thin that clears up the retroactive for your round.
+[12-Sep-2011 00:25:44]  <Lou> [Setting up an AT spread is one full action, by the by]
+[12-Sep-2011 00:25:47]  <Motoko> 14I'm just trying to figure out what to do before I have to do it... :p
+[12-Sep-2011 00:25:49]  <Gendo> Cassie: Before anything, fear test.
+[12-Sep-2011 00:25:50]  <Osip_Zhgun[Barcode]> [so I roleplay just going nuts then instead of charging in?]
+[12-Sep-2011 00:25:58]  <Cassie> !roll d100
+[12-Sep-2011 00:25:58]  <GameServ> 63 == 63
+[12-Sep-2011 00:26:01]  <Osip_Zhgun[Barcode]> [or I charge in and next turn I'm shooting everything]
+[12-Sep-2011 00:26:02]  <Gendo> Osip_Zhgun[Barcode]: Pretty much.
+[12-Sep-2011 00:26:06]  <Osip_Zhgun[Barcode]> [oh ok]
+[12-Sep-2011 00:26:28]  <Loki_Weyland> $ I think crying would be more in-character than laughter. Just saying.
+[12-Sep-2011 00:27:17]  <Osip_Zhgun[Barcode]> [probably]
+[12-Sep-2011 00:27:23]  <Cassie> [So do I pass or fail the test?]
+[12-Sep-2011 00:27:32]  <Osip_Zhgun[Barcode]> Wracked with spasms, Osip's left hand fumbles off the jump trigger as he shakily switches from single fire to automatic. He begins to stumble backwards and to one side as he fires towards the Angel, sweeping towards the first Eva that appears in his vision.
+[12-Sep-2011 00:27:47]  <Gendo> Cassie: Under the mass of bodies, you see what appears to be an eye with 3 pupils, staring at you, unwavering.  You can't move, you can't scream, you can't even think.
+[12-Sep-2011 00:27:55]  <Lou> [welp]
+[12-Sep-2011 00:28:12]  <Gendo> Cassie: You also take 5 insanity points.
+[12-Sep-2011 00:28:26]  <Osip_Zhgun[Barcode]> [all in all this is going swell]
+[12-Sep-2011 00:28:32]  <JackMackerel> "Cass? Hey, Cass? Did it show you some guro porn or somethin'?"
+[12-Sep-2011 00:28:33]  <Cassie> [Are the pupils concentric or orbital?]
+[12-Sep-2011 00:28:48]  <Osip_Zhgun[Barcode]> sweeping across the first Eva that appears in his vision*
+[12-Sep-2011 00:28:50]  <Gendo> I don't know the difference.  Let's go with orbital, because it sounds cooler.
+[12-Sep-2011 00:29:10]  <Gendo> Motoko: First things first.  Also make a fear check!
+[12-Sep-2011 00:29:21]  <Motoko> !roll d100
+[12-Sep-2011 00:29:21]  <GameServ> 41 == 41
+[12-Sep-2011 00:29:32]  *** Madoka <~chatzilla@S0106002191d86b2c.no.shawcable.net> has joined #MadokaMadness
+[12-Sep-2011 00:29:38]  <Motoko> 1441 > 38, fail. :|
+[12-Sep-2011 00:29:56]  <Lou> [at least it's not by five fucking degrees]
+[12-Sep-2011 00:30:18]  <Cassie> "..." This is not how it was supposed to go. I am supposed to charge in and kill the damn thing. I will i will i will iwill iwiiilll
+[12-Sep-2011 00:30:22]  <Gendo> Motoko: The sight startles you,  it takes you this round to regain your composure.
+[12-Sep-2011 00:30:24]  <Loki_Weyland> $ You're next, Lou. You wanna call that asylum now, save yourself some time?
+[12-Sep-2011 00:30:27]  <Motoko> 14What is that, 0.3 degrees? Can we fudge the numbers? :p
+[12-Sep-2011 00:30:33]  <Osip_Zhgun[Barcode]> [hey madoka, we're all just reduced to quivering masses of friendly fire thanks to zombie orgy what about you]
+[12-Sep-2011 00:30:42]  <Lou> [I have extensive asylum experience on the moon!]
+[12-Sep-2011 00:30:46]  <JackMackerel> (What would I have to roll to tackle Cass?)
+[12-Sep-2011 00:30:48]  *** ponicalica <~william@dhcp05388.highsouth-resnet.unc.edu> has joined #MadokaMadness
+[12-Sep-2011 00:30:48]  *** EsperBot sets mode: +o ponicalica
+[12-Sep-2011 00:30:50]  <Lou> !roll d100
+[12-Sep-2011 00:30:50]  <GameServ> 100 == 100
+[12-Sep-2011 00:30:53]  <Lou> [oh fuck]
+[12-Sep-2011 00:30:55]  <Gendo> pfffffffffffffffthahahahahahahaa
+[12-Sep-2011 00:30:57]  <Loki_Weyland> $ ...Ouch.
+[12-Sep-2011 00:30:58]  <Lou> [wait]
+[12-Sep-2011 00:31:01]  <Osip_Zhgun[Barcode]> [what the fuck gameserv]
+[12-Sep-2011 00:31:04]  <Lou> [Is 100 0?]
+[12-Sep-2011 00:31:04]  <JackMackerel> (Actually, hmm... lol, wow, Tsukasa.)
+[12-Sep-2011 00:31:04]  * Motoko makes a small gasping sound
+[12-Sep-2011 00:31:06]  <Osip_Zhgun[Barcode]> [motoko: it's rounded down at all times. so 9 is still 0]
+[12-Sep-2011 00:31:13]  <Gendo> No, 100 is 100.
+[12-Sep-2011 00:31:18]  <Lou> [I mean, with actual d10s, two 10s is... oh]
+[12-Sep-2011 00:31:35]  <Gendo> Google docs is freaking out on me.
+[12-Sep-2011 00:31:38]  <Gendo> What's your willpower?
+[12-Sep-2011 00:31:45]  <Osip_Zhgun[Barcode]> [should we start rolling d101 where 101 = 0?]
+[12-Sep-2011 00:31:46]  <Lou> 25
+[12-Sep-2011 00:31:47]  <Motoko> 1425.
+[12-Sep-2011 00:31:55]  <Lou> [goooood]
+[12-Sep-2011 00:32:02]  <Lou> [So we just can't roll zeroes, then, how cruel]
+[12-Sep-2011 00:32:03]  <Loki_Weyland> $ 37.
+[12-Sep-2011 00:32:36]  <Motoko> I... can't... I'm sorry, I'm still not feeling this...
+[12-Sep-2011 00:33:08]  <Gendo> Lou: The bodies that escape the Angel, only to be reassimilated in liquid form makes your skin crawl, and your sense of self-preservation screams "GET THE FUCK OUT".  
+[12-Sep-2011 00:33:11]  <Loki_Weyland> !roll 100
+[12-Sep-2011 00:33:11]  <GameServ> 1 == 1
+[12-Sep-2011 00:33:16]  <Loki_Weyland> $ YES.
+[12-Sep-2011 00:33:22]  <Gendo> Lou: Also, 3 insanity points.
+[12-Sep-2011 00:33:24]  <Osip_Zhgun[Barcode]> [lmao. finally, someone who isn't shitting their pants]
+[12-Sep-2011 00:33:26]  <Motoko> 14Wow, with these stats, we already have ~1/3 chance of passing...
+[12-Sep-2011 00:33:29]  <JackMackerel> (Pfft.)
+[12-Sep-2011 00:33:35]  <Motoko> 14Loki_Weyland: !roll *d*100
+[12-Sep-2011 00:33:35]  <Loki_Weyland> The fuck are you guys standing around for?
+[12-Sep-2011 00:33:35]  <Lou> [Of course it would be Loki]
+[12-Sep-2011 00:33:43]  <Loki_Weyland> Hey! Sweet cheeks!
+[12-Sep-2011 00:33:46]  <Loki_Weyland> Over here!
+[12-Sep-2011 00:33:55]  <Motoko> !roll 100
+[12-Sep-2011 00:33:55]  <GameServ> 1 == 1
+[12-Sep-2011 00:33:56]  <Motoko> !roll 100
+[12-Sep-2011 00:33:57]  <GameServ> 1 == 1
+[12-Sep-2011 00:33:58]  <Motoko> !roll 100
+[12-Sep-2011 00:33:58]  <GameServ> 1 == 1
+[12-Sep-2011 00:34:02]  <Gendo> ...
+[12-Sep-2011 00:34:04]  <Gendo> Wut.
+[12-Sep-2011 00:34:11]  <Loki_Weyland> $ Can we just say I got it?
+[12-Sep-2011 00:34:13]  <Osip_Zhgun[Barcode]> [is gameserv okay?]
+[12-Sep-2011 00:34:13]  <Cassie> !roll d100
+[12-Sep-2011 00:34:13]  <GameServ> 1 == 1
+[12-Sep-2011 00:34:17]  <Osip_Zhgun[Barcode]> !roll d100
+[12-Sep-2011 00:34:17]  <GameServ> 57 == 57
+[12-Sep-2011 00:34:22]  <Gendo> Yeah, you need d100.
+[12-Sep-2011 00:34:24]  <Cassie> !roll d10
+[12-Sep-2011 00:34:24]  <GameServ> 5 == 5
+[12-Sep-2011 00:34:24]  <Gendo> Not just 100.
+[12-Sep-2011 00:34:29]  <Loki_Weyland> $ Yeah, let's go with Cassie's roll.
+[12-Sep-2011 00:34:35]  <Gendo> Sure.
+[12-Sep-2011 00:34:41]  * Lou backs up...
+[12-Sep-2011 00:34:42]  <Gendo> Because someone needs to do something.
+[12-Sep-2011 00:34:44]  <Motoko> 14...
+[12-Sep-2011 00:34:54]  <Loki_Weyland> Loki fires, and starts leading Tsvael away from the city.
+[12-Sep-2011 00:34:57]  <Motoko> 14Is it bad that I wanted to see Loki_Weyland's character go insane?
+[12-Sep-2011 00:35:00]  <Osip_Zhgun[Barcode]> [I wonder if I hit anyone]
+[12-Sep-2011 00:35:02]  <Loki_Weyland> $ Yes.
+[12-Sep-2011 00:35:09]  <Osip_Zhgun[Barcode]> [also when do I regain my senses]
+[12-Sep-2011 00:35:19]  <Motoko> 14Because, really, considering how unprepared we ought to be, having nobody able to attack sounds about right.
+[12-Sep-2011 00:35:30]  <Gendo> Osip_Zhgun[Barcode]: You make a check each round to snap out of it.  If you fail the check you attack whatever's closest.  Right now, it happens to be the Angel.
+[12-Sep-2011 00:35:47]  <Motoko> 14Then again, I might be the only person who finds simulating the effects of creeping insanity fun.
+[12-Sep-2011 00:35:54]  <Osip_Zhgun[Barcode]> [***Oh, okay. scratch the part where I sweep the first Eva, then, I guess***]
+[12-Sep-2011 00:36:02]  <Lou> [Or just the only one who might be halfway competent at it]
+[12-Sep-2011 00:36:04]  <JackMackerel> (( Jack's already insane. :V ))
+[12-Sep-2011 00:36:04]  <Loki_Weyland> $ Motoko: Have you played Eternal Darkness?
+[12-Sep-2011 00:36:05]  <Osip_Zhgun[Barcode]> [Lmk when it's my turn]
+[12-Sep-2011 00:36:19]  <Gendo> Loki_Weyland: To do damage, you need to neutralize the AT field.  IIRC, you gotta make a spread, blah blah blah stuf.
+[12-Sep-2011 00:36:32]  <Loki_Weyland> $ Ah. Well, I still got its attention.
+[12-Sep-2011 00:36:35]  <Motoko> 14Loki_Weyland: The video game? But I don't get to make up the effects of insanity...
+[12-Sep-2011 00:36:41]  <Loki_Weyland> $ True.
+[12-Sep-2011 00:36:45]  <JackMackerel> (Okay, Angel turn, then me~)
+[12-Sep-2011 00:36:50]  * Lou starts muttering indecipherably
+[12-Sep-2011 00:37:52]  <Gendo> Okay.
+[12-Sep-2011 00:38:36]  <Osip_Zhgun[Barcode]> [***I'm gonna keep track of my ammo under my name in the doc. a clip size of 30 minus 6 shots means I'm at 24. I suppose I'll lose another 6 if I'm still playing Vietnam after my second turn***]
+[12-Sep-2011 00:38:36]  <Gendo> Gotta look up all this AT field shit.
+[12-Sep-2011 00:38:48]  <Gendo> Except, oh wait, you guys didn't get a chance to initiate your spreads!
+[12-Sep-2011 00:38:48]  <Osip_Zhgun[Barcode]> [Sure. Just gonna add this to your doc]
+[12-Sep-2011 00:38:54]  *** Madoka <~chatzilla@S0106002191d86b2c.no.shawcable.net> has quit IRC (Quit: ChatZilla 0.9.86 [Firefox 3.6.15/20110303024726])
+[12-Sep-2011 00:39:09]  <Lou> [Like I said, it takes a full round to set up a spread.]
+[12-Sep-2011 00:39:43]  <Gendo> Loki_Weyland: You feel the Angel shift its focus to you, even if its not visibly apparent.
+[12-Sep-2011 00:39:58]  <Gendo> The air around the angel begins to shimmer, as it prepares its blast of energy.
+[12-Sep-2011 00:40:02]  <Loki_Weyland> Good, I pissed it off!
+[12-Sep-2011 00:40:14]  <Gendo> [gotta look this up now.  I hate learning new combat systems]
+[12-Sep-2011 00:40:49]  <Cassie> "Fuck you zombie staring contest..."
+[12-Sep-2011 00:41:03]  <Osip_Zhgun[Barcode]> [Given that I'm depressed atm do you care if we retcon the laughing as crying, mister Ikari?]
+[12-Sep-2011 00:41:15]  <Loki_Weyland> $ That's what I said.
+[12-Sep-2011 00:41:18]  <Gendo> Osip_Zhgun[Barcode]: Sure.
+[12-Sep-2011 00:41:26]  <Osip_Zhgun[Barcode]> [Arright. And yeah, sorry. Meant to cite Jbridge]
+[12-Sep-2011 00:41:39]  <Osip_Zhgun[Barcode]> [should have cited*]
+[12-Sep-2011 00:41:54]  <Motoko> 14Oh, I was supposed to add 1 to my agility bonus. Whoops. Doesn't really matter, though, I'd have only tied Cassie anyway
+[12-Sep-2011 00:42:07]  <Gendo> [Can someone help me look up how making an attack works?]
+[12-Sep-2011 00:42:27]  *** Madoka <~chatzilla@S0106002191d86b2c.no.shawcable.net> has joined #MadokaMadness
+[12-Sep-2011 00:43:15]  <Lou> [Pretty sure it's just "make a WS check"]
+[12-Sep-2011 00:43:20]  <Osip_Zhgun[Barcode]> [opening my PDF]
+[12-Sep-2011 00:43:27]  <Lou> [for something basic like FIRIN MAH LASER, anyway]
+[12-Sep-2011 00:43:41]  <Osip_Zhgun[Barcode]> [pg 194]
+[12-Sep-2011 00:43:49]  <Osip_Zhgun[Barcode]> [WS is for melee, BS is for guns]
+[12-Sep-2011 00:43:56]  <Motoko> 14... *and* I'm supposed to start off with 1d5+5 insanity points thanks to my drawback, gah
+[12-Sep-2011 00:44:14]  <Lou> [whatever]
+[12-Sep-2011 00:44:19]  <Gendo> The Angel would use BS for a ranged AT power, right?
+[12-Sep-2011 00:44:22]  <Osip_Zhgun[Barcode]> [Yeah.]
+[12-Sep-2011 00:45:07]  <Osip_Zhgun[Barcode]> [1. test WS or BS. 2. If hit: determine hit location, as per chart on page. 3. If hit, Use weapon's damage listing for damage (note Righteous Fury rules - stacking criticals or wahtever they're called). 4. Apply damage as per rules listed. Etc.)
+[12-Sep-2011 00:45:09]  <Osip_Zhgun[Barcode]> ]
+[12-Sep-2011 00:45:22]  <Gendo> Loki_Weyland: The energy burst begins to form right under your feet.  You have a split second to attempt to dodge the brunt of it.  Make an agility check.
+[12-Sep-2011 00:45:32]  <Loki_Weyland> !roll d100
+[12-Sep-2011 00:45:33]  <GameServ> 11 == 11
+[12-Sep-2011 00:45:43]  <Loki_Weyland> $ 14, then?
+[12-Sep-2011 00:45:53]  <Lou> [it depends on the AT power, actually, but there's a BS for most shooty powers, it looks like]
+[12-Sep-2011 00:46:10]  <Loki_Weyland> $ My Agility's 30.
+[12-Sep-2011 00:46:16]  <Loki_Weyland> $ So I pass the check.
+[12-Sep-2011 00:46:43]  <Gendo> Loki_Weyland: You manage to jump to the side just in time, but you still absorb a energy from the attack. 
+[12-Sep-2011 00:46:56]  <Loki_Weyland> $ "A energy"?
+[12-Sep-2011 00:47:05]  <Gendo> shuddup.
+[12-Sep-2011 00:47:12]  <Gendo> Now I gotta figure out how to apply damage....
+[12-Sep-2011 00:47:13]  <Loki_Weyland> $ Heh.
+[12-Sep-2011 00:47:45]  <Osip_Zhgun[Barcode]> [damage - TB - armor points]
+[12-Sep-2011 00:47:55]  <Osip_Zhgun[Barcode]> [@gendo]
+[12-Sep-2011 00:48:08]  <Loki_Weyland> $ My Toughness is 29, so 2.
+[12-Sep-2011 00:48:12]  <Gendo> Osip_Zhgun[Barcode]: So, I rolled 5 points of damage ot the head.
+[12-Sep-2011 00:48:27]  <Gendo> So that'd be.... 1 point after TB and AP.
+[12-Sep-2011 00:48:42]  <Gendo> Alright.  I think I've got the hang of this now.
+[12-Sep-2011 00:48:44]  <Loki_Weyland> $ Wait- my agility's effectively 25. Shouldn't matter much for that roll.
+[12-Sep-2011 00:49:08]  <Osip_Zhgun[Barcode]> [Sounds like it.]
+[12-Sep-2011 00:49:12]  <Gendo> Osip, you also see a blast forming underneath you.
+[12-Sep-2011 00:49:19]  <Gendo> Roll to dodge.
+[12-Sep-2011 00:49:36]  <Loki_Weyland> $ I have Heavy Armor, so my TB is +1, and my Ag is -5.
+[12-Sep-2011 00:49:47]  <Osip_Zhgun[Barcode]> !roll 1d100
+[12-Sep-2011 00:49:47]  <GameServ> 67 == 67
+[12-Sep-2011 00:49:52]  <Osip_Zhgun[Barcode]> [whooooooooooooooooooooo]
+[12-Sep-2011 00:50:06]  <Osip_Zhgun[Barcode]> [one sec]
+[12-Sep-2011 00:50:13]  <Gendo> That's a fail.
+[12-Sep-2011 00:50:30]  <Osip_Zhgun[Barcode]> [I was going to say, then is it roll MINUS our bonus?]
+[12-Sep-2011 00:50:36]  <JackMackerel> GameServ, stop being a dickbag.
+[12-Sep-2011 00:50:39]  <Osip_Zhgun[Barcode]> [in that case, 67 − 4 (since my Ag is 40) = 63]
+[12-Sep-2011 00:50:45]  <Gendo> Still a fail.
+[12-Sep-2011 00:50:52]  <Osip_Zhgun[Barcode]> [Of course. :P But just wondering.]
+[12-Sep-2011 00:51:08]  <Gendo> A cross shaped blast of energy forms directly under the body of the TRIDENT.
+[12-Sep-2011 00:51:11]  <Lou> [Why is everybody complaining about gameserv]
+[12-Sep-2011 00:51:13]  <Gendo> Direct hit.
+[12-Sep-2011 00:51:20]  <Motoko> 14Osip_Zhgun[Barcode]: Technically I think it's that your stat is increased by your bonus, but that only matters at the margins, I think
+[12-Sep-2011 00:51:39]  <Gendo> Body of the trident takes 11 points of damage (this is after I factored in AP and TB)
+[12-Sep-2011 00:51:41]  <Motoko> 14Lou: Because they're getting screwed by it, presumably.
+[12-Sep-2011 00:51:45]  <Osip_Zhgun[Barcode]> [holy shit]
+[12-Sep-2011 00:51:56]  <Lou> [I'm sorry, which one of us managed to get the worst possible roll?]
+[12-Sep-2011 00:52:11]  <Motoko> 14Lou, you don't matter. Shush.
+[12-Sep-2011 00:52:18]  <Lou> [;_;]
+[12-Sep-2011 00:52:19]  <Gendo> JackMackerel: Your turn now.
+[12-Sep-2011 00:52:19]  <Loki_Weyland> (17:30:49) Lou: !roll d100
+[12-Sep-2011 00:52:19]  <Loki_Weyland> (17:30:49) GameServ: 100 == 100
+[12-Sep-2011 00:52:19]  <Loki_Weyland> (17:30:53) Lou: [oh fuck]
+[12-Sep-2011 00:52:22]  <Osip_Zhgun[Barcode]> [According to the Machien trait, I'm done, then. I have 10 body wounds, 11 means 1 goes…somewhere else, hopefully not to kill me]
+[12-Sep-2011 00:52:35]  <Lou> [._.]
+[12-Sep-2011 00:52:38]  <Osip_Zhgun[Barcode]> [actually could I roll a drama point or whatever? otherwise I'm probably dead due to a TAC]
+[12-Sep-2011 00:52:44]  <Gendo> [And yeah, I think I've got the combat system figured out".
+[12-Sep-2011 00:52:54]  <Gendo> Osip_Zhgun[Barcode]: I believe it goes to critical damage.
+[12-Sep-2011 00:52:55]  <Osip_Zhgun[Barcode]> [Through Armour Critical]
+[12-Sep-2011 00:53:04]  <JackMackerel> !roll 1d100
+[12-Sep-2011 00:53:04]  <GameServ> 16 == 16
+[12-Sep-2011 00:53:06]  <Osip_Zhgun[Barcode]> [Oh. Well I mean, check the TRIDENT page. one sec]
+[12-Sep-2011 00:53:07]  <JackMackerel> WOO
+[12-Sep-2011 00:53:19]  <Osip_Zhgun[Barcode]> «*Machine: The T-RIDEN-T Land Cruiser has no core, and once its head or body is reduced to 0 wounds it is defeated. Any limb reduced to 0 wounds is crippled beyond use or destroyed.»
+[12-Sep-2011 00:53:31]  <Motoko> 14(five minutes ago) Osip, there's something underneath your -
+[12-Sep-2011 00:53:35]  <Osip_Zhgun[Barcode]> [lol]
+[12-Sep-2011 00:53:37]  <Gendo> Yeah, you're down for the count,  I think.
+[12-Sep-2011 00:53:47]  <JackMackerel> (Ouch, one hit kill.)
+[12-Sep-2011 00:53:51]  <Osip_Zhgun[Barcode]> [Well. Could I roll a Fate Point insteda of taking all 11 points, or is this like, d100]
+[12-Sep-2011 00:53:58]  <Gendo> Your PC survives, because I'm nice.
+[12-Sep-2011 00:54:10]  <Gendo> Oh, yeah, you can totally spend a fate point.
+[12-Sep-2011 00:54:25]  <Lou> [to just salvage the machine, hopefully...]
+[12-Sep-2011 00:54:27]  <Osip_Zhgun[Barcode]> [am I allowed to know what the angel's damage is like, or am I going to risk getting 96 poitns of damage instead]
+[12-Sep-2011 00:54:36]  <Gendo> Explain?
+[12-Sep-2011 00:54:37]  <Osip_Zhgun[Barcode]> [or is this fate point just to eject or etc. etc.
+[12-Sep-2011 00:54:37]  <Osip_Zhgun[Barcode]> ]
+[12-Sep-2011 00:54:47]  <Gendo> Oh.
+[12-Sep-2011 00:54:50]  <Gendo> Lemme go check.
+[12-Sep-2011 00:55:26]  <Osip_Zhgun[Barcode]> [Well, I can use a fate point to reroll something, or burn one (reducing my total points per session) to survive something that'll kill me. But yeah, go ahead]
+[12-Sep-2011 00:55:32]  <Motoko> 14I think I'm going to retcon my lack of reaction to "Motoko thinks we're still in a simulation, so she's not going totally insane yet."
+[12-Sep-2011 00:55:37]  <Gendo> Osip_Zhgun[Barcode]: Because we're still learning the system, I'll let you spend the Fate Point instead of burning it, to reroll the dodge.
+[12-Sep-2011 00:55:46]  <Lou> [Hoho, Fun.]
+[12-Sep-2011 00:55:50]  <Osip_Zhgun[Barcode]> [here we go u_u]
+[12-Sep-2011 00:55:58]  <Osip_Zhgun[Barcode]> !roll 1d100
+[12-Sep-2011 00:55:58]  <GameServ> 21 == 21
+[12-Sep-2011 00:56:04]  <Lou> [What, that's too reasonable.]
+[12-Sep-2011 00:56:05]  <Osip_Zhgun[Barcode]> [*huge sigh of relief*]
+[12-Sep-2011 00:56:21]  <Gendo> The Trident dodges the majority of the blast.
+[12-Sep-2011 00:56:33]  <Gendo> And I dropped my dice >.>
+[12-Sep-2011 00:56:44]  * Osip_Zhgun[Barcode] manages to react fast enough through his psychosis to dodge the explosion.
+[12-Sep-2011 00:56:50]  <Osip_Zhgun[Barcode]> dodge most of*
+[12-Sep-2011 00:56:50]  <JackMackerel> (:<?)
+[12-Sep-2011 00:57:08]  * Motoko has a momentary vision of the T-RIDEN-T getting completely incinerated by the beam, before realizing Osip has only taken minor injuries
+[12-Sep-2011 00:57:08]  <Gendo> Osip_Zhgun[Barcode]: 2 points of damage to the body.
+[12-Sep-2011 00:57:11]  <Gendo> Much more reasonable.
+[12-Sep-2011 00:57:38]  <Gendo> JackMackerel: You're up.
+[12-Sep-2011 00:57:41]  <Gendo> Fear test!
+[12-Sep-2011 00:57:53]  <JackMackerel> (I alredy rolled. >:|)
+[12-Sep-2011 00:58:03]  <Gendo> JackMackerel: What'd you get.  I didn't see.
+[12-Sep-2011 00:58:13]  <Motoko> 14Gendo: 16.
+[12-Sep-2011 00:58:19]  <JackMackerel> (
+[12-Sep-2011 00:58:19]  <JackMackerel> <JackMackerel> !roll 1d100
+[12-Sep-2011 00:58:19]  <JackMackerel> <GameServ> 16 == 16)
+[12-Sep-2011 00:58:19]  <Gendo> That's a pass.
+[12-Sep-2011 00:58:21]  <Osip_Zhgun[Barcode]> [***@Gendo: I'm leaving notes in the Chat for your initiative order googledoc. Unless you're tracking this on your own in which case I'll remove the clutter***]
+[12-Sep-2011 00:58:23]  <Gendo> Do what you wish.
+[12-Sep-2011 00:58:33]  <Gendo> Osip_Zhgun[Barcode]: Please do.
+[12-Sep-2011 00:58:38]  <Gendo> Keep track, I mean.
+[12-Sep-2011 00:58:53]  <Osip_Zhgun[Barcode]> [***Got it. Well, they're in that doc, and I list when they were updated in the "comments".
+[12-Sep-2011 00:58:53]  <Motoko> 14Osip_Zhgun[Barcode], there's a field on the Eva sheet for wounds. I put a "2" under "current body wounds".
+[12-Sep-2011 00:58:55]  <Osip_Zhgun[Barcode]> ***]
+[12-Sep-2011 00:59:09]  <Osip_Zhgun[Barcode]> [Motoko: Ah. Wlel, I'll do it on both ends then]
+[12-Sep-2011 00:59:17]  <Osip_Zhgun[Barcode]> [just in case]
+[12-Sep-2011 00:59:22]  <JackMackerel> "RIP AND TEAR!" Jaqueline's EVA sprints straight towards the Angel. Hopefully, if she stabs it quickly enough, it'll snap Cassie out of her stare...
+[12-Sep-2011 00:59:46]  <Motoko> 14Osip_Zhgun[Barcode]: And I believe "Rld" next to "Clip" means "ammunition left until reload," so you can put "24" there.
+[12-Sep-2011 01:00:12]  <Loki_Weyland> $ Is it OK if I replace "Clip" with "Mag"? I'm a stickler for terminology.
+[12-Sep-2011 01:00:12]  <Gendo> JackMackerel: Once again, to do anything to the Angel other than annoy it, you need to activate you spread, which would use up this round.
+[12-Sep-2011 01:00:26]  <Osip_Zhgun[Barcode]> [oh Gendo, for further reference: my Blast Shield Increases AP on body and head by 2. I'm gonna comment in that my body/head AP WITHOUT this shield are 6 and 3, respectively]
+[12-Sep-2011 01:00:32]  <JackMackerel> (Actually, I should have Jackie mutter to herself in unnessecery expodump, like Mari. :D Also, she's just running toward it.)
+[12-Sep-2011 01:00:34]  <Osip_Zhgun[Barcode]> [Loki_Weyland - go ahead]
+[12-Sep-2011 01:00:51]  <Gendo> Osip_Zhgun[Barcode]: In which case, you would have taken 0 damage from the blast.
+[12-Sep-2011 01:01:11]  <Osip_Zhgun[Barcode]> [Shall I make it so, then?]
+[12-Sep-2011 01:01:18]  <JackMackerel> (Wait, do I need to roll anything to get in range to the Angel?)
+[12-Sep-2011 01:01:19]  <Gendo> Osip_Zhgun[Barcode]: Yup.  
+[12-Sep-2011 01:01:23]  <Gendo> JackMackerel: No.
+[12-Sep-2011 01:01:38]  <Gendo> I'm really generous with movement, especially without visual representation and such.
+[12-Sep-2011 01:01:41]  <JackMackerel> (Okay, activate the spread thingy.)
+[12-Sep-2011 01:01:47]  <Gendo> Sure.  I'
+[12-Sep-2011 01:01:56]  <Gendo> I'll let you move and do that, because this is taking forever.
+[12-Sep-2011 01:02:02]  <JackMackerel> (:V)
+[12-Sep-2011 01:02:03]  <Gendo> New initiative!
+[12-Sep-2011 01:02:12]  <Loki_Weyland> !roll d100
+[12-Sep-2011 01:02:12]  <GameServ> 85 == 85
+[12-Sep-2011 01:02:16]  <JackMackerel> !roll 1d100
+[12-Sep-2011 01:02:16]  <GameServ> 14 == 14
+[12-Sep-2011 01:02:16]  <Loki_Weyland> $ Ouch.
+[12-Sep-2011 01:02:19]  <Gendo> [This should go faster, now that I know what I"m doing]
+[12-Sep-2011 01:02:23]  <JackMackerel> (( FUCK YEAR. ))
+[12-Sep-2011 01:02:29]  <Gendo> Initiatives are 1d10, remember!
+[12-Sep-2011 01:02:30]  <Motoko> !roll d100
+[12-Sep-2011 01:02:30]  <GameServ> 34 == 34
+[12-Sep-2011 01:02:34]  <Osip_Zhgun[Barcode]> !roll 1d100
+[12-Sep-2011 01:02:34]  <GameServ> 72 == 72
+[12-Sep-2011 01:02:37]  <Motoko> Oh, sorry.
+[12-Sep-2011 01:02:37]  <Lou> [new initiative/  what?]
+[12-Sep-2011 01:02:41]  <Osip_Zhgun[Barcode]> [oh shit]
+[12-Sep-2011 01:02:45]  <Osip_Zhgun[Barcode]> !roll 1d10
+[12-Sep-2011 01:02:45]  <GameServ> 9 == 9
+[12-Sep-2011 01:02:46]  <Gendo> Lou: New initiative each round.
+[12-Sep-2011 01:02:46]  <Motoko> 14!roll d10+[AP]
+[12-Sep-2011 01:02:46]  <JackMackerel> (>:|)
+[12-Sep-2011 01:02:49]  <Loki_Weyland> $ Wait- shit. How do we calculate this again?
+[12-Sep-2011 01:02:51]  <Loki_Weyland> !roll d10
+[12-Sep-2011 01:02:51]  <GameServ> 10 == 10
+[12-Sep-2011 01:02:54]  <JackMackerel> !roll d10
+[12-Sep-2011 01:02:54]  <GameServ> 6 == 6
+[12-Sep-2011 01:02:54]  <Cassie> !roll d10
+[12-Sep-2011 01:02:54]  <GameServ> 3 == 3
+[12-Sep-2011 01:02:55]  <Motoko> !roll d10+4
+[12-Sep-2011 01:02:55]  <GameServ> (7) + 4 == 11
+[12-Sep-2011 01:02:56]  <Osip_Zhgun[Barcode]> [Loki_Weyland this roll, plus your AB]
+[12-Sep-2011 01:03:05]  <Cassie> So 9
+[12-Sep-2011 01:03:08]  <Osip_Zhgun[Barcode]> [***ag bonus* —> so I'm at  9 + 4 = 13]
+[12-Sep-2011 01:03:08]  <JackMackerel> (I got six. What's the Ability Bonus again?)
+[12-Sep-2011 01:03:09]  <Lou> [Gendo: That's not what it says in the DH book.]
+[12-Sep-2011 01:03:15]  <Osip_Zhgun[Barcode]> [JackMackerel it's your agility's 10s digit]
+[12-Sep-2011 01:03:22]  <Gendo> Oh.
+[12-Sep-2011 01:03:24]  <Gendo> Nevermind then.
+[12-Sep-2011 01:03:24]  <Osip_Zhgun[Barcode]> [oh yeah, DH uses-]
+[12-Sep-2011 01:03:29]  <Gendo> Game'll move faster this way anyway.
+[12-Sep-2011 01:03:33]  <Osip_Zhgun[Barcode]> [CTRL Z CTRL Z CTRL Z CTRL Z]
+[12-Sep-2011 01:03:38]  <JackMackerel> (Okay, I got nine, then.)
+[12-Sep-2011 01:03:45]  <Lou> [So, back to Osip Insanity Hour]
+[12-Sep-2011 01:03:47]  <Motoko> 14Okay, skipping new initiative rolls!
+[12-Sep-2011 01:03:57]  <Osip_Zhgun[Barcode]> [Also, everyone, keep in mind your Wounds are actually per body part, unlike DH's rules]
+[12-Sep-2011 01:03:59]  <Gendo> Well, Osip_Zhgun[Barcode]:  Roll willpower test again to snap out of your hysteria.
+[12-Sep-2011 01:04:04]  <Osip_Zhgun[Barcode]> !roll 1d100
+[12-Sep-2011 01:04:04]  <GameServ> 27 == 27
+[12-Sep-2011 01:04:07]  <Osip_Zhgun[Barcode]> [oh thank god.]
+[12-Sep-2011 01:04:18]  <Osip_Zhgun[Barcode]> [***27 = 1 deg freedom below 40]
+[12-Sep-2011 01:04:31]  <Gendo> You snap out.  The Angel's AT field is still in effect, so there isn't much you can do.
+[12-Sep-2011 01:05:39]  <Gendo> Should I assume you fire at it again?
+[12-Sep-2011 01:05:42]  <Osip_Zhgun[Barcode]> [one sec]
+[12-Sep-2011 01:05:45]  <Gendo> Okay.
+[12-Sep-2011 01:05:51]  <Osip_Zhgun[Barcode]> [I suppose I remember doing all that shooting then]
+[12-Sep-2011 01:05:56]  <Gendo> Yeah.
+[12-Sep-2011 01:06:02]  <Motoko> 14I can overtime until the battle finishes tonight, I think, as long as this doesn't take another hour. :)
+[12-Sep-2011 01:06:16]  <Gendo> Motoko: It should run relatively smoothly for now.
+[12-Sep-2011 01:06:23]  <Gendo> Unless someone attempts something uber-crazy.
+[12-Sep-2011 01:06:31]  <Osip_Zhgun[Barcode]> [And it's looking at Loki?]
+[12-Sep-2011 01:06:34]  <Loki_Weyland> I suplex the angel.
+[12-Sep-2011 01:06:37]  <Loki_Weyland> $ Kidding.
+[12-Sep-2011 01:06:50]  <Motoko> 14I think I have a decent handle on how AT deployment works now.
+[12-Sep-2011 01:06:56]  <Osip_Zhgun[Barcode]> Osip regains his composure just before sideswiping a building. Wiping sweat (and tears) from his face he looks at the Angel again and takes a deep breath. [how long are turns] [Am I far away from it? If so:] "I'm… this is Osip. Trying…to get its attention again." Osip runs full tilt towards the Angel, firing a Single shot at it.
+[12-Sep-2011 01:07:08]  <Gendo> Osip_Zhgun[Barcode]: It's not too apparent wher ethe Angel is focused.  The eye that was seen earlier has disappeared under the mass of corpses.
+[12-Sep-2011 01:07:23]  *** Madoka is now known as Madoka|Dinner
+[12-Sep-2011 01:07:40]  <Osip_Zhgun[Barcode]> [Alright. Well, I mean, I suppose I can keep plinking without that knowledge]
+[12-Sep-2011 01:07:41]  <Motoko> Osip, what happened there?
+[12-Sep-2011 01:07:49]  <Gendo> Osip_Zhgun[Barcode]: Shot neutralized by AT field.  (I'll explain how I view the turn thing after the game.  But that's fine)
+[12-Sep-2011 01:08:04]  <Gendo> Next up!  Cassie!  Make your save to snap out of it!
+[12-Sep-2011 01:08:31]  <Osip_Zhgun[Barcode]> "I…that thing…" Osip trails off, only partly due to concentration.
+[12-Sep-2011 01:08:59]  <Motoko> 14THERE ARE FIELDS ON THE CHARACTER SHEET FOR KEEPING TRACK OF AMMUNITION AND WOUNDS, EVERYONE
+[12-Sep-2011 01:09:12]  <Osip_Zhgun[Barcode]> [I' updating there too!]
+[12-Sep-2011 01:09:21]  <Gendo> Cassie: ???
+[12-Sep-2011 01:09:38]  <Motoko> 14"EVERYONE" MOSTLY MEANS LOU AND LOKI
+[12-Sep-2011 01:09:41]  <Gendo> !roll d100
+[12-Sep-2011 01:09:41]  <GameServ> 45 == 45
+[12-Sep-2011 01:09:51]  <Cassie> {Here, dogs were barking about some shit]
+[12-Sep-2011 01:09:55]  <Gendo> Oh.
+[12-Sep-2011 01:09:56]  <Gendo> Okay.
+[12-Sep-2011 01:10:13]  <Gendo> I'll let you make your own roll, then.
+[12-Sep-2011 01:10:14]  <Cassie> Cassie closes her eyes and tries to make herself move again.
+[12-Sep-2011 01:10:24]  <Cassie> !roll d100
+[12-Sep-2011 01:10:24]  <GameServ> 13 == 13
+[12-Sep-2011 01:10:58]  <Gendo> As the eye disappears under a wave of bodies, you collect yourself enough to function.
+[12-Sep-2011 01:11:08]  <Gendo> What're you going to do.
+[12-Sep-2011 01:11:32]  <Loki_Weyland> $ BRB.
+[12-Sep-2011 01:11:33]  <Cassie> "Initiating AT spread. We have to neutralize that before we can kill the eye."
+[12-Sep-2011 01:11:39]  <Gendo> Got it.
+[12-Sep-2011 01:11:41]  <Loki_Weyland> $ Don't worry about me.
+[12-Sep-2011 01:11:52]  <Gendo> Motoko: Your turn.  You don't need a save.  You're fine.
+[12-Sep-2011 01:12:02]  <Loki_Weyland> $ And yeah, I'll Spread when my turn comes around if I can.
+[12-Sep-2011 01:12:03]  <Gendo> I imagine you're also initiating a spread.
+[12-Sep-2011 01:12:07]  <Loki_Weyland> $ Roll for me if I'
+[12-Sep-2011 01:12:10]  <Loki_Weyland> I'm not back.
+[12-Sep-2011 01:12:12]  <Gendo> Loki_Weyland: Got it.
+[12-Sep-2011 01:12:14]  <Motoko> 14Gendo, so only one fear check then.
+[12-Sep-2011 01:12:31]  <Osip_Zhgun[Barcode]> [yeah, fear's just at start I guess. I mean otherwise we'd be incoherent after a single battle]
+[12-Sep-2011 01:12:33]  <Lou> [They had to make fear checks because they failed so hard, unlike you.]
+[12-Sep-2011 01:12:37]  <Gendo> Motoko: Your rolls were all good.
+[12-Sep-2011 01:12:39]  <Gendo> Yeah.
+[12-Sep-2011 01:12:54]  <Gendo> They were getting insanity points they failed so hard.
+[12-Sep-2011 01:12:57]  <Gendo> You were just startled.
+[12-Sep-2011 01:13:00]  <Lou> [I have to make negative two on my roll, or else I'll be sucked into the Outer Realm]
+[12-Sep-2011 01:13:08]  * Motoko attempts to spread a Deflective Field 14[as that's my lone AT spread power]
+[12-Sep-2011 01:13:16]  <Osip_Zhgun[Barcode]> [^^lol]
+[12-Sep-2011 01:13:59]  <Gendo> Motoko: Yupyup.
+[12-Sep-2011 01:14:10]  <Gendo> Lou: Make your roll to snap out of it.
+[12-Sep-2011 01:14:15]  <Lou> !roll d100
+[12-Sep-2011 01:14:15]  <GameServ> 63 == 63
+[12-Sep-2011 01:14:42]  <Gendo> Fail again >.>
+[12-Sep-2011 01:14:50]  <Lou> unit unit unit unit unit unit unit unit unit unit unit nine
+[12-Sep-2011 01:14:59]  <Gendo> You're still running away.
+[12-Sep-2011 01:15:00]  <Motoko> 14So, um, what are AT Fields like in the first place? Also, how do I explain managing to deploy an AT Field without knowing what it even is? >_>
+[12-Sep-2011 01:15:51]  <Lou> [It's a magic forcefield you don't have to think too much about (because thinking does no good (except you're a tactictian so uh later it will I guess? (dunno)))]
+[12-Sep-2011 01:15:51]  <Gendo> Motoko: [When we skipped through that small portion of the training earlier, it would have explained all that.] >.>
+[12-Sep-2011 01:15:52]  *** Madoka|Dinner <~chatzilla@S0106002191d86b2c.no.shawcable.net> has quit IRC (Read error: Connection reset by peer)
+[12-Sep-2011 01:15:54]  <Osip_Zhgun[Barcode]> [accidental?]
+[12-Sep-2011 01:15:59]  <Osip_Zhgun[Barcode]> [oh there we go.]
+[12-Sep-2011 01:16:14]  <Lou> abandon
+[12-Sep-2011 01:16:16]  <Gendo> [Sorry, but we started late, and yeah, this is taking a while >.>]
+[12-Sep-2011 01:16:24]  <Loki_Weyland> $ Back!
+[12-Sep-2011 01:16:25]  <Motoko> 14These timeskips are really messing with my roleplaying ability! :p
+[12-Sep-2011 01:16:32]  <Gendo> Loki_Weyland: Your turn!
+[12-Sep-2011 01:16:40]  <Loki_Weyland> $ Good timing, then?
+[12-Sep-2011 01:16:44]  <Gendo> Motoko: Hopefully, the next few sessions won't be as hectic.
+[12-Sep-2011 01:16:48]  <Loki_Weyland> $ Yeah.
+[12-Sep-2011 01:16:51]  <Gendo> I think I have a feel for how we end up pacing.
+[12-Sep-2011 01:16:53]  <Loki_Weyland> $ So, what do I roll?
+[12-Sep-2011 01:17:02]  <Osip_Zhgun[Barcode]> [ignore this following roll, it's for RP purposes]
+[12-Sep-2011 01:17:04]  *** Madoka|Dinner <~chatzilla@S0106001e58eeaf74.no.shawcable.net> has joined #MadokaMadness
+[12-Sep-2011 01:17:06]  <Osip_Zhgun[Barcode]> !roll 1d100
+[12-Sep-2011 01:17:06]  <GameServ> 92 == 92
+[12-Sep-2011 01:17:14]  <Gendo> Loki_Weyland: I forget what you did last round.  But you can make your actions unhindered by fear or anything.
+[12-Sep-2011 01:17:19]  <Loki_Weyland> $ Yeah.
+[12-Sep-2011 01:17:25]  <Osip_Zhgun[Barcode]> [92 keeps appearing. is gameserv okay]
+[12-Sep-2011 01:17:26]  <Lou> [he just shot ineffectively]
+[12-Sep-2011 01:17:32]  <Gendo> (I would suggest spreading your field, and if you have already done that, neutralizing)
+[12-Sep-2011 01:17:34]  <Loki_Weyland> I ran from the city, trying to avoid collateral damage.
+[12-Sep-2011 01:17:39]  <Gendo> Right.
+[12-Sep-2011 01:17:44]  <Lou> [Yes, don't worry about the PRNG, it's fine.]
+[12-Sep-2011 01:17:47]  <Loki_Weyland> $ And yeah, I was gonna Spread.
+[12-Sep-2011 01:17:51]  <Motoko> 14Gendo: i.e. everybody wants to fight? ;)
+[12-Sep-2011 01:17:57]  <Loki_Weyland> $ So how do I do that?
+[12-Sep-2011 01:18:00]  <Gendo> KK.  Spread.
+[12-Sep-2011 01:18:26]  <Gendo> Loki_Weyland: It's  full round action to spread your field.  You don't need to do anything.  Boring, I know.
+[12-Sep-2011 01:18:27]  <Lou> [It takes a full round, or two half rounds (so you can do other crap)]
+[12-Sep-2011 01:18:41]  <Loki_Weyland> $ Ah. No rolls?
+[12-Sep-2011 01:18:42]  <Motoko> 14Loki_Weyland: You just say you spread, and then specify a field type, except that you only have one AT field power at the moment, so.
+[12-Sep-2011 01:18:45]  <Gendo> Not yet.
+[12-Sep-2011 01:19:02]  <Gendo> Also, these fields should help with what comes next.
+[12-Sep-2011 01:19:18]  <Gendo> i.e.  Tsvael wants to blast you with energy crosses again.
+[12-Sep-2011 01:19:34]  <Lou> [:o]
+[12-Sep-2011 01:19:40]  <Osip_Zhgun[Barcode]> [@gendo: Is my movement towards the Angel interfering with my ability to dodge? I'l lwait for next turn, but I should probably slow down once I'm close]
+[12-Sep-2011 01:19:57]  <Gendo> Osip_Zhgun[Barcode]: You take priority with Tsvael this round, as you were the last to annoy it.  (No, it doesn't interfere.)
+[12-Sep-2011 01:20:00]  <Lou> redoubt delta fall
+[12-Sep-2011 01:20:45]  <Loki_Weyland> $ I use Neutralize, then.
+[12-Sep-2011 01:20:59]  <Osip_Zhgun[Barcode]> [Should I roll to dodge or…what's tsvael doing?]
+[12-Sep-2011 01:21:06]  <Gendo> Osip_Zhgun[Barcode]: You feel the energy accumulating agian, but it's rather odd, as the energy is accumulating and blasts off to the side of you.  Total miss.
+[12-Sep-2011 01:21:14]  <Osip_Zhgun[Barcode]> [ah.]
+[12-Sep-2011 01:22:02]  <Gendo> Loki_Weyland: Same for you.  The energy cross fires off where you were last round.  You're not there anymore.
+[12-Sep-2011 01:22:14]  <Gendo> JackMackerel: Your turn.
+[12-Sep-2011 01:22:21]  <JackMackerel> !roll 1d100
+[12-Sep-2011 01:22:21]  <GameServ> 93 == 93
+[12-Sep-2011 01:22:24]  <JackMackerel> Fuck.
+[12-Sep-2011 01:22:36]  <Gendo> You didn't need to roll to snap out of it, anyway.
+[12-Sep-2011 01:22:40]  <Gendo> Unless that was for something else.
+[12-Sep-2011 01:23:07]  <JackMackerel> (Uh... I forgot. Anyway, Jack's still running at the Angel, me thinks.)
+[12-Sep-2011 01:23:18]  <Gendo> Okay.  You can make it there, and you have a half-action left.
+[12-Sep-2011 01:23:28]  <Osip_Zhgun[Barcode]> [first attack of the game!]
+[12-Sep-2011 01:23:30]  <Gendo> (hint hint:  Neutralizing the AT field so others can damage it is a good idea.
+[12-Sep-2011 01:23:33]  <Osip_Zhgun[Barcode]> [oh.]
+[12-Sep-2011 01:23:41]  <JackMackerel> (That's what Jack's trying to do. :V)
+[12-Sep-2011 01:24:02]  <Gendo> Alright.
+[12-Sep-2011 01:24:03]  * JackMackerel closes the distances and dramatically leaps at the Angel with both knives in hand. "It's just like Christmas Mornin'."
+[12-Sep-2011 01:24:06]  <Cassie> [So Motoko, Jaq, and Cassie are neutralizing?]
+[12-Sep-2011 01:24:16]  <Loki_Weyland> $ Don't forget me!
+[12-Sep-2011 01:24:24]  <Motoko> 14Can you neutralize without an AT Field already set up?
+[12-Sep-2011 01:24:34]  <Gendo> Motoko: He set his up last round.
+[12-Sep-2011 01:24:36]  <Cassie> [Spreading I mean]
+[12-Sep-2011 01:24:53]  <Gendo> Cassie: Jaq spread his last round, so he can actually act this round.
+[12-Sep-2011 01:24:56]  <Gendo> Hence, neutralizing.
+[12-Sep-2011 01:25:39]  <Motoko> 14Oh, I see, you let Mackerel move and spread. I thought he just moved.
+[12-Sep-2011 01:25:50]  <Gendo> JackMackerel: As you jump at the Angel, you feel resistence under your knives, which quickly subsides as Tsvael's AT field is shattered.
+[12-Sep-2011 01:25:57]  <Gendo> Osip_Zhgun[Barcode]: Your turn!
+[12-Sep-2011 01:26:01]  <JackMackerel> (Awwww yeah rape)
+[12-Sep-2011 01:26:34]  <Motoko> 14Er, how strong was Tsvael's AT Field to start? >_>
+[12-Sep-2011 01:26:37]  <Osip_Zhgun[Barcode]> [Is the AT field down? if so, do I know what this means, if so, is my dodging hampered by not moving on my turn]
+[12-Sep-2011 01:27:06]  *** Madoka|Dinner_ <~chatzilla@S0106002191d86b2c.no.shawcable.net> has joined #MadokaMadness
+[12-Sep-2011 01:27:08]  <Osip_Zhgun[Barcode]> [actually I forgot, full auto is a full action. I can get an aiming bonus next turn if I aim this one, right?]
+[12-Sep-2011 01:27:09]  <Gendo> Motoko: The way Angel's protective fields are treated, they're impervious to almost every normal attack until neutralized.
+[12-Sep-2011 01:27:25]  <JackMackerel> (A big step up from NGE. :V)
+[12-Sep-2011 01:27:38]  <Osip_Zhgun[Barcode]> [in jellyon it was "it hurts when we want it to hurt"]
+[12-Sep-2011 01:27:41]  <Lou> [what do you mean?  They laugh off MOABs]
+[12-Sep-2011 01:27:52]  <Osip_Zhgun[Barcode]> [yeah but the stupid pallet rifles kill them to shit]
+[12-Sep-2011 01:27:53]  <Lou> [MOAMs, more like, I guess]
+[12-Sep-2011 01:28:03]  <Motoko> 14Gendo: The manual seems to imply you have to burn 1 AT Field Point for each corresponding point of neutralization in the target...
+[12-Sep-2011 01:28:04]  <Loki_Weyland> $ N2 things are antimatter bombs, according to AE fluff.
+[12-Sep-2011 01:28:20]  <JackMackerel> (IIRC, they're never explained in canon NGE.)
+[12-Sep-2011 01:28:26]  <Osip_Zhgun[Barcode]> [Sorry. @Gendo - so, if I half-action to move and I half-action to aim, next turn I can full-auto with improved accuracy, right?]
+[12-Sep-2011 01:28:41]  <Lou> [I meant the fuckhuge missiles that fire at 'em]
+[12-Sep-2011 01:28:55]  <Motoko> 14Gendo: s/burn/spend/, sorry. But if the Angel's SR is greater than JackMackerel's, its field is still up.
+[12-Sep-2011 01:29:00]  <Lou> [Each is at least the size of a subway train]
+[12-Sep-2011 01:29:00]  <JackMackerel> (o rite)
+[12-Sep-2011 01:29:25]  *** Madoka|Dinner <~chatzilla@S0106001e58eeaf74.no.shawcable.net> has quit IRC (Ping timeout: 186 seconds)
+[12-Sep-2011 01:29:30]  *** Madoka|Dinner_ is now known as Madoka|Dinner
+[12-Sep-2011 01:29:56]  <Motoko> 14Gendo: I'm looking at page 171 (numbered page 169).
+[12-Sep-2011 01:30:13]  <Gendo> Motoko: I'm fudging stuff here, because this is taking longer than I expected.
+[12-Sep-2011 01:30:29]  *** Madoka|Dinner is now known as Madoka
+[12-Sep-2011 01:30:39]  <Motoko> 14>AT Tactician is absolutely useless from an AT perspective in this battle ;_;
+[12-Sep-2011 01:30:45]  <Gendo> Osip_Zhgun[Barcode]: Yes.
+[12-Sep-2011 01:30:56]  <JackMackerel> (lolol)
+[12-Sep-2011 01:31:13]  <Cassie> So do we roll for initiative again now?
+[12-Sep-2011 01:31:15]  <Gendo> Motoko: Sorry >.>
+[12-Sep-2011 01:31:16]  <Osip_Zhgun[Barcode]> [I do that, then.] Osip strafes to best orient himself in view of the hole in the Angel's hexagonal AT-pattern. "Keep that AT Field down!" he shouts, lining his crosshair up with the Angel's open area.
+[12-Sep-2011 01:31:18]  <Gendo> Cassie: Nope.
+[12-Sep-2011 01:31:31]  <Motoko> 14Cassie: That's only once per battle, apparently.
+[12-Sep-2011 01:31:43]  <Osip_Zhgun[Barcode]> Osip runs perpendicular to his aiming vector, orienting himself in view of the*
+[12-Sep-2011 01:31:58]  <Osip_Zhgun[Barcode]> [strafing iwth this thing would…not be fast]
+[12-Sep-2011 01:32:17]  <Gendo> Motoko: This battle is mostly to get a grasp for the pacing and general feel.  I'm fudging to keep it something resembling reasonable, timewise.
+[12-Sep-2011 01:32:37]  <Cassie> [My turn now?]
+[12-Sep-2011 01:32:39]  <Gendo> Next up!  Cassie!
+[12-Sep-2011 01:32:41]  <Gendo> Yes.
+[12-Sep-2011 01:32:58]  <Gendo> (BRB restroom)
+[12-Sep-2011 01:33:04]  <Motoko> 14Gendo: Understandable. Doesn't make me feel any more useful, though. *continued crying*
+[12-Sep-2011 01:33:11]  <Cassie> [Okay, so let me see if I have this right, I can attempt to neutralize the AT field and attack in the same turn?]
+[12-Sep-2011 01:33:16]  <Osip_Zhgun[Barcode]> [Lou: You're still running rite]
+[12-Sep-2011 01:33:44]  <Lou> [unfortunately]
+[12-Sep-2011 01:34:04]  <Osip_Zhgun[Barcode]> [I wonder if I have radar]
+[12-Sep-2011 01:34:22]  <Osip_Zhgun[Barcode]> !roll 1d100 > ignore this
+[12-Sep-2011 01:34:22]  <GameServ> 76 == 76
+[12-Sep-2011 01:34:36]  <Loki_Weyland> $ Osip_Zhgun[Barcode]: Get something from Crest or Mirage.
+[12-Sep-2011 01:34:58]  <Lou> [motoko: at least you can move.]
+[12-Sep-2011 01:35:11]  <Gendo> Cassie: For time's sake, I have considered the AT field as being already neutralized,  so just attack!
+[12-Sep-2011 01:35:26]  <Motoko> 14Lou, you're a lunatic. It makes sense that you're running around uncontrollably.
+[12-Sep-2011 01:36:06]  <Lou> [Well excuuuuuse me]
+[12-Sep-2011 01:36:09]  <Cassie> Her progressive spear held in both hands, Cassie charges the Angel and stabs for where she hopes that damned eye is chanting "break, break break break break"
+[12-Sep-2011 01:36:40]  <Gendo> Cassie: That'll be a d100, getting under your WS.
+[12-Sep-2011 01:36:52]  <Cassie> !roll d100
+[12-Sep-2011 01:36:52]  <GameServ> 89 == 89
+[12-Sep-2011 01:36:56]  <Gendo> >.>
+[12-Sep-2011 01:36:58]  <Loki_Weyland> $ Ouch.
+[12-Sep-2011 01:37:11]  <Osip_Zhgun[Barcode]> [cassie realizes that she is stabbing an apartment building]
+[12-Sep-2011 01:37:17]  <Cassie> [Is the DH system designed to make you fail at things half the time?]
+[12-Sep-2011 01:37:21]  <Lou> [that bastard had it coming]
+[12-Sep-2011 01:37:29]  <Lou> [it's actually more like 70% of the time, atm]
+[12-Sep-2011 01:37:39]  <Gendo> The mass of corpses parts, and Cassie's attack misses.
+[12-Sep-2011 01:37:47]  <Gendo> Lou: You're up!
+[12-Sep-2011 01:37:54]  <Osip_Zhgun[Barcode]> [roll for constitution]
+[12-Sep-2011 01:37:56]  <Gendo> Make a save to snap out, again.
+[12-Sep-2011 01:37:59]  <Lou> !roll d100
+[12-Sep-2011 01:38:00]  <GameServ> 6 == 6
+[12-Sep-2011 01:38:01]  <Lou> [yeah yeah]
+[12-Sep-2011 01:38:04]  <Lou> [Oh hey]
+[12-Sep-2011 01:38:06]  <Gendo> You come to your senses.
+[12-Sep-2011 01:38:07]  <Osip_Zhgun[Barcode]> [hooray]
+[12-Sep-2011 01:38:09]  <Motoko> 14Gendo, you skipped me...
+[12-Sep-2011 01:38:14]  <Gendo> oh.
+[12-Sep-2011 01:38:16]  <Gendo> sorry.
+[12-Sep-2011 01:38:19]  <Lou> [I'm keeping that roll, dammit]
+[12-Sep-2011 01:38:22]  <Gendo> Lou: Keep that in mind.
+[12-Sep-2011 01:38:28]  <Gendo> Motoko: Yup yup.
+[12-Sep-2011 01:38:31]  <Gendo> Your turn.
+[12-Sep-2011 01:38:42]  <Motoko> 14So, um, how do I attack? I have a pallet gun, which I can presumably fire at the Angel...
+[12-Sep-2011 01:38:57]  <Gendo> Motoko: Yup.  d100, get under your BS.
+[12-Sep-2011 01:39:06]  <Osip_Zhgun[Barcode]> [cassie: my highest stat sees me failing regular-difficulty rolls 60% of the time. Gendo can modify the tests per monster/certain actions, and some give you up to +30 in easiness. But looks like bodyblob was likely a regular-difficulty fear test]
+[12-Sep-2011 01:39:19]  <Motoko> 14Here goes expectation of catastrophic failure...
+[12-Sep-2011 01:39:21]  <Lou> [You can simply shoot, which takes half an action, or use burst fire to get better accuracy.]
+[12-Sep-2011 01:39:45]  <Motoko> 14Lou, I think I'll do the latter, considering I don't think I can do much else.
+[12-Sep-2011 01:40:01]  <Lou> [Then pick semiauto or full auto.  The latter takes more ammo, obviously.]
+[12-Sep-2011 01:40:23]  <Osip_Zhgun[Barcode]> [Single, Burst, or Auto. Auto is a full action, the other two aren't, I think?]
+[12-Sep-2011 01:40:30]  <Lou> [semiauto is a full action.]
+[12-Sep-2011 01:40:36]  <Motoko> 14Where is this mentioned?
+[12-Sep-2011 01:40:36]  <Osip_Zhgun[Barcode]> [which one's that]
+[12-Sep-2011 01:40:43]  <Osip_Zhgun[Barcode]> [Motoko - it's in Dark Heresy]
+[12-Sep-2011 01:40:46]  <Lou> [194 pp of DH, Motoko]
+[12-Sep-2011 01:40:46]  <Gendo> Motoko: DH handbook
+[12-Sep-2011 01:40:48]  <Loki_Weyland> $ Semi-auto is an aimed shot, I think.
+[12-Sep-2011 01:40:52]  <Lou> [well actually 191]
+[12-Sep-2011 01:41:26]  <Lou> [actually wait wait]
+[12-Sep-2011 01:41:34]  * Motoko 14goes to read the manual...
+[12-Sep-2011 01:41:35]  <Lou> [With the pallet gun, there's no semiauto, it's single or full]
+[12-Sep-2011 01:42:02]  <JackMackerel> (Single IS Semiauto.)
+[12-Sep-2011 01:42:07]  <Lou> [If you do full auto you'll get +20 to your check, and if you succeed by a lot, you can get extra hits.]
+[12-Sep-2011 01:42:10]  <Lou> [what?]
+[12-Sep-2011 01:42:29]  <Gendo> JackMackerel: No it isn't.
+[12-Sep-2011 01:42:39]  <Loki_Weyland> $ Single would imply that you have to put in another round yourself. Thus, it's actually semi-auto.
+[12-Sep-2011 01:42:40]  <Osip_Zhgun[Barcode]> [page 190, 191 for shooting. both are in left column isntead of grouped up]
+[12-Sep-2011 01:42:42]  <JackMackerel> (wat :<)
+[12-Sep-2011 01:43:06]  <Lou> [Single shot is more like "taking extra time to aim", rather than a mechanical property of the weapon.]
+[12-Sep-2011 01:43:17]  <Loki_Weyland> $ Again, an aimed shot.
+[12-Sep-2011 01:43:46]  <Motoko> 14Okay, I think I get it now.
+[12-Sep-2011 01:44:05]  * Motoko fires a fully automatic burst at the Angel 14whose name I've forgotten already
+[12-Sep-2011 01:44:13]  <Gendo> Alright.
+[12-Sep-2011 01:44:13]  <Loki_Weyland> $Tsvael, isn't it?
+[12-Sep-2011 01:44:23]  <Motoko> 14So that's +20 to BS...
+[12-Sep-2011 01:44:24]  <Osip_Zhgun[Barcode]> [yes]
+[12-Sep-2011 01:44:30]  <Gendo> d100, get under your BS+20.  Yup.
+[12-Sep-2011 01:44:37]  <Motoko> !roll d100
+[12-Sep-2011 01:44:37]  <GameServ> 10 == 10
+[12-Sep-2011 01:44:50]  <Osip_Zhgun[Barcode]> [man, it's a shame nobody walked into my range while I was totally losing it. I typed up a half-decent paragraph]
+[12-Sep-2011 01:44:52]  <Cassie> [Are there any ways to add a bonus to your WS?]
+[12-Sep-2011 01:44:52]  <Motoko> 1410 <= 53, four degrees I think
+[12-Sep-2011 01:44:53]  <Lou> [so negative ten]
+[12-Sep-2011 01:45:00]  <Gendo> And that appears to be... Yeah, 4 degrees of success.
+[12-Sep-2011 01:45:09]  <Lou> [no wait, yeah]
+[12-Sep-2011 01:45:15]  <Motoko> 14So that's two extra hits.
+[12-Sep-2011 01:45:20]  <Gendo> Yup.
+[12-Sep-2011 01:45:23]  <Lou> [go motoko.]
+[12-Sep-2011 01:45:41]  <Motoko> 14... so, out of three rounds, three hit. Wow, 100% accuracy with an automatic.
+[12-Sep-2011 01:45:43]  <Gendo> So three hits at d10.
+[12-Sep-2011 01:46:11]  <Gendo> Motoko: I think the idea is that you fired something like 40 shots, and 3 hit.
+[12-Sep-2011 01:46:17]  <Osip_Zhgun[Barcode]> [>_>\
+[12-Sep-2011 01:46:19]  <Gendo> But game mechanics and balancing and shit.
+[12-Sep-2011 01:46:21]  <Osip_Zhgun[Barcode]> ]*
+[12-Sep-2011 01:46:32]  <Gendo> Anyways, that's 3d10 damage.
+[12-Sep-2011 01:46:36]  <Motoko> 14Gendo: Shh, I'm going to take the game manual literally.
+[12-Sep-2011 01:46:41]  <Loki_Weyland> $ Wouldn't that break the gun? It is a converted battleship cannon.
+[12-Sep-2011 01:46:55]  <Motoko> 14Gendo: Oh, right, do I have to roll for body segments or whatever?
+[12-Sep-2011 01:46:57]  <Osip_Zhgun[Barcode]> [it should be the number of shots in your weapon sheet, which matches up with your ammo but let's continue forget it]
+[12-Sep-2011 01:46:58]  <Motoko> !roll 3d10
+[12-Sep-2011 01:46:58]  <GameServ> 1, 10, 6 == 17
+[12-Sep-2011 01:47:04]  <Gendo> Motoko: Nope.  Only one body part.
+[12-Sep-2011 01:47:05]  <Lou> [Gendo: No, the pallet gun explicitly fires three shots at full auto. :D]
+[12-Sep-2011 01:47:24]  <Cassie> [Loki, Do you want the pallet guns to suck even more?}
+[12-Sep-2011 01:47:33]  <Gendo> Angel takes damage.  Still alive!
+[12-Sep-2011 01:47:43]  <Motoko> 14Lou: That's just the ROF stat, right? So we pretend three hits max for a ridiculously inaccurate weapon.
+[12-Sep-2011 01:47:45]  <Gendo> Also, pissed.
+[12-Sep-2011 01:47:50]  <Lou> [yep!]
+[12-Sep-2011 01:47:52]  <Lou> [my turn?]
+[12-Sep-2011 01:47:55]  <Gendo> Yes.
+[12-Sep-2011 01:47:58]  <Gendo> Now it's your turn.
+[12-Sep-2011 01:48:08]  <Lou> Right... what...
+[12-Sep-2011 01:48:11]  <Gendo> You're out of range for physical attacks, and can't move back in range this turn.
+[12-Sep-2011 01:48:15]  <Motoko> 14Loki_Weyland: That's the Hand Cannon, I believe.
+[12-Sep-2011 01:48:20]  <Gendo> YOu can do ranged attacks, though.
+[12-Sep-2011 01:48:26]  <Loki_Weyland> $ Maybe. I'll have to read up again.
+[12-Sep-2011 01:48:46]  <Lou> [I'll do a full auto burst with my rifle.]
+[12-Sep-2011 01:48:57]  <Gendo> Alright!
+[12-Sep-2011 01:49:01]  <Osip_Zhgun[Barcode]> [wouldn't ranged attacks have to follow Firing Into Melee thanks to Jacqueline or]
+[12-Sep-2011 01:49:04]  <Osip_Zhgun[Barcode]> [never miiiiiind]
+[12-Sep-2011 01:49:07]  <Lou> !roll d100
+[12-Sep-2011 01:49:08]  <GameServ> 66 == 66
+[12-Sep-2011 01:49:24]  <Gendo> Osip_Zhgun[Barcode]: I'm trying to make this battle as brief as possible, as we're almost an hour over the alotted time >.>
+[12-Sep-2011 01:49:24]  <Motoko> Oh, Rld is the "how long the weapon takes to reload" stat. Oops. >_>
+[12-Sep-2011 01:49:29]  <Lou> Dammit... dammit dammit dammit...
+[12-Sep-2011 01:49:36]  <Lou> [motoko, that's only after you empty your clip.]
+[12-Sep-2011 01:49:48]  <Gendo> Lou: That's one hit.
+[12-Sep-2011 01:49:55]  <Osip_Zhgun[Barcode]> [yeh. np]
+[12-Sep-2011 01:49:58]  <Lou> [eh?]
+[12-Sep-2011 01:49:59]  <Motoko> 14Lou, I know, but I've been putting ammo left in the character sheet field for that
+[12-Sep-2011 01:50:04]  <Gendo> Lou: BS + 20.
+[12-Sep-2011 01:50:10]  <Gendo> You passed the check by 1.
+[12-Sep-2011 01:50:15]  <Lou> [my BS is 32]
+[12-Sep-2011 01:50:25]  <Gendo> In your Eva it's 47.
+[12-Sep-2011 01:50:26]  <Osip_Zhgun[Barcode]> isn't your angel's BS affected by yours]
+[12-Sep-2011 01:50:33]  <Lou> [oh, okay ._.]
+[12-Sep-2011 01:50:38]  <Lou> !roll d10
+[12-Sep-2011 01:50:38]  <GameServ> 7 == 7
+[12-Sep-2011 01:50:46]  <Lou> Dammit dammit dammit dammit dammit
+[12-Sep-2011 01:50:52]  <Lou> [so 7 dmg?]
+[12-Sep-2011 01:50:56]  <Gendo> Not sure what you hit, but the Angel screams in pain.
+[12-Sep-2011 01:50:56]  <Motoko> 14... I rolled against my personal BS, not my Eva's. Oh, well, no difference.
+[12-Sep-2011 01:51:05]  <JackMackerel> (It's magazine. >:|)
+[12-Sep-2011 01:51:14]  <Gendo> Motoko: I did it with the Evas.  I'm keepiing track of this and being smart and all >.>
+[12-Sep-2011 01:51:19]  <Lou> [It says clip in the book...]
+[12-Sep-2011 01:51:37]  <Gendo> Loki_Weyland: What're you doing!
+[12-Sep-2011 01:51:45]  <Loki_Weyland> $ Oh shit, it's my turn?
+[12-Sep-2011 01:51:51]  <Gendo> Yup
+[12-Sep-2011 01:52:20]  <Loki_Weyland> Loki readies his weapon for another shot, aims, and fires.
+[12-Sep-2011 01:52:30]  <Gendo> Lou: Also realize that I'm factoring in the Angel's AP and everything and not telling you >.>
+[12-Sep-2011 01:52:39]  <Lou> [whatever, lord]
+[12-Sep-2011 01:52:50]  <Loki_Weyland> !roll d100
+[12-Sep-2011 01:52:51]  <GameServ> 72 == 72
+[12-Sep-2011 01:52:57]  <Gendo> Pretty sure that's a miss.
+[12-Sep-2011 01:53:12]  <Loki_Weyland> $ Crap. Should've used burst fire.
+[12-Sep-2011 01:53:12]  <Motoko> 14"An Unreliable weapon suffers a Jam on a roll of 91 or higher..."
+[12-Sep-2011 01:53:48]  *** Madoka <~chatzilla@S0106002191d86b2c.no.shawcable.net> has quit IRC (Read error: Connection reset by peer)
+[12-Sep-2011 01:55:28]  <Gendo> [man, Tsvael is really boring to play....]
+[12-Sep-2011 01:55:44]  <Osip_Zhgun[Barcode]> [our homework for next week is to learn how to play the game]
+[12-Sep-2011 01:56:08]  <Lou> [You'd think an orgy would be more exciting.]
+[12-Sep-2011 01:56:10]  <Gendo> Lou:  You fell energy collecting beneath your Eva.  A Rising Cross is about to form.
+[12-Sep-2011 01:56:11]  <Gendo> Dodge it.
+[12-Sep-2011 01:56:21]  <Gendo> Lou: It only has one actual attack >.>
+[12-Sep-2011 01:56:23]  <Gendo> Sadly.
+[12-Sep-2011 01:56:29]  <Gendo> Most Angels have like, 4.
+[12-Sep-2011 01:56:33]  <Osip_Zhgun[Barcode]> [and no worries gendo, it still managed to put two of our pilots into the psyche ward, that was fun :P]
+[12-Sep-2011 01:56:47]  <Motoko> 14Osip_Zhgun[Barcode]: I can only really learn by playing, considering the manual is a mess...
+[12-Sep-2011 01:56:51]  <Osip_Zhgun[Barcode]> [also technically it killed me but that's because nobody let me spend a fate point in time >:| ]
+[12-Sep-2011 01:56:56]  <Gendo> Motoko: Same.
+[12-Sep-2011 01:57:04]  <Osip_Zhgun[Barcode]> [actually I woulda survived! 9 damage but still]
+[12-Sep-2011 01:57:19]  <Cassie> [2? I thought it hit Lou, Osip and Cassie]
+[12-Sep-2011 01:57:26]  <Gendo> Lou: Dodge.
+[12-Sep-2011 01:57:36]  <Gendo> Yeah, it hit three.
+[12-Sep-2011 01:57:49]  <Lou> [huh oh]
+[12-Sep-2011 01:57:52]  <Lou> [what do I do]
+[12-Sep-2011 01:58:09]  <Gendo> Lou: Roll under your agility.
+[12-Sep-2011 01:58:30]  <Lou> !roll d100
+[12-Sep-2011 01:58:30]  <GameServ> 45 == 45
+[12-Sep-2011 01:58:36]  <Lou> [welp]
+[12-Sep-2011 01:58:50]  <JackMackerel> (A zombie Orgy, at that.)
+[12-Sep-2011 01:58:55]  <Osip_Zhgun[Barcode]> [1 degree of failure. that's still better than my 92 roll]
+[12-Sep-2011 01:59:06]  <JackMackerel> (...Also, why am I so left out ;~;)
+[12-Sep-2011 01:59:17]  <Gendo> Lou: Before I roll your damage, I'll remind you that you can use a Fate point to reroll that.
+[12-Sep-2011 01:59:45]  <Loki_Weyland> $ How often do you get Fate points?
+[12-Sep-2011 01:59:54]  <Gendo> Loki_Weyland: They refresh every session, IIRC.
+[12-Sep-2011 01:59:57]  <Lou> [no]
+[12-Sep-2011 02:00:00]  <Loki_Weyland> $ Ah.
+[12-Sep-2011 02:00:09]  *** Madoka <~chatzilla@S0106002191d86b2c.no.shawcable.net> has joined #MadokaMadness
+[12-Sep-2011 02:00:26]  <Osip_Zhgun[Barcode]> [they refresh each session - or at least, you gain some back. you can permanently drop one to avoid your character dying though]
+[12-Sep-2011 02:00:37]  *** Osip_Zhgun[Barcode] <~Barcode@dhcp-0-21-29-da-86-24.cpe.quickclic.net> has left #MadokaMadness
+[12-Sep-2011 02:00:49]  *** Osip_Zhgun[Barcode] <~Barcode@dhcp-0-21-29-da-86-24.cpe.quickclic.net> has joined #MadokaMadness
+[12-Sep-2011 02:00:49]  <Gendo> Lou: Kk.. Calculating damage, as your body is crucified on by a cross of energy.....
+[12-Sep-2011 02:00:52]  <Osip_Zhgun[Barcode]> [fucking shortcuts!]
+[12-Sep-2011 02:01:02]  <Gendo> Lou: 5 points of damage.
+[12-Sep-2011 02:01:03]  <Lou> gggggh
+[12-Sep-2011 02:01:11]  <Osip_Zhgun[Barcode]> [that's okay]
+[12-Sep-2011 02:01:17]  <Gendo> JackMackerel: You feel energy collecting underneath your Eva.
+[12-Sep-2011 02:01:22]  <Gendo> Roll to dodge.
+[12-Sep-2011 02:01:35]  <JackMackerel> !roll 1d100
+[12-Sep-2011 02:01:35]  <GameServ> 85 == 85
+[12-Sep-2011 02:01:40]  <JackMackerel> Fuck.
+[12-Sep-2011 02:01:47]  <Gendo> JackMackerel: Or don't, because Tsvael has terrible aim.
+[12-Sep-2011 02:01:49]  <Gendo> >.>
+[12-Sep-2011 02:01:56]  <Motoko> 14This Tsvael really loves his crosses, doesn't he?
+[12-Sep-2011 02:01:56]  <JackMackerel> (yaaay)
+[12-Sep-2011 02:01:57]  <Gendo> Your move.
+[12-Sep-2011 02:02:04]  * JackMackerel stabs again
+[12-Sep-2011 02:02:20]  <Gendo> Motoko: He doesn't have a physical attack, and he can use it twice a round. Why wouldn't he love it?
+[12-Sep-2011 02:02:32]  <Motoko> 14I have to wonder why he hasn't attacked Motoko yet. Is it because of her charming innocence? ...
+[12-Sep-2011 02:02:50]  <Osip_Zhgun[Barcode]> [Motoko - it seems to prioritize those that try to hurt it]
+[12-Sep-2011 02:03:01]  <Gendo> Osip_Zhgun[Barcode]: Motoko did.
+[12-Sep-2011 02:03:03]  <Motoko> 14Osip_Zhgun[Barcode]: I shot it three times!
+[12-Sep-2011 02:03:06]  * JackMackerel rips into Tsvael's flesh with the knives, laughing madly.
+[12-Sep-2011 02:03:07]  <Gendo> Motoko did the most damage so far.
+[12-Sep-2011 02:03:18]  <Gendo> JackMackerel: roll uder your ws.
+[12-Sep-2011 02:03:35]  <JackMackerel> !roll d100
+[12-Sep-2011 02:03:35]  <GameServ> 77 == 77
+[12-Sep-2011 02:03:38]  <JackMackerel> (Goddammit)
+[12-Sep-2011 02:04:10]  <Gendo> I was going to suggest that you make an all-out attack for the +20, but that wouldn't help with that roll.
+[12-Sep-2011 02:04:39]  <Gendo> Yup, A tendril of bodies shambles and blocks your attack.
+[12-Sep-2011 02:04:46]  <Gendo> Osip_Zhgun[Barcode]: You're up!
+[12-Sep-2011 02:04:49]  <JackMackerel> "Goddammit! Why won't you die?!"
+[12-Sep-2011 02:05:20]  * Osip_Zhgun[Barcode] pulls and holds the trigger. [***full auto attack with, well, my chin gun***]
+[12-Sep-2011 02:05:23]  <Osip_Zhgun[Barcode]> !roll 1d100
+[12-Sep-2011 02:05:23]  <GameServ> 9 == 9
+[12-Sep-2011 02:05:26]  <Osip_Zhgun[Barcode]> [dohohoho]
+[12-Sep-2011 02:05:39]  <Gendo> How many degrees of success is that :P
+[12-Sep-2011 02:05:43]  <Osip_Zhgun[Barcode]> [calcing]
+[12-Sep-2011 02:06:21]  <Osip_Zhgun[Barcode]> [6 possible hits, BS is 43, +20 for full auto, right? 54 difference, 5 degs of success, so 5 hits out of 6]
+[12-Sep-2011 02:06:42]  <Lou> [actually it's one extra hit per /2/ degrees of success]
+[12-Sep-2011 02:06:43]  <Gendo> Yeah, roll the damage for all that.
+[12-Sep-2011 02:06:55]  <Osip_Zhgun[Barcode]> [one sec]
+[12-Sep-2011 02:07:00]  <Gendo> Still, roll damage for that.
+[12-Sep-2011 02:07:09]  <Gendo> If you get good rolls, I think you just ended this thign.
+[12-Sep-2011 02:07:12]  <Lou> [three and a half shots :P]
+[12-Sep-2011 02:07:13]  <Osip_Zhgun[Barcode]> !roll 5d10 + (2*5)
+[12-Sep-2011 02:07:13]  <GameServ> 7, 9, 10, 9, 8 == 43
+[12-Sep-2011 02:07:24]  <Gendo> Taking the first 3.
+[12-Sep-2011 02:07:25]  <Osip_Zhgun[Barcode]> [did I do that wrong]
+[12-Sep-2011 02:07:48]  <Lou> [yes, you got three hits, and where did you get the 2*5 from]
+[12-Sep-2011 02:08:19]  <Osip_Zhgun[Barcode]> [+2 Impact damage]
+[12-Sep-2011 02:08:21]  <Osip_Zhgun[Barcode]> [per hit, no?]
+[12-Sep-2011 02:08:39]  <Gendo> Osip_Zhgun[Barcode]: As your third bullet pierces through the shambling hide, a terrible screech fills the air.
+[12-Sep-2011 02:09:11]  <Gendo> The bodies compress, and keep compressing until a singulairy is formed.  The mass explodes in a shower of red liquid, as the Angel is no more.
+[12-Sep-2011 02:09:23]  <Osip_Zhgun[Barcode]> [no coresplosion, thank god]
+[12-Sep-2011 02:09:29]  <Osip_Zhgun[Barcode]> [we're like dogpiled on top of it]
+[12-Sep-2011 02:09:41]  <Gendo> This angel didn't even have a core.
+[12-Sep-2011 02:09:45]  <JackMackerel> "How disgusting."
+[12-Sep-2011 02:09:46]  <Gendo> It was one of the things it rolled.
+[12-Sep-2011 02:09:55]  <Gendo> It was just this amorphous mass.
+[12-Sep-2011 02:09:57]  <Lou> Sssss...
+[12-Sep-2011 02:10:04]  * Motoko flinches and covers ears
+[12-Sep-2011 02:10:10]  * Osip_Zhgun[Barcode] exhales slowly. The TRIDENT goes limp.
+[12-Sep-2011 02:10:12]  <Cassie> Shaking in fury at her accidental destruction of the apartments, Cassie's  pose goes slack when Osip finishes off the Angel. "I didn't even hit the damn thing.
+[12-Sep-2011 02:10:26]  <Gendo> Time for me to go roll up collateral and stuff.
+[12-Sep-2011 02:10:28]  <Lou> [Dinner.  Bye.]
+[12-Sep-2011 02:10:30]  <Loki_Weyland> Don't worry, you'll get the next one.
+[12-Sep-2011 02:10:40]  <Loki_Weyland> $ That was in-character, by the way.
+[12-Sep-2011 02:10:53]  <Gendo> Yeah, I think this can be treated as the end of the session, if people need to take off.
+[12-Sep-2011 02:11:02]  <Osip_Zhgun[Barcode]> [sorry trying to sort something out]
+[12-Sep-2011 02:11:20]  <Cassie> "No, this is unacceptable pilot Loki. I have trained to long for this, so fail something as simple as hitting the angle with a pointy stick!"
+[12-Sep-2011 02:11:33]  <Loki_Weyland> $ So, have a small session some time after for a debriefing?
+[12-Sep-2011 02:11:48]  <Gendo> Loki_Weyland: Yeah, probably.
+[12-Sep-2011 02:11:55]  <Gendo> Doesn' t need to be long.
+[12-Sep-2011 02:12:04]  <Loki_Weyland> Hey, we all fuck up from time to time. Don't dwell on your failure, just think of how you can do better next time.
+[12-Sep-2011 02:12:06]  <Gendo> Just log enough to go through collateral, and exp, and all that.
+[12-Sep-2011 02:12:12]  <Loki_Weyland> $ Yeah.
+[12-Sep-2011 02:12:15]  * Osip_Zhgun[Barcode] forgot to say, he tensed up, then flinched as the splattering happened. But then the whole going limp
+[12-Sep-2011 02:12:48]  <Osip_Zhgun[Barcode]> [Maybe we should epilogue next session? lou's not here]
+[12-Sep-2011 02:13:27]  * JackMackerel patpats Cassie.
+[12-Sep-2011 02:13:30]  <Cassie> "You don't have to deal with the fact that you caused more collateral damage than the actual Angel did."
+[12-Sep-2011 02:13:34]  <JackMackerel> Want a drink?
+[12-Sep-2011 02:14:01]  <Loki_Weyland> Again, don't dwell on how badly you fucked up. Focus on how you can do better next time.
+[12-Sep-2011 02:14:01]  <Osip_Zhgun[Barcode]> [So collateral is an apartment? Is that it or]
+[12-Sep-2011 02:14:20]  * JackMackerel grinned, tilting her head. "I fucked up as well. Couldn't even hit it the second time when it was right under me."
+[12-Sep-2011 02:14:28]  <Gendo> Cassie: Actually, the Angel did more collateral than all of you combined.
+[12-Sep-2011 02:14:42]  <Gendo> Each time it used the Rising Cross, it did collateral.
+[12-Sep-2011 02:14:45]  <Gendo> And it used it a fuckton.
+[12-Sep-2011 02:15:07]  <Osip_Zhgun[Barcode]> [u_u]
+[12-Sep-2011 02:15:11]  <JackMackerel> @ship Cassie/Jacqueline/Loki
+[12-Sep-2011 02:15:11]  <Omnipresence> 14JackMackerel: Ship request successful! <3
+[12-Sep-2011 02:15:12]  <Cassie> I thought we got it away from the city for the most part?
+[12-Sep-2011 02:15:43]  <Gendo> Cassie: I'm accounting for that.  But there's still some collateral from it.  It also shot off a couple rising crosses in the city before you were deployed.
+[12-Sep-2011 02:15:47]  <Osip_Zhgun[Barcode]> [cassie - yes but it was shooting at us in the city]
+[12-Sep-2011 02:15:59]  <Osip_Zhgun[Barcode]> Osip is wordless on the radio. The TRIDENT remains limp for a minute, then slowly steers and begins heading towards the hangars again.
+[12-Sep-2011 02:16:36]  <Gendo> So, 10 surplus from this battle.
+[12-Sep-2011 02:17:07]  <Osip_Zhgun[Barcode]> [dosh! grab it while you can, lads]
+[12-Sep-2011 02:17:10]  <Loki_Weyland> Hey, how long do you think it'll take them to clean the Angel blood off this thing?
+[12-Sep-2011 02:17:14]  <JackMackerel> (mawney mawney mawney)
+[12-Sep-2011 02:17:27]  <Loki_Weyland> I can't say I pity anyone who has that job.
+[12-Sep-2011 02:17:35]  <Gendo> A while.
+[12-Sep-2011 02:17:36]  <Loki_Weyland> @yt Megas XLR Go easy on the wax
+[12-Sep-2011 02:17:36]  <Omnipresence> 14Loki_Weyland: YouTube: No results found for 14Megas XLR Go easy on the wax14.
+[12-Sep-2011 02:17:37]  <Gendo> :P
+[12-Sep-2011 02:17:47]  <Loki_Weyland> @yt Megas XLR cheese
+[12-Sep-2011 02:17:47]  <Omnipresence> 14Loki_Weyland: YouTube: 14Megas XLR, Funny clip14, 6,969 views: http://www.youtube.com/watch?v=uCYJD1FWeCM
+[12-Sep-2011 02:18:14]  <Loki_Weyland> $ Never mind.
+[12-Sep-2011 02:18:41]  <JackMackerel> Cassie: Hey, if ya want, we can go dancin'! Or hit up an arcade or something.
+[12-Sep-2011 02:18:47]  <Gendo> Also, 200exp to everyone.  
+[12-Sep-2011 02:19:09]  <Motoko> Gendo, did I cause collateral at any point? Technically I'm supposed to take -10 for all tests until the end of the next turn.
+[12-Sep-2011 02:19:10]  <JackMackerel> (WOO)
+[12-Sep-2011 02:19:22]  <Osip_Zhgun[Barcode]> [logging on char sheet]
+[12-Sep-2011 02:19:24]  <Cassie> "... I don't know how to dance pilot Jaquerel."
+[12-Sep-2011 02:19:29]  <Gendo> Motoko:  I don't believe so.  You had really good rolls.
+[12-Sep-2011 02:19:31]  <Osip_Zhgun[Barcode]> [@motoko: nothing to test for atm]
+[12-Sep-2011 02:19:48]  <Loki_Weyland> $ Coop stuck a bottle of cheese spread into Megas' core, making a giant cheese monster. One fight later, Megas is covered in cheese. Coop throws some money at some kids running a car washing service.
+[12-Sep-2011 02:19:50]  <Motoko> Osip_Zhgun[Barcode]: I know, but I just want to keep that in mind for future battles.
+[12-Sep-2011 02:20:12]  <Gendo> Motoko: Collateral is caused by taking damage, or missing terribly.  You did neither.  
+[12-Sep-2011 02:20:14]  <JackMackerel> "S'fine. Lemme teach ya!"
+[12-Sep-2011 02:20:23]  <Osip_Zhgun[Barcode]> [Ah.]
+[12-Sep-2011 02:20:28]  <Gendo> Everyone caused collateral just from being deployed, but I'm don't think that's what you're asking.
+[12-Sep-2011 02:20:30]  * JackMackerel does that weird moe chuckle some anime characters do.
+[12-Sep-2011 02:20:41]  <Cassie> [So how do the insanity points affect you? Under 10 is mostly harmless right?]
+[12-Sep-2011 02:20:51]  <Motoko> 14Gendo: Oh, lovely. I'm guessing you'll tell me when attacks cause collateral? Since it hits a drawback for me.
+[12-Sep-2011 02:21:05]  <Gendo> Motoko: Oh, I'll keep that in mind.
+[12-Sep-2011 02:21:08]  <Gendo> This session, you didn't do any.
+[12-Sep-2011 02:21:21]  <Motoko> 14Yaaay, no trauma today.
+[12-Sep-2011 02:21:23]  <Osip_Zhgun[Barcode]> [Insanity effects come every 10 points. Also, therapy/etc. won't have any immediate (read: in-game-time) effects if you're trying to drop out of your current 10s range for insanity.]
+[12-Sep-2011 02:21:57]  <Gendo> Yup, you don't really feel any effects of insanity until.... for a while now.
+[12-Sep-2011 02:22:19]  <Gendo> You have to make a Trauma test at 10.
+[12-Sep-2011 02:22:22]  <Osip_Zhgun[Barcode]> [if I was really desperate to maintain my sanity I could go for therapy right now but I have to wonder how many people who are going crazy know such a thing / feel it's therapy-worthy.]
+[12-Sep-2011 02:22:41]  <Osip_Zhgun[Barcode]> [therapy next time-management session*]
+[12-Sep-2011 02:22:52]  <Cassie> Depends on introspectiveness and pride I guess.
+[12-Sep-2011 02:23:11]  <Gendo> You don't really have any negative effects from insanity until you hit 40 points.
+[12-Sep-2011 02:23:20]  <Loki_Weyland> $ Hey, when do we get upgrade points?
+[12-Sep-2011 02:23:31]  <Gendo> Loki_Weyland: You buy them with experience, right?
+[12-Sep-2011 02:23:37]  <Gendo> I gave you each 200 exp to spend.
+[12-Sep-2011 02:23:39]  <Gendo> :/
+[12-Sep-2011 02:23:40]  <Loki_Weyland> $ I think so, yeah.
+[12-Sep-2011 02:23:54]  <Osip_Zhgun[Barcode]> [Depends on where our cash goes. also we don't have an OD so gendo decides what nerv spends cash on]
+[12-Sep-2011 02:23:57]  <Gendo> I'll even note that on all of your character sheets!
+[12-Sep-2011 02:24:04]  <Osip_Zhgun[Barcode]> [already did~]
+[12-Sep-2011 02:24:09]  <Gendo> Osip_Zhgun[Barcode]: I'll let you guys decide together what to buy.
+[12-Sep-2011 02:24:21]  <Osip_Zhgun[Barcode]> [can we call the session officially over? :P]
+[12-Sep-2011 02:24:28]  <Lou> And back, just in time for nothing
+[12-Sep-2011 02:24:30]  <Gendo> With 10 surplus, you don't can't do much :P
+[12-Sep-2011 02:24:32]  <Osip_Zhgun[Barcode]> [OH WAIT]
+[12-Sep-2011 02:24:35]  <Gendo> Osip_Zhgun[Barcode]: Yeah, pretty much.
+[12-Sep-2011 02:24:38]  <JackMackerel> @ship Cassie/Jacqueline
+[12-Sep-2011 02:24:38]  <Omnipresence> 14JackMackerel: Ship request successful! <3
+[12-Sep-2011 02:24:40]  <Loki_Weyland> $ Say, think Motoko could buy a SUP and use that to remove her Clinker Distinguishing Feature?
+[12-Sep-2011 02:24:46]  <Osip_Zhgun[Barcode]> [Lou: quick, retroactively RP your reaction to us blowing up the angel]
+[12-Sep-2011 02:24:52]  *** Gendo is now known as Solstace
