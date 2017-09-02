@@ -329,6 +329,7 @@ article {
     a {
       color: inherit;
       text-decoration: underline;
+      word-break: break-all;
 
       &.timestamp {
         color: #888;
