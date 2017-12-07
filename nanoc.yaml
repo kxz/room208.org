@@ -9,7 +9,7 @@ prune:
 deploy:
   default:
     kind: 'rsync'
-    dst: 'room208.org:'
+    dst: 'room208.org:room208.org'
     options: ['-rlvz', '--delete', '--rsh=ssh']
 
 title: 'Room 208'
