@@ -10,7 +10,7 @@ deploy:
   default:
     kind: 'rsync'
     dst: 'room208.org:room208.org'
-    options: ['-rlvz', '--delete', '--rsh=ssh']
+    options: ['-rlvz', '--delete', '--rsh=ssh', '--exclude=.well-known']
 
 title: 'Room 208'
 base_url: 'https://room208.org'
