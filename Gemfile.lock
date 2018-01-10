@@ -37,15 +37,12 @@ GEM
       ruby_dep (~> 1.2)
     lumberjack (1.0.12)
     method_source (0.8.2)
-    mini_portile2 (2.2.0)
     nanoc (4.7.10)
       cri (~> 2.8)
       ddplugin (~> 1.0)
       hamster (~> 3.0)
       ref (~> 2.0)
     nenv (0.3.0)
-    nokogiri (1.8.0)
-      mini_portile2 (~> 2.2.0)
     notiffany (0.1.1)
       nenv (~> 0.1)
       shellany (~> 0.0)
@@ -77,10 +74,9 @@ DEPENDENCIES
   haml (~> 5.0)
   kramdown
   nanoc (~> 4.3)
-  nokogiri
   sass (~> 3.2)
   systemu
   uglifier
 
 BUNDLED WITH
-   1.13.7
+   1.16.0

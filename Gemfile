@@ -9,5 +9,4 @@ gem 'uglifier'
 
 gem 'builder'  # for XML documents
 gem 'guard-nanoc', '~> 2.0'
-gem 'nokogiri'
 gem 'systemu'  # for deployment
