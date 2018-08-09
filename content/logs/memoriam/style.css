@@ -7,10 +7,11 @@ html {
 h1 {
     position: relative;
     margin: 70px auto;
-    width: 717px;
+    width: 731px;
     height: 459px;
-    text-indent: -999px;
-    background: url(memwall.png);
+    text-indent: -999em;
+    background-image: url(memwall.png);
+    background-size: contain;
     font-size: 100%;
 }
 
@@ -24,7 +25,7 @@ h1 a {
 }
 
 section {
-    width: 717px;
+    width: 731px;
     margin: 70px auto;
     border-top: 1px solid #888;
 }
