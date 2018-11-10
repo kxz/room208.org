@@ -4,6 +4,7 @@ created_at: 2018-01-10T08:42:27Z
 tags:
 - anime
 - inuyashiki
+- review
 ---
 
 <figure markdown="1">

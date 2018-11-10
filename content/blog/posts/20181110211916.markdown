@@ -1,0 +1,26 @@
+---
+title: Room 208 interactive services are shutting down after April 2019
+created_at: 2018-11-10T21:19:16Z
+tags:
+- room208
+---
+
+Long story short: As user activity dwindles, the maintenance burden and
+security risks are no longer worth it. Thus, come next April:
+
+*   The EsperNet instance of Omnipresence will be shut down, along with
+    the channel transcript viewer and [statistics](/stats/).
+
+*   The [#yackfest QDB](https://qdb.room208.org/) and [the nightmare of
+    fabrication](https://wiki.room208.org/), the Room 208 wiki, will be
+    converted to read-only archives. Since static pages are cheap to
+    serve, I plan to keep them online indefinitely, as with the existing
+    [Omnibooru dumps](https://booru.room208.org/).
+
+Since Omnipresence has not been under active development for some time,
+I recommend chanops switch to a different bot instead of starting their
+own Omnipresence instance, though I cannot suggest any particular bot as
+a replacement.
+
+Any further questions can be directed to me on IRC or
+[Twitter](https://twitter.com/cdv2722). Cheers!
