@@ -15,8 +15,8 @@ RedirectMatch permanent ^/blog/tagged/([^/]+)(/page/[0-9]+)?$ /blog/tags/$1.html
 Redirect permanent /blog/twitter https://twitter.com/cdv2722
 Redirect permanent /booru https://booru.room208.org
 Redirect gone /eggshell
-Redirect permanent /etc/ellipses https://stats.room208.org/yackfest
-Redirect permanent /etc/timeouts https://stats.room208.org/yackfest
+Redirect gone /etc/ellipses
+Redirect gone /etc/timeouts
 Redirect permanent /etc https://wiki.room208.org
 Redirect permanent /logs/current https://transcripts.room208.org
 Redirect gone /mboxforum
@@ -24,9 +24,7 @@ Redirect permanent /omni https://omnipresence.readthedocs.io
 Redirect gone /oracle
 Redirect permanent /qdb https://qdb.room208.org
 Redirect gone /shimmie
-Redirect permanent /stats/day.html https://stats.room208.org/yackfest/day.html
-Redirect permanent /stats/week.html https://stats.room208.org/yackfest/week.html
-RedirectMatch permanent ^/stats/([^/]+)/(.*)$ https://stats.room208.org/$1/$2
+Redirect gone /stats
 Redirect permanent /wiki https://wiki.room208.org
 Redirect gone /wiretap
 Redirect permanent /yackfest/commands https://wiki.room208.org/getting_started/commands
