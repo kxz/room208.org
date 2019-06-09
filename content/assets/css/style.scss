@@ -263,9 +263,14 @@ article {
     }
   }
 
-  h2 {
+  h2, h3 {
     font-size: 100%;
     margin: 1em 0;
+  }
+
+  h3 {
+    font-style: italic;
+    font-weight: normal;
   }
 
   > footer {
