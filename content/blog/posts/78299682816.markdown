@@ -43,9 +43,7 @@ correspondent, and all others who wish to give me internet hugs to first
 complete the document that Cameron so generously provided me, which I
 have reproduced below.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 > # Application Form for IllFlower-Directed Internet Hug Dissemination
 >
@@ -118,3 +116,5 @@ have reproduced below.
 >
 > -   **Applicant’s signature:**
 > -   **Date:**
+
+<% end %>

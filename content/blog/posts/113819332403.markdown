@@ -14,9 +14,7 @@ Takeuchi, at the end if anyone wants to translate it.”
 
 Well, here we are. Let’s do this.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 > # The Artistic World of *Bakemonogatari*
 >
@@ -104,3 +102,5 @@ My transcription of the original text follows.
 >
 > 全体的な世界観のイメージ作りはこうした形で写真も参考として頂いて提案していったのですが、ボードへの具体的な落とし込み方については飯島さんにお任せでした。空の色味の付け方など、飯島さんの考える面白さがこうした方向性だったのかもしれません。うまくボードに落とし込んで下さったお陰で他の作品にはない、それまでのアニメとは違う美術世界にできたのではないかと思っています。
 {:lang="ja"}
+
+<% end %>

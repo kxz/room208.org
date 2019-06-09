@@ -96,6 +96,10 @@ code, pre {
   letter-spacing: -0.05em;
 }
 
+details {
+  margin: 1em 0;
+}
+
 .dialogue {
   margin-left: 0;
 
@@ -160,6 +164,15 @@ p {
 
 .positive {
   color: #080;
+}
+
+summary {
+  color: #888;
+  cursor: pointer;
+
+  &:hover, &:active, &:focus {
+    color: #000;
+  }
 }
 
 table {

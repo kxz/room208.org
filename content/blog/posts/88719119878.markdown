@@ -10,9 +10,7 @@ tags:
 I spent a lot of time groaning at these, so I figured I’d get it all out
 of my system by slamming it all into a blog post. Yeah, spoilers.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 I’ve presented names here in the original order, because that makes it
 easier to talk about the wordplay involved.
@@ -50,3 +48,5 @@ Written with the more usual characters <span lang="ja">工作</span>,
 politics). Nergal does plenty of both throughout. The common surname
 Igarashi is written with the characters for “fifty storms,” and that man
 also does have a temper…
+
+<% end %>

@@ -22,9 +22,7 @@ launching him into the air as they had for the past couple of mornings.
 “So Seifert fixed the gravity,” he mumbled to himself. “Looks like I can
 go for my run today after all.”
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 It wasn’t until his ninth or tenth ring around the ship’s interior that
 Cutler noticed just how quiet the whole place felt. He was used to being
@@ -204,3 +202,5 @@ of stars suddenly seemed very dim.
 “It’s a possibility, yes.”
 
 “Okay, then. Anya, systems report.”
+
+<% end %>

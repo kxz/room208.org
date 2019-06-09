@@ -14,9 +14,7 @@ tags:
 *Psycho-Pass* as the anti-*Madoka*, and why an anticlimactic ending
 isn’t necessarily a bad one, after the break.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 Gen Urobuchi, lest you forget where he got the nickname “Urobutcher,”
 established his name as an anime screenwriter by grinding a cast of
@@ -54,3 +52,5 @@ a character over the course of the series shows that perhaps she’s ready
 to do just that. *Psycho-Pass* recognizes that dystopia cannot simply be
 waved away, and it is for this reason that its conclusion, understated
 as it is, sits better with me than *Madoka*’s finale ever did.
+
+<% end %>

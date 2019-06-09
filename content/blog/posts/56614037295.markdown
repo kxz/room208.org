@@ -32,9 +32,7 @@ said as we pushed open an emergency exit leading to the rear of the
 building. The smell of burning metal wafted across my nose. “We should
 have just met in a coffee shop instead. Care for a cup?”
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 As I tried not to burn my tongue on the espresso I’d just bought, Sabina
 explained to me that Landry had been suffering from a string of
@@ -74,3 +72,5 @@ a clown car through.”
 “Clown cars aren’t very big, you know. That’s the whole gimmick.”
 
 Sabina sighed. “Just drink your damn coffee.”
+
+<% end %>

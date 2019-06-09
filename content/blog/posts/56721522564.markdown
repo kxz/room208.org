@@ -16,9 +16,7 @@ looking to do a translation of on Danbooru.
 I do apologize in advance for how stupid some of the phrasings sound;
 that’s entirely my fault, not the original author’s.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 [![](/blog/media/tumblr_inline_mqo0lclvsn1qz4rgp.png)](http://twitpic.com/cij74t)
 
@@ -112,3 +110,5 @@ break out Google Translate or something.\]*
 -   [Shindan Maker](http://shindanmaker.com/322666)
 -   [Pixiv
     page](http://www.pixiv.net/member_illust.php?illust_id=33998060&mode=medium)
+
+<% end %>

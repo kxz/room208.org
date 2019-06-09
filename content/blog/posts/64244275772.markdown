@@ -24,9 +24,7 @@ hidden form fields.
 
 Don’t worry. It’s not *that* complicated.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 The first step, of course, is to pull up the appropriate post’s edit
 page. Simple enough.
@@ -197,3 +195,5 @@ content you’re moving.
 </figure>
 
 Either way, we can now submit the form and be on our merry way.
+
+<% end %>

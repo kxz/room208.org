@@ -13,9 +13,7 @@ tags:
 How *Madoka: Rebellion* shows that patching isn’t just for video games,
 and why that’s a good thing, after the break. Spoilers ahoy!
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 If you’ve been reading this blog for a while, you may recall that [I did
 not like the ending of the original *Madoka* TV
@@ -60,3 +58,5 @@ the franchise has turned what were once narrative flaws completely on
 their head. When I talk about endings, I don’t care about whether
 they’re happy or sad, just whether they’re fitting. In my book, then,
 this is a good ending.
+
+<% end %>

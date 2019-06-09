@@ -7,9 +7,7 @@ tags:
 
 After the break: Wishes are dangerous, m'kay?
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 @[the-world-is-a-corner](http://the-world-is-a-corner.tumblr.com/)
 [writes](http://the-world-is-a-corner.tumblr.com/post/46258165839/abandonmentprobability-psycho-pass-as-the),
@@ -40,3 +38,5 @@ mechanic is just asking for trouble. If we had seen a character try and
 fail to make the same wish that Madoka eventually did, Kyuubey’s
 statement might have had a little more substance, but as it stands it
 feels a bit like bringing up general relativity during a go-kart race.
+
+<% end %>

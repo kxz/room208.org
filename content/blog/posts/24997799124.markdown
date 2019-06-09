@@ -47,9 +47,7 @@ to Travis’ question with another.
 
 “Wait, where’s the other end of that connection?”
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 “Lassie? He hasn’t been in for… uh, I mean, since Monday.”
 
@@ -172,3 +170,5 @@ Anonymous writes:
 
 The winner of my [keyboard-mash fiction
 challenge](http://blog.room208.org/post/22234122955).
+
+<% end %>

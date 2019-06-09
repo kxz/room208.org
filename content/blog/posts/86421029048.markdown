@@ -24,9 +24,7 @@ physical state. It essentially takes the aspect of *Madoka* that has the
 most immediate impact on its viewers, and turns it into a fairly
 straightforward tabletop game.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 This first “season” of my campaign went pretty well, all told, but I
 ended up eventually switching away from *Magical Burst* for a number of
@@ -108,3 +106,5 @@ active role in building the narrative, no matter how halting that might
 be from time to time. To me, that’s what makes a game interesting.
 
 And, hey, I can always have a witch bite one of their heads off later.
+
+<% end %>

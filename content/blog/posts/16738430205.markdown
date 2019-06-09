@@ -19,9 +19,7 @@ persistence.
 
 A rough, spoilertastic rundown of my thoughts after the break.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 I’ll start with the bad, which in this case was Shizune’s route. I will
 admit that I didn’t get the best impression of her character from the
@@ -148,3 +146,5 @@ can’t say that she should have been more prominent – in the story, she’s
 mostly a symbol of how Hisao overcomes his past burdens, and I’m fine
 with that. I can’t be the only one curious, though, as to how a story
 like this would play out from her perspective.
+
+<% end %>

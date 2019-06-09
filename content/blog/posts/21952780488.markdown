@@ -28,9 +28,7 @@ story](http://blog.room208.org/post/20104357078) – and this has some
 interesting consequences, which I’ll explain after the break. Spoilers
 ahead, of course.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 Remember how \*Hyun-ae tries to give you the opportunity to introduce
 yourself when you first log on to the ship’s computers?
@@ -87,3 +85,5 @@ to the horrible abuse Hyun-ae’s parents exact on her. In a way, by
 calling attention to how it puts its own restrictions on your
 interactions with the characters, the game brings this idea closer to
 home for us as the players – the medium forms part of the message.
+
+<% end %>

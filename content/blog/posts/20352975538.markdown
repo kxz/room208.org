@@ -7,9 +7,7 @@ tags:
 
 Spoilers for <cite>Analogue</cite>’s endings after the break.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 @[fioradorable](http://fioradorable.tumblr.com/), [on the game’s
 \*Hyun-ae
@@ -68,3 +66,5 @@ come to save her from a life of protracted loneliness. Yes, she could
 probably ask, like \*Mute does, but I think she’s so absorbed in her own
 imagination that the thought doesn’t really occur to her. Consider it a
 reflection of \*Hyun-ae’s character, not of the game’s assumptions.
+
+<% end %>

@@ -18,9 +18,7 @@ way to update the Backbone.js model and save it to the server, but alas,
 all that minified JavaScript proved too much for me. There still is at
 least one difficult way to do this, however.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 First, open up the post edit page in your favorite web inspector, and
 head over to the network traffic pane. Make sure it’s recording requests
@@ -77,6 +75,8 @@ You’ll get a response object back if the request was successfully made.
 
 Now reload the dashboard and the post in question should appear with its
 type changed. It’s a hack, but it works.
+
+<% end %>
 
 ------------------------------------------------------------------------
 

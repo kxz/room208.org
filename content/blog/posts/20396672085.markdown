@@ -11,9 +11,7 @@ Obviously, massive spoilers after the break. (And here’s where I take up
 space so the next paragraph doesn’t show up on the Tumblr archive page.
 Someone really ought to change that behavior, you know?)
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 Note that once one of the AIs notifies you of the reactor troubles,
 there is no way to switch to the other one.
@@ -84,6 +82,8 @@ there is no way to switch to the other one.
 If you want 100% log completion, don’t show \*Mute’s message for Smith
 Kyung-sam in block 6 to \*Hyun-ae; she’ll say she made a mistake and
 remove your access, leaving you with a one-document hole in your logs.
+
+<% end %>
 
 ------------------------------------------------------------------------
 

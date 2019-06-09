@@ -17,9 +17,7 @@ everyone’s favorite open source video and image manipulation tools,
 how I do this, while trying my hardest to ignore the fact that tools
 like [gifsicle](http://www.lcdf.org/gifsicle/) exist.
 
-<!-- more -->
-
-------------------------------------------------------------------------
+<% render '/blog/_more.haml' do %>
 
 ## Extracting frames
 
@@ -224,6 +222,8 @@ video](http://www.imagemagick.org/Usage/video/).
 ## Conclusion
 
 Don’t do this.
+
+<% end %>
 
 **Updated May 21, 2014** to give more detailed information about
 duration specification and timestamp approximation, and fix some
