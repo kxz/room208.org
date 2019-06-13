@@ -5,6 +5,12 @@ ErrorDocument 502 /error/502.html
 
 Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" "expr=%{req_novary:X-Forwarded-Proto} == 'https'"
 
+<FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
+    SetEnvIf Origin "https://wiki\.room208\.org$" AccessControlAllowOrigin=$0
+    Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
+    Header merge Vary Origin
+</FilesMatch>
+
 RedirectMatch permanent ^/blog/(archive|highlights|page/[0-9]+)$ /blog/
 RedirectMatch permanent ^/blog/archive/([0-9]+)/([0-9])$ /blog/archive/$1/0$2.html
 RedirectMatch permanent ^/blog/archive/([0-9]+)[-/]([0-9]+)(-p1\.html)$ /blog/archive/$1/$2.html
