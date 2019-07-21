@@ -6,7 +6,7 @@ ErrorDocument 502 /error/502.html
 Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" "expr=%{req_novary:X-Forwarded-Proto} == 'https'"
 
 <FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
-    SetEnvIf Origin "https://wiki\.room208\.org$" AccessControlAllowOrigin=$0
+    SetEnvIf Origin "https://(wiki|qdb)\.room208\.org$" AccessControlAllowOrigin=$0
     Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
     Header merge Vary Origin
 </FilesMatch>
