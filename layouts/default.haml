@@ -5,7 +5,6 @@
     %title= @item[:title] || @config[:title]
     %link{rel: 'stylesheet', href: '/assets/css/style.css'}
     %meta{name: 'viewport', content: 'initial-scale=1.0'}
-    %script{src: '/assets/js/analytics.js', async: true}
   %body
     %h1#site-heading
       %a{href: ('/' unless @item.identifier.to_s == '/index.haml')}= @config[:title]
