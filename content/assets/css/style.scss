@@ -6,10 +6,23 @@
   padding: 0;
 }
 
+:root {
+  --background: #fff;
+  --alternating-background: #eee;
+  --foreground: #000;
+  --midground: #888;
+
+  @media (prefers-color-scheme: dark) {
+    --background: #000;
+    --alternating-background: #111;
+    --foreground: #fff;
+  }
+}
+
 body {
   margin: 2em;
-  background: #fff;
-  color: #000;
+  background: var(--background);
+  color: var(--foreground);
   font-family: 'Overpass', sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -21,17 +34,17 @@ body {
   padding: 0.25em 0.5em;
 
   a {
-    background: #000;
-    color: #fff !important;
+    background: var(--foreground);
+    color: var(--background) !important;
     margin: -0.25em -0.5em;
     padding: 0.25em 0.5em;
 
     &:link, &:visited {
-      background: #888;
+      background: var(--midground);
     }
 
     &:hover, &:active, &:focus {
-      background: #000;
+      background: var(--foreground);
     }
   }
 
@@ -72,23 +85,23 @@ article {
 
 a {
   &:link, &:visited {
-    color: #888;
+    color: var(--midground);
     text-decoration: none;
   }
 
   &:hover, &:active, &:focus {
-    color: #000;
+    color: var(--foreground);
 
     body.error & {
-      color: #fff;
+      color: var(--background);
     }
   }
 }
 
 blockquote, pre {
   margin: 1em 0;
-  background: #eee;
-  box-shadow: #eee 0 0 0 0.5em;
+  background: var(--alternating-background);
+  box-shadow: var(--alternating-background) 0 0 0 0.5em;
   word-wrap: break-word;
 }
 
@@ -116,7 +129,7 @@ details {
 }
 
 hr {
-  border-color: #888;
+  border-color: var(--midground);
   border-style: dotted;
   border-width: 1px 0 0;
 }
@@ -146,6 +159,10 @@ img, video {
 
 .negative {
   color: #800;
+
+  @media (prefers-color-scheme: dark) {
+    color: #f88;
+  }
 }
 
 .numeric {
@@ -165,14 +182,18 @@ p {
 
 .positive {
   color: #080;
+
+  @media (prefers-color-scheme: dark) {
+    color: #8f8;
+  }
 }
 
 summary {
-  color: #888;
+  color: var(--midground);
   cursor: pointer;
 
   &:hover, &:active, &:focus {
-    color: #000;
+    color: var(--foreground);
   }
 }
 
@@ -184,7 +205,7 @@ table {
 tbody, tfoot {
   &:nth-child(2n) {
     th, td {
-      background-color: #eee;
+      background-color: var(--alternating-background);
     }
   }
 
@@ -288,7 +309,7 @@ article {
   }
 
   > footer {
-    color: #888;
+    color: var(--midground);
 
     dt, dd, ul, li {
       display: inline;
@@ -351,7 +372,7 @@ article {
       word-break: break-all;
 
       &.timestamp {
-        color: #888;
+        color: var(--midground);
       }
     }
   }
@@ -378,7 +399,7 @@ article {
   }
 
   .misc {
-    color: #888;
+    color: var(--midground);
   }
 }
 
