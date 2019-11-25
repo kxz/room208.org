@@ -12,7 +12,7 @@ After the break: Wishes are dangerous, m'kay?
 @[the-world-is-a-corner](http://the-world-is-a-corner.tumblr.com/)
 [writes](http://the-world-is-a-corner.tumblr.com/post/46258165839/abandonmentprobability-psycho-pass-as-the),
 in response to [my post comparing *Madoka* and *Psycho-Pass*’
-endings](http://blog.room208.org/post/46217750620):
+endings](/blog/posts/46217750620.html):
 
 > There WAS something preventing other Magical Girls from making
 > Madoka’s wish. And that is, none of them had the absurd amount of

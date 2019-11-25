@@ -9,7 +9,7 @@ tags:
 I’m a Tumblr theme developer. I have various bug reports and feature
 requests that I’d like to send in, not least regarding [my continued
 inability to edit my theme’s
-description](http://blog.room208.org/post/79772827394). Tumblr’s
+description](/blog/posts/79772827394.html). Tumblr’s
 official venue for discussion of the theme API is [a Google
 Group](http://groups.google.com/group/tumblr-themes) that has been dead
 for months, and was rarely trafficked by Tumblr devs even before it

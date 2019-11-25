@@ -24,7 +24,7 @@ BBSes that form the bulk of the game, for instance; you have to fill
 that in from the replies you get to your messages. However,
 <cite>Analogue</cite> differs from most other visual novels in one key
 way – [the interface is part of the
-story](http://blog.room208.org/post/20104357078) – and this has some
+story](/blog/posts/20104357078.html) – and this has some
 interesting consequences, which I’ll explain after the break. Spoilers
 ahead, of course.
 

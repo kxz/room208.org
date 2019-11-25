@@ -9,7 +9,7 @@ tags:
 
 **Update:** The method detailed in this article does not work on the new
 dashboard rolled out in late January 2015. See [this
-post](http://blog.room208.org/post/110389527808) for further details and
+post](/blog/posts/110389527808.html) for further details and
 an alternative strategy. The original post follows.
 
 ------------------------------------------------------------------------

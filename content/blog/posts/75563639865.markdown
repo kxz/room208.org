@@ -7,7 +7,7 @@ tags:
 ---
 
 A brief follow-up to [my previous post on customizing Dichotomy’s
-fonts](http://blog.room208.org/post/74988251163): Some users (well,
+fonts](/blog/posts/74988251163.html): Some users (well,
 okay, just @[spinor](http://spinor.tumblr.com/)) have reported that
 vertical scrollbars appear on `<blockquote>` and `<pre>` elements when
 using certain typefaces, including Source Code Pro. This is a

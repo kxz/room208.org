@@ -9,7 +9,7 @@ tags:
 ---
 
 It’s more than a little strange that Tumblr supports (well,
-[“supports”](http://blog.room208.org/post/17756259414)) localization for
+[“supports”](/blog/posts/17756259414.html)) localization for
 [theme content](http://www.tumblr.com/docs/en/localizing_themes), but
 not for any [custom
 variables](http://www.tumblr.com/docs/en/custom_themes#appearance-options)

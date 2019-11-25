@@ -22,7 +22,7 @@ I’m being a bit frivolous, but *Sankarea* really is a show that adds up
 to more than the sum of its advertised parts. Much of this, of course,
 is due to the fact that the show’s primary strengths were left out of
 the preview blurbs. True, it’s hard to sell cinematography ([a highlight
-of the series](http://blog.room208.org/post/24087133033)) unless you’ve
+of the series](/blog/posts/24087133033.html)) unless you’ve
 got a big name in the director’s chair. But early descriptions of the
 show barely even hinted at the core of the story – a struggle for
 normalcy and freedom from an asphyxiating family situation – and placed

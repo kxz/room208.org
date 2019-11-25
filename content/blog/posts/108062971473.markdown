@@ -9,8 +9,8 @@ tags:
 
 ![](/blog/media/tumblr_ni5rdlTEv11qim2zwo2_r1_500.png)
 
-[Lies](http://blog.room208.org/post/40124947004), [damned
-lies](http://blog.room208.org/post/72707932188), and statistics, part
+[Lies](/blog/posts/40124947004.html), [damned
+lies](/blog/posts/72707932188.html), and statistics, part
 III.
 
 This graph is based on data for the 770 broadcast TV anime that AniDB

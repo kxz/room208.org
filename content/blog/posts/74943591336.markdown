@@ -9,7 +9,7 @@ tags:
 ---
 
 The recent [3.0 release of
-Dichotomy](http://blog.room208.org/post/74885758562) is now available
+Dichotomy](/blog/posts/74885758562.html) is now available
 through the Tumblr Theme Garden, for your one-click installation
 pleasure. Note that Tumblr has a nasty tendency to reset user theme
 settings when upgrading themes, so existing Dichotomy users will want to

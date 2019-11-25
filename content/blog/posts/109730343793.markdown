@@ -7,7 +7,7 @@ tags:
 - yearinreview
 ---
 
-[Part one](http://blog.room208.org/post/108115059123)’s not too far
+[Part one](/blog/posts/108115059123.html)’s not too far
 away.
 
 ## *Ping Pong*
@@ -21,7 +21,7 @@ watch. If you need a forceful case that the glory days aren’t totally
 over yet, though, this is it. The most obvious highlight is Masaaki
 Yuasa’s stylized visual treatment, which bursts with an unrestrained
 energy that [*The Flowers of
-Evil*](http://blog.room208.org/post/54305409058)’s quivering linework
+Evil*](/blog/posts/54305409058.html)’s quivering linework
 only wishes it had. Like the best of sports shows before it, *Ping Pong*
 spends as much time getting us inside the characters’ heads as it does
 showing actual play, especially in the case of the show’s dual

@@ -10,7 +10,7 @@ tags:
 ![](/blog/media/tumblr_mz3wpdrrAe1qim2zwo1_500.png)
 
 [Lies, damned lies, and
-statistics](http://blog.room208.org/post/40124947004), part II.
+statistics](/blog/posts/40124947004.html), part II.
 
 This graph covers only anime with a regular TV airing, as defined by
 AniDB, from which I pulled all of this data. Series are indexed by the

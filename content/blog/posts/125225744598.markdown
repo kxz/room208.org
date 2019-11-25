@@ -13,7 +13,7 @@ tags:
 
 1.  You might remember that the second season of the *Psycho-Pass* TV
     series was [basically narratively
-    inconsequential](http://blog.room208.org/post/105557009418). Since
+    inconsequential](/blog/posts/105557009418.html). Since
     its release schedule suggests that it was being worked on in
     parallel with this movie, I’ve long suspected that this was a
     deliberate decision by the writers to keep plot contradictions from
@@ -53,7 +53,7 @@ tags:
     end, perhaps a consequence of the definite tilt towards explosive
     action sequences and visceral hand-to-hand fights. This is nowhere
     near the triumph that Gen Urobuchi’s earlier work on [*Madoka:
-    Rebellion*](http://blog.room208.org/post/84717187433) was. Still,
+    Rebellion*](/blog/posts/84717187433.html) was. Still,
     though, the movie manages to do what *PP2* couldn’t and extend the
     world to a new setting, new characters, and new conflict. We learn
     much more about what the Sibyl System was designed to protect its

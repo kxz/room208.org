@@ -9,7 +9,7 @@ tags:
 
 I poked around today to see if I could use the Tumblr API to change the
 type of an existing post, a task that [I’ve previously shown how to do
-with form twiddling](http://blog.room208.org/post/64244275772). It turns
+with form twiddling](/blog/posts/64244275772.html). It turns
 out that the API cheerfully ignores the `type` parameter in requests,
 which I probably should have checked before spending a couple of hours
 on installing stuff and putting together the foundations of a

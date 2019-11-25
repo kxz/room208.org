@@ -20,7 +20,7 @@ in order to restore the original behavior, leaving the JavaScript that
 does iframe position checks twice every second functionally inert.
 
 Meanwhile, [theme localization is still fundamentally
-broken](http://blog.room208.org/post/17756259414), but who has the time
+broken](/blog/posts/17756259414.html), but who has the time
 to think about all that?
 
 Still, you know, these changes would bother me less, even annoying and

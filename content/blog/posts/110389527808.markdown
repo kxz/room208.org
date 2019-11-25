@@ -12,7 +12,7 @@ towards the end of last month. The new design no longer has any standard
 HTML forms, instead moving to
 [Backbone.js](http://documentcloud.github.io/backbone/), and thus the
 method for changing post types outlined in [my previous
-guide](http://blog.room208.org/post/64244275772) no longer works. I
+guide](/blog/posts/64244275772.html) no longer works. I
 spent about an hour today poking around to see if I could find an easy
 way to update the Backbone.js model and save it to the server, but alas,
 all that minified JavaScript proved too much for me. There still is at

@@ -11,7 +11,7 @@ tags:
 ![](/blog/media/tumblr_inline_ngsr8eh95i1qhcb4p.jpg)
 
 I’m no stranger to writing about disappointing (or just [outright
-poor](http://blog.room208.org/post/19924428985)) anime, so I thought I’d
+poor](/blog/posts/19924428985.html)) anime, so I thought I’d
 shake things up a bit by pausing to look on the bright side… after
 taking a moment to vent about all the bad parts.
 
@@ -58,7 +58,7 @@ over-the-top excesses.
 I could say that the best part of this whole ordeal is that Urobuchi is
 back in the driver’s seat for the upcoming *Psycho-Pass* film, which
 will hopefully be a more proper follow-up [along the lines of his
-earlier sequels](http://blog.room208.org/post/84717187433), but that
+earlier sequels](/blog/posts/84717187433.html), but that
 wouldn’t really be fair. While *Psycho-Pass 2*’s plot is a mess, though,
 its presentation is as slick as ever, especially when it comes to its
 theme songs. Ling Tosite Sigure’s blisteringly unhinged rock has always

@@ -13,9 +13,9 @@ An anonymous correspondent writes:
 > why it's not working
 
 Ask and ye shall receive: I’ve updated [the
-guide](http://blog.room208.org/post/110389527808) with some screenshots
+guide](/blog/posts/110389527808.html) with some screenshots
 from Chrome as a visual reference. If you still run into trouble, some
 of the required post fields, as covered in [the original version of the
-tutorial](http://blog.room208.org/post/64244275772), may be empty. Try
+tutorial](/blog/posts/64244275772.html), may be empty. Try
 rearranging the JSON fields if necessary, and when all else fails, look
 at the contents of the AJAX response object for error messages.

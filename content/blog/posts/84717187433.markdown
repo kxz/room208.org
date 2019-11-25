@@ -17,7 +17,7 @@ and why that’s a good thing, after the break. Spoilers ahoy!
 
 If you’ve been reading this blog for a while, you may recall that [I did
 not like the ending of the original *Madoka* TV
-series](http://blog.room208.org/post/46217750620). In short, even if the
+series](/blog/posts/46217750620.html). In short, even if the
 title character’s power to make a game-changing wish was consistent with
 the universe’s internal rules, it seemed to come so far out of nowhere
 that it undermined the emotional narrative that the rest of the series

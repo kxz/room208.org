@@ -8,7 +8,7 @@ tags:
 ---
 
 I don’t know how I forgot to mention this in [my litany of complaints
-about the new photo uploader](http://blog.room208.org/post/44466178540),
+about the new photo uploader](/blog/posts/44466178540.html),
 but here’s another glaring flaw: Clicking “Preview this post” will
 sometimes disable all of the save buttons, meaning that you’ll have to
 either start a new post or hack away at the form in a DOM inspector to

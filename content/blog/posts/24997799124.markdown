@@ -169,6 +169,6 @@ Anonymous writes:
 > they find a human in slumber. What is the story?
 
 The winner of my [keyboard-mash fiction
-challenge](http://blog.room208.org/post/22234122955).
+challenge](/blog/posts/22234122955.html).
 
 <% end %>
