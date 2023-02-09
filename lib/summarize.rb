@@ -28,8 +28,8 @@ module Room208
 
       private
 
-      def method_missing(method, *args, &block)
-        @target.send(method, *args, &block)
+      def method_missing(method, ...)
+        @target.send(method, ...)
       end
     end
   end
