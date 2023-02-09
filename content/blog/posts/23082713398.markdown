@@ -28,8 +28,8 @@ custom CSS and arrived at the following:
         max-height: 10000px !important;
     }
 
-~~There’s a `transition` rule for general posts already, so all I need
-to do is override the default styles and styles on hover.~~
+<del>There’s a `transition` rule for general posts already, so all I need
+to do is override the default styles and styles on hover.</del>
 \[<ins>**Edit:** Tumblr changed the dashboard style sheets to no longer
 provide a transition by default. I’ve added the appropriate code
 above.</ins>\] It’s functional *and* pretty. Win-win!

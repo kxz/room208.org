@@ -16,4 +16,4 @@ Type coercion is okay in some limited cases. Being able to write
 explicitly convert it to a string first saves on obvious boilerplate. My
 primary issue with JavaScript’s coercion behavior is that it violates
 the principle of least surprise from here to next Sunday. (See [my
-earlier post on “Wat”](/post/16324633518).)
+earlier post on “Wat”](/blog/posts/16324633518.html).)
