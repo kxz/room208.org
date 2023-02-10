@@ -11,6 +11,7 @@
       %a{href: ('/' unless @item.identifier.to_s == '/index.haml')}= @config[:title]
     = yield
     %footer#site-footer
-      © Kevin Xiwei Zheng.
-      Released under <a href="http://creativecommons.org/licenses/by/4.0/">CC–BY 4.0</a>.
+      - unless @omit_copyright
+        © Kevin Xiwei Zheng.
+        Released under <a href="http://creativecommons.org/licenses/by/4.0/">CC–BY 4.0</a>.
       <a href="https://github.com/kxz/room208.org/blob/master/#{@source_path || "content#{@item.identifier.to_s}"}">View on GitHub</a>.
