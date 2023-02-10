@@ -356,13 +356,16 @@ article {
   }
 
   li {
-    display: table;
     list-style: none;
     margin: 0;
     padding: 0;
 
     &:target {
       background: #ecc;
+
+      @media (prefers-color-scheme: dark) {
+        background: #511;
+      }
     }
 
     a {
@@ -376,20 +379,8 @@ article {
     }
   }
 
-  .timestamp, .actor, .content, .misc {
-    display: table-cell;
-  }
-
   .timestamp, .actor {
     white-space: nowrap;
-  }
-
-  .actor {
-    text-align: right;
-
-    &::before, &::after {
-      content: "\A0";
-    }
   }
 
   @media (prefers-color-scheme: dark) {
@@ -406,12 +397,28 @@ article {
   .misc {
     color: var(--midground);
   }
+
+  @media (min-width: 30em) {
+    li {
+      display: table;
+    }
+
+    .timestamp, .actor, .content, .misc {
+      display: table-cell;
+    }
+
+    .actor {
+      &::before, &::after {
+        content: "\A0";
+      }
+    }
+  }
 }
 
 
 // Et cetera
 
-@media screen and (min-width: 30em) {
+@media (min-width: 30em) {
   :root {
     font-size: 150%;
   }
