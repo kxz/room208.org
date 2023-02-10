@@ -392,6 +392,12 @@ article {
     }
   }
 
+  @media (prefers-color-scheme: dark) {
+    .nick {
+      filter: invert(1) hue-rotate(180deg);
+    }
+  }
+
   .content {
     white-space: pre-wrap;
     word-wrap: break-word;
