@@ -36,6 +36,10 @@ compile '/blog/posts/*' do
   layout '/blog/post.haml'
 end
 
+compile '/logs/mb/2013/phys/**' do
+  nil
+end
+
 compile '/logs/**/*.txt' do
   filter :interstat, args: ['--template-dir', 'layouts/interstat/']
   layout '/logs/log.haml'
@@ -102,6 +106,10 @@ end
 
 route '/logs/htaccess' do
   '/logs/.htaccess'
+end
+
+route '/logs/mb/2013/phys/**' do
+  item.identifier.to_s
 end
 
 route '/htaccess' do
