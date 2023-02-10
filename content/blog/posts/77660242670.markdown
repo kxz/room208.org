@@ -25,7 +25,7 @@ blew up this time, right? Does this count as threat mitigation?”
 “It counts if you’re willing to take the credit for it,” I said, not
 bothering to take my eyes away from the screen.
 
-<!-- more -->
+<% render '/blog/_more.haml' do %>
 
 “Oh, perfect. I can submit this for my next performance review.”
 
@@ -107,3 +107,5 @@ aren’t you supposed to be the clown expert?”
 Sabina stared at me in bemused silence for a moment. Finally, with a
 voice of mildly sarcastic concern, she said, “I’ll send the drone around
 with some coffee, okay?”
+
+<% end %>

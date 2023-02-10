@@ -14,7 +14,7 @@ can see [what it does to the Communist
 Manifesto](http://saaaam.s3.amazonaws.com/communist.pdf), or peek at a
 sample of what it produces from this blog’s archives after the break.
 
-<!-- more -->
+<% render '/blog/_more.haml' do %>
 
 > # An apparatus and device for planning to follow this spring
 >
@@ -99,3 +99,5 @@ sample of what it produces from this blog’s archives after the break.
 > narrative that the rest. The present invention constructs a visual
 > language with each installment. The present invention takes the
 > unreality of a witch. The device is just icing on the cake.
+
+<% end %>
