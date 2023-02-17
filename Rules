@@ -72,34 +72,6 @@ route '/assets/js/*' do
   item.identifier.to_s
 end
 
-route '/bower_components/jquery/dist/jquery.min.js' do
-  '/assets/js/jquery.min.js'
-end
-
-route '/bower_components/jquery-timeago/jquery.timeago.js' do
-  '/assets/js/jquery.timeago.js'
-end
-
-route '/bower_components/overpass/webfonts/overpass-mono-webfont/*.{css,eot,ttf,woff,woff2}' do
-  "/assets/fonts/overpass-mono/#{File.basename(item.identifier.to_s)}"
-end
-
-route '/bower_components/overpass/webfonts/overpass-webfont/*.{css,eot,ttf,woff,woff2}' do
-  "/assets/fonts/overpass/#{File.basename(item.identifier.to_s)}"
-end
-
-route '/bower_components/waypoints/lib/jquery.waypoints.min.js' do
-  '/assets/js/jquery.waypoints.min.js'
-end
-
-route '/bower_components/waypoints/lib/shortcuts/inview.min.js' do
-  '/assets/js/inview.min.js'
-end
-
-route '/bower_components/**/*' do
-  nil
-end
-
 route '/blog/atom.haml' do
   '/blog/atom.xml'
 end

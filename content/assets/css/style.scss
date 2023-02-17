@@ -1,5 +1,4 @@
-@import url(../fonts/overpass/overpass.css);
-@import url(../fonts/overpass-mono/overpass-mono.css);
+@import url(https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&family=Overpass+Mono:wght@300..700);
 
 * {
   margin: 0;
@@ -22,20 +21,22 @@
   background: var(--background);
   color: var(--foreground);
   font-family: 'Overpass', sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
   -webkit-text-size-adjust: 100%;
 }
 
 #site-heading {
   display: inline-block;
   font-size: 120%;
-  margin: -0.25em -0.5em;
-  padding: 0.25em 0.5em;
+  margin: -0.35em -0.5em 0.1em;
+  padding: 0.35em 0.5em 0.1em;
 
   a {
     background: var(--foreground);
     color: var(--background) !important;
-    margin: -0.25em -0.5em;
-    padding: 0.25em 0.5em;
+    margin: -0.35em -0.5em 0.1em;
+    padding: 0.35em 0.5em 0.1em;
 
     &:link, &:visited {
       background: var(--midground);
@@ -105,7 +106,7 @@ blockquote, pre {
 }
 
 code, pre {
-  font-family: 'Overpass-Mono', monospace;
+  font-family: 'Overpass Mono', monospace;
   letter-spacing: -0.05em;
 }
 
@@ -297,14 +298,9 @@ article {
     }
   }
 
-  h2, h3 {
+  h2 {
     font-size: 100%;
     margin: 1em 0;
-  }
-
-  h3 {
-    font-style: italic;
-    font-weight: normal;
   }
 
   > footer {
@@ -351,7 +347,7 @@ article {
   ul {
     margin: 0;
     padding: 0;
-    font: 83.33%/normal 'Overpass-Mono', monospace;
+    font: 83.33%/1.5 'Overpass Mono', monospace;
     letter-spacing: -0.05em;
   }
 

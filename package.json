@@ -1,0 +1,19 @@
+{
+  "name": "room208.org",
+  "version": "0",
+  "author": "Kevin Xiwei Zheng <blankplacement@gmail.com>",
+  "homepage": "https://room208.org/",
+  "license": "CC-BY-4.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxz/room208.org.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kxz/room208.org/issues"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "waypoints": "^4.0.0"
+  }
+}

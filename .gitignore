@@ -1,6 +1,6 @@
 .bundle
 .sass-cache
-content/bower_components
 crash.log
+node_modules
 output
 tmp
