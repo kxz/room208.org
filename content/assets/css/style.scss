@@ -107,6 +107,7 @@ blockquote, pre {
 
 code, pre {
   font-family: 'Overpass Mono', monospace;
+  font-weight: normal;
   letter-spacing: -0.05em;
 }
 
@@ -305,7 +306,7 @@ article {
 
   h3 {
     font-style: italic;
-    font-weight: normal;
+    font-weight: 300;
   }
 
   > footer {
