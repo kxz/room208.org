@@ -1,6 +1,6 @@
-- render '/default.haml', omit_copyright: true do
+- render '/default.haml' do
   %h2#subsite-heading
     %a{href: '/logs/'}= @items['/logs/index.haml'][:title]
-  %article.log
+  %nav#log-index
     %h1= @item[:title]
     = yield

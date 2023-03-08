@@ -351,6 +351,30 @@ article {
 
 // Log archive
 
+#log-index {
+  h1 {
+    font-size: 120%;
+    margin: 0.8333em 0;
+    text-transform: none;
+  }
+
+  h2 {
+    font-size: 100%;
+  }
+
+  table {
+    font: {
+      size: 83.33%;
+      variant-numeric: tabular-nums;
+    }
+    white-space: nowrap;
+  }
+
+  .duration, .length, .rel {
+    text-align: right;
+  }
+}
+
 .log {
   ul {
     margin: 0;
@@ -428,7 +452,7 @@ article {
     font-size: 150%;
   }
 
-  article, #archive-nav section, #staff dd {
+  article, #archive-nav section, #staff dd, #log-index table {
     font-size: 66.67%;
   }
 

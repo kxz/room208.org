@@ -53,6 +53,8 @@ compile '/**/*.haml' do
   filter :haml, format: :html5, attr_wrapper: '"'
   if item.identifier.to_s.start_with? '/error/'
     layout '/error.haml'
+  elsif item.identifier.match? %r{/logs/.+/index\.haml}
+    layout '/logs/index.haml'
   elsif item.identifier.to_s.start_with? '/yackfest/'
     layout '/yackfest.haml'
   else

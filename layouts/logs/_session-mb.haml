@@ -1,0 +1,15 @@
+%tbody
+  %tr
+    - dir = "/logs/mb/2013/#{@id}"
+    - log = @items["#{dir}/log.txt"]
+    - if log
+      = render '/logs/_session.haml', log: log, title: @id
+    - else
+      %th.log= @id
+      %td.date
+      %td.duration
+      %td.length
+    %td.rel
+      - chart = @items["#{dir}/relationships.svg"]
+      - if chart
+        %a{href: chart.path} Rel

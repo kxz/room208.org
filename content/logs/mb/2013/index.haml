@@ -1,0 +1,25 @@
+---
+title: Magical Burst
+---
+
+%section
+  %h2 Initiations
+  %table
+    - ('00'..'02').each do |id|
+      = render '/logs/_session-mb.haml', id: id
+%section
+  %h2 Arc I: The Four of Us Are Dying
+  %table
+    - ('03'..'07').each do |id|
+      = render '/logs/_session-mb.haml', id: id
+%section
+  %h2 Arc II: We’re in This Together
+  %table
+    - ('08'..'17').each do |id|
+      = render '/logs/_session-mb.haml', id: id
+%section
+  %h2 Arc III: The Greater Good
+  %table
+    - ('18'..'22').each do |id|
+      = render '/logs/_session-mb.haml', id: id
+

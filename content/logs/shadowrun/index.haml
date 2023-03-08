@@ -1,0 +1,9 @@
+---
+title: Shadowrun
+---
+
+%table
+  - @items.find_all('/logs/shadowrun/*.txt').each do |item|
+    %tbody
+      %tr
+        = render '/logs/_session.haml', log: item
