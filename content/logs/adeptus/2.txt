@@ -126,7 +126,7 @@
 [28-Aug-2011 19:34:35]  <Osip_Zhgun[Barcode]> ]
 [28-Aug-2011 19:34:51]  <Gendo> On the way, Yumi inches a little closer to Motoko.  "Oh, I meant to check in on you in the infirmary last night, but I got called back.  How are you doing?"
 [28-Aug-2011 19:35:11]  <Loki_Weyland> http://danbooru.donmai.us/post?tags=neon_genesis_evangelion+uniform&searchDefault=Search
-[28-Aug-2011 19:35:13]  <Omnipresence> 14URL: [danbooru.donmai.us] 14/neon genesis evangelion uniform
+[28-Aug-2011 19:35:13]  <Omnipresence> 14URL: [danbooru.donmai.us] /neon genesis evangelion uniform
 [28-Aug-2011 19:35:26]  <Gendo> Osip_Zhgun[Barcode] and Cassie: (I'm not using the anime NERV uniforms, for the ugliness.  I haven't decided what they look like yet)
 [28-Aug-2011 19:35:37]  <Osip_Zhgun[Barcode]> [they're just really 80s, s'all.]
 [28-Aug-2011 19:35:40]  * JackMackerel immediately gets in line for breakfast. MENU TIME~
@@ -136,9 +136,9 @@
 [28-Aug-2011 19:36:38]  <Cassie> Cassie thanks Yumi and gets in the meal line, suddenly aware that she has no money with her.
 [28-Aug-2011 19:36:41]  <Loki_Weyland> $Gendo: We'll get around to describing them when it comes time for the prose thingy.
 [28-Aug-2011 19:36:41]  <Osip_Zhgun[Barcode]> [IE http://www.google.ca/imgres?imgurl=http://school.discoveryeducation.com/clipart/images/milk.gif&imgrefurl=http://school.discoveryeducation.com/clipart/clip/milk.html&h=393&w=375&sz=7&tbnid=rWENLuYsdioxSM:&tbnh=94&tbnw=90&prev=/search%3Fq%3Dmilk%2Bcartons%26tbm%3Disch%26tbo%3Du&zoom=1&q=milk+cartons&docid=coZ9MYz2PUy_DM&sa=X&ei=u5haTr2zBOLo0QHoy-STCQ&ved=0CEIQ9QEwAg&dur=248]
-[28-Aug-2011 19:36:41]  <Omnipresence> 14URL: [www.google.ca] 14Redirect Notice
+[28-Aug-2011 19:36:41]  <Omnipresence> 14URL: [www.google.ca] Redirect Notice
 [28-Aug-2011 19:36:50]  <Gendo> The cafeteria has a nice assortment of breakfast items, both Japanese and Western.  
-[28-Aug-2011 19:36:58]  <Motoko> 14Gendo: I'm doing fine, thanks. Never better!
+[28-Aug-2011 19:36:58]  <Motoko> 14Gendo: I'm doing fine, thanks. Never better!
 [28-Aug-2011 19:37:19]  <Gendo> (For the record, the Uniforms I picture are something close to Fuyutsuki's attire, but with light grey pants.)
 [28-Aug-2011 19:37:43]  * Osip_Zhgun[Barcode] spoons a somewhat small portion of scrambled eggs onto a plate and takes one milk cartons. He then sits down.
 [28-Aug-2011 19:37:54]  <Osip_Zhgun[Barcode]> takes a seat*
@@ -524,7 +524,7 @@
 [28-Aug-2011 20:49:25]  <Loki_Weyland> $Right.
 [28-Aug-2011 20:49:28]  <Cassie> !roll d100
 [28-Aug-2011 20:49:28]  <GameServ> 29 == 29
-[28-Aug-2011 20:49:28]  <Motoko> 14Lou: Where my body is? I'm in a -- (cut off by loud revving)
+[28-Aug-2011 20:49:28]  <Motoko> 14Lou: Where my body is? I'm in a -- (cut off by loud revving)
 [28-Aug-2011 20:49:30]  <Lou> [roll is less than Sync score = success, right?]
 [28-Aug-2011 20:49:36]  <JackMackerel> !roll d100
 [28-Aug-2011 20:49:36]  <GameServ> 35 == 35
@@ -627,7 +627,7 @@
 [28-Aug-2011 21:09:39]  <Gendo> "In the mean time, the test is finished.  Everyone's results are more than satisfactory, so I think you can clamber out now."
 [28-Aug-2011 21:10:00]  <JackMackerel> "Yeah, I'm fine~. The disturbance went down..."
 [28-Aug-2011 21:10:01]  <Loki_Weyland> http://www.youtube.com/watch?v=sIPO1Xk-LZI
-[28-Aug-2011 21:10:01]  <Omnipresence> 14URL: [www.youtube.com] 14Macross Plus OST - Bad Dog - YouTube
+[28-Aug-2011 21:10:01]  <Omnipresence> 14URL: [www.youtube.com] Macross Plus OST - Bad Dog - YouTube
 [28-Aug-2011 21:10:09]  <Cassie> "No combat simulations?"
 [28-Aug-2011 21:10:19]  * Motoko suddenly snaps back to attention
 [28-Aug-2011 21:10:20]  * JackMackerel finishes for the draining and opening process to finish, then gets out.. "What Cassie said."
@@ -713,7 +713,7 @@
 [28-Aug-2011 21:23:25]  <JackMackerel> (( Far as I can tell, it's a Eastern Europe thing, too. Oh, thanks, Barc. ))
 [28-Aug-2011 21:23:31]  <Osip_Zhgun[Barcode]> [np]
 [28-Aug-2011 21:23:34]  <Loki_Weyland> http://www.youtube.com/watch?v=suA2Hy-0mxI
-[28-Aug-2011 21:23:35]  <Omnipresence> 14URL: [www.youtube.com] 14Aliens - Bishop's Knife trick - YouTube
+[28-Aug-2011 21:23:35]  <Omnipresence> 14URL: [www.youtube.com] Aliens - Bishop's Knife trick - YouTube
 [28-Aug-2011 21:23:59]  <Gendo> (Alright, skipping to the Observatory)
 [28-Aug-2011 21:24:12]  <Motoko> 14Sounds of fast forwarding.
 [28-Aug-2011 21:24:28]  <Lou> [We're far too young to have dealt with VHS, oldie]
@@ -827,13 +827,13 @@
 [28-Aug-2011 21:42:01]  <JBridge> OK.
 [28-Aug-2011 21:42:05]  <JackMackerel> I hope your radar systems are up to date.
 [28-Aug-2011 21:42:39]  <Osip_Zhgun[Barcode]> [jbridge http://pastebin.com/yYkyzppT]
-[28-Aug-2011 21:42:39]  <Omnipresence> 14URL: [pastebin.com] 14bfadahaeg - Pastebin.com
+[28-Aug-2011 21:42:39]  <Omnipresence> 14URL: [pastebin.com] bfadahaeg - Pastebin.com
 [28-Aug-2011 21:43:06]  <Gendo> "We don't know what it's looking for, and we don't know how big the parent Angel is.  We do know that the Blue patterns have been increasing in frequency since this video has been recorded."
 [28-Aug-2011 21:43:17]  <JBridge> $Not seeing anything. Would you put it on freetexthost?
 [28-Aug-2011 21:44:02]  <Lou> [remove the end "]".]
 [28-Aug-2011 21:44:14]  <JBridge> So, when do you think the Terminator will make its move?
 [28-Aug-2011 21:44:15]  <Osip_Zhgun[Barcode]> [http://freetexthost.com/ssr1fptmf5 ]
-[28-Aug-2011 21:44:15]  <Omnipresence> 14URL: [freetexthost.com] 14Free Text Host - The Anonymous Text Hosting Service - No Registration Required
+[28-Aug-2011 21:44:15]  <Omnipresence> 14URL: [freetexthost.com] Free Text Host - The Anonymous Text Hosting Service - No Registration Required
 [28-Aug-2011 21:44:19]  <Osip_Zhgun[Barcode]> [or, uh, that I guess]
 [28-Aug-2011 21:44:27]  <Motoko> Increasing in frequency? But didn't you say that was just... a few hours ago?
 [28-Aug-2011 21:44:35]  * JackMackerel gives a low, threatening chuckle. "Ten yen says it's looking for something classified.

@@ -146,7 +146,7 @@
 [24-Sep-2011 20:30:52]  <JBridge> $ I don't think I've heard about this. I'll have to ask Alkthash later.
 [24-Sep-2011 20:31:01]  <Lou> Oh!  Because it wasn't sunken, right?
 [24-Sep-2011 20:31:09]  <Motoko> 14JBridge: https://omnipresence.atashi.org/tmp/adeptus-4.html#m-20110918203700184
-[24-Sep-2011 20:31:10]  <Omnipresence> 14URL: [omnipresence.atashi.org] 14Adeptus Evangelion session 4
+[24-Sep-2011 20:31:10]  <Omnipresence> 14URL: [omnipresence.atashi.org] Adeptus Evangelion session 4
 [24-Sep-2011 20:31:10]  <Alkthash> [Idea: After some pleading and resorting to various regulations loopholes Cassie manages to convince Yumi to give the pilots a day off. Off style pilot OP, or suggestion to Solstace for a breather episode?]
 [24-Sep-2011 20:31:24]  <Lou> ["OP"?]
 [24-Sep-2011 20:31:35]  <JBridge> $ Ah, right.
@@ -156,7 +156,7 @@
 [24-Sep-2011 20:31:50]  <Alkthash> [RP, type]
 [24-Sep-2011 20:31:59]  <Alkthash> [typo]
 [24-Sep-2011 20:32:05]  <Motoko> 14Alkthash: I did imply an upcoming shopping trip to Shibuya-3 last session...
-[24-Sep-2011 20:32:33]  <Motoko> 14Lou: Hm, that does seem like an awfully important criterion...
+[24-Sep-2011 20:32:33]  <Motoko> 14Lou: Hm, that does seem like an awfully important criterion...
 [24-Sep-2011 20:33:11]  * Motoko scribbles down "①  was not underwater" in notebook
 [24-Sep-2011 20:33:48]  <Alkthash> [True. I've just concluded that Cassie really hates high school and will find a way to dodge it. Either by playing hookey thanks to Jacqueline and Loki being bad influences or loophole abuse]
 [24-Sep-2011 20:34:13]  <Lou> Other than that... easy transport from elsewhere?  Maybe there was some kind of spontaneous provisional government there?  Er, here.
@@ -225,7 +225,7 @@
 [24-Sep-2011 21:03:02]  <Lou> [no]
 [24-Sep-2011 21:04:04]  <Lou> [it's katakana, shi]
 [24-Sep-2011 21:04:05]  <Motoko> 14@w tsu (kana) > Barcode
-[24-Sep-2011 21:04:06]  <Omnipresence> 14Barcode: Wikipedia: 14Tsu (kana)14: つ, in hiragana, or ツ in katakana, and the variant form ㋡, is one of the Japanese kana, each of which represents one mora. Both a... — http://en.wikipedia.org/wiki/Tsu_%28kana%29
+[24-Sep-2011 21:04:06]  <Omnipresence> 14Barcode: Wikipedia: Tsu (kana): つ, in hiragana, or ツ in katakana, and the variant form ㋡, is one of the Japanese kana, each of which represents one mora. Both a... — http://en.wikipedia.org/wiki/Tsu_%28kana%29
 [24-Sep-2011 21:04:12]  <Lou> [or not]
 [24-Sep-2011 21:04:15]  <Barcode> [thx]
 [24-Sep-2011 21:04:31]  <Lou> [oh, the angle's different...]

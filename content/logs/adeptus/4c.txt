@@ -34,7 +34,7 @@
 [09-Oct-2011 04:18:33]  <Osip_Zhgun[Barcode]> [I need to bookmark that blug. link? I'll readafterwards]
 [09-Oct-2011 04:18:34]  *** Jack|BBL is now known as JackMackerel
 [09-Oct-2011 04:18:52]  <Motoko> 14Osip_Zhgun[Barcode], http://abandonmentprobability.tumblr.com/tagged/ae
-[09-Oct-2011 04:18:52]  <Omnipresence> 14URL: [abandonmentprobability.tumblr.com] 14#ae < ninety eight point six percent
+[09-Oct-2011 04:18:52]  <Omnipresence> 14URL: [abandonmentprobability.tumblr.com] #ae < ninety eight point six percent
 [09-Oct-2011 04:18:54]  * JackMackerel considers running a shittier gae in the meantime
 [09-Oct-2011 04:19:01]  <JackMackerel> *game
 [09-Oct-2011 04:19:10]  <Osip_Zhgun[Barcode]> Osip blinks, clears his throat. He continues with some more confidence - despite being seemingly ignored. "I am Leytenant Osip Zhgun. I pilot the T-RIDEN-T you sometimes practice with."
@@ -136,7 +136,7 @@
 [09-Oct-2011 04:48:34]  <Osip_Zhgun[Barcode]> [slowbarcode is slowwwwwwwwwwwwwww :( ]
 [09-Oct-2011 04:50:12]  <Motoko> 14Leaving for a little while; I'll read highlights when I get back.
 [09-Oct-2011 04:51:41]  <Lou> [https://omnipresence.atashi.org/wiki/logviewer.php?q=20111008&c=madokamadness This is surreal]
-[09-Oct-2011 04:51:42]  <Omnipresence> 14URL: [omnipresence.atashi.org] 14start [the nightmare of fabrication]
+[09-Oct-2011 04:51:42]  <Omnipresence> 14URL: [omnipresence.atashi.org] start [the nightmare of fabrication]
 [09-Oct-2011 04:56:55]  <Osip_Zhgun[Barcode]> Osip smirks. "I would hardly call it an inability. As I do, you simply need more practice." *<This has not gone so well.>* As he observes the teenager switching to another…implement, he decides now is as good of a time as ever. "It is rather dreary in this facility. I imagined you might prefer to deal in amusements rather than business. " Osip shifts his own focus to the box in his grip, bringing it up to pick 
 [09-Oct-2011 04:57:18]  <Lou> [to pick cutoff, maybe you should use shorter messages...]
 [09-Oct-2011 04:57:39]  <Osip_Zhgun[Barcode]> [u_u Yeah, next time Ill break it up into like 3 messages. where'd it fuck off this time]
@@ -194,7 +194,7 @@
 [09-Oct-2011 05:51:33]  <Lou> [or HAL-Poole, to be impossibly dorky]
 [09-Oct-2011 05:51:44]  <Osip_Zhgun[Barcode]> [ :} ]
 [09-Oct-2011 05:52:54]  <Loki_Weyland> $ http://en.wikipedia.org/wiki/Immortal_game
-[09-Oct-2011 05:52:55]  <Omnipresence> 14URL: [en.wikipedia.org] 14Immortal Game - Wikipedia, the free encyclopedia
+[09-Oct-2011 05:52:55]  <Omnipresence> 14URL: [en.wikipedia.org] Immortal Game - Wikipedia, the free encyclopedia
 [09-Oct-2011 05:53:35]  <Osip_Zhgun[Barcode]> [ cold + tiredness aren't helping me focus! one moment ]
 [09-Oct-2011 05:54:12]  <Lou> [we probably shouldn't narrate the chess game, really, it would be confusing]
 [09-Oct-2011 05:54:23]  <Lou> [and I think we already messed up the opening]

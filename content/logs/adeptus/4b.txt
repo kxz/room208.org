@@ -274,7 +274,7 @@
 [25-Sep-2011 05:39:20]  *** Barcode[out] is now known as Osip_Zhgun[Barcode]
 [25-Sep-2011 05:39:37]  <Osip_Zhgun[Barcode]> [Russian on the boarder of Georgia]
 [25-Sep-2011 05:39:41]  <Motoko> 14https://omnipresence.atashi.org/wiki/adeptus#timeline # Okay, I think I'm happy with this! People can add birthdates or whatever if they want.
-[25-Sep-2011 05:39:42]  <Omnipresence> 14URL: [omnipresence.atashi.org] 14adeptus [the nightmare of fabrication]
+[25-Sep-2011 05:39:42]  <Omnipresence> 14URL: [omnipresence.atashi.org] adeptus [the nightmare of fabrication]
 [25-Sep-2011 05:39:57]  <Osip_Zhgun[Barcode]> "*sigh* Hello?"
 [25-Sep-2011 05:41:03]  <Jacqueline_de_Macquerel> <Cheerfully, in a mimicry of Cassie's voice> Oh, this it Pilot Cassie, is it okay if I have relations with Pilot Jacqueline?
 [25-Sep-2011 05:41:18]  <Lou> [motoko: impressive]
@@ -364,7 +364,7 @@
 [25-Sep-2011 05:58:24]  <ponicalica> 14« Could I restart a kaiju attack insurance business and succeed this time?»
 [25-Sep-2011 05:58:26]  <Jacqueline_de_Macquerel> Solstace: What's the google doc again?
 [25-Sep-2011 05:58:40]  <ponicalica> https://docs.google.com/document/d/1ddLPpADtAONoJsG4buxxDnetM0vKHYMgPUcenpaC5UA/edit?hl=en_US
-[25-Sep-2011 05:58:41]  <Omnipresence> 14URL: Error: 14Redirected more times than rediection_limit allows.14.
+[25-Sep-2011 05:58:41]  <Omnipresence> 14URL: Error: Redirected more times than rediection_limit allows..
 [25-Sep-2011 05:58:51]  <Jacqueline_de_Macquerel> Thanks.
 [25-Sep-2011 05:58:53]  <Cassie> "So um... it's a conditional agreement. Yumi will have to be consulted at a later date."
 [25-Sep-2011 05:58:55]  <Loki_Weyland> $ Hm. Think I should put the Conet Project on my Zune?
@@ -425,9 +425,9 @@
 [25-Sep-2011 06:14:42]  <Jacqueline_de_Macquerel> ((shit just got real))
 [25-Sep-2011 06:15:12]  <Cassie> [Cassie means books on dating advice. Jacqueline will inevitably think smut]
 [25-Sep-2011 06:15:23]  <Jacqueline_de_Macquerel> (( SMUT! ))
-[25-Sep-2011 06:15:29]  <Jacqueline_de_Macquerel> (( Give me nothing but. ))
+[25-Sep-2011 06:15:29]  <Jacqueline_de_Macquerel> (( Give me nothing but. ))
 [25-Sep-2011 06:15:35]  <Jacqueline_de_Macquerel> @yt smut tom lehrer
-[25-Sep-2011 06:15:35]  <Omnipresence> 14Jacqueline_de_Macquerel: YouTube: 14Tom Lehrer - That Was The Year That Was LP Record Part 214, 21,871 views: http://www.youtube.com/watch?v=dILeb1sEHZM
+[25-Sep-2011 06:15:35]  <Omnipresence> 14Jacqueline_de_Macquerel: YouTube: Tom Lehrer - That Was The Year That Was LP Record Part 2, 21,871 views: http://www.youtube.com/watch?v=dILeb1sEHZM
 [25-Sep-2011 06:15:41]  <Jacqueline_de_Macquerel> (( fuck off ))
 [25-Sep-2011 06:15:46]  <Jacqueline_de_Macquerel> (( goddamn omni ))
 [25-Sep-2011 06:16:03]  <Cassie> "Wait, no that's a stupid plan. I can't read Japanese well enough to benefit from a dating book."
@@ -435,14 +435,14 @@
 [25-Sep-2011 06:17:30]  <Motoko> 14Osip_Zhgun[Barcode]: "Born" is sufficient; if there are backstory notes that are better hidden from the rest of us (surprises?), then leave them out.
 [25-Sep-2011 06:17:56]  *** Yumi_Tamae is now known as Asuka
 [25-Sep-2011 06:18:14]  <Cassie> [ 12 stories tall and made of radiation? George Washington is the next angel!  http://www.youtube.com/watch?v=l7iVsdRbhnc 
-[25-Sep-2011 06:18:14]  <Omnipresence> 14URL: [www.youtube.com] 14George Washington - YouTube
+[25-Sep-2011 06:18:14]  <Omnipresence> 14URL: [www.youtube.com] George Washington - YouTube
 [25-Sep-2011 06:19:04]  <Jacqueline_de_Macquerel> (( Also covered in dicks. ))
 [25-Sep-2011 06:19:12]  <Jacqueline_de_Macquerel> (( I heard they shoot positron beams. ))
 [25-Sep-2011 06:19:30]  <Jacqueline_de_Macquerel> (( The fanmade angel that was supposed to show up before NGE went to Hell was awesome. ;~;)
 [25-Sep-2011 06:20:06]  <Cassie> The one in the art with Unit 01 holding a spear?
 [25-Sep-2011 06:20:18]  <Loki_Weyland> $ The Diemay Angel?
 [25-Sep-2011 06:20:26]  <Loki_Weyland> http://danbooru.donmai.us/post/show/63065/animal_ears-ayanami_rei-cosplay-crossover-denise_j
-[25-Sep-2011 06:20:27]  <Omnipresence> 14URL: [danbooru.donmai.us] 14animal ears ayanami rei cosplay crossover ...ft stay puft (cosplay) sweat watermark weapon winston zeddemore
+[25-Sep-2011 06:20:27]  <Omnipresence> 14URL: [danbooru.donmai.us] animal ears ayanami rei cosplay crossover ...ft stay puft (cosplay) sweat watermark weapon winston zeddemore
 [25-Sep-2011 06:20:48]  <Jacqueline_de_Macquerel> (( Yeah. ))
 [25-Sep-2011 06:20:54]  <Osip_Zhgun[Barcode]> [no real intrigue behind when whatever happened to him, though maybe I can hold onto the transfer date] 
 [25-Sep-2011 06:21:08]  <Loki_Weyland> Just you wait, it's gonna show up in Rebuild.
@@ -474,7 +474,7 @@
 [25-Sep-2011 06:32:26]  <Lou> [Oh boy, I wonder if I can add goofy reporter NPCs!]
 [25-Sep-2011 06:33:01]  <ponicalica> 14Like whatsisname from RahXephon!
 [25-Sep-2011 06:33:03]  <Motoko> 14Osip_Zhgun[Barcode], you didn't make any in-character references to combat in the past tense, did you?
-[25-Sep-2011 06:33:11]  <ponicalica> 14...dammit...what 14was14 that guy's name?
+[25-Sep-2011 06:33:11]  <ponicalica> 14...dammit...what was that guy's name?
 [25-Sep-2011 06:33:23]  <Lou> [who]
 [25-Sep-2011 06:33:32]  *** Osip_Zhgun[Barcode] <~Barcodeou@74.198.9.181> has quit IRC (Read error: Connection reset by peer)
 [25-Sep-2011 06:33:39]  *** Osip_Zhgun[Barcode] <~Barcodeou@74.198.9.181> has joined #MadokaMadness

@@ -127,7 +127,7 @@
 [11-Sep-2011 22:57:20]  * Osip_Zhgun[Barcode] activates the TRIDENT's cockpit computer and [if I've done this simulation thing before, begins entering the information needed to enter simulation mode.]
 [11-Sep-2011 22:57:28]  <Cassie> "If you've ever bitten your tongue it's like that. Only everywhere."
 [11-Sep-2011 22:57:33]  <JackMackerel> "It smells like... rape."
-[11-Sep-2011 22:57:46]  <Motoko> 14Lou: Yeah, maybe, but it doesn't feel any more organized than last time...
+[11-Sep-2011 22:57:46]  <Motoko> 14Lou: Yeah, maybe, but it doesn't feel any more organized than last time...
 [11-Sep-2011 22:57:46]  <Loki_Weyland> "That's a lovely image, Jackie."
 [11-Sep-2011 22:57:50]  <Lou> ...
 [11-Sep-2011 22:57:57]  <Cassie> "Rape has a smell now?"
@@ -166,7 +166,7 @@
 [11-Sep-2011 23:02:32]  * Motoko looks around the simulated rendering in some awe
 [11-Sep-2011 23:02:57]  <Lou> [Btw, about your note, Loki_Weyland, I was thinking of having the symbol be a country flag or something, and having Lou be confused/uncomfortable about it]
 [11-Sep-2011 23:02:57]  <Gendo> All of a sudden, the other Evangelions pop into existence.
-[11-Sep-2011 23:03:03]  <Motoko> Oh, it's the 14[editors insert a landmark name here later]!
+[11-Sep-2011 23:03:03]  <Motoko> Oh, it's the 14[editors insert a landmark name here later]!
 [11-Sep-2011 23:03:07]  <Loki_Weyland> $ That should work.
 [11-Sep-2011 23:03:09]  <JackMackerel> "Aw, darn."
 [11-Sep-2011 23:03:19]  <Gendo> Motoko: [Tokyo-3 tower[
@@ -184,7 +184,7 @@
 [11-Sep-2011 23:04:08]  <Gendo> Yumi's voice comes over the channel "A-alright.  Controls have been connected."
 [11-Sep-2011 23:04:39]  <Lou> "Ready."
 [11-Sep-2011 23:04:44]  <Cassie> "Understood"
-[11-Sep-2011 23:04:45]  * JackMackerel now tries punching a building.
+[11-Sep-2011 23:04:45]  * JackMackerel now tries punching a building.
 [11-Sep-2011 23:04:47]  <Gendo> "First things first, try to take a step," Says Dr. Murai.
 [11-Sep-2011 23:04:51]  <Motoko> 14Gendo: Wait, so, are the controls physical at all?
 [11-Sep-2011 23:05:08]  * Osip_Zhgun[Barcode] blinks apathetically at the landscape. "In Russia, we did these tests in real-time." In the simulation, the T-RIDEN-T widens its stance and flexes its arms. "Ready."
@@ -231,7 +231,7 @@
 [11-Sep-2011 23:09:19]  <Gendo> An unknown male voice comes over the com:  "Loading weapons library now"
 [11-Sep-2011 23:09:22]  <Lou> That's the tee riden tee.  It's a mechanical unit that will be assisting us, or fighting instead of us, if we can't get people trained...
 [11-Sep-2011 23:09:36]  <Loki_Weyland> Ah.
-[11-Sep-2011 23:09:38]  <Motoko> Wait, 14Yumi-chan, I haven't even touched anything yet and... how do I - no, wait a moment, I'm still on the ground! Hey!
+[11-Sep-2011 23:09:38]  <Motoko> Wait, 14Yumi-chan, I haven't even touched anything yet and... how do I - no, wait a moment, I'm still on the ground! Hey!
 [11-Sep-2011 23:09:40]  <Osip_Zhgun[Barcode]> "I can not help much with this exercise but I'm glad to be here too." Osip's TRIDENT stands still, sweeping the Evas with its chin-mounted gun while its eyes take turns tracking as Lou explains. [I was typing something out here]
 [11-Sep-2011 23:09:40]  <Loki_Weyland> So, don't shoot at the Metal Gear.
 [11-Sep-2011 23:10:20]  <JackMackerel> "Huh. Yeah, it looks like a REX. I hope it doesn't have to rely too much on that radar dome~"
@@ -244,7 +244,7 @@
 [11-Sep-2011 23:11:08]  * Motoko 14is clearly the only one having trouble with this "piloting" thing
 [11-Sep-2011 23:11:20]  * JackMackerel tries to take a step forward, hopes she doesn't have to roll agility again.
 [11-Sep-2011 23:11:38]  <Osip_Zhgun[Barcode]> "Do not feel so bad that you will not get an opportunity to use it - you will find your Evas more than powerful enough."
-[11-Sep-2011 23:11:58]  <Motoko> 14Gendo: Mental commands...? You don't mean...
+[11-Sep-2011 23:11:58]  <Motoko> 14Gendo: Mental commands...? You don't mean...
 [11-Sep-2011 23:12:05]  <JackMackerel> "I know. This thing fits me like a glove!"
 [11-Sep-2011 23:12:09]  * Osip_Zhgun[Barcode] warms up a bit, practicing strafing and short hops.
 [11-Sep-2011 23:12:19]  <Gendo> Dr. Murai:  "The Scenario today is nothing too bad.  More of a game, really."
@@ -343,7 +343,7 @@
 [11-Sep-2011 23:23:49]  <JackMackerel> "Oh, wait, no one panic, it's like this every damn first episode, monster suddenly attacks~"
 [11-Sep-2011 23:23:49]  * Osip_Zhgun[Barcode] blinks and checks his computer. The computer is still running but the simulation has ended. "Something wrong, Commander?"
 [11-Sep-2011 23:23:51]  <Cassie> "I thought they finally got rid of the multiple Evas crashing the system glitch" mutters Cassie
-[11-Sep-2011 23:23:59]  <Motoko> 14(having just managed to get back on her feet) What's going on?
+[11-Sep-2011 23:23:59]  <Motoko> 14(having just managed to get back on her feet) What's going on?
 [11-Sep-2011 23:24:21]  <Loki_Weyland> Crap. I hate technical errors.
 [11-Sep-2011 23:24:33]  <JackMackerel> "Thousand yen says it's a kaiju."
 [11-Sep-2011 23:24:33]  <Loki_Weyland> Every LAN party I've been to, something always goes wrong.
@@ -387,7 +387,7 @@
 [11-Sep-2011 23:29:08]  * Osip_Zhgun[Barcode] begins riding to the surface. He itches to fire his jump jets.
 [11-Sep-2011 23:29:16]  <Lou> ...
 [11-Sep-2011 23:29:32]  <Osip_Zhgun[Barcode]> [http://www.youtube.com/watch?v=Y5Qo9iAB9q0&feature=BFa&list=PL251A0692AED4D1B9&lf=mh_lolz&shuffle=583592]
-[11-Sep-2011 23:29:33]  <Omnipresence> 14URL: [www.youtube.com] 14Neon Genesis Evangelion OST 1 - Decisive Battle - YouTube
+[11-Sep-2011 23:29:33]  <Omnipresence> 14URL: [www.youtube.com] Neon Genesis Evangelion OST 1 - Decisive Battle - YouTube
 [11-Sep-2011 23:29:36]  <Gendo> The male voice comes over the com:  "MAGI are running an analysis.  Evangelions will be deployed in 5"
 [11-Sep-2011 23:29:39]  <JackMackerel> "Hurry it up, hurry it up, longer we wait, the more time the thing gets to prepare~"
 [11-Sep-2011 23:29:39]  <Motoko> If Loki_Weyland were to trip and fall face-first while in his Eva, I think that would be hilarious...
@@ -402,13 +402,13 @@
 [11-Sep-2011 23:30:49]  * Motoko cues cliffhanger music
 [11-Sep-2011 23:30:53]  <Loki_Weyland> Right.
 [11-Sep-2011 23:30:57]  <Loki_Weyland> I have a friend to help, actually.
-[11-Sep-2011 23:31:00]  <JackMackerel> (Insert Cruel Angels' Thesis heere)
+[11-Sep-2011 23:31:00]  <JackMackerel> (Insert Cruel Angels' Thesis heere)
 [11-Sep-2011 23:31:06]  <Loki_Weyland> FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF-
 [11-Sep-2011 23:31:11]  <Gendo> brb
 [11-Sep-2011 23:31:16]  <Loki_Weyland> We're trying to get the sound working on his Shuttle/.
 [11-Sep-2011 23:31:23]  <Osip_Zhgun[Barcode]> Shuttle?
 [11-Sep-2011 23:31:44]  <Loki_Weyland> @w Shuttle PC
-[11-Sep-2011 23:31:46]  <Omnipresence> 14Loki_Weyland: Wikipedia (full-text): 14Shuttle Inc.14: Shuttle (TAIEX:2405) is a Taiwan-based manufacturer of motherboards, barebone computers, complete PC systems, and monitors. Thro... — http://en.wikipedia.org/wiki/Shuttle_Inc.
+[11-Sep-2011 23:31:46]  <Omnipresence> 14Loki_Weyland: Wikipedia (full-text): Shuttle Inc.: Shuttle (TAIEX:2405) is a Taiwan-based manufacturer of motherboards, barebone computers, complete PC systems, and monitors. Thro... — http://en.wikipedia.org/wiki/Shuttle_Inc.
 [11-Sep-2011 23:31:47]  <JackMackerel> (Hey, hey guys, when Solstace's game is done, how many of you are interested in a GURPS/Adeptus mashup?)
 [11-Sep-2011 23:32:00]  <Loki_Weyland> I've already mentioned my interest.
 [11-Sep-2011 23:32:26]  <JackMackerel> (I'll need a co-GM, though, I'm slow as fuck when it comes to RP.)
@@ -491,7 +491,7 @@
 [11-Sep-2011 23:43:32]  <Loki_Weyland> TK was the best part of that show.
 [11-Sep-2011 23:43:36]  <Gendo> Cassie: Also Angel Beats had a terrible ending.
 [11-Sep-2011 23:43:37]  <Loki_Weyland> @yt Angel Beats TK
-[11-Sep-2011 23:43:37]  <Omnipresence> 14Loki_Weyland: YouTube: 14The very best of TK - Angel Beats [HD] (HQ)14, 36,885 views: http://www.youtube.com/watch?v=ybvEv7759yg
+[11-Sep-2011 23:43:37]  <Omnipresence> 14Loki_Weyland: YouTube: The very best of TK - Angel Beats [HD] (HQ), 36,885 views: http://www.youtube.com/watch?v=ybvEv7759yg
 [11-Sep-2011 23:43:37]  <Osip_Zhgun[Barcode]> Arright.
 [11-Sep-2011 23:43:53]  <Gendo> Alright.
 [11-Sep-2011 23:43:57]  <Gendo> About to restart.....
@@ -520,7 +520,7 @@
 [11-Sep-2011 23:46:50]  <Motoko> Why can't they just use normal unprefixed meters like everyone else...
 [11-Sep-2011 23:46:53]  <Lou> [it's actually 60 dam]
 [11-Sep-2011 23:46:57]  <Osip_Zhgun[Barcode]> http://www.youtube.com/watch?v=7QNU7thTu_Y&feature=fvwp&NR=1 all mecha fans like papa roach, this is a fact
-[11-Sep-2011 23:46:57]  <Omnipresence> 14URL: [www.youtube.com] 14EVA - 01: THE BEAST_AMV (PaPa RoAcH - dead cell) - YouTube
+[11-Sep-2011 23:46:57]  <Omnipresence> 14URL: [www.youtube.com] EVA - 01: THE BEAST_AMV (PaPa RoAcH - dead cell) - YouTube
 [11-Sep-2011 23:47:09]  <Lou> [motoko: because it's hacked up from a system that uses meters by unit changing]
 [11-Sep-2011 23:47:21]  <Motoko> "Each decameter (dm) is equal to 10 meters." p92
 [11-Sep-2011 23:47:35]  <Osip_Zhgun[Barcode]> so did they just fuck that up then
@@ -694,7 +694,7 @@
 [12-Sep-2011 00:05:47]  <Loki_Weyland> $OK, from now on we don't do shit until Gendo asks us what we do.
 [12-Sep-2011 00:05:55]  <Osip_Zhgun[Barcode]> [^that]
 [12-Sep-2011 00:06:06]  <Gendo> https://docs.google.com/document/d/1A1hFEm7Y_vjPACnfmxyvOqPKfMW0GWD9XGZzs_a8D1g/edit?hl=en_US  Character name, and initiative.
-[12-Sep-2011 00:06:06]  <Omnipresence> 14URL: Error: 14Redirected more times than rediection_limit allows.14.
+[12-Sep-2011 00:06:06]  <Omnipresence> 14URL: Error: Redirected more times than rediection_limit allows..
 [12-Sep-2011 00:06:24]  <Loki_Weyland> !roll d100
 [12-Sep-2011 00:06:24]  <GameServ> 32 == 32
 [12-Sep-2011 00:06:32]  <JackMackerel> !roll d100
@@ -1009,7 +1009,7 @@
 [12-Sep-2011 00:53:06]  <Osip_Zhgun[Barcode]> [Oh. Well I mean, check the TRIDENT page. one sec]
 [12-Sep-2011 00:53:07]  <JackMackerel> WOO
 [12-Sep-2011 00:53:19]  <Osip_Zhgun[Barcode]> «*Machine: The T-RIDEN-T Land Cruiser has no core, and once its head or body is reduced to 0 wounds it is defeated. Any limb reduced to 0 wounds is crippled beyond use or destroyed.»
-[12-Sep-2011 00:53:31]  <Motoko> 14(five minutes ago) Osip, there's something underneath your -
+[12-Sep-2011 00:53:31]  <Motoko> 14(five minutes ago) Osip, there's something underneath your -
 [12-Sep-2011 00:53:35]  <Osip_Zhgun[Barcode]> [lol]
 [12-Sep-2011 00:53:37]  <Gendo> Yeah, you're down for the count,  I think.
 [12-Sep-2011 00:53:47]  <JackMackerel> (Ouch, one hit kill.)
@@ -1058,7 +1058,7 @@
 [12-Sep-2011 00:58:55]  <Osip_Zhgun[Barcode]> ***]
 [12-Sep-2011 00:59:09]  <Osip_Zhgun[Barcode]> [Motoko: Ah. Wlel, I'll do it on both ends then]
 [12-Sep-2011 00:59:17]  <Osip_Zhgun[Barcode]> [just in case]
-[12-Sep-2011 00:59:22]  <JackMackerel> "RIP AND TEAR!" Jaqueline's EVA sprints straight towards the Angel. Hopefully, if she stabs it quickly enough, it'll snap Cassie out of her stare...
+[12-Sep-2011 00:59:22]  <JackMackerel> "RIP AND TEAR!" Jaqueline's EVA sprints straight towards the Angel. Hopefully, if she stabs it quickly enough, it'll snap Cassie out of her stare...
 [12-Sep-2011 00:59:46]  <Motoko> 14Osip_Zhgun[Barcode]: And I believe "Rld" next to "Clip" means "ammunition left until reload," so you can put "24" there.
 [12-Sep-2011 01:00:12]  <Loki_Weyland> $ Is it OK if I replace "Clip" with "Mag"? I'm a stickler for terminology.
 [12-Sep-2011 01:00:12]  <Gendo> JackMackerel: Once again, to do anything to the Angel other than annoy it, you need to activate you spread, which would use up this round.
@@ -1588,10 +1588,10 @@
 [12-Sep-2011 02:17:27]  <Loki_Weyland> I can't say I pity anyone who has that job.
 [12-Sep-2011 02:17:35]  <Gendo> A while.
 [12-Sep-2011 02:17:36]  <Loki_Weyland> @yt Megas XLR Go easy on the wax
-[12-Sep-2011 02:17:36]  <Omnipresence> 14Loki_Weyland: YouTube: No results found for 14Megas XLR Go easy on the wax14.
+[12-Sep-2011 02:17:36]  <Omnipresence> 14Loki_Weyland: YouTube: No results found for Megas XLR Go easy on the wax.
 [12-Sep-2011 02:17:37]  <Gendo> :P
 [12-Sep-2011 02:17:47]  <Loki_Weyland> @yt Megas XLR cheese
-[12-Sep-2011 02:17:47]  <Omnipresence> 14Loki_Weyland: YouTube: 14Megas XLR, Funny clip14, 6,969 views: http://www.youtube.com/watch?v=uCYJD1FWeCM
+[12-Sep-2011 02:17:47]  <Omnipresence> 14Loki_Weyland: YouTube: Megas XLR, Funny clip, 6,969 views: http://www.youtube.com/watch?v=uCYJD1FWeCM
 [12-Sep-2011 02:18:14]  <Loki_Weyland> $ Never mind.
 [12-Sep-2011 02:18:41]  <JackMackerel> Cassie: Hey, if ya want, we can go dancin'! Or hit up an arcade or something.
 [12-Sep-2011 02:18:47]  <Gendo> Also, 200exp to everyone.  

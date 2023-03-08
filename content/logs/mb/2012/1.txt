@@ -61,7 +61,7 @@
 [10-Mar-2012 20:45:18]  <Ami> 14That would be useful.
 [10-Mar-2012 20:46:15]  <Kyuubey> So, the local news has been buzzing about an ambitious skyscraping hotel being built.  When completed, it will be the new tallest building in the world (hence the buzz).
 [10-Mar-2012 20:46:29]  <Kyuubey> (note to self:  just stick with DnD after this >.>  It's what you're good at )
-[10-Mar-2012 20:48:34]  <Motoko> *watching news, 14not questioning you, Solstace, just so you know* Another one? Isn't the tallest building in the world already here?
+[10-Mar-2012 20:48:34]  <Motoko> *watching news, 14not questioning you, Solstace, just so you know* Another one? Isn't the tallest building in the world already here?
 [10-Mar-2012 20:50:23]  <Kyuubey> Motoko: This one new project should be towering over the previous one by about a 1200 feet, an engineering feat that many are skeptical about.
 [10-Mar-2012 20:50:42]  <Naima> 1Perhaps Kyuubey could play one of motoko's classmates.
 [10-Mar-2012 20:51:17]  <Motoko> 14Wow. That's almost half again as tall as the Burj Khalifa.
@@ -196,7 +196,7 @@
 [10-Mar-2012 21:37:45]  <Mizu-chin> Acceptable?
 [10-Mar-2012 21:37:46]  <ponicalica> 14Kyūbey can't get through whatever Dubai's version of TSA is, obviously, Barcode
 [10-Mar-2012 21:37:57]  <Barcodrawing> @w tsa >[]
-[10-Mar-2012 21:37:58]  <Omnipresence> 14[]: Wikipedia: 14TSA14: TSA may refer to: — http://en.wikipedia.org/wiki/TSA
+[10-Mar-2012 21:37:58]  <Omnipresence> 14[]: Wikipedia: TSA: TSA may refer to: — http://en.wikipedia.org/wiki/TSA
 [10-Mar-2012 21:38:04]  <Barcodrawing> oh rightr.
 [10-Mar-2012 21:38:11]  <Barcodrawing> []
 [10-Mar-2012 21:38:13]  <Barcodrawing> *
@@ -207,7 +207,7 @@
 [10-Mar-2012 21:39:21]  <Mizu-chin> So, anyways. 
 [10-Mar-2012 21:39:51]  <Sato> (;-;_
 [10-Mar-2012 21:39:55]  <Mizu-chin> So, yeah, on the phone with dad, trying to explain why you can't make it back.
-[10-Mar-2012 21:40:24]  <Sato> "The planes are tied up... again... oh, and..." He thinks. "The cops keep trying to question me about my classmates..."
+[10-Mar-2012 21:40:24]  <Sato> "The planes are tied up... again... oh, and..." He thinks. "The cops keep trying to question me about my classmates..."
 [10-Mar-2012 21:40:40]  <Sato> (BEsides, he wouldn't want to leave if he could, he still needs to find out about his classmates. TRUE DETECTIVE.)
 [10-Mar-2012 21:41:16]  <Mizu-chin> (I'll let is slide, but generally, when buildings disappear and no one remembers that they ever existed,the same goes for the people inside them)
 [10-Mar-2012 21:41:31]  <Mizu-chin> But yeah.
@@ -241,7 +241,7 @@
 [10-Mar-2012 21:48:05]  <Ami> 14Small time.
 [10-Mar-2012 21:48:15]  <Mizu-chin> I think living near the construction site could work, though.
 [10-Mar-2012 21:48:23]  <Motoko> 14@wa 1e9 yen in us dollars
-[10-Mar-2012 21:48:27]  <Omnipresence> 14Motoko: Wolfram|Alpha: Input interpretation: 14convert ¥1×10^9  (Japanese yen) to US dollars14 — Result: 14$12.12 million  (US dollars)14 — Exchange history for  ¥1 billion  (Japanese yen): 14; 1-year  minimum | $11.72 million  (April 6, 2011 | 11 months ago); 1-year  maximum | $13....
+[10-Mar-2012 21:48:27]  <Omnipresence> 14Motoko: Wolfram|Alpha: Input interpretation: convert ¥1×10^9  (Japanese yen) to US dollars — Result: $12.12 million  (US dollars) — Exchange history for  ¥1 billion  (Japanese yen): ; 1-year  minimum | $11.72 million  (April 6, 2011 | 11 months ago); 1-year  maximum | $13....
 [10-Mar-2012 21:48:39]  <Mizu-chin> Or detective instincts.
 [10-Mar-2012 21:48:47]  <Sato> The embassy could be near it. Don't know if Embassies allow people staying there, I highly doubt it.
 [10-Mar-2012 21:49:09]  <Mizu-chin> Sato: You've heard about how quickly the construction is progressing, and quite frankly, it seems unreal.
@@ -313,7 +313,7 @@
 [10-Mar-2012 22:08:26]  <Barcodrawing> 5.5*
 [10-Mar-2012 22:08:27]  <discordant> Sure.
 [10-Mar-2012 22:08:30]  <Barcodrawing> http://www.youtube.com/watch?v=R7dENnhWPBw
-[10-Mar-2012 22:08:31]  <Omnipresence> 14URL: [www.youtube.com] 14MechWarrior: Online Gameplay - YouTube
+[10-Mar-2012 22:08:31]  <Omnipresence> 14URL: [www.youtube.com] MechWarrior: Online Gameplay - YouTube
 [10-Mar-2012 22:08:40]  <Barcodrawing> (The topic has screenshots.)
 [10-Mar-2012 22:08:47]  <Barcodrawing> has the screenshots*
 [10-Mar-2012 22:09:00]  <discordant> So pretty.
