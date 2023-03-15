@@ -1,0 +1,11 @@
+- log = @items["/logs/memoriam/sessions/#{@id}-*"]
+%tr
+  %th.number= @id
+  %td.title{class: [@secondary && 'secondary']}
+    %a{href: log.path}= @title
+  %td.date
+    %time{datetime: log[:start_time].iso8601}= log[:start_time].to_date.iso8601
+  %td.duration
+    - minutes = log[:duration].fdiv(60).round
+    %time{datetime: "PT#{log[:duration]}S"}= "%d h %02d min" % minutes.divmod(60)
+  %td.length #{log[:line_count]} lines

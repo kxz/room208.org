@@ -1,7 +1,7 @@
 html {
     background: #ddd;
     color: #444;
-    font-family: sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
 }
 
 h1 {
@@ -27,33 +27,34 @@ h1 a {
 section {
     width: 731px;
     margin: 70px auto;
-    border-top: 1px solid #888;
 }
 
 h2 {
-    margin: 0.5em 0;
-    float: right;
+    margin: 0;
+    padding: 0 0 0.5em;
+    text-align: right;
     font-size: 100%;
-    text-transform: lowercase;
-    font-variant: small-caps;
+    font-variant: all-small-caps;
     color: #888;
+    border-bottom: 1px solid #888;
 }
 
 table {
-    margin: 0.5em 0;
-    border-spacing: 0;
+    margin: 0.5em -1em;
+    border-spacing: 1em 0;
+    white-space: nowrap;
 }
 
-th, td {
-    vertical-align: top;
-}
-
-th {
-    padding-right: 1em;
+.title {
+    width: 100%;
 }
 
 .secondary {
     font-style: italic;
+}
+
+.duration, .length {
+    text-align: right;
 }
 
 a:link, a:visited {
