@@ -16,37 +16,46 @@ end
 
 compile '/assets/js/*' do
   filter :uglify_js
+  write item.identifier.to_s
 end
 
 compile '/blog/{archive,tags}/**/*' do
   layout '/blog/archive.haml'
+  write ext: 'html'
 end
 
 compile '/blog/atom.haml' do
   filter :haml, format: :xhtml, attr_wrapper: '"'
+  write ext: 'xml'
 end
 
 compile '/blog/index.yaml' do
   layout '/blog/index.haml'
+  write ext: 'html'
 end
 
 compile '/blog/posts/*' do
   filter :erb
   filter :kramdown
   layout '/blog/post.haml'
+  write ext: 'html'
 end
 
-compile '/logs/mb/2013/phys/**' do
-  nil
+compile '/htaccess' do
+  write '/.htaccess'
 end
+
+passthrough '/logs/mb/2013/phys/**'
 
 compile '/logs/**/*.txt' do
   filter :interstat, args: ['--template-dir', 'layouts/interstat/']
   layout '/logs/log.haml'
+  write ext: 'html'
 end
 
 compile '/**/*.scss' do
   filter :sass, style: :compressed, syntax: :scss
+  write ext: 'css'
 end
 
 compile '/**/*.haml' do
@@ -60,46 +69,9 @@ compile '/**/*.haml' do
   else
     layout '/default.haml'
   end
+  write ext: 'html'
 end
 
-compile '/**/*' do
-  nil
-end
-
-route '/assets/css/style.scss' do
-  '/assets/css/style.css'
-end
-
-route '/assets/js/*' do
-  item.identifier.to_s
-end
-
-route '/blog/atom.haml' do
-  '/blog/atom.xml'
-end
-
-route '/logs/htaccess' do
-  '/logs/.htaccess'
-end
-
-route '/logs/mb/2013/phys/**' do
-  item.identifier.to_s
-end
-
-route '/htaccess' do
-  '/.htaccess'
-end
-
-route '/robots.txt' do
-  '/robots.txt'
-end
-
-route '/**/*' do
-  if item.binary?
-    item.identifier.to_s
-  else
-    item.identifier.without_ext + '.html'
-  end
-end
+passthrough '/**/*'
 
 layout '/**/*', :haml, format: :html5, attr_wrapper: '"'
