@@ -12,6 +12,10 @@ preprocess do
     metadata = {title: "\##{tag}", posts: posts.map { |i| i.identifier }}
     @items.create('', metadata, "/blog/tags/#{tag}.html")
   end
+
+  @items.find_all('/logs/**/*.txt')
+    .reject { |i| i.identifier.match? '/logs/mb/2013/phys/**' }
+    .each { |i| set_log_attributes(i) }
 end
 
 compile '/assets/js/*' do
