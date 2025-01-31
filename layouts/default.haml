@@ -8,7 +8,7 @@
     %meta{name: 'viewport', content: 'initial-scale=1.0'}
   %body
     %h1#site-heading
-      %a{href: ('/' unless @item.identifier.to_s == '/index.haml')}= @config[:title]
+      %a{{href: ('/' unless @item.identifier.to_s == '/index.haml')}.compact}= @config[:title]
     = yield
     %footer#site-footer
       - unless @omit_copyright

@@ -1,5 +1,5 @@
 - render '/default.haml' do
   %h2#subsite-heading
-    %a{href: ('/yackfest/' unless @item.identifier.to_s == '/yackfest/index.haml')}
+    %a{{href: ('/yackfest/' unless @item.identifier.to_s == '/yackfest/index.haml')}.compact}
       = @items['/yackfest/index.haml'][:title]
   = yield

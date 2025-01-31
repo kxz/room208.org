@@ -2,11 +2,14 @@ source 'https://rubygems.org'
 
 gem 'nanoc', '~> 4.3'
 
-gem 'haml', '~> 5.0'
+group :nanoc do
+  gem 'nanoc-dart-sass'
+  gem 'nanoc-live'
+end
+
+gem 'haml', '~> 6.0'
 gem 'kramdown'
-gem 'sass', '~> 3.2'
 gem 'terser'
 
 gem 'builder'  # for XML documents
-gem 'guard-nanoc', '~> 2.0'
 gem 'systemu'  # for deployment

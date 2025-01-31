@@ -29,7 +29,7 @@ compile '/blog/{archive,tags}/**/*' do
 end
 
 compile '/blog/atom.haml' do
-  filter :haml, format: :xhtml, attr_wrapper: '"'
+  filter :haml, format: :xhtml, attr_quote: '"', escape_html: false
   write ext: 'xml'
 end
 
@@ -58,12 +58,12 @@ compile '/logs/**/*.txt' do
 end
 
 compile '/**/*.scss' do
-  filter :sass, style: :compressed, syntax: :scss
+  filter :dart_sass, style: 'compressed', syntax: 'scss'
   write ext: 'css'
 end
 
 compile '/**/*.haml' do
-  filter :haml, format: :html5, attr_wrapper: '"'
+  filter :haml, format: :html5, attr_quote: '"', escape_html: false
   if item.identifier.to_s.start_with? '/error/'
     layout '/error.haml'
   elsif item.identifier == '/logs/memoriam/index.haml'
@@ -80,4 +80,4 @@ end
 
 passthrough '/**/*'
 
-layout '/**/*', :haml, format: :html5, attr_wrapper: '"'
+layout '/**/*', :haml, format: :html5, attr_quote: '"', escape_html: false
