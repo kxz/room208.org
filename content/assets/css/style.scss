@@ -11,12 +11,6 @@
   --foreground: #000;
   --midground: #888;
 
-  @media (prefers-color-scheme: dark) {
-    --background: #000;
-    --alternating-background: #111;
-    --foreground: #fff;
-  }
-
   margin: 2em;
   background: var(--background);
   color: var(--foreground);
@@ -24,6 +18,12 @@
   font-weight: 300;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
+
+  @media (prefers-color-scheme: dark) {
+    --background: #000;
+    --alternating-background: #111;
+    --foreground: #fff;
+  }
 }
 
 #site-heading {
