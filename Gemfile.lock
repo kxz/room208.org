@@ -83,6 +83,8 @@ GEM
       nanoc-checking (~> 1.0)
       nanoc-cli (~> 4.11, >= 4.11.15)
       nanoc-core (~> 4.11, >= 4.11.15)
+    nanoc-external (1.0.5)
+      nanoc-core (~> 4.11, >= 4.11.14)
     nanoc-live (1.1.0)
       adsf-live (~> 1.4)
       listen (~> 3.0)
@@ -134,6 +136,7 @@ DEPENDENCIES
   kramdown
   nanoc (~> 4.3)
   nanoc-dart-sass
+  nanoc-external
   nanoc-live
   systemu
   terser

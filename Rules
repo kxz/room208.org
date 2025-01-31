@@ -52,7 +52,7 @@ end
 passthrough '/logs/mb/2013/phys/**'
 
 compile '/logs/**/*.txt' do
-  filter :interstat, args: ['--template-dir', 'layouts/interstat/']
+  filter :external, exec: 'interstat', options: ['--template-dir', 'layouts/interstat/']
   layout '/logs/log.haml'
   write ext: 'html'
 end

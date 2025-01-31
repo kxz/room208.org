@@ -4,6 +4,7 @@ gem 'nanoc', '~> 4.3'
 
 group :nanoc do
   gem 'nanoc-dart-sass'
+  gem 'nanoc-external'
   gem 'nanoc-live'
 end
 
