@@ -8,24 +8,24 @@ title: Novus Ordo Conservatorum
     - (1..2).each do |i|
       %tbody
         %tr
-          = render '/logs/_session.haml', log: @items["/logs/noc/%02d.txt" % i]
+          = render '/logs/_session.haml', log: @items["/logs/noc/%02d.log" % i]
 %section
   %h2 Chapter 1
   %table
     - (3..10).each do |i|
       %tbody
         %tr
-          = render '/logs/_session.haml', log: @items["/logs/noc/%02d.txt" % i]
+          = render '/logs/_session.haml', log: @items["/logs/noc/%02d.log" % i]
 %section
   %h2 Chapter 2
   %table
     - (11..20).each do |i|
       %tbody
         %tr
-          = render '/logs/_session.haml', log: @items["/logs/noc/%02d.txt" % i]
+          = render '/logs/_session.haml', log: @items["/logs/noc/%02d.log" % i]
 %section
   %h2 Chapter 3
   %table
     %tbody
       %tr
-        = render '/logs/_session.haml', log: @items['/logs/noc/21.txt']
+        = render '/logs/_session.haml', log: @items['/logs/noc/21.log']

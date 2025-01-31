@@ -13,9 +13,7 @@ preprocess do
     @items.create('', metadata, "/blog/tags/#{tag}.html")
   end
 
-  @items.find_all('/logs/**/*.txt')
-    .reject { |i| i.identifier.match? '/logs/mb/2013/phys/**' }
-    .each { |i| set_log_attributes(i) }
+  @items.find_all('/logs/**/*.log').each { |i| set_log_attributes(i) }
 end
 
 compile '/assets/js/*' do
@@ -49,9 +47,7 @@ compile '/htaccess' do
   write '/.htaccess'
 end
 
-passthrough '/logs/mb/2013/phys/**'
-
-compile '/logs/**/*.txt' do
+compile '/logs/**/*.log' do
   filter :external, exec: 'interstat', options: ['--template-dir', 'layouts/interstat/']
   layout '/logs/log.haml'
   write ext: 'html'

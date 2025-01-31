@@ -1,4 +1,4 @@
-text_extensions: ['haml', 'html', 'js', 'markdown', 'scss', 'txt']
+text_extensions: ['haml', 'html', 'js', 'log', 'markdown', 'scss']
 
 data_sources:
   - type: filesystem

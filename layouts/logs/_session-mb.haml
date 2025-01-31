@@ -1,7 +1,7 @@
 %tbody
   %tr
     - dir = "/logs/mb/2013/#{@id}"
-    - log = @items["#{dir}/log.txt"]
+    - log = @items["#{dir}/log.log"]
     - if log
       = render '/logs/_session.haml', log: log, title: @id
     - else

@@ -2,7 +2,7 @@
 title: Dogs in the Vineyard
 ---
 
-- @items.find_all('/logs/ditv/*/*.txt').group_by { |item| item.identifier.to_s.split('/')[3] }.each do |dir, logs|
+- @items.find_all('/logs/ditv/*/*.log').group_by { |item| item.identifier.to_s.split('/')[3] }.each do |dir, logs|
   %section
     %h2= dir.split('-')[1..].collect { |word| word.capitalize }.join(' ')
     %table

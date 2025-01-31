@@ -3,7 +3,7 @@ title: Aluntur Rituali Evangelion
 ---
 
 %table
-  - @items.find_all('/logs/adeptus/*.txt').each do |item|
+  - @items.find_all('/logs/adeptus/*.log').each do |item|
     %tbody
       %tr
         = render '/logs/_session.haml', log: item
