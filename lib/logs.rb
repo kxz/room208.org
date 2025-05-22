@@ -1,5 +1,13 @@
+class IRCLog < ::Nanoc::Core::Filter
+  identifier :irclog
+
+  def run(content, params={})
+    interstat(content)
+  end
+end
+
 def parse_log_time(line)
-  Time.strptime("#{line[1...21]} +0000", '%d-%b-%Y %H:%M:%S %z')
+  line.match(/^@time=(\S+)/) { |m| Time.strptime(m[1], '%FT%T.%L%z') }
 end
 
 def set_log_attributes(item)

@@ -48,7 +48,7 @@ compile '/htaccess' do
 end
 
 compile '/logs/**/*.log' do
-  filter :external, exec: 'interstat', options: ['--template-dir', 'layouts/interstat/']
+  filter :irclog
   layout '/logs/log.haml'
   write ext: 'html'
 end

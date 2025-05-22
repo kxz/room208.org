@@ -3,8 +3,7 @@
 This is the [nanoc](http://nanoc.ws/) repository used to build the [Room
 208 website](https://room208.org/).
 It requires at least Ruby 3.0, [Bundler](http://bundler.io/),
-a `node_modules` installer like NPM, and
-[Interstat](https://github.com/kxz/interstat).
+and a `node_modules` installer like NPM.
 To get a working copy in `output/`, run the following commands:
 
     $ bundle install
