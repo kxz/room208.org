@@ -33,5 +33,7 @@ Redirect gone /shimmie
 Redirect gone /stats
 Redirect permanent /wiki https://wiki.room208.org
 Redirect gone /wiretap
+Redirect gone /yackfest/staff
+Redirect permanent /yackfest /
 Redirect permanent /yackfest/commands https://wiki.room208.org/getting_started/commands
 Redirect permanent /yackfest/guidelines https://wiki.room208.org/guidelines
