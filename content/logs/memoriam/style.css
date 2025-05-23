@@ -1,7 +1,14 @@
-html {
+:root {
     background: #ddd;
     color: #444;
     font-family: 'Helvetica Neue', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        background: #444;
+        color: #ddd;
+    }
 }
 
 h1 {
@@ -10,8 +17,9 @@ h1 {
     width: 731px;
     height: 459px;
     text-indent: -999em;
-    background-image: url(memwall.png);
-    background-size: contain;
+    background: currentcolor;
+    mask-image: url(memwall.png);
+    mask-size: contain;
     font-size: 100%;
 }
 
